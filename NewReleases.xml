@@ -1,903 +1,3093 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<category name="Akcija">
-    <movie>
-        <title>The Jungle Book (</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/-8EJ9uhsfQQ/0.jpg</imageUrl>
-        <videoId>-8EJ9uhsfQQ</videoId>
-    </movie>
-    <movie>
-        <title>Survivors</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kate Meadows (Joanne Gale) and her cameraman Duke (Simon Burbage) embark on a mission to uncover whether or not a government weapons contractor has secretly been using humans as their test subjects. As they dig deeper, they realise the brutal reality... The test subjects have escaped and are carrying a deadly new contagion meant for use in biological war. They soon find themselves in a race for their own survival as the military lose the fight against the infected and those responsible for the outbreak stop at nothing to prevent the truth being revealed... In a world without laws, without order and with nobody watching, how far would you go to survive?</description>
-        <imageUrl>https://img.youtube.com/vi/bSHRzzytTzg/0.jpg</imageUrl>
-        <videoId>bSHRzzytTzg</videoId>
-    </movie>
-    <movie>
-        <title>One Man's Justice</title>
-        <year>1994</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Penzionisani maršal Dilon kreće na 15-godišnjeg dečaka koji je odlučan da ubije ljude odgovorne za ubistvo njegove majke tokom pljačke poštanske kočije</description>
-        <imageUrl>https://img.youtube.com/vi/Wo9k1SehYm4/0.jpg</imageUrl>
-        <videoId>Wo9k1SehYm4</videoId>
-    </movie>
-    <movie>
-        <title>Bangkok Dangerous</title>
-        <year>2008</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Prilikom izvršavanja ubistva, ubica Džo uvek koristi znanje lokalnog stanovništva. Po dolasku u Bangkok, Džo upoznaje klinca sa ulice Konga i on postaje njegov primarni pomoćnik. Ali kada je Kong skoro ubijen, on traži od Džoa da ga obuči smrtonosnim veštinama i nesvesno postaje meta bande ubica.</description>
-        <imageUrl>https://img.youtube.com/vi/_CoDAFSNeTc/0.jpg</imageUrl>
-        <videoId>_CoDAFSNeTc</videoId>
-    </movie>
-    <movie>
-        <title>12 Rounds Lockdown</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Detektiv Šo se vraća u aktivnu službu nakon smrti svog partnera. Kada otkrije dokaze koji povezuju njegove kolege policajce sa ubistvom, oni mu smeštaju ubistvo koje nije počinio. Zarobljen u svojoj stanici, Šo će učiniti sve što je potrebno da razotkrije prljave policajce i skine ljagu sa svog imena. Sa dvanaest metaka i jednim metkom za iskupljenje, ništa neće stati Šou na put u ovom akcionom trileru.</description>
-        <imageUrl>https://img.youtube.com/vi/iYM6k2p0U9w/0.jpg</imageUrl>
-        <videoId>iYM6k2p0U9w</videoId>
-    </movie>
-    <movie>
-        <title>godine: Razvod (</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/-g8ix-31ujQ/0.jpg</imageUrl>
-        <videoId>-g8ix-31ujQ</videoId>
-    </movie>
-    <movie>
-        <title>Fatal Instinct</title>
-        <year>2014</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Policijski detektiv prati trag dokaza koji na kraju vodi do bivšeg brata zatvorenika od poverenja njegovog partnera, kome je pomogao da završi u zatvoru pre mnogo godina.</description>
-        <imageUrl>https://img.youtube.com/vi/QUqBxpPCcB0/0.jpg</imageUrl>
-        <videoId>QUqBxpPCcB0</videoId>
-    </movie>
-    <movie>
-        <title>Frank and Jesse</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Priča o Ani Frank, jevrejskoj devojci koja se sakrila sa porodicom u Amsterdamu i postala žrtva holokausta.</description>
-        <imageUrl>https://img.youtube.com/vi/u4PKVGDGkps/0.jpg</imageUrl>
-        <videoId>u4PKVGDGkps</videoId>
-    </movie>
-    <movie>
-        <title>War Territories</title>
-        <year>2024</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Na Teritoriji bez rata građani Ukrajine, Rusije i Belorusije bore se da izgrade novu budućnost. Iz Ukrajine: porodica iz Mariupolja, majka i dete sa cerebralnom paralizom iz Odese i mlada žena koja je evakuisala roditelje iz Avdiivke. Iz Rusije: mladić koji je peške pobegao u Kazahstan, porodica koja je odbila da pošalje oca u rat i par čija je ljubav smatrana nezakonitom kada je LGBT+ zajednica označena kao „ekstremistička“. ”Iz Rusije i Belorusije: aktivisti progonjeni zbog svoje politike. Njihove priče se razlikuju - tragični gubici, prisilno progonstvo, nemogući izbori - ali svi su vezani ljubavlju prema svojim porodicama i zajedničkom nemogućnošću da se vrate kući dok se rat nastavlja.</description>
-        <imageUrl>https://img.youtube.com/vi/av08tTN-hnQ/0.jpg</imageUrl>
-        <videoId>av08tTN-hnQ</videoId>
-    </movie>
-    <movie>
-        <title>The Marine</title>
-        <year>2006</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Grupa kradljivaca dijamanata u bekstvu kidnapuje ženu nedavno otpuštenog marinca koji kreće u poteru kroz divljinu Južne Karoline da je vrati.</description>
-        <imageUrl>https://img.youtube.com/vi/sNCbnL60l0s/0.jpg</imageUrl>
-        <videoId>sNCbnL60l0s</videoId>
-    </movie>
-    <movie>
-        <title>Air Warriors</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ova kolekcija dramatičnih snimaka borbenih aviona iz Drugog svetskog rata, koju je sastavio Nacionalni arhiv borbene istorije, prikazuje akciju dok se američki letači bore protiv pilota sila Osovine iz Evrope do Pacifičkog teatra. Uključen je film uzbudljivih borbi pasa između američkih mornaričkih korzeta i japanskih nula, kao i pogled na neophodne radove prikupljanja podataka koje obavljaju jedinice za vazdušno izviđanje.</description>
-        <imageUrl>https://img.youtube.com/vi/D42J--BuDyk/0.jpg</imageUrl>
-        <videoId>D42J--BuDyk</videoId>
-    </movie>
-    <movie>
-        <title>HITLER</title>
-        <year>1962</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ričard Bejzhart glumi jednog od najuticajnijih i najomraženijih ljudi u istoriji u ovoj psihološkoj studiji čoveka koji je zamalo stekao dominaciju nad celim zapadnim svetom - po cenu miliona života - Hitlera.</description>
-        <imageUrl>https://img.youtube.com/vi/U-F1cikTHg8/0.jpg</imageUrl>
-        <videoId>U-F1cikTHg8</videoId>
-    </movie>
-    <movie>
-        <title>STALJINGRAD</title>
-        <year>1993</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Nemački vod se istražuje kroz brutalnu borbu u Staljingradskoj bici. Nakon što je polovina njihovog broja zbrisana i stavljena pod komandu sadističkog kapetana, poručnik voda vodi svoje ljude u dezerterstvo. Pripadnici voda pokušavaju da pobegnu iz grada, koji je sada okružen sovjetskom vojskom.</description>
-        <imageUrl>https://img.youtube.com/vi/_rVvfaft1BE/0.jpg</imageUrl>
-        <videoId>_rVvfaft1BE</videoId>
-    </movie>
-    <movie>
-        <title>Amazon Queen</title>
-        <year>2021</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Životni odmor iz snova brzo se pretvara u otmicu, ugrožavajući putnike i posadu, na putovanju brodom niz reku Amazon i u brazilsku prašumu. Očajni kriminalci upadaju na brod, jureći za izgubljenim bogatstvom u džungli. Sada pod pretnjom, a sa hranom i gorivom koje ponestaje, nekada idealistički turisti - sada taoci - moraju da iskoriste svu svoju genijalnost dok njihovo krstarenje Amazonom postaje spuštanje u očajničku borbu za opstanak.</description>
-        <imageUrl>https://img.youtube.com/vi/o4OgRZwSTpU/0.jpg</imageUrl>
-        <videoId>o4OgRZwSTpU</videoId>
-    </movie>
-    <movie>
-        <title>Legionnaire (</title>
-        <year>1998</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Alen Lefevr je bokser koga je mafijaš iz Marseja platio da zaroni. Kada pobedi u borbi pokušava da pobegne u Ameriku sa mafijaševom devojkom Katrinom. Ovaj plan ne uspeva i on traži bekstvo pridruživanjem stranoj legiji. Kao deo legije petlja se sa uvredljivim poručnikom Stajnkamfom i zbližava se sa legionarima Luterom, Makintošom i Rozetijem.</description>
-        <imageUrl>https://img.youtube.com/vi/y5aBtfYntaM/0.jpg</imageUrl>
-        <videoId>y5aBtfYntaM</videoId>
-    </movie>
-    <movie>
-        <title>Deadly Contract</title>
-        <year>2017</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Jan Đian, mladi kineski IT inženjer koji volontira da ode u Severnu Afriku i pomogne kompaniji za koju radi da pobedi na takmičenju. Pobednik može da poseduje pravo da kontroliše komunikaciju između juga i severa. Francuski špijun Majkl radi za Zapad. Šef mu je naredio da ode u Severnu Afriku i pobedi na takmičenju, a oni mogu da kontrolišu velike mineralne resurse Afrike. Unajmio je najboljeg plaćenika u Africi po imenu Lauder i bivšeg generala Kabu da mu pomognu. Jan je otkrio njihovu zaveru, on je jedini koji može da ih zaustavi.</description>
-        <imageUrl>https://img.youtube.com/vi/a0ww94tOP9U/0.jpg</imageUrl>
-        <videoId>a0ww94tOP9U</videoId>
-    </movie>
-    <movie>
-        <title>Allegiance</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Inspirisana stvarnim životnim iskustvom svoje zvezde Džordža Takeija, Odanost prati neverovatno putovanje jedne porodice u ovoj neispričanoj američkoj priči koja prati događaje u Perl Harburu. Njihova lojalnost je dovedena u pitanje, sloboda im je oduzeta, ali njihov duh nikada nije mogao biti slomljen.</description>
-        <imageUrl>https://img.youtube.com/vi/lnmKaKx1Ns8/0.jpg</imageUrl>
-        <videoId>lnmKaKx1Ns8</videoId>
-    </movie>
-    <movie>
-        <title>The Legend of 5 Mile Cave</title>
-        <year>2019</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Misteriozna lutalica zbližava se sa dečakom sa pričama o Zapadu. Prošlost i sadašnjost se sudaraju kada se pojavi čovek od zakona koji traži davno izgubljeno zlato.</description>
-        <imageUrl>https://img.youtube.com/vi/5Cgckr8VdJQ/0.jpg</imageUrl>
-        <videoId>5Cgckr8VdJQ</videoId>
-    </movie>
-    <movie>
-        <title>Snake Eater</title>
-        <year>1989</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Zmijožderi su elitna divizija marinaca posebno obučena za misije traganja i uništavanja. Ovaj akter beleži podvige jednog od njih koji je postao policajac. Poznat kao žilavi usamljenik, vraća se da pronađe bandu loših momaka iz šume koji su mu ubili roditelje i oteli sestru.</description>
-        <imageUrl>https://img.youtube.com/vi/tXZwRrfpd6o/0.jpg</imageUrl>
-        <videoId>tXZwRrfpd6o</videoId>
-    </movie>
-    <movie>
-        <title>Brush With Danger</title>
-        <year>2014</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Slikar, borac, obojica umetnici na svoj način. Brat i sestra, primorani da napuste svoj dom, stižu u Sijetl u kontejneru. Pokušavajući da se probiju u novi svet, par se bori da preživi. Sve dok se jednog dana trgovac umetninama ne zainteresuje za sestrinu sliku i njih dvoje ne dožive ostvarenje sna. Sestra se gubi u slikanju, a brat grabi priliku da se izrazi, kao borac. Ali to je zaista samo san. Prevarena od strane svog pokrovitelja da falsifikuje Van Goga. Kupio ga je nemilosrdni kriminalac sa strašću za likovnom umetnošću. Brat i sestra se ubrzo nađu upleteni u kriminalno podzemlje Sijetla i Četku sa opasnošću.</description>
-        <imageUrl>https://img.youtube.com/vi/IOBopQKLAHM/0.jpg</imageUrl>
-        <videoId>IOBopQKLAHM</videoId>
-    </movie>
-    <movie>
-        <title>Gospodin i Gospodja Smit (</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/UAF5YioN5Xs/0.jpg</imageUrl>
-        <videoId>UAF5YioN5Xs</videoId>
-    </movie>
-    <movie>
-        <title>The Last Rescue</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>World World II: Ubrzo nakon Dana D, tri američka vojnika i dve medicinske sestre iz Vojnog korpusa su zaglavljeni iza neprijateljskih linija. Zarobe visokog nemačkog oficira i pokušaju da organizuju bekstvo.</description>
-        <imageUrl>https://img.youtube.com/vi/FU3MSeG4C_M/0.jpg</imageUrl>
-        <videoId>FU3MSeG4C_M</videoId>
-    </movie>
-    <movie>
-        <title>Rage at Dawn</title>
-        <year>1955</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>U verziji priče ovog filma, četvorica braće Rino su korumpirani pljačkaši i ubice, dok je peti, Klint poštovani farmer iz Indijane. Sestra Lora, koja je nasledila porodičnu kuću, služi braći odmetnicima kao domaćica i kuvarica. Jedan brat je ubijen kada su krenuli na banku, čini se da su ih ljudi iz grada čekali...</description>
-        <imageUrl>https://img.youtube.com/vi/gc6pdzAu8is/0.jpg</imageUrl>
-        <videoId>gc6pdzAu8is</videoId>
-    </movie>
-    <movie>
-        <title>Eagle Wings</title>
-        <year>2021</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Dva nigerijska oficira vazduhoplovstva duguju obavezu da spasu svog kolegu i sudiju koji su se srušili na neprijateljsku teritoriju, operacija spasavanja postaje veliki ofanzivni napad na uporište teroriste.</description>
-        <imageUrl>https://img.youtube.com/vi/8UVaemAqR8Y/0.jpg</imageUrl>
-        <videoId>8UVaemAqR8Y</videoId>
-    </movie>
-    <movie>
-        <title>Ostavljeni sa prevodom</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/an0M8zWAQAA/0.jpg</imageUrl>
-        <videoId>an0M8zWAQAA</videoId>
-    </movie>
-    <movie>
-        <title>American Justice</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada bezobzirni postupci policajca iz Los Anđelesa bez kontrole ubiju njegovog partnera u smrtonosnoj talačkoj situaciji, on biva suspendovan iz policije i odlazi u Meksiko da se suoči sa korumpiranim policajcima.</description>
-        <imageUrl>https://img.youtube.com/vi/WkRGYpzbkjE/0.jpg</imageUrl>
-        <videoId>WkRGYpzbkjE</videoId>
-    </movie>
-    <movie>
-        <title>Opasna Voznja ovi Sa Prevodom</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/rfso8Bijav0/0.jpg</imageUrl>
-        <videoId>rfso8Bijav0</videoId>
-    </movie>
-    <movie>
-        <title>🌀 Flashburn: Virus Outbreak</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/mh1qqWXy4Sc/0.jpg</imageUrl>
-        <videoId>mh1qqWXy4Sc</videoId>
-    </movie>
-    <movie>
-        <title>The Preppie Connection</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Učenik u privatnoj školi koristi svoje veze za uspostavljanje mreže za trgovinu drogom.</description>
-        <imageUrl>https://img.youtube.com/vi/ChCJKRRtS-Y/0.jpg</imageUrl>
-        <videoId>ChCJKRRtS-Y</videoId>
-    </movie>
-    <movie>
-        <title>Angel and the Badman</title>
-        <year>1947</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Konj ozloglašenog strelca i ženskaroša Kirt Evansa se urušava dok prolazi pored kuće porodice Kvekera. Kirt je ranjen, a ljubazna porodica ga vodi da ga neguje dok ne ozdravi uprkos savetima drugih. Zgodni Evans brzo privlači naklonost njihove prelepe ćerke Penelope. Razvija naklonost prema porodici i njihovoj veri, ali ga prati njegova problematična prošlost.</description>
-        <imageUrl>https://img.youtube.com/vi/v83OxtQ1qdA/0.jpg</imageUrl>
-        <videoId>v83OxtQ1qdA</videoId>
-    </movie>
-    <movie>
-        <title>Dead on Arrival</title>
-        <year>2008</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Mladi par na romantičnom odmoru slučajno se upliće u obračun kriminalaca. Postaju dva svedoka koja moraju biti ućutkana.</description>
-        <imageUrl>https://img.youtube.com/vi/kGi-HG_7Nlc/0.jpg</imageUrl>
-        <videoId>kGi-HG_7Nlc</videoId>
-    </movie>
-    <movie>
-        <title>Fatal Call</title>
-        <year>2012</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ostavljajući svoje gradske korene da započne novi život, Mič upoznaje prelepu i zavodljivu Ejmi u srećnom trenutku i započinje primamljivu romansu. Ubrzo, Mič saznaje da ništa nije onako kako se čini i, ne verujući nikome, nađe se na košmarnoj vožnji toboganom, optužen za ubistvo i bežanje od zakona i misterioznog stranca koji želi da ga ubije. Preživljavajući brzim razmišljanjem i svojom pameću, Mič mora da se suoči sa svojom prošlošću i sadašnjošću i pronađe rešenje pre nego što vreme istekne!</description>
-        <imageUrl>https://img.youtube.com/vi/kBScARTnfrk/0.jpg</imageUrl>
-        <videoId>kBScARTnfrk</videoId>
-    </movie>
-    <movie>
-        <title>Blood and Oil</title>
-        <year>2008</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ideja da nafta motiviše američke vojne angažmane na Bliskom istoku često se zanemaruje kao besmislica ili puka teorija zavere. U knjizi Blood and Oil, autor bestselera i dopisnik časopisa Nation za odbranu Majkl T. Klare osporava ovu konvencionalnu mudrost i ispravlja istorijski zapis. Film otkriva deklasifikovane dokumente i ističe zaboravljene pasuse u istaknutim predsedničkim doktrinama kako bi pokazao kako je zabrinutost oko nafte u srži američke spoljne politike više od 60 godina - čineći našu savremenu energetsku i vojnu politiku praktično nerazlučivom. Na kraju, Krv i nafta poziva na radikalno preispitivanje američke energetske politike, upozoravajući da ako ne promenimo pravac, stojimo da budemo uvučeni u jedan naftni rat za drugim dok se ubrzava globalni lov na smanjenje svetskih zaliha nafte.</description>
-        <imageUrl>https://img.youtube.com/vi/oUhHqwB1lec/0.jpg</imageUrl>
-        <videoId>oUhHqwB1lec</videoId>
-    </movie>
-    <movie>
-        <title>Dead Men</title>
-        <year>2019</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Šest tridesetogodišnjaka pokušava da začiniti svoje ustajale brakove seksi vikendom u osamljenoj kolibi. Leš amiškog farmera vaskrsava kada satanski seksualni čin krene naopako, a njegovo ubilačko divljanje zaustavlja orgiju mrtvu u svojim tragovima.</description>
-        <imageUrl>https://img.youtube.com/vi/ne4lflCSXt8/0.jpg</imageUrl>
-        <videoId>ne4lflCSXt8</videoId>
-    </movie>
-    <movie>
-        <title>GETO IZ VILNIJA</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/HAnGDQBKMJk/0.jpg</imageUrl>
-        <videoId>HAnGDQBKMJk</videoId>
-    </movie>
-    <movie>
-        <title>Contract Killers</title>
-        <year>2008</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ubica iz CIA pokušava da raskine ugovor ubijajući posao kako bi pokušao da vodi normalan život. Ali kada je „sistem“ pronađe i smesti joj smrt njenog muža, ona kreće na put osvete koji je vraća u život koji je pokušavala da napusti.</description>
-        <imageUrl>https://img.youtube.com/vi/FSaDVXmCuPA/0.jpg</imageUrl>
-        <videoId>FSaDVXmCuPA</videoId>
-    </movie>
-    <movie>
-        <title>Lovac bekstvo iz zatvora</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/KY9YWwwfpDA/0.jpg</imageUrl>
-        <videoId>KY9YWwwfpDA</videoId>
-    </movie>
-    <movie>
-        <title>Called to Duty</title>
-        <year>2023</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Eskadrila ženskih mornaričkih vazduhoplovnih pilota šalje se u borbu zajedno sa muškim borbenim pilotom.</description>
-        <imageUrl>https://img.youtube.com/vi/MupJg5r4aak/0.jpg</imageUrl>
-        <videoId>MupJg5r4aak</videoId>
-    </movie>
-    <movie>
-        <title>Death Fighter</title>
-        <year>2017</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada američki policajac svedoči ubistvu svog mentora u trgovinskom sporazumu koji je krenuo naopako, nalazi se na pogrešnoj strani zakona na Tajlandu. Ali uprkos nagradi za njegovu glavu i pritisku da napusti zemlju, udružuje se sa bivšim vojnim plaćenikom kako bi izmirio svoj račun kako bi ubice priveo pravdi. Njihova potraga za osvetom dovodi ih licem u lice sa grupom ozloglašenih</description>
-        <imageUrl>https://img.youtube.com/vi/Zb7QxSs3sKo/0.jpg</imageUrl>
-        <videoId>Zb7QxSs3sKo</videoId>
-    </movie>
-    <movie>
-        <title>Lucky Day</title>
-        <year>2017</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Sam na udaljenom ostrvu, preživeli u avionskoj nesreći konačno dobija priliku da kontaktira spoljni svet.</description>
-        <imageUrl>https://img.youtube.com/vi/X1eEzUdmMe4/0.jpg</imageUrl>
-        <videoId>X1eEzUdmMe4</videoId>
-    </movie>
-    <movie>
-        <title>The Lost Soldiers</title>
-        <year>1992</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>U okupiranoj Holandiji pred kraj Drugog svetskog rata, mladi tinejdžer, Jeron Boman (Maarten Smit) je poslat u holandsko selo kako bi izbegao rat u Amsterdamu. Dok živi sa svojom usvojenom porodicom, Džeron upoznaje i sprijateljuje se sa kanadskim vojnikom Voltom Kukom, koji je stacioniran u istom gradu u kojem boravi. Joroen i Walt provode dosta vremena igrajući se i na kraju se između njih razvije romantična veza. Dečakova seksualna radoznalost dovodi ga do seksualnog iskustva sa Voltom, susreta koji je prikazan sa nekim nejasnim detaljima, ali bez stvarnog pokazivanja golotinje, iako se podrazumeva seksualna intimnost između njih dvoje. Sve u svemu, film se bavi ovom teškom temom sa elegantnim stilom i osećajem, bez da odnos odraslog i deteta preplavi gledaoca i na taj način omogući da se film posmatra samo kao ratni odnos između dvoje ljudi koji označava važno vreme u životu mladog dečaka.</description>
-        <imageUrl>https://img.youtube.com/vi/KhWntCcrLVY/0.jpg</imageUrl>
-        <videoId>KhWntCcrLVY</videoId>
-    </movie>
-    <movie>
-        <title>Blood Hunters</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Uzvišeni žanrovski horor film o samohranoj majci koja se budi u medicinskoj ustanovi i saznaje da su svi mrtvi i da je u devetom mesecu trudnoće. Dok se bori da pobegne, otkriva tajnu ustanove, oni su petljali oko granica smrti i vraćali ljude u život, ali oni koji su se vratili, nisu se vratili sami.</description>
-        <imageUrl>https://img.youtube.com/vi/vcMVrSEiUaE/0.jpg</imageUrl>
-        <videoId>vcMVrSEiUaE</videoId>
-    </movie>
-    <movie>
-        <title>CODE 207</title>
-        <year>2012</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kriminalni krug kidnapuje žene i prodaje ih bogatim klijentima. Kada kidnapuju ženu VOJNOG rendžera, njihovi planovi se dramatično menjaju, kada on pronađe napušteni zatvor u kojem se nalaze. smrtonosna igra mačke i miša počinje dok ih lovi dok pokušava da spasi žene od prodaje i otpreme.</description>
-        <imageUrl>https://img.youtube.com/vi/eC5WW_OZj4g/0.jpg</imageUrl>
-        <videoId>eC5WW_OZj4g</videoId>
-    </movie>
-    <movie>
-        <title>Lock, Stock and Two Smoking Barrels</title>
-        <year>1998</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kartaš i njegovi nevoljni prijatelji moraju da zarade mnogo novca brzo nakon što izgube sumnjivi poker meč. Da bi to uradili, odlučili su da izvedu pljačku male bande koja slučajno operiše iz susednog stana.</description>
-        <imageUrl>https://img.youtube.com/vi/Q6SoPmtiQBQ/0.jpg</imageUrl>
-        <videoId>Q6SoPmtiQBQ</videoId>
-    </movie>
-    <movie>
-        <title>The Missing Piece</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Svako želi svoj život u savršenom krugu, ali uvek ne uspe sa delom koji nedostaje. Dao-Fung, koji ima čudan psihološki simptom, prazan pet sekundi, odlučio je da se izleči putovanjem i stigao u selo Riguang u Taitungu. Upoznao je četiri zanimljive osobe. Tokom boravka tamo, njih pet je našlo svoj deo koji nedostaje zbog ljubavi među njima. Dao-Fung je takođe postepeno postao svestan svog simptoma. (Bifan 2015)</description>
-        <imageUrl>https://img.youtube.com/vi/yoVo7Qnv3zE/0.jpg</imageUrl>
-        <videoId>yoVo7Qnv3zE</videoId>
-    </movie>
-    <movie>
-        <title>The Deputy's Wife</title>
-        <year>2021</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada je hvatanje odmetnika zakazano za vešanje, supruga lokalnog poslanika donosi odluku koja će joj zauvek promeniti život. Mejbel je zaljubljena u uhapšenog čoveka. Da li će ostati odana svom mužu Džonatanu ili će slediti svoje srce?</description>
-        <imageUrl>https://img.youtube.com/vi/UeO_5G9FytI/0.jpg</imageUrl>
-        <videoId>UeO_5G9FytI</videoId>
-    </movie>
-    <movie>
-        <title>Akcioni IZA NEPRIJATELJSKIH LINIJA 3</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/LSlfkBprN6Q/0.jpg</imageUrl>
-        <videoId>LSlfkBprN6Q</videoId>
-    </movie>
-    <movie>
-        <title>Better Criminal</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Policajac je primoran da radi za dva sindikata ratnih zločina dok je pod unutrašnjom istragom.</description>
-        <imageUrl>https://img.youtube.com/vi/_LnXpPOVozM/0.jpg</imageUrl>
-        <videoId>_LnXpPOVozM</videoId>
-    </movie>
-    <movie>
-        <title>Kill Kane</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Svet nastavnika je razoren kada su njegova žena i deca brutalno ubijeni od strane nemilosrdne bande. Ostavljen da umre i bez ikoga kome bi se obratio, uzima stvari u svoje ruke i izlazi na ulice u potrazi za pravdom.</description>
-        <imageUrl>https://img.youtube.com/vi/2XtxfmUmk7c/0.jpg</imageUrl>
-        <videoId>2XtxfmUmk7c</videoId>
-    </movie>
-    <movie>
-        <title>ADVERSE</title>
-        <year>2021</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Da bi spasio svoju sestru, vozač mora da se infiltrira u opasan kriminalni sindikat.</description>
-        <imageUrl>https://img.youtube.com/vi/SAWv7Kh21e0/0.jpg</imageUrl>
-        <videoId>SAWv7Kh21e0</videoId>
-    </movie>
-    <movie>
-        <title>The last action ovi sa prevodom</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/njsG3xKYSCM/0.jpg</imageUrl>
-        <videoId>njsG3xKYSCM</videoId>
-    </movie>
-    <movie>
-        <title>Lady Detective Shadow</title>
-        <year>2018</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Detektivka koja se bori protiv kung fua putuje lošim zemljama drevne Kine i privodi kriminalce pravdi.</description>
-        <imageUrl>https://img.youtube.com/vi/9JTERv6Kx4I/0.jpg</imageUrl>
-        <videoId>9JTERv6Kx4I</videoId>
-    </movie>
-    <movie>
-        <title>Instinct to Kill</title>
-        <year>2001</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Odbegli serijski ubica Džejms Beket, koji je ubio sopstvenog oca čija očekivanja nikada nije ispunio, ali sada posebno cilja na svoju suprugu Terezu „Tes“ i njenu porodicu, previše je dobar u prerušavanju sebe i drugih prevara za radnu grupu Detektiva Difsa. Samo jedan čovek se pokazao sposobnim da uzvrati udarac u svojoj ligi: bivši policajac Džej Ti Dilon, koji je već trenirao Tes u samoodbrani i postao njen ljubavnik. Beket odlučuje da pronađe skrovište kidnapovanjem Difsove supruge i tako sprovede konačni obračun.</description>
-        <imageUrl>https://img.youtube.com/vi/EH5Ru70XVTM/0.jpg</imageUrl>
-        <videoId>EH5Ru70XVTM</videoId>
-    </movie>
-    <movie>
-        <title>Dark Soul</title>
-        <year>1962</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Muškarac sa prošlošću se ženi i čini se da će moći da započne novi život, ali neočekivano nasleđe staje na put i pogoršava odnos sa suprugom.</description>
-        <imageUrl>https://img.youtube.com/vi/17J-UyxmISk/0.jpg</imageUrl>
-        <videoId>17J-UyxmISk</videoId>
-    </movie>
-    <movie>
-        <title>ovi Sa Prevodom Kineska Veza Mafije</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/DEndD3FsHpQ/0.jpg</imageUrl>
-        <videoId>DEndD3FsHpQ</videoId>
-    </movie>
-    <movie>
-        <title>April Rain</title>
-        <year>2014</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada eklektična grupa terorista planira da napadne Sjedinjene Države iznutra, na kvazivoj specijalnoj istražnoj jedinici je da identifikuje, infiltrira se i neutrališe pretnju.</description>
-        <imageUrl>https://img.youtube.com/vi/1D_6ac9PKeM/0.jpg</imageUrl>
-        <videoId>1D_6ac9PKeM</videoId>
-    </movie>
-    <movie>
-        <title>CROSSFIRE</title>
-        <year>2016</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada se vojnik Nacionalne garde Samanta Harison vrati sa linija fronta u Iraku, shvata da joj nijedna obuka ne pomaže da se nosi sa PTSP-om ili borbama za povratak u normalan život. Samanta dolazi kući i saznaje da je okrivljena za incident sa prijateljskom vatrom u kojem su poginula dva Amerikanca i postaje meta opsednutog vojnika koji traži osvetu za njihovu smrt. Pokušava da ponovo sastavi svoja fragmentirana sećanja na tu užasnu noć kako bi ubedila sve, uključujući i sebe, da ona to nije uradila. Kome se obraćate kada ne možete da verujete sopstvenim sećanjima, a nekolicinu ljudi kojima verujete ubijaju jednog po jednog?</description>
-        <imageUrl>https://img.youtube.com/vi/7FmukBWkT-k/0.jpg</imageUrl>
-        <videoId>7FmukBWkT-k</videoId>
-    </movie>
-    <movie>
-        <title>THE PUNISHER ovi Sa Prevodom</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/rxtGz5hKbPU/0.jpg</imageUrl>
-        <videoId>rxtGz5hKbPU</videoId>
-    </movie>
-    <movie>
-        <title>Waiting For You Fanny Ardant</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/3_JB_eVWHG4/0.jpg</imageUrl>
-        <videoId>3_JB_eVWHG4</videoId>
-    </movie>
-    <movie>
-        <title>Resident Evil (</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/lLOy82-C77E/0.jpg</imageUrl>
-        <videoId>lLOy82-C77E</videoId>
-    </movie>
-    <movie>
-        <title>Dead Men in the West</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/R1hHgX6cfmA/0.jpg</imageUrl>
-        <videoId>R1hHgX6cfmA</videoId>
-    </movie>
-    <movie>
-        <title>Bathtub Murders</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/jXzb0nlwdi8/0.jpg</imageUrl>
-        <videoId>jXzb0nlwdi8</videoId>
-    </movie>
-    <movie>
-        <title>Dead Before They Wake</title>
-        <year>2025</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Izbacivač iz noćnog kluba Aleks ima zadatak da pronađe mladu devojku koju je zarobila mreža za trgovinu ljudima.</description>
-        <imageUrl>https://img.youtube.com/vi/7fe63OCiUv4/0.jpg</imageUrl>
-        <videoId>7fe63OCiUv4</videoId>
-    </movie>
-    <movie>
-        <title>Blood Brother</title>
-        <year>2020</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Petar i Majkl, odrasli na ulicama Filadelfije, deca su članova irske mafije, zauvek povezani zločinima svojih očeva. 30 godina kasnije, Majkl sada vodi kriminalnu organizaciju i žudi za većom moći, a njegove opasne budalaštine često kontroliše njegov oprezni rođak Piter. Progonjen smrću svoje sestre, čija je smrt uništila oba njegova roditelja, Petar je uhvaćen između snova o detinjstvu i stvarnosti svog života kao izvršitelj. Njegovo jedino odlaganje je lokalna bokserska teretana, utočište koje je brzo ugroženo kako Majklova želja za kontrolom eskalira.</description>
-        <imageUrl>https://img.youtube.com/vi/-4wi--TvgjQ/0.jpg</imageUrl>
-        <videoId>-4wi--TvgjQ</videoId>
-    </movie>
-    <movie>
-        <title>Legal Action</title>
-        <year>2018</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Advokata iz velikog grada Kejsija Mekeja bivša žena privlači u mali grad da brani njenog brata, optuženog za ubistvo javnog tužioca. Otkriva mrežu zavere koja ga suočava sa najkorumpiranijim gradskim investitorom, gospodinom Gejtsom.</description>
-        <imageUrl>https://img.youtube.com/vi/r9ynySf8ZQU/0.jpg</imageUrl>
-        <videoId>r9ynySf8ZQU</videoId>
-    </movie>
-    <movie>
-        <title>Rise of the Footsoldier: Reign of the General</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Dana 6. decembra 1995. godine, tri člana bande iz Eseksa su brutalno hladnokrvno ubijena. Sada je početak 1997. godine i ko god da je ubio trojicu muškaraca tek treba da bude izveden pred lice pravde. Saradnik muškaraca, koji još uvek oplakuje gubitak svojih prijatelja, uveren je da je samo pitanje vremena kada će biti sledeći. Za njega je jedini izlaz da se vrati i napreduje na kriminalnoj lestvici. Što se više uzdiže, poslovi postaju sve nasilniji, a njegova potraga za moći pretvara se u opsesiju. Sa životom i porodicom na kocki, može li još jednom da se sabere kako bi se izvukao živ?</description>
-        <imageUrl>https://img.youtube.com/vi/AKnVm9hJntY/0.jpg</imageUrl>
-        <videoId>AKnVm9hJntY</videoId>
-    </movie>
-    <movie>
-        <title>Operation Shadow</title>
-        <year>2018</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Tokom noći se pojavljuju misteriozne rupe u zemlji, zbog čega je Oliverov bicikl uništen. Ko je napravio ove rupe i zašto? Detektivi Tiril i Oliver moraće da budu pametni kao Šerlok Holms da bi saznali.</description>
-        <imageUrl>https://img.youtube.com/vi/rFMdUuDueqE/0.jpg</imageUrl>
-        <videoId>rFMdUuDueqE</videoId>
-    </movie>
-    <movie>
-        <title>Kasandrin most</title>
-        <year>1976</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Putnici u evropskom vozu izloženi su smrtonosnoj bolesti i niko ih neće pustiti da izađu iz voza.</description>
-        <imageUrl>https://img.youtube.com/vi/8FC-jPvnu0s/0.jpg</imageUrl>
-        <videoId>8FC-jPvnu0s</videoId>
-    </movie>
-    <movie>
-        <title>The Woman in the Window</title>
-        <year>1944</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Zavodljiva žena umeša nevinog profesora u ubistvo.</description>
-        <imageUrl>https://img.youtube.com/vi/EA7TtCxJzfM/0.jpg</imageUrl>
-        <videoId>EA7TtCxJzfM</videoId>
-    </movie>
-    <movie>
-        <title>A Violent Man</title>
-        <year>2022</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Steve Mackleson je opasan zatvorenik, zatvoren zbog dvostrukog ubistva u zatvoru sa maksimalnim obezbeđenjem. Dok se bori protiv iskupljenja, pratimo sistem i njegov unutrašnji nemir, kada mladi član crne bande postaje njegov neočekivani novi cimer u ćeliji i ćerka koju nikada nije upoznao, konačno traži da se sretne sa svojim otuđenim ocem, licem u lice.</description>
-        <imageUrl>https://img.youtube.com/vi/XP_q4jcj4mk/0.jpg</imageUrl>
-        <videoId>XP_q4jcj4mk</videoId>
-    </movie>
-    <movie>
-        <title>Striking Range</title>
-        <year>2006</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada milioner Ted Bilings (Glen Morshauer) prevari svoje partnere u poslu sa oružjem, on odlučuje da angažuje neku zaštitu. Bilings angažuje Judžina "Vašera" (Lu Dajmond Filips) plaćenika za najam i uskoro, Vaš se bori protiv napada na svog šefa sa svih strana, ali povrh svega, on čak i ne voli Bilingsa koji ima skrivenu agendu. Među pucnjavama i poterama, Vaš formira vezu sa šefom obezbeđenja Emili (Jensi Batler) Bilings i Vašom bivšom ljubavnicom koja nije baš onakva kakvom se čini.</description>
-        <imageUrl>https://img.youtube.com/vi/KIyoexViiN4/0.jpg</imageUrl>
-        <videoId>KIyoexViiN4</videoId>
-    </movie>
-    <movie>
-        <title>County Line : No Fear</title>
-        <year>2022</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Planovi za penzionisanje Aldena Rokvela se prekidaju kada kriminalni sindikat zapreti porodici susednog šerifa okruga Jork Džoan „Džo“ Porter, što pokreće lančanu reakciju koja se pretvara u bitku za budućnost dva okruga.</description>
-        <imageUrl>https://img.youtube.com/vi/uJWW-S6YR3U/0.jpg</imageUrl>
-        <videoId>uJWW-S6YR3U</videoId>
-    </movie>
-    <movie>
-        <title>Boone The Bounty Hunter</title>
-        <year>2017</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada lovac na ucene u rijalitiju, Bun, pokuša da sruši narkobosa i njegovo carstvo, otkriva više nego što priželjkuje i saznaje da pravda znači više od gledanosti.</description>
-        <imageUrl>https://img.youtube.com/vi/g49dWSJ8cfc/0.jpg</imageUrl>
-        <videoId>g49dWSJ8cfc</videoId>
-    </movie>
-    <movie>
-        <title>Almighty Zeus</title>
-        <year>2022</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Mladi bokser postaje viralna zvezda kada brani starog Azijata od nasilnika. Ovo privlači pažnju šampiona u srednjoj kategoriji koji odlučuje da ga izazove na neuobičajeni bokserski meč u pandemiji COVID-19.</description>
-        <imageUrl>https://img.youtube.com/vi/3ANpiMwFryE/0.jpg</imageUrl>
-        <videoId>3ANpiMwFryE</videoId>
-    </movie>
-    <movie>
-        <title>Lock and Load</title>
-        <year>2023</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Sadrži muzičku adaptaciju popularnog animea „Blue Lock“.</description>
-        <imageUrl>https://img.youtube.com/vi/QPlI3IdvGao/0.jpg</imageUrl>
-        <videoId>QPlI3IdvGao</videoId>
-    </movie>
-    <movie>
-        <title>Break Even</title>
-        <year>2020</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Četiri avanturistička prijatelja pronalaze 50 MILIONA u gotovini na udaljenom ostrvu samo da bi otkrili da je DEA ostavila kartelu u odmetnutom poslu.</description>
-        <imageUrl>https://img.youtube.com/vi/kHhZnCDYEIs/0.jpg</imageUrl>
-        <videoId>kHhZnCDYEIs</videoId>
-    </movie>
-    <movie>
-        <title>Bad Company</title>
-        <year>2002</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Kada agent CIA sa Harvarda bude ubijen tokom operacije, tajna agencija regrutuje njegovog brata blizanca.</description>
-        <imageUrl>https://img.youtube.com/vi/JDR2hpjpp34/0.jpg</imageUrl>
-        <videoId>JDR2hpjpp34</videoId>
-    </movie>
-    <movie>
-        <title>East Bay</title>
-        <year>2022</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Čudan i napet Amerikanac srednjih godina u Koreji koketira sa idejom samoubistva jer veruje da je izneverio svoje roditelje imigrante. Uznemiruju ga sve življe halucinacije o tome kakav je njegov život mogao da bude. Dakle, on teži duhovnosti da se smiri, i u tom procesu nailazi na druge koji se bore na svoj način.</description>
-        <imageUrl>https://img.youtube.com/vi/AVL1jhpYZw8/0.jpg</imageUrl>
-        <videoId>AVL1jhpYZw8</videoId>
-    </movie>
-    <movie>
-        <title>Nighthawks</title>
-        <year>2019</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Širokooka transplantacija na Srednjem zapadu Sten pristaje da glumi pomoćnika svom proračunatom i privilegovanom cimeru Čedu dok kreću u istraživanje blistavog noćnog života Njujorka, čije najmračnije tajne drži u zatočeništvu elitna grupa milenijalaca poznata kao Noćne ptice.</description>
-        <imageUrl>https://img.youtube.com/vi/KifHhaZDvoU/0.jpg</imageUrl>
-        <videoId>KifHhaZDvoU</videoId>
-    </movie>
-    <movie>
-        <title>Calber Island</title>
-        <year>2024</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Otpušten i izolovan na ostrvu u nevolji, Tod se suočava sa otporom meštana. Kada se vikinška istorija probudi, krivica pada na njega i on je primoran da se bori protiv predrasuda, da se pripremi za drevnu pretnju i otkrije moć promene.</description>
-        <imageUrl>https://img.youtube.com/vi/TcLu557I7q4/0.jpg</imageUrl>
-        <videoId>TcLu557I7q4</videoId>
-    </movie>
-    <movie>
-        <title>Hide and Die</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Na godišnjicu smrti muža jedne mlade žene, pet devojaka odlazi u kolibu da pomogne prijateljici da prebrodi muževljevu smrt. Kako se zabava nastavlja, mračna tajna počinje da se razotkriva, a grozna prošlost puzi u potrazi za osvetom.</description>
-        <imageUrl>https://img.youtube.com/vi/z3njRZNSaPE/0.jpg</imageUrl>
-        <videoId>z3njRZNSaPE</videoId>
-    </movie>
-    <movie>
-        <title>Inspired by Grace</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/chSqs7pO_NE/0.jpg</imageUrl>
-        <videoId>chSqs7pO_NE</videoId>
-    </movie>
-    <movie>
-        <title>GTO Last Ride ovi sa prevodom</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/ULQRs-kE6jI/0.jpg</imageUrl>
-        <videoId>ULQRs-kE6jI</videoId>
-    </movie>
-    <movie>
-        <title>The White Tiger</title>
-        <year>2021</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Ambiciozni indijski vozač koristi svoju duhovitost i lukavost da pobegne od siromaštva i popne se na vrh. Epsko putovanje zasnovano na bestseleru Njujork tajmsa.</description>
-        <imageUrl>https://img.youtube.com/vi/qiGDJ5-dXaI/0.jpg</imageUrl>
-        <videoId>qiGDJ5-dXaI</videoId>
-    </movie>
-    <movie>
-        <title>The road to Berlin</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Po romanu poznatog sovjetskog pisca Emanuila Kazakeviča „Dva u stepi“ i ratnim dnevnicima Konstantina Simonova. Leto je 1942. godine, oficir za komunikacije Ogarkov i vojnik Džurabajev bore se kroz nemačko opkoljavanje. Nalazeći se u teškim situacijama, uče da veruju jedni drugima, postajući pritom pravi prijatelji.</description>
-        <imageUrl>https://img.youtube.com/vi/DjHTWMP_T1U/0.jpg</imageUrl>
-        <videoId>DjHTWMP_T1U</videoId>
-    </movie>
-    <movie>
-        <title>Panfilov's 28 Men. 28 Heroes. . English subs</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/kSozhsNc3eI/0.jpg</imageUrl>
-        <videoId>kSozhsNc3eI</videoId>
-    </movie>
-    <movie>
-        <title>Normandy WW2</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/qf9n5Dc7Qsw/0.jpg</imageUrl>
-        <videoId>qf9n5Dc7Qsw</videoId>
-    </movie>
-    <movie>
-        <title>War</title>
-        <year>2019</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Halid, kome je poveren zadatak da eliminiše bivšeg vojnika koji je postao odmetnuti Kabir, upušta se u epsku bitku sa svojim mentorom koji ga je svemu naučio.</description>
-        <imageUrl>https://img.youtube.com/vi/xUiwe__ivsg/0.jpg</imageUrl>
-        <videoId>xUiwe__ivsg</videoId>
-    </movie>
-    <movie>
-        <title>Druga Sansa</title>
-        <year>2011</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Mlada devojka i njen trener prevazilaze nedaće kako bi se plasirali u Nacionalni australijski gimnastički tim.</description>
-        <imageUrl>https://img.youtube.com/vi/-B3uzqNF7s8/0.jpg</imageUrl>
-        <videoId>-B3uzqNF7s8</videoId>
-    </movie>
-    <movie>
-        <title>Trap in Hong Kong Jean</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/rrpqxQGahhA/0.jpg</imageUrl>
-        <videoId>rrpqxQGahhA</videoId>
-    </movie>
-    <movie>
-        <title></title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/6V2WnrIvrPA/0.jpg</imageUrl>
-        <videoId>6V2WnrIvrPA</videoId>
-    </movie>
-    <movie>
-        <title>Blood and Bone</title>
-        <year>2009</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>U Los Anđelesu, bivši robijaš olujno osvaja podzemni borbeni svet u potrazi za ispunjenjem obećanja mrtvom prijatelju.</description>
-        <imageUrl>https://img.youtube.com/vi/ewGBKVCqtUY/0.jpg</imageUrl>
-        <videoId>ewGBKVCqtUY</videoId>
-    </movie>
-    <movie>
-        <title>1967</title>
-        <year>2015</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>1967 (snimljen 2015. godine) predstavlja novopronađene i digitalizovane neme filmove od 16 mm iz šezdesetih godina prošlog veka u obliku četvorodelne kompozicije koja prikazuje glumačku postavu umetnika, pisaca, muzičara i glumaca koji su činili boemsko podzemlje tog vremena. Film reprizira suštinu scene čiji su učesnici od tada idealizovani kao poznate ličnosti ili zaboravljeni.</description>
-        <imageUrl>https://img.youtube.com/vi/UEabRQu_b_k/0.jpg</imageUrl>
-        <videoId>UEabRQu_b_k</videoId>
-    </movie>
-    <movie>
-        <title>APOKALIPSA 1: Pocetak kraja</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/v_AxCu7sI6c/0.jpg</imageUrl>
-        <videoId>v_AxCu7sI6c</videoId>
-    </movie>
-    <movie>
-        <title>Zen</title>
-        <year>1999</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>Snimljeno u udaljenom zen hramu u japanskim Alpima. Slike počinju sa veličanstvenim planinama, pre nego što se spuste u jedan od gradova, a zatim u manastir, gde pratimo visoko ritualizovani život monaha i monahinja. Pored pejzaža, postoje i neke zaista nezaboravne scene, kao što su monasi na krugu milostinje, odmotavanje svetih spisa, pa čak i uzimanje obroka, a sve to postaje pomalo nadrealno pod budnim okom kamere.</description>
-        <imageUrl>https://img.youtube.com/vi/oYyYPnMCU1U/0.jpg</imageUrl>
-        <videoId>oYyYPnMCU1U</videoId>
-    </movie>
-    <movie>
-        <title>Jelena Trojanska</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/oXDMrHDrXE0/0.jpg</imageUrl>
-        <videoId>oXDMrHDrXE0</videoId>
-    </movie>
-    <movie>
-        <title>OTPOR KARATAJ</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/dMxtSdhf-IU/0.jpg</imageUrl>
-        <videoId>dMxtSdhf-IU</videoId>
-    </movie>
-    <movie>
-        <title>A man, a horse, a rifle</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/CaJCFFofHho/0.jpg</imageUrl>
-        <videoId>CaJCFFofHho</videoId>
-    </movie>
-    <movie>
-        <title>The Dark Heart Of The Black Ops Beats To A Secret Agenda</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/01loOyMESFM/0.jpg</imageUrl>
-        <videoId>01loOyMESFM</videoId>
-    </movie>
-    <movie>
-        <title>The race against time has only just begun</title>
-        <year>N/A</year>
-        <genre>Akcija</genre>
-        <type>film</type>
-        <description>...</description>
-        <imageUrl>https://img.youtube.com/vi/VYGhi1xQHsg/0.jpg</imageUrl>
-        <videoId>VYGhi1xQHsg</videoId>
-    </movie>
+<category name="NewReleases">
+<movie>
+<title>The White Tiger (with english subtitles) (War movie, Director: Karen Shakhnazarov, 2012)</title>
+<year>2021</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>Амбициозни индијски возач користи своју духовитост и лукавство да побегне од сиромаштва и подигне се на врх. Епско путовање засновано на бестселеру Њујорк тајмса.</description>
+<imageUrl>https://img.youtube.com/vi/qiGDJ5-dXaI/0.jpg</imageUrl>
+<videoId>qiGDJ5-dXaI</videoId>
+<subtitles>
+<language>el</language>
+<language>es</language>
+<language>hu</language>
+<language>id</language>
+<language>pl</language>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>The road to Berlin (military, dir. Sergei Popov, 2015)</title>
+<year>2015</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>На основу новеле познатог совјетског писца Емануила Казакевича „Двојица у степи“ и ратних дневника Константина Симонова. Лето је 1942. године, официр за везу Огарков и редов Ђурабајев пробијају се кроз немачко окружење. Налазећи се у тешким ситуацијама, уче да верују једни другима, постајући прави пријатељи у том процесу.</description>
+<imageUrl>https://img.youtube.com/vi/DjHTWMP_T1U/0.jpg</imageUrl>
+<videoId>DjHTWMP_T1U</videoId>
+<subtitles>
+<language>ar</language>
+<language>cs</language>
+<language>de</language>
+<language>en</language>
+<language>es</language>
+<language>es-419</language>
+<language>fr</language>
+<language>it</language>
+<language>pl</language>
+<language>ro</language>
+<language>sk</language>
+<language>sr</language>
+<language>vi</language>
+<language>zh-CN</language>
+</subtitles>
+</movie>
+<movie>
+<title>Panfilov's 28 Men. 28 Heroes. Full movie. English subs</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/kSozhsNc3eI/0.jpg</imageUrl>
+<videoId>kSozhsNc3eI</videoId>
+<subtitles>
+<language>ar</language>
+<language>cs</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa-IR</language>
+<language>fr</language>
+<language>hi</language>
+<language>hu</language>
+<language>ko</language>
+<language>live_chat</language>
+<language>nl</language>
+<language>pl</language>
+<language>pt</language>
+<language>ru</language>
+<language>sk</language>
+<language>sr</language>
+<language>sr-Cyrl</language>
+<language>sr-Latn</language>
+<language>sw</language>
+<language>th</language>
+<language>vi</language>
+<language>zh-CN</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Jungle Book (1942) Sabu, Joseph Calleia | Adventure film | Movie, subtitles</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/-8EJ9uhsfQQ/0.jpg</imageUrl>
+<videoId>-8EJ9uhsfQQ</videoId>
+<subtitles>
+<language>ar</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>live_chat</language>
+<language>ms</language>
+<language>nl</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>ta</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>uk</language>
+<language>ur</language>
+<language>vi</language>
+<language>zh</language>
+<language>zh-Hans</language>
+</subtitles>
+</movie>
+<movie>
+<title>Normandy (War Movie) WW2 Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/qf9n5Dc7Qsw/0.jpg</imageUrl>
+<videoId>qf9n5Dc7Qsw</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>uk</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Trap in Hong Kong (1998) Jean-Claude Van Damme</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/rrpqxQGahhA/0.jpg</imageUrl>
+<videoId>rrpqxQGahhA</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>One Man's Justice | THRILLER | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/Wo9k1SehYm4/0.jpg</imageUrl>
+<videoId>Wo9k1SehYm4</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de</language>
+<language>el-holatrtIUCQ</language>
+<language>en</language>
+<language>es</language>
+<language>es-419</language>
+<language>fa-holatrtIUCQ</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu</language>
+<language>id</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Bangkok Dangerous | Nicolas Cage (Ghost Rider) | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/_CoDAFSNeTc/0.jpg</imageUrl>
+<videoId>_CoDAFSNeTc</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>War | World War II: the Last Uprising (2019) Full Length Movie | Subtitled in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/xUiwe__ivsg/0.jpg</imageUrl>
+<videoId>xUiwe__ivsg</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>live_chat</language>
+<language>ms</language>
+<language>nl</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>ta</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>uk</language>
+<language>ur</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>12 Rounds Lockdown | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/iYM6k2p0U9w/0.jpg</imageUrl>
+<videoId>iYM6k2p0U9w</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>es-419</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Film godine: Razvod (2011) Srpski titl</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/-g8ix-31ujQ/0.jpg</imageUrl>
+<videoId>-g8ix-31ujQ</videoId>
+<subtitles>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>Fatal Instinct | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/QUqBxpPCcB0/0.jpg</imageUrl>
+<videoId>QUqBxpPCcB0</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Frank &amp; Jesse | Rob Lowe, Bill Paxton | WESTERN | Full Movie in English</title>
+<year>2016</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>Документарац о Френку Запи.</description>
+<imageUrl>https://img.youtube.com/vi/u4PKVGDGkps/0.jpg</imageUrl>
+<videoId>u4PKVGDGkps</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>es-419</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>War Territories | ACTION | Full Movie 💎</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/av08tTN-hnQ/0.jpg</imageUrl>
+<videoId>av08tTN-hnQ</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Marine | ACTION | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/sNCbnL60l0s/0.jpg</imageUrl>
+<videoId>sNCbnL60l0s</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Air Warriors | ACTION | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/D42J--BuDyk/0.jpg</imageUrl>
+<videoId>D42J--BuDyk</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Film - Bekstvo iz logora Gulag - Srpski titl</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/6V2WnrIvrPA/0.jpg</imageUrl>
+<videoId>6V2WnrIvrPA</videoId>
+<subtitles>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>Amazon Queen | CRIME | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/o4OgRZwSTpU/0.jpg</imageUrl>
+<videoId>o4OgRZwSTpU</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Deadly Contract | Mike Tyson, Steven Seagal | THRILLER, ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/a0ww94tOP9U/0.jpg</imageUrl>
+<videoId>a0ww94tOP9U</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Legionnaire (1998) - sa prevodom</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/y5aBtfYntaM/0.jpg</imageUrl>
+<videoId>y5aBtfYntaM</videoId>
+<subtitles>
+<language>bs</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Dark Heart Of The Black Ops Beats To A Secret Agenda.</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/01loOyMESFM/0.jpg</imageUrl>
+<videoId>01loOyMESFM</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>The race against time has only just begun - Action Movie - UNCENSORED</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/VYGhi1xQHsg/0.jpg</imageUrl>
+<videoId>VYGhi1xQHsg</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Legend of 5 Mile Cave | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/5Cgckr8VdJQ/0.jpg</imageUrl>
+<videoId>5Cgckr8VdJQ</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Allegiance | DRAMA | Full Movie in English 💎</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/lnmKaKx1Ns8/0.jpg</imageUrl>
+<videoId>lnmKaKx1Ns8</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Snake Eater | ACTION | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/tXZwRrfpd6o/0.jpg</imageUrl>
+<videoId>tXZwRrfpd6o</videoId>
+<subtitles>
+<language>de</language>
+<language>en</language>
+<language>es</language>
+<language>fr</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Last Rescue | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/FU3MSeG4C_M/0.jpg</imageUrl>
+<videoId>FU3MSeG4C_M</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Brush With Danger | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/IOBopQKLAHM/0.jpg</imageUrl>
+<videoId>IOBopQKLAHM</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Gospodin i Gospodja Smit (2005) Ceo Film sa Prevodom</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/UAF5YioN5Xs/0.jpg</imageUrl>
+<videoId>UAF5YioN5Xs</videoId>
+<subtitles>
+<language>hr</language>
+</subtitles>
+</movie>
+<movie>
+<title>Rage at Dawn | WESTERN | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/gc6pdzAu8is/0.jpg</imageUrl>
+<videoId>gc6pdzAu8is</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>1967 - Merciless Revenge - Western film</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/UEabRQu_b_k/0.jpg</imageUrl>
+<videoId>UEabRQu_b_k</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Eagle Wings | THRILLER, ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/8UVaemAqR8Y/0.jpg</imageUrl>
+<videoId>8UVaemAqR8Y</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>APOKALIPSA 1: Pocetak kraja - Hrišćanski film o poslednjim danima</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/v_AxCu7sI6c/0.jpg</imageUrl>
+<videoId>v_AxCu7sI6c</videoId>
+<subtitles>
+<language>sr-Latn</language>
+</subtitles>
+</movie>
+<movie>
+<title>Zen -  Life of Master Dogen (sa prevodom)</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/oYyYPnMCU1U/0.jpg</imageUrl>
+<videoId>oYyYPnMCU1U</videoId>
+<subtitles>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>TEX WILLER CEO FILM SA PREVODOM tex and the lord of the deep</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/BQ-1R7ktQsY/0.jpg</imageUrl>
+<videoId>BQ-1R7ktQsY</videoId>
+<subtitles>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>American Justice | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/WkRGYpzbkjE/0.jpg</imageUrl>
+<videoId>WkRGYpzbkjE</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Opasna Voznja Filmovi Sa Prevodom</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/rfso8Bijav0/0.jpg</imageUrl>
+<videoId>rfso8Bijav0</videoId>
+<subtitles>
+<language>bs</language>
+</subtitles>
+</movie>
+<movie>
+<title>Jelena Trojanska-sa prevodom</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/oXDMrHDrXE0/0.jpg</imageUrl>
+<videoId>oXDMrHDrXE0</videoId>
+<subtitles>
+<language>sr</language>
+</subtitles>
+</movie>
+<movie>
+<title>🌀 Flashburn: Virus Outbreak | Full Movie | Sci-fi Action Thriller</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/mh1qqWXy4Sc/0.jpg</imageUrl>
+<videoId>mh1qqWXy4Sc</videoId>
+<subtitles>
+<language>ar</language>
+<language>bn</language>
+<language>cy</language>
+<language>da</language>
+<language>de</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pt</language>
+<language>pt-BR</language>
+<language>ro</language>
+<language>ru</language>
+<language>sv</language>
+<language>vi</language>
+<language>zh-Hans</language>
+</subtitles>
+</movie>
+<movie>
+<title>Angel and the Badman | John Wayne (Rio Bravo) | WESTERN, DRAMA | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/v83OxtQ1qdA/0.jpg</imageUrl>
+<videoId>v83OxtQ1qdA</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Preppie Connection | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/ChCJKRRtS-Y/0.jpg</imageUrl>
+<videoId>ChCJKRRtS-Y</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>A man, a horse, a rifle (1970) - Western film</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/CaJCFFofHho/0.jpg</imageUrl>
+<videoId>CaJCFFofHho</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>cs</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>ko</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>sr</language>
+<language>sv</language>
+<language>sw</language>
+<language>te</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Dead on Arrival | THRILLER | Full Movie in English 💎</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/kGi-HG_7Nlc/0.jpg</imageUrl>
+<videoId>kGi-HG_7Nlc</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Fatal Call | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/kBScARTnfrk/0.jpg</imageUrl>
+<videoId>kBScARTnfrk</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Lock, Stock and Two Smoking Barrels | Jason Statham (Expend4bles) | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/Q6SoPmtiQBQ/0.jpg</imageUrl>
+<videoId>Q6SoPmtiQBQ</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Blood and Oil | THRILLER, TRUE STORY | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/oUhHqwB1lec/0.jpg</imageUrl>
+<videoId>oUhHqwB1lec</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Dead Men | ACTION, WESTERN | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/ne4lflCSXt8/0.jpg</imageUrl>
+<videoId>ne4lflCSXt8</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa-AF</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Contract Killers | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/FSaDVXmCuPA/0.jpg</imageUrl>
+<videoId>FSaDVXmCuPA</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>es-419</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Lucky Day | Nina Dobrev (The Vampire Diaries) | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/X1eEzUdmMe4/0.jpg</imageUrl>
+<videoId>X1eEzUdmMe4</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Deputy's Wife | WESTERN, ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/UeO_5G9FytI/0.jpg</imageUrl>
+<videoId>UeO_5G9FytI</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Called to Duty | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/MupJg5r4aak/0.jpg</imageUrl>
+<videoId>MupJg5r4aak</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Death Fighter | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/Zb7QxSs3sKo/0.jpg</imageUrl>
+<videoId>Zb7QxSs3sKo</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Blood Hunters | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/vcMVrSEiUaE/0.jpg</imageUrl>
+<videoId>vcMVrSEiUaE</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Lost Soldiers | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/KhWntCcrLVY/0.jpg</imageUrl>
+<videoId>KhWntCcrLVY</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>CODE 207 | THRILLER, ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/eC5WW_OZj4g/0.jpg</imageUrl>
+<videoId>eC5WW_OZj4g</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Missing Piece | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/yoVo7Qnv3zE/0.jpg</imageUrl>
+<videoId>yoVo7Qnv3zE</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Kill Kane | Vinnie Jones (Snatch) | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/2XtxfmUmk7c/0.jpg</imageUrl>
+<videoId>2XtxfmUmk7c</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Better Criminal | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/_LnXpPOVozM/0.jpg</imageUrl>
+<videoId>_LnXpPOVozM</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>ADVERSE | Mickey Rourke, Thomas Nicholas | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/SAWv7Kh21e0/0.jpg</imageUrl>
+<videoId>SAWv7Kh21e0</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Lady Detective Shadow | KUNG FU | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/9JTERv6Kx4I/0.jpg</imageUrl>
+<videoId>9JTERv6Kx4I</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Instinct to Kill | Mark Dacascos (John Wick Parabellum) | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/EH5Ru70XVTM/0.jpg</imageUrl>
+<videoId>EH5Ru70XVTM</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Dark Soul | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/17J-UyxmISk/0.jpg</imageUrl>
+<videoId>17J-UyxmISk</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>April Rain | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/1D_6ac9PKeM/0.jpg</imageUrl>
+<videoId>1D_6ac9PKeM</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>CROSSFIRE | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/7FmukBWkT-k/0.jpg</imageUrl>
+<videoId>7FmukBWkT-k</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fi</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Waiting For You Fanny Ardant (The Young Lovers) | DRAMA | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/3_JB_eVWHG4/0.jpg</imageUrl>
+<videoId>3_JB_eVWHG4</videoId>
+<subtitles>
+<language>en</language>
+</subtitles>
+</movie>
+<movie>
+<title>Dead Men in the West | WESTERN | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/R1hHgX6cfmA/0.jpg</imageUrl>
+<videoId>R1hHgX6cfmA</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Dead Before They Wake | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/7fe63OCiUv4/0.jpg</imageUrl>
+<videoId>7fe63OCiUv4</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Blood Brother | Trey Songz | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/-4wi--TvgjQ/0.jpg</imageUrl>
+<videoId>-4wi--TvgjQ</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Rise of the Footsoldier: Reign of the General | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/AKnVm9hJntY/0.jpg</imageUrl>
+<videoId>AKnVm9hJntY</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Legal Action | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/r9ynySf8ZQU/0.jpg</imageUrl>
+<videoId>r9ynySf8ZQU</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Operation Shadow | ACTION | Full Movie</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/rFMdUuDueqE/0.jpg</imageUrl>
+<videoId>rFMdUuDueqE</videoId>
+<subtitles>
+<language>en</language>
+<language>es</language>
+<language>fr</language>
+</subtitles>
+</movie>
+<movie>
+<title>The Woman in the Window | CRIME, SUSPENSE | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/EA7TtCxJzfM/0.jpg</imageUrl>
+<videoId>EA7TtCxJzfM</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>A Violent Man | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/XP_q4jcj4mk/0.jpg</imageUrl>
+<videoId>XP_q4jcj4mk</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Gotti (1996) HD</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/5VGS0JJ_UUQ/0.jpg</imageUrl>
+<videoId>5VGS0JJ_UUQ</videoId>
+<subtitles>
+<language>sr-Latn</language>
+</subtitles>
+</movie>
+<movie>
+<title>Striking Range | ACTION, THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/KIyoexViiN4/0.jpg</imageUrl>
+<videoId>KIyoexViiN4</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>County Line : No Fear | Casper Van Dien (Starship Troopers) | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/uJWW-S6YR3U/0.jpg</imageUrl>
+<videoId>uJWW-S6YR3U</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Boone The Bounty Hunter | John Morrison (AEW, WWE) | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/g49dWSJ8cfc/0.jpg</imageUrl>
+<videoId>g49dWSJ8cfc</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
+<movie>
+<title>Lock &amp; Load | ACTION | Full Movie in English</title>
+<year>2024</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>Када апатични играч Наги пристане да се придружи свом богатом колегу Микажу у фудбалу, њихово партнерство води до чувеног програма Блуе Лоцк — и до промена.</description>
+<imageUrl>https://img.youtube.com/vi/QPlI3IdvGao/0.jpg</imageUrl>
+<videoId>QPlI3IdvGao</videoId>
+<subtitles>
+<language>ar-holatrtIUCQ</language>
+<language>bg-holatrtIUCQ</language>
+<language>bn-holatrtIUCQ</language>
+<language>da-holatrtIUCQ</language>
+<language>de-holatrtIUCQ</language>
+<language>el-holatrtIUCQ</language>
+<language>en-holatrtIUCQ</language>
+<language>es-holatrtIUCQ</language>
+<language>fa-holatrtIUCQ</language>
+<language>fil-holatrtIUCQ</language>
+<language>fr-holatrtIUCQ</language>
+<language>hi-holatrtIUCQ</language>
+<language>hr-holatrtIUCQ</language>
+<language>hu-holatrtIUCQ</language>
+<language>id-holatrtIUCQ</language>
+<language>it-holatrtIUCQ</language>
+<language>iw-holatrtIUCQ</language>
+<language>ja-holatrtIUCQ</language>
+<language>jv-holatrtIUCQ</language>
+<language>ko-holatrtIUCQ</language>
+<language>ml-holatrtIUCQ</language>
+<language>ms-holatrtIUCQ</language>
+<language>nl-holatrtIUCQ</language>
+<language>no-holatrtIUCQ</language>
+<language>pl-holatrtIUCQ</language>
+<language>pt-holatrtIUCQ</language>
+<language>ro-holatrtIUCQ</language>
+<language>ru-holatrtIUCQ</language>
+<language>si-holatrtIUCQ</language>
+<language>su-holatrtIUCQ</language>
+<language>sv-holatrtIUCQ</language>
+<language>th-holatrtIUCQ</language>
+<language>tr-holatrtIUCQ</language>
+<language>vi-holatrtIUCQ</language>
+<language>zh-holatrtIUCQ</language>
+</subtitles>
+</movie>
+<movie>
+<title>Almighty Zeus | ACTION | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/3ANpiMwFryE/0.jpg</imageUrl>
+<videoId>3ANpiMwFryE</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hr</language>
+<language>hu</language>
+<language>id</language>
+<language>it</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>nl</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+</subtitles>
+</movie>
+<movie>
+<title>Break Even | THRILLER | Full Movie in English</title>
+<year>N/A</year>
+<genre>Akcija</genre>
+<type>film</type>
+<description>...</description>
+<imageUrl>https://img.youtube.com/vi/kHhZnCDYEIs/0.jpg</imageUrl>
+<videoId>kHhZnCDYEIs</videoId>
+<subtitles>
+<language>ar</language>
+<language>bg</language>
+<language>bn</language>
+<language>da</language>
+<language>de</language>
+<language>el</language>
+<language>en</language>
+<language>es</language>
+<language>fa</language>
+<language>fil</language>
+<language>fr</language>
+<language>hi</language>
+<language>hu</language>
+<language>id</language>
+<language>iw</language>
+<language>ja</language>
+<language>jv</language>
+<language>ko</language>
+<language>ml</language>
+<language>ms</language>
+<language>no</language>
+<language>pl</language>
+<language>pt</language>
+<language>ro</language>
+<language>ru</language>
+<language>si</language>
+<language>su</language>
+<language>sv</language>
+<language>th</language>
+<language>tr</language>
+<language>vi</language>
+<language>zh</language>
+</subtitles>
+</movie>
 </category>
