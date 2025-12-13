@@ -1,6 +1,170 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Crime">
     <movie>
+        <title>The Man Who Cheated Himself</title>
+        <year>1950</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>A veteran homicide detective who has witnessed his socialite girlfriend kill her husband sees his inexperienced brother assigned to the case.</description>
+        <imageUrl>https://img.youtube.com/vi/dPfaIzYXna0/0.jpg</imageUrl>
+        <videoId>dPfaIzYXna0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Stranger In The House</title>
+        <year>1967</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>John Sawyer, once an eminent barrister, has slid into a life of cynicism and drunkenness since his wife left him. When his daughter's boyfriend is accused of murder, Sawyer decides to try to pull himself together and defend him in court.</description>
+        <imageUrl>https://img.youtube.com/vi/j8FfFBhEYHI/0.jpg</imageUrl>
+        <videoId>j8FfFBhEYHI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Paper Tiger</title>
+        <year />
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Two brothers pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family, testing their bond as betrayal becomes possible.</description>
+        <imageUrl>https://img.youtube.com/vi/l43v52Fcta8/0.jpg</imageUrl>
+        <videoId>l43v52Fcta8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Money Madness</title>
+        <year>1917</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>When a bank is on the verge of collapse, its president, George Fuller, uses his own fortune to cover its losses. Unknown to Fuller, however, Monroe Simmons, his vice-president, is undermining the bank for his own purposes. Then Tom Williams, who is in love with Fuller's daughter Ethel, asks his uncle, famous detective "Whispering Smith," to investigate the case.</description>
+        <imageUrl>https://img.youtube.com/vi/XEHjXM_iINE/0.jpg</imageUrl>
+        <videoId>XEHjXM_iINE</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Winter Of Frozen Dreams</title>
         <year>2009</year>
         <genre>Crime</genre>
@@ -93,56 +257,6 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Brother, Cry For Me</title>
-        <year>1970</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Three estranged brothers receive a mysterious letter from their late father inviting them to collect a large inheritance from an Aztec pyramid in far away Boca Nueva.  Realizing that they each have a stake in their father’s fortune, the brothers become murderously competitive.</description>
-        <imageUrl>https://img.youtube.com/vi/T2JQEyea3d0/0.jpg</imageUrl>
-        <videoId>T2JQEyea3d0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -4581,140 +4695,6 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Have A Nice Night</title>
-        <year>1990</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Movie star Barbara Jenkins arrives in Cannes to host an auction of her costumes, under protection of Tom Lepski. She is under surveillance of a political terror group and some wily jewel thieves.</description>
-        <imageUrl>https://img.youtube.com/vi/0xpPuJDTwlM/0.jpg</imageUrl>
-        <videoId>0xpPuJDTwlM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Irish Mummy</title>
-        <year>2019</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.</description>
-        <imageUrl>https://img.youtube.com/vi/45uDzFjkmIQ/0.jpg</imageUrl>
-        <videoId>45uDzFjkmIQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>pt-BR</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>es-419</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>pt-BR</audio>
-            <audio>es</audio>
-            <audio>es-419</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Stranger In Town 1943</title>
-        <year>1943</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>In the small town of Crownport local attorney Bill Adams is trying to break up the ring of corrupt town officials by running for mayor. The cards seemed stacked against him when he gets help from a visiting hunter who, unknown to Adams and the rest of the town, is actually vacationing supreme court justice John Josephus Grant.</description>
-        <imageUrl>https://img.youtube.com/vi/XpFe9Mxi9pE/0.jpg</imageUrl>
-        <videoId>XpFe9Mxi9pE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
