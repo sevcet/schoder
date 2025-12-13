@@ -1,63 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Crime">
     <movie>
-        <title>Kansas City Confidential</title>
-        <year>1952</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>An ex-convict sets out to uncover who framed him for an armored car robbery.</description>
-        <imageUrl>https://img.youtube.com/vi/oSgrXAes_MI/0.jpg</imageUrl>
-        <videoId>oSgrXAes_MI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>pt-BR</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>es-419</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>fr</audio>
-            <audio>pt</audio>
-            <audio>en</audio>
-            <audio>de</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Deadly Mission – One City, One Man, No Escape</title>
         <year>2008</year>
         <genre>Crime</genre>
@@ -113,6 +56,63 @@
             <audio>hi</audio>
             <audio>en</audio>
             <audio>ro</audio>
+            <audio>de</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Kansas City Confidential</title>
+        <year>1952</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>An ex-convict sets out to uncover who framed him for an armored car robbery.</description>
+        <imageUrl>https://img.youtube.com/vi/oSgrXAes_MI/0.jpg</imageUrl>
+        <videoId>oSgrXAes_MI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>pt-BR</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>es-419</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>fr</audio>
+            <audio>pt</audio>
+            <audio>en</audio>
             <audio>de</audio>
         </available_audio>
     </movie>
@@ -750,18 +750,19 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Gardenia Giustiziere Delmala</title>
-        <year>1979</year>
+        <title>The Irish Mob</title>
+        <year>2023</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>A businessman comes into conflict with a gangster when he refuses to allow drugs to be sold through his restaurant.</description>
-        <imageUrl>https://img.youtube.com/vi/ODcnAMc2wrA/0.jpg</imageUrl>
-        <videoId>ODcnAMc2wrA</videoId>
+        <description>Meet big-time crime boss Val Fagan, the leader of a brutal, cold-blooded gang who run the streets of Dublin. After a major armed robbery gets national attention, Val and his gang become the main targets of the Garda detectives - who will go to any length to disrupt his operation and bring him down.</description>
+        <imageUrl>https://img.youtube.com/vi/lPLfQ-mq3UM/0.jpg</imageUrl>
+        <videoId>lPLfQ-mq3UM</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
@@ -778,6 +779,7 @@
             <sub>ja</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -787,17 +789,13 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -851,19 +849,18 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Irish Mob</title>
-        <year>2023</year>
+        <title>Gardenia Giustiziere Delmala</title>
+        <year>1979</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>Meet big-time crime boss Val Fagan, the leader of a brutal, cold-blooded gang who run the streets of Dublin. After a major armed robbery gets national attention, Val and his gang become the main targets of the Garda detectives - who will go to any length to disrupt his operation and bring him down.</description>
-        <imageUrl>https://img.youtube.com/vi/lPLfQ-mq3UM/0.jpg</imageUrl>
-        <videoId>lPLfQ-mq3UM</videoId>
+        <description>A businessman comes into conflict with a gangster when he refuses to allow drugs to be sold through his restaurant.</description>
+        <imageUrl>https://img.youtube.com/vi/ODcnAMc2wrA/0.jpg</imageUrl>
+        <videoId>ODcnAMc2wrA</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
@@ -880,7 +877,6 @@
             <sub>ja</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -890,13 +886,17 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
+            <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1059,6 +1059,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>After Dark, My Sweet</title>
+        <year>1990</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Three desperados try to kidnap a wealthy child in hope of turning their lives around.</description>
+        <imageUrl>https://img.youtube.com/vi/ZsoJ_mjMmFo/0.jpg</imageUrl>
+        <videoId>ZsoJ_mjMmFo</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Kansas City Confidential</title>
         <year>1952</year>
         <genre>Crime</genre>
@@ -1107,55 +1156,6 @@
             <sub>ur</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>After Dark, My Sweet</title>
-        <year>1990</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Three desperados try to kidnap a wealthy child in hope of turning their lives around.</description>
-        <imageUrl>https://img.youtube.com/vi/ZsoJ_mjMmFo/0.jpg</imageUrl>
-        <videoId>ZsoJ_mjMmFo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -1365,30 +1365,29 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Teenagers From Outer Space</title>
-        <year>1959</year>
+        <title>Hidden Crimes</title>
+        <year>2009</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>A young alien falls for a pretty teenage Earth girl and they team up to try to stop the plans of his invading cohorts, who intend to use Earth as a food-breeding ground for giant lobsters from their planet.</description>
-        <imageUrl>https://img.youtube.com/vi/8M_epWZz7lM/0.jpg</imageUrl>
-        <videoId>8M_epWZz7lM</videoId>
+        <description>After her brother is attacked in jail and stays in a coma, Julia has to face her nephew's kidnappers, while trying to figure out what her brother meant with his last letter.</description>
+        <imageUrl>https://img.youtube.com/vi/_Kv214e7RXk/0.jpg</imageUrl>
+        <videoId>_Kv214e7RXk</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>zh</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
-            <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
             <sub>iw</sub>
-            <sub>hi</sub>
             <sub>hu</sub>
-            <sub>id</sub>
             <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -1397,17 +1396,14 @@
             <sub>sr</sub>
             <sub>es</sub>
             <sub>sw</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
+            <sub>sv</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>fr</audio>
+            <audio>es</audio>
             <audio>en</audio>
+            <audio>fr</audio>
+            <audio>it</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1457,6 +1453,52 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Teenagers From Outer Space</title>
+        <year>1959</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>A young alien falls for a pretty teenage Earth girl and they team up to try to stop the plans of his invading cohorts, who intend to use Earth as a food-breeding ground for giant lobsters from their planet.</description>
+        <imageUrl>https://img.youtube.com/vi/8M_epWZz7lM/0.jpg</imageUrl>
+        <videoId>8M_epWZz7lM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1513,29 +1555,35 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Hidden Crimes</title>
-        <year>2009</year>
+        <title>A Stranger In Town</title>
+        <year>1943</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>After her brother is attacked in jail and stays in a coma, Julia has to face her nephew's kidnappers, while trying to figure out what her brother meant with his last letter.</description>
-        <imageUrl>https://img.youtube.com/vi/_Kv214e7RXk/0.jpg</imageUrl>
-        <videoId>_Kv214e7RXk</videoId>
+        <description>In the small town of Crownport local attorney Bill Adams is trying to break up the ring of corrupt town officials by running for mayor. The cards seemed stacked against him when he gets help from a visiting hunter who, unknown to Adams and the rest of the town, is actually vacationing supreme court justice John Josephus Grant.</description>
+        <imageUrl>https://img.youtube.com/vi/p0fRb3yfpTY/0.jpg</imageUrl>
+        <videoId>p0fRb3yfpTY</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
+            <sub>zh</sub>
             <sub>hr</sub>
             <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
+            <sub>fil</sub>
             <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
             <sub>iw</sub>
+            <sub>hi</sub>
             <sub>hu</sub>
+            <sub>id</sub>
             <sub>it</sub>
-            <sub>no</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -1545,13 +1593,18 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
+            <sub>th</sub>
             <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
-            <audio>en</audio>
-            <audio>fr</audio>
             <audio>it</audio>
+            <audio>default</audio>
+            <audio>pt</audio>
+            <audio>en</audio>
+            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1604,59 +1657,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Stranger In Town</title>
-        <year>1943</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>In the small town of Crownport local attorney Bill Adams is trying to break up the ring of corrupt town officials by running for mayor. The cards seemed stacked against him when he gets help from a visiting hunter who, unknown to Adams and the rest of the town, is actually vacationing supreme court justice John Josephus Grant.</description>
-        <imageUrl>https://img.youtube.com/vi/p0fRb3yfpTY/0.jpg</imageUrl>
-        <videoId>p0fRb3yfpTY</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>it</audio>
-            <audio>default</audio>
-            <audio>pt</audio>
-            <audio>en</audio>
-            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1827,6 +1827,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Corrupted Cop</title>
+        <year>2009</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>In the early 1970s, the Governor of Hong Kong decided to clean up the police force. The ICAC was established, whose operation branch was headed by Yim. Bong and Unicorn also joined the ICAC. Despite threats of violence and intimidation, they managed to bring about the downfall of the empire of graft.</description>
+        <imageUrl>https://img.youtube.com/vi/HMu66yKc2-c/0.jpg</imageUrl>
+        <videoId>HMu66yKc2-c</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Criminal Network</title>
         <year>2023</year>
         <genre>Crime</genre>
@@ -1875,55 +1924,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Corrupted Cop</title>
-        <year>2009</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>In the early 1970s, the Governor of Hong Kong decided to clean up the police force. The ICAC was established, whose operation branch was headed by Yim. Bong and Unicorn also joined the ICAC. Despite threats of violence and intimidation, they managed to bring about the downfall of the empire of graft.</description>
-        <imageUrl>https://img.youtube.com/vi/HMu66yKc2-c/0.jpg</imageUrl>
-        <videoId>HMu66yKc2-c</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2067,6 +2067,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>A Violent Man</title>
+        <year>2019</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>A struggling mixed martial arts fighter finds himself in a fight for his life after his one night stand is found dead in her home.</description>
+        <imageUrl>https://img.youtube.com/vi/OQ8vsrxnY-4/0.jpg</imageUrl>
+        <videoId>OQ8vsrxnY-4</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Death In The Highlands</title>
         <year>2014</year>
         <genre>Crime</genre>
@@ -2113,51 +2162,53 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Violent Man</title>
-        <year>2019</year>
+        <title>The Crooked Way</title>
+        <year>1949</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>A struggling mixed martial arts fighter finds himself in a fight for his life after his one night stand is found dead in her home.</description>
-        <imageUrl>https://img.youtube.com/vi/OQ8vsrxnY-4/0.jpg</imageUrl>
-        <videoId>OQ8vsrxnY-4</videoId>
+        <description>A war veteran suffering from amnesia, returns to Los Angeles from a San Francisco veterans hospital hoping to learn who he is and discovers his criminal past.</description>
+        <imageUrl>https://img.youtube.com/vi/ZceZFGTGiZE/0.jpg</imageUrl>
+        <videoId>ZceZFGTGiZE</videoId>
         <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2258,57 +2309,6 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Crooked Way</title>
-        <year>1949</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>A war veteran suffering from amnesia, returns to Los Angeles from a San Francisco veterans hospital hoping to learn who he is and discovers his criminal past.</description>
-        <imageUrl>https://img.youtube.com/vi/ZceZFGTGiZE/0.jpg</imageUrl>
-        <videoId>ZceZFGTGiZE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2567,35 +2567,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Irish Mummy</title>
-        <year>2019</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.</description>
-        <imageUrl>https://img.youtube.com/vi/45uDzFjkmIQ/0.jpg</imageUrl>
-        <videoId>45uDzFjkmIQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>pt-BR</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>es-419</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>pt-BR</audio>
-            <audio>es</audio>
-            <audio>es-419</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>New York Confidential</title>
         <year>1955</year>
         <genre>Crime</genre>
@@ -2645,6 +2616,35 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Irish Mummy</title>
+        <year>2019</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.</description>
+        <imageUrl>https://img.youtube.com/vi/45uDzFjkmIQ/0.jpg</imageUrl>
+        <videoId>45uDzFjkmIQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>pt-BR</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>es-419</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>pt-BR</audio>
+            <audio>es</audio>
+            <audio>es-419</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3351,50 +3351,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Châtiment Des Traîtres Du Kung Fu</title>
-        <year>1987</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Liberal district attorney decides to seek the death penalty for a man who slaughtered a family at Christmastime, then drank their blood. He escapes, though, and starts killing again.</description>
-        <imageUrl>https://img.youtube.com/vi/61s3rJUNWVw/0.jpg</imageUrl>
-        <videoId>61s3rJUNWVw</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Force Of Evil</title>
         <year>1950</year>
         <genre>Crime</genre>
@@ -3441,6 +3397,50 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Châtiment Des Traîtres Du Kung Fu</title>
+        <year>1987</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Liberal district attorney decides to seek the death penalty for a man who slaughtered a family at Christmastime, then drank their blood. He escapes, though, and starts killing again.</description>
+        <imageUrl>https://img.youtube.com/vi/61s3rJUNWVw/0.jpg</imageUrl>
+        <videoId>61s3rJUNWVw</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4392,57 +4392,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Terror In Portland City</title>
-        <year>1983</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Traumatized child grows up to commit serial murders, targeting men and women who look like his mom and her boyfriends.</description>
-        <imageUrl>https://img.youtube.com/vi/fUyQvaXPwnk/0.jpg</imageUrl>
-        <videoId>fUyQvaXPwnk</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Tunnel Of The Damned : Something In The Dark Wants To Feed</title>
         <year>2016</year>
         <genre>Crime</genre>
@@ -4491,6 +4440,57 @@
             <audio>fr</audio>
             <audio>ja</audio>
             <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Terror In Portland City</title>
+        <year>1983</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Traumatized child grows up to commit serial murders, targeting men and women who look like his mom and her boyfriends.</description>
+        <imageUrl>https://img.youtube.com/vi/fUyQvaXPwnk/0.jpg</imageUrl>
+        <videoId>fUyQvaXPwnk</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4562,51 +4562,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Mystery Man</title>
-        <year>1935</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Hard-boiled newspaper reporter Larry Doyle (Robert Armstrong) goes a bit too far in celebrating a work bonus and wakes up on a train bound for St. Louis with only a buck on his person. To remedy the problem, Doyle pawns the revolver he's carrying. When the gun is subsequently used in a murder, Doyle's problems only multiply. In the meantime, he's also fallen in love with a comely stranger (Maxine Doyle) he convinced to impersonate his wife.</description>
-        <imageUrl>https://img.youtube.com/vi/RPEXxyuIWhg/0.jpg</imageUrl>
-        <videoId>RPEXxyuIWhg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Brain Machine 1972</title>
         <year>1955</year>
         <genre>Crime</genre>
@@ -4644,6 +4599,51 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Mystery Man</title>
+        <year>1935</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Hard-boiled newspaper reporter Larry Doyle (Robert Armstrong) goes a bit too far in celebrating a work bonus and wakes up on a train bound for St. Louis with only a buck on his person. To remedy the problem, Doyle pawns the revolver he's carrying. When the gun is subsequently used in a murder, Doyle's problems only multiply. In the meantime, he's also fallen in love with a comely stranger (Maxine Doyle) he convinced to impersonate his wife.</description>
+        <imageUrl>https://img.youtube.com/vi/RPEXxyuIWhg/0.jpg</imageUrl>
+        <videoId>RPEXxyuIWhg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
             <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
@@ -4716,6 +4716,55 @@
         <videoId>W6xle9vlKNk</videoId>
         <available_subtitles>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Essex Heist</title>
+        <year>2017</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Times are tough for Jez .and his motley crew of car mechanics, scraping a dishonest living in a small town on the Essex coast. So when they hear on the grapevine that a million pounds in cash is being transported across town, Jez plans an elaborate heist. There's just one problem - the cash belongs to local crime kingpin.</description>
+        <imageUrl>https://img.youtube.com/vi/h_JG6ZJYRzs/0.jpg</imageUrl>
+        <videoId>h_JG6ZJYRzs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -4935,23 +4984,24 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Essex Heist</title>
-        <year>2017</year>
+        <title>The Frontier Knight</title>
+        <year>2016</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>Times are tough for Jez .and his motley crew of car mechanics, scraping a dishonest living in a small town on the Essex coast. So when they hear on the grapevine that a million pounds in cash is being transported across town, Jez plans an elaborate heist. There's just one problem - the cash belongs to local crime kingpin.</description>
-        <imageUrl>https://img.youtube.com/vi/h_JG6ZJYRzs/0.jpg</imageUrl>
-        <videoId>h_JG6ZJYRzs</videoId>
+        <description>A desperate young woman, on the run from the law, takes a job at a remote desert motel. She quickly discovers the motel's patrons are rendezvousing after a large robbery. With nothing to lose, and all to gain, she hatches a plan to steal their loot.</description>
+        <imageUrl>https://img.youtube.com/vi/TMIzTZRbUT4/0.jpg</imageUrl>
+        <videoId>TMIzTZRbUT4</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -4961,36 +5011,36 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
-            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>si</sub>
+            <sub>sr</sub>
             <sub>es</sub>
-            <sub>su</sub>
+            <sub>sw</sub>
             <sub>sv</sub>
+            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
-        <title>The Frontier Knight</title>
-        <year>2016</year>
+        <title>Scandalous Secrets Of ‘Jennie: Wife/Child’ 1968 – A Lost 60S Exploitation Gem!</title>
+        <year>2013</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>A desperate young woman, on the run from the law, takes a job at a remote desert motel. She quickly discovers the motel's patrons are rendezvousing after a large robbery. With nothing to lose, and all to gain, she hatches a plan to steal their loot.</description>
-        <imageUrl>https://img.youtube.com/vi/TMIzTZRbUT4/0.jpg</imageUrl>
-        <videoId>TMIzTZRbUT4</videoId>
+        <description>A reporter and a prosecutor investigate the death of an actress, and in the process come into conflict with a group of very powerful people. Based on the true story of actress Jang Ja-yeon's suicide.</description>
+        <imageUrl>https://img.youtube.com/vi/CTzbxcPUeAU/0.jpg</imageUrl>
+        <videoId>CTzbxcPUeAU</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -5086,56 +5136,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Scandalous Secrets Of ‘Jennie: Wife/Child’ 1968 – A Lost 60S Exploitation Gem!</title>
-        <year>2013</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>A reporter and a prosecutor investigate the death of an actress, and in the process come into conflict with a group of very powerful people. Based on the true story of actress Jang Ja-yeon's suicide.</description>
-        <imageUrl>https://img.youtube.com/vi/CTzbxcPUeAU/0.jpg</imageUrl>
-        <videoId>CTzbxcPUeAU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Hold That Woman!</title>
         <year>1940</year>
         <genre>Crime</genre>
@@ -5210,6 +5210,55 @@
             <sub>uk</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Band Of Rebels : Outnumbered, Outgunned… Never Out Of Courage!</title>
+        <year>1964</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.</description>
+        <imageUrl>https://img.youtube.com/vi/LuOkOf3qJHI/0.jpg</imageUrl>
+        <videoId>LuOkOf3qJHI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5446,21 +5495,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>City Of Missing Girls</title>
-        <year>1941</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>A female reporter goes undercover to investigate the series of mysterious disappearances of young women, who were all linked to a local drama school.</description>
-        <imageUrl>https://img.youtube.com/vi/K3BlKp3S4TM/0.jpg</imageUrl>
-        <videoId>K3BlKp3S4TM</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>F.B.I. Girl</title>
         <year>1951</year>
         <genre>Crime</genre>
@@ -5504,6 +5538,21 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>City Of Missing Girls</title>
+        <year>1941</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>A female reporter goes undercover to investigate the series of mysterious disappearances of young women, who were all linked to a local drama school.</description>
+        <imageUrl>https://img.youtube.com/vi/K3BlKp3S4TM/0.jpg</imageUrl>
+        <videoId>K3BlKp3S4TM</videoId>
+        <available_subtitles>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
@@ -5705,6 +5754,52 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Woman In The Window</title>
+        <year>2021</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.</description>
+        <imageUrl>https://img.youtube.com/vi/EA7TtCxJzfM/0.jpg</imageUrl>
+        <videoId>EA7TtCxJzfM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Endgame</title>
         <year>2001</year>
         <genre>Crime</genre>
@@ -5868,55 +5963,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Bruce Lee Contre Supermen</title>
-        <year>1975</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>"The Green Hornet" (a red spandex and cape wearing duo) is called in to assist in rescuing a kidnapped scientist.</description>
-        <imageUrl>https://img.youtube.com/vi/Nr3yJACwb0s/0.jpg</imageUrl>
-        <videoId>Nr3yJACwb0s</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Gang Busters</title>
         <year>1942</year>
         <genre>Crime</genre>
@@ -5967,6 +6013,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Bruce Lee Contre Supermen</title>
+        <year>1975</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>"The Green Hornet" (a red spandex and cape wearing duo) is called in to assist in rescuing a kidnapped scientist.</description>
+        <imageUrl>https://img.youtube.com/vi/Nr3yJACwb0s/0.jpg</imageUrl>
+        <videoId>Nr3yJACwb0s</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Anatomy Of A Psycho</title>
         <year>1961</year>
         <genre>Crime</genre>
@@ -5982,49 +6077,52 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Woman In The Window</title>
-        <year>2021</year>
+        <title>Winter Of Frozen Dreams</title>
+        <year>2009</year>
         <genre>Crime</genre>
         <type>film</type>
-        <description>An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.</description>
-        <imageUrl>https://img.youtube.com/vi/EA7TtCxJzfM/0.jpg</imageUrl>
-        <videoId>EA7TtCxJzfM</videoId>
+        <description>Barbara Hoffman is a University of Wisconsin science student. She is a part-time employee at a local massage parlor. She is also a killer. Now all Detective Lulling has to do is prove it.</description>
+        <imageUrl>https://img.youtube.com/vi/6TmsTZRn0C0/0.jpg</imageUrl>
+        <videoId>6TmsTZRn0C0</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>bn</sub>
             <sub>bg</sub>
+            <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
+            <sub>iw</sub>
             <sub>hi</sub>
             <sub>hu</sub>
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
-            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>ml</sub>
             <sub>no</sub>
+            <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>si</sub>
+            <sub>sr</sub>
             <sub>es</sub>
-            <sub>su</sub>
+            <sub>sw</sub>
             <sub>sv</sub>
+            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6462,55 +6560,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Band Of Rebels : Outnumbered, Outgunned… Never Out Of Courage!</title>
-        <year>1964</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.</description>
-        <imageUrl>https://img.youtube.com/vi/LuOkOf3qJHI/0.jpg</imageUrl>
-        <videoId>LuOkOf3qJHI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Green Glove</title>
         <year>1952</year>
         <genre>Crime</genre>
@@ -6541,6 +6590,55 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Stranger In The House</title>
+        <year>1967</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>John Sawyer, once an eminent barrister, has slid into a life of cynicism and drunkenness since his wife left him. When his daughter's boyfriend is accused of murder, Sawyer decides to try to pull himself together and defend him in court.</description>
+        <imageUrl>https://img.youtube.com/vi/j8FfFBhEYHI/0.jpg</imageUrl>
+        <videoId>j8FfFBhEYHI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6741,56 +6839,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Brother, Cry For Me</title>
-        <year>1970</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Three estranged brothers receive a mysterious letter from their late father inviting them to collect a large inheritance from an Aztec pyramid in far away Boca Nueva.  Realizing that they each have a stake in their father’s fortune, the brothers become murderously competitive.</description>
-        <imageUrl>https://img.youtube.com/vi/T2JQEyea3d0/0.jpg</imageUrl>
-        <videoId>T2JQEyea3d0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Girls In Chains</title>
         <year>1943</year>
         <genre>Crime</genre>
@@ -6814,6 +6862,55 @@
             <sub>es</sub>
             <sub>sv</sub>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Ted Bundy: Serial Killer</title>
+        <year>2021</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>The complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Ted Bundy during Bundy's final years on death row.</description>
+        <imageUrl>https://img.youtube.com/vi/4qrf2LtyA3A/0.jpg</imageUrl>
+        <videoId>4qrf2LtyA3A</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -6869,55 +6966,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Ted Bundy: Serial Killer</title>
-        <year>2021</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>The complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Ted Bundy during Bundy's final years on death row.</description>
-        <imageUrl>https://img.youtube.com/vi/4qrf2LtyA3A/0.jpg</imageUrl>
-        <videoId>4qrf2LtyA3A</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7564,6 +7612,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Paper Tiger</title>
+        <year />
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>Two brothers pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family, testing their bond as betrayal becomes possible.</description>
+        <imageUrl>https://img.youtube.com/vi/l43v52Fcta8/0.jpg</imageUrl>
+        <videoId>l43v52Fcta8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Racketeer</title>
         <year>1929</year>
         <genre>Crime</genre>
@@ -7713,55 +7811,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Winter Of Frozen Dreams</title>
-        <year>2009</year>
-        <genre>Crime</genre>
-        <type>film</type>
-        <description>Barbara Hoffman is a University of Wisconsin science student. She is a part-time employee at a local massage parlor. She is also a killer. Now all Detective Lulling has to do is prove it.</description>
-        <imageUrl>https://img.youtube.com/vi/6TmsTZRn0C0/0.jpg</imageUrl>
-        <videoId>6TmsTZRn0C0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>What Price Crime</title>
         <year>1935</year>
         <genre>Crime</genre>
@@ -7820,6 +7869,21 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Money Madness</title>
+        <year>1917</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>When a bank is on the verge of collapse, its president, George Fuller, uses his own fortune to cover its losses. Unknown to Fuller, however, Monroe Simmons, his vice-president, is undermining the bank for his own purposes. Then Tom Williams, who is in love with Fuller's daughter Ethel, asks his uncle, famous detective "Whispering Smith," to investigate the case.</description>
+        <imageUrl>https://img.youtube.com/vi/XEHjXM_iINE/0.jpg</imageUrl>
+        <videoId>XEHjXM_iINE</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -8138,6 +8202,56 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Man Who Cheated Himself</title>
+        <year>1950</year>
+        <genre>Crime</genre>
+        <type>film</type>
+        <description>A veteran homicide detective who has witnessed his socialite girlfriend kill her husband sees his inexperienced brother assigned to the case.</description>
+        <imageUrl>https://img.youtube.com/vi/dPfaIzYXna0/0.jpg</imageUrl>
+        <videoId>dPfaIzYXna0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
