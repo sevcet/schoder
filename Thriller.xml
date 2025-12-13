@@ -797,6 +797,58 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Liberty Stands Still</title>
+        <year>2002</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>As the heir and current marketing director for one of the nation's biggest gun manufacturers, Liberty Wallace is indifferent to the atrocities made possible through her business and her CEO husband, Victor. On her way to see her actor lover, Liberty ends up chained to a food cart full of explosives -- all at the insistence of "Joe", a sniper whose young daughter was a victim of gun violence, and who now has Liberty in his sights.</description>
+        <imageUrl>https://img.youtube.com/vi/Plz67NYK2A8/0.jpg</imageUrl>
+        <videoId>Plz67NYK2A8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>es-419</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es-419</audio>
+            <audio>es</audio>
+            <audio>en-US</audio>
+            <audio>fr</audio>
+            <audio>default</audio>
+            <audio>pt</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Professional</title>
         <year>1973</year>
         <genre>Thriller</genre>
@@ -847,58 +899,6 @@
             <audio>fr</audio>
             <audio>en</audio>
             <audio>de</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Liberty Stands Still</title>
-        <year>2002</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>As the heir and current marketing director for one of the nation's biggest gun manufacturers, Liberty Wallace is indifferent to the atrocities made possible through her business and her CEO husband, Victor. On her way to see her actor lover, Liberty ends up chained to a food cart full of explosives -- all at the insistence of "Joe", a sniper whose young daughter was a victim of gun violence, and who now has Liberty in his sights.</description>
-        <imageUrl>https://img.youtube.com/vi/Plz67NYK2A8/0.jpg</imageUrl>
-        <videoId>Plz67NYK2A8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>es-419</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es-419</audio>
-            <audio>es</audio>
-            <audio>en-US</audio>
-            <audio>fr</audio>
-            <audio>default</audio>
-            <audio>pt</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1117,6 +1117,106 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Coyote</title>
+        <year>2014</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>An insomniac writer's sleep-deprived hallucinations distort reality as paranoia drives him to extreme violence.</description>
+        <imageUrl>https://img.youtube.com/vi/xaLuzQUHrPs/0.jpg</imageUrl>
+        <videoId>xaLuzQUHrPs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Wicked Minds</title>
+        <year>2003</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.</description>
+        <imageUrl>https://img.youtube.com/vi/oli-A3Yw0y0/0.jpg</imageUrl>
+        <videoId>oli-A3Yw0y0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>So Sweet... So Perverse</title>
         <year>1969</year>
         <genre>Thriller</genre>
@@ -1166,57 +1266,6 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Coyote</title>
-        <year>2014</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>An insomniac writer's sleep-deprived hallucinations distort reality as paranoia drives him to extreme violence.</description>
-        <imageUrl>https://img.youtube.com/vi/xaLuzQUHrPs/0.jpg</imageUrl>
-        <videoId>xaLuzQUHrPs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1387,18 +1436,17 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Wicked Minds</title>
-        <year>2003</year>
+        <title>Brotherhood Of Justice</title>
+        <year>1986</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.</description>
-        <imageUrl>https://img.youtube.com/vi/oli-A3Yw0y0/0.jpg</imageUrl>
-        <videoId>oli-A3Yw0y0</videoId>
+        <description>High-school students start a vigilante group in their neighbourhood but, as their power increases, they become more abusive and dangerous.</description>
+        <imageUrl>https://img.youtube.com/vi/jwX6qnkL71g/0.jpg</imageUrl>
+        <videoId>jwX6qnkL71g</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
             <sub>bg</sub>
-            <sub>zh</sub>
             <sub>hr</sub>
             <sub>da</sub>
             <sub>nl</sub>
@@ -1407,7 +1455,6 @@
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
-            <sub>iw</sub>
             <sub>hi</sub>
             <sub>hu</sub>
             <sub>id</sub>
@@ -1418,13 +1465,13 @@
             <sub>ms</sub>
             <sub>ml</sub>
             <sub>no</sub>
-            <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
             <sub>si</sub>
             <sub>es</sub>
+            <sub>es-419</sub>
             <sub>su</sub>
             <sub>sv</sub>
             <sub>th</sub>
@@ -1432,7 +1479,13 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>es-419</audio>
+            <audio>es</audio>
+            <audio>en-US</audio>
+            <audio>fr</audio>
             <audio>default</audio>
+            <audio>pt</audio>
+            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1489,59 +1542,6 @@
             <audio>it</audio>
             <audio>es</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Brotherhood Of Justice</title>
-        <year>1986</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>High-school students start a vigilante group in their neighbourhood but, as their power increases, they become more abusive and dangerous.</description>
-        <imageUrl>https://img.youtube.com/vi/jwX6qnkL71g/0.jpg</imageUrl>
-        <videoId>jwX6qnkL71g</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>es-419</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es-419</audio>
-            <audio>es</audio>
-            <audio>en-US</audio>
-            <audio>fr</audio>
-            <audio>default</audio>
-            <audio>pt</audio>
-            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1854,55 +1854,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Killer Next Door</title>
-        <year>2020</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>The true story of how a young girl begins to suspect that her neighbour on a quiet suburban street is fugitive family killer John List.</description>
-        <imageUrl>https://img.youtube.com/vi/I7TH0urujP0/0.jpg</imageUrl>
-        <videoId>I7TH0urujP0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Doll Of Satan</title>
         <year>1969</year>
         <genre>Thriller</genre>
@@ -1949,6 +1900,55 @@
         <available_audio>
             <audio>de</audio>
             <audio>it</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Designated Killer</title>
+        <year />
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Movie not found on TMDB.</description>
+        <imageUrl>https://img.youtube.com/vi/aGgMGtdMmzY/0.jpg</imageUrl>
+        <videoId>aGgMGtdMmzY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2002,13 +2002,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Designated Killer</title>
-        <year />
+        <title>A Killer Next Door</title>
+        <year>2020</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/aGgMGtdMmzY/0.jpg</imageUrl>
-        <videoId>aGgMGtdMmzY</videoId>
+        <description>The true story of how a young girl begins to suspect that her neighbour on a quiet suburban street is fugitive family killer John List.</description>
+        <imageUrl>https://img.youtube.com/vi/I7TH0urujP0/0.jpg</imageUrl>
+        <videoId>I7TH0urujP0</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -2102,13 +2102,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Absolute Killers</title>
-        <year>2011</year>
+        <title>Sleuth</title>
+        <year>1972</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Johnny Graham, raised by the Torino crime family after the death of his parents, is repeatedly torn between loyalty to his adoptive family and his conscience. When Anthony Torino, the volatile heir-apparent, turns his deadly sights on the DA prosecuting him for the cold-blooded murder of his own cousin, Johnny is finally moved to act. Despite his role as family accountant, Johnny is quite the marksman. He convinces a reluctant Anthony into letting him eliminate DA Elizabeth Jones. Johnny's plan to simply warn her instead is thwarted by the arrival of a pair of Torino family goons sent to supervise his first hit. The ensuing shootout leaves Elizabeth wounded, one goon dead, and Johnny arrested. Johnny rolls on Anthony and enters the Witness Security Program.</description>
-        <imageUrl>https://img.youtube.com/vi/gqA4aioxz1g/0.jpg</imageUrl>
-        <videoId>gqA4aioxz1g</videoId>
+        <description>A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.</description>
+        <imageUrl>https://img.youtube.com/vi/YkxcddXoKpo/0.jpg</imageUrl>
+        <videoId>YkxcddXoKpo</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -2131,6 +2131,7 @@
             <sub>ja</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -2140,15 +2141,16 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>fr</audio>
+            <audio>ru</audio>
+            <audio>de</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2199,6 +2201,57 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Absolute Killers</title>
+        <year>2011</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Johnny Graham, raised by the Torino crime family after the death of his parents, is repeatedly torn between loyalty to his adoptive family and his conscience. When Anthony Torino, the volatile heir-apparent, turns his deadly sights on the DA prosecuting him for the cold-blooded murder of his own cousin, Johnny is finally moved to act. Despite his role as family accountant, Johnny is quite the marksman. He convinces a reluctant Anthony into letting him eliminate DA Elizabeth Jones. Johnny's plan to simply warn her instead is thwarted by the arrival of a pair of Torino family goons sent to supervise his first hit. The ensuing shootout leaves Elizabeth wounded, one goon dead, and Johnny arrested. Johnny rolls on Anthony and enters the Witness Security Program.</description>
+        <imageUrl>https://img.youtube.com/vi/gqA4aioxz1g/0.jpg</imageUrl>
+        <videoId>gqA4aioxz1g</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2253,59 +2306,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Sleuth</title>
-        <year>1972</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.</description>
-        <imageUrl>https://img.youtube.com/vi/YkxcddXoKpo/0.jpg</imageUrl>
-        <videoId>YkxcddXoKpo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>ru</audio>
-            <audio>de</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>He Walked By Night</title>
         <year>1949</year>
         <genre>Thriller</genre>
@@ -2356,6 +2356,56 @@
             <audio>default</audio>
             <audio>es</audio>
             <audio>it</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>All Eyes On Her</title>
+        <year>2022</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A disgraced podcast host interviews an eccentric farmer who claims to have a monster living in the woods near his house.</description>
+        <imageUrl>https://img.youtube.com/vi/F4_cZxJxcNE/0.jpg</imageUrl>
+        <videoId>F4_cZxJxcNE</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2460,56 +2510,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>All Eyes On Her</title>
-        <year>2022</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A disgraced podcast host interviews an eccentric farmer who claims to have a monster living in the woods near his house.</description>
-        <imageUrl>https://img.youtube.com/vi/F4_cZxJxcNE/0.jpg</imageUrl>
-        <videoId>F4_cZxJxcNE</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Case Of The Frightened Lady</title>
         <year>1940</year>
         <genre>Thriller</genre>
@@ -2558,6 +2558,55 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Betrayed: His Double Life</title>
+        <year>2016</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A young woman returns home from college and becomes suspicious of her new stepdad, her late father's business partner, after she discovers him meeting with a mysterious woman who turns up dead the following day.</description>
+        <imageUrl>https://img.youtube.com/vi/QJENeTSy0L0/0.jpg</imageUrl>
+        <videoId>QJENeTSy0L0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2652,21 +2701,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Machine World</title>
-        <year>1981</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>After the passing of her husband, the commissioned painter Anneliese Psiko decides to travel across the country. In the Austrian province of Styria, she discovers a strange work of art entitled "Weltmaschine" (World Machine). From now on, it will change her life significantly.</description>
-        <imageUrl>https://img.youtube.com/vi/lZv9vAxEioI/0.jpg</imageUrl>
-        <videoId>lZv9vAxEioI</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>View Of Terror</title>
         <year>2003</year>
         <genre>Thriller</genre>
@@ -2713,6 +2747,75 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Machine World</title>
+        <year>1981</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>After the passing of her husband, the commissioned painter Anneliese Psiko decides to travel across the country. In the Austrian province of Styria, she discovers a strange work of art entitled "Weltmaschine" (World Machine). From now on, it will change her life significantly.</description>
+        <imageUrl>https://img.youtube.com/vi/lZv9vAxEioI/0.jpg</imageUrl>
+        <videoId>lZv9vAxEioI</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Fatal Error</title>
+        <year>1999</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Seven executives die while on a video conference call, the victims of a rapidly spreading virus. Dr. Samantha Craig (Janine Turner) and disgraced doctor Nick Baldwin (Antonio Sabato Jr.) investigate, tracking the disease to a rival firm able to spread computer viruses to humans. They also discover the virus has killed before and is continuing on its deadly path, unless someone can stop it.</description>
+        <imageUrl>https://img.youtube.com/vi/s233nKBjiTU/0.jpg</imageUrl>
+        <videoId>s233nKBjiTU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>it</audio>
+            <audio>fr</audio>
+            <audio>pt</audio>
+            <audio>en</audio>
+            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2811,55 +2914,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Betrayed: His Double Life</title>
-        <year>2016</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A young woman returns home from college and becomes suspicious of her new stepdad, her late father's business partner, after she discovers him meeting with a mysterious woman who turns up dead the following day.</description>
-        <imageUrl>https://img.youtube.com/vi/QJENeTSy0L0/0.jpg</imageUrl>
-        <videoId>QJENeTSy0L0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Spasmo 1974</title>
         <year>1974</year>
         <genre>Thriller</genre>
@@ -2907,60 +2961,6 @@
         <available_audio>
             <audio>fr</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Fatal Error</title>
-        <year>1999</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Seven executives die while on a video conference call, the victims of a rapidly spreading virus. Dr. Samantha Craig (Janine Turner) and disgraced doctor Nick Baldwin (Antonio Sabato Jr.) investigate, tracking the disease to a rival firm able to spread computer viruses to humans. They also discover the virus has killed before and is continuing on its deadly path, unless someone can stop it.</description>
-        <imageUrl>https://img.youtube.com/vi/s233nKBjiTU/0.jpg</imageUrl>
-        <videoId>s233nKBjiTU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>it</audio>
-            <audio>fr</audio>
-            <audio>pt</audio>
-            <audio>en</audio>
-            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3062,6 +3062,57 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Révoltées De L'Enfer</title>
+        <year>1983</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Indonesian film about a Punjabi girl getting tricked into living with a big time pimp. Uncle MG as they call him, abducts virgins, and forces them to submit to his hymen bustin ways. The not so attractive gals get several chances to marry Uncle MG, or it's into his private jail. Old wives become queen bees, and must submit to the guards.</description>
+        <imageUrl>https://img.youtube.com/vi/qC75Xk5sZ7I/0.jpg</imageUrl>
+        <videoId>qC75Xk5sZ7I</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>id</audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3280,57 +3331,6 @@
             <audio>fr</audio>
             <audio>de</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Révoltées De L'Enfer</title>
-        <year>1983</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Indonesian film about a Punjabi girl getting tricked into living with a big time pimp. Uncle MG as they call him, abducts virgins, and forces them to submit to his hymen bustin ways. The not so attractive gals get several chances to marry Uncle MG, or it's into his private jail. Old wives become queen bees, and must submit to the guards.</description>
-        <imageUrl>https://img.youtube.com/vi/qC75Xk5sZ7I/0.jpg</imageUrl>
-        <videoId>qC75Xk5sZ7I</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>id</audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3572,6 +3572,42 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Silent Night, Bloody Night</title>
+        <year>2014</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Pierre and Patricia have some friends around for Christmas Eve. But the evening is not going to unfold exactly as intended. A stranger bursts in and threatens each guest until they confess their little secrets and lies...</description>
+        <imageUrl>https://img.youtube.com/vi/-4LUDCdErUc/0.jpg</imageUrl>
+        <videoId>-4LUDCdErUc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ms</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>pt-BR</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sv</sub>
+            <sub>tr</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pt</audio>
+            <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Night Of Saint Germain Des Pres</title>
         <year>1977</year>
         <genre>Thriller</genre>
@@ -3718,42 +3754,6 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Silent Night, Bloody Night</title>
-        <year>2014</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Pierre and Patricia have some friends around for Christmas Eve. But the evening is not going to unfold exactly as intended. A stranger bursts in and threatens each guest until they confess their little secrets and lies...</description>
-        <imageUrl>https://img.youtube.com/vi/-4LUDCdErUc/0.jpg</imageUrl>
-        <videoId>-4LUDCdErUc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ms</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>pt-BR</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sv</sub>
-            <sub>tr</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>pt</audio>
-            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4135,18 +4135,101 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Three Souls</title>
-        <year>2020</year>
+        <title>Turbulence Ii : Fear Of Flying</title>
+        <year>1999</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Three Pirquineros mounted on horseback to a long-seeked vein of gold located in the high mountain range of Atacama. Not long after reaching the planned place, the controversy arises over the Quispe sisters, belonging to the Kolla ethnic group, and their mysterious tragedy, as the place is a few meters from the rock where they were found hanging without life in December 1974. The Pirquineros arrive at their destination with rarefied spirits. They set up the base camp in the middle of an atmosphere charged with disturbing mystery. There, around the fire, they begin to tell some ghost stories, until Pascual resumes the theme about the triple crime, providing a testimony about his experience of having witnessed the macabre discovery. Paicha, who listens silently and attentively, has a traumatic memory of when he was a child: hidden behind a rock, he observes a violent episode of repression and mistreatment of indigenous shepherds.</description>
-        <imageUrl>https://img.youtube.com/vi/OBIng0cCL0o/0.jpg</imageUrl>
-        <videoId>OBIng0cCL0o</videoId>
+        <description>A passenger of a hijacked airliner who happens to be an airplane engineer works to deactivate a chemical weapons bomb after the hijackers kill the pilot and threaten to kill all the passengers on the plane.</description>
+        <imageUrl>https://img.youtube.com/vi/9LUvjKleY_g/0.jpg</imageUrl>
+        <videoId>9LUvjKleY_g</videoId>
         <available_subtitles>
-            <sub>live_chat</sub>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>fr</audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Age Of Tomorrow</title>
+        <year>2014</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Mankind must fight to survive as Earth is invaded by hostile UFOs bent on destroying the planet. As the epic battle wages on, astronauts sneak aboard the mothership where they discover a portal to the aliens' home world. They manage to alert Earth before they are brutally murdered. Left with no other choice, Earth sends an elite military team of science and combat specialists through the portal where they attempt to stop the invasion from the inside out.</description>
+        <imageUrl>https://img.youtube.com/vi/xszn6QqLe8o/0.jpg</imageUrl>
+        <videoId>xszn6QqLe8o</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4201,6 +4284,21 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Three Souls</title>
+        <year>2020</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Three Pirquineros mounted on horseback to a long-seeked vein of gold located in the high mountain range of Atacama. Not long after reaching the planned place, the controversy arises over the Quispe sisters, belonging to the Kolla ethnic group, and their mysterious tragedy, as the place is a few meters from the rock where they were found hanging without life in December 1974. The Pirquineros arrive at their destination with rarefied spirits. They set up the base camp in the middle of an atmosphere charged with disturbing mystery. There, around the fire, they begin to tell some ghost stories, until Pascual resumes the theme about the triple crime, providing a testimony about his experience of having witnessed the macabre discovery. Paicha, who listens silently and attentively, has a traumatic memory of when he was a child: hidden behind a rock, he observes a violent episode of repression and mistreatment of indigenous shepherds.</description>
+        <imageUrl>https://img.youtube.com/vi/OBIng0cCL0o/0.jpg</imageUrl>
+        <videoId>OBIng0cCL0o</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Money Fight</title>
         <year>2021</year>
         <genre>Thriller</genre>
@@ -4252,55 +4350,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Age Of Tomorrow</title>
-        <year>2014</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Mankind must fight to survive as Earth is invaded by hostile UFOs bent on destroying the planet. As the epic battle wages on, astronauts sneak aboard the mothership where they discover a portal to the aliens' home world. They manage to alert Earth before they are brutally murdered. Left with no other choice, Earth sends an elite military team of science and combat specialists through the portal where they attempt to stop the invasion from the inside out.</description>
-        <imageUrl>https://img.youtube.com/vi/xszn6QqLe8o/0.jpg</imageUrl>
-        <videoId>xszn6QqLe8o</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Black Bags</title>
         <year>2023</year>
         <genre>Thriller</genre>
@@ -4345,55 +4394,6 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Turbulence Ii : Fear Of Flying</title>
-        <year>1999</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A passenger of a hijacked airliner who happens to be an airplane engineer works to deactivate a chemical weapons bomb after the hijackers kill the pilot and threaten to kill all the passengers on the plane.</description>
-        <imageUrl>https://img.youtube.com/vi/9LUvjKleY_g/0.jpg</imageUrl>
-        <videoId>9LUvjKleY_g</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -4687,6 +4687,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Cause Of Death</title>
+        <year>1991</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Colombian Drug Lord Mannel Ramirez is lured to Los Angles to retrieve his millions in Blood Money after the chance death of his brother. Jeff Rollins, who is a DEA agent, is alerted to Ramirez' arrival by his partner Harold McBain.  Ramirez is tough and smells a double-cross. A trail of death follows Ramirez after he arrives in L.A. The last man in his way is Jeff, who he quickly stabs. But is it safe for Ramirez to get his money from a bank vault that only he can open?  Jeff Rollins, left for dead, reaches his younger brother Campbell before he dies, Campbell, a college senior, and his girlfriend Jessica, are now involved. Campbell, an unlikely hero, is now caught in a double intrigue and must avenge his brother's death. He is willing to stop Ramirez at any cost.`</description>
+        <imageUrl>https://img.youtube.com/vi/qkhwmasJjLE/0.jpg</imageUrl>
+        <videoId>qkhwmasJjLE</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Woman In The Shadows</title>
         <year>2007</year>
         <genre>Thriller</genre>
@@ -4738,23 +4788,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Dentist</title>
-        <year>1996</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Dr. Alan Feinstone has everything: a beautiful wife and a successful career in dentistry. However, when he discovers his wife's affair, he realizes that behind every clean, white surface lies the stench of decay.</description>
-        <imageUrl>https://img.youtube.com/vi/8EwcBTEP0TE/0.jpg</imageUrl>
-        <videoId>8EwcBTEP0TE</videoId>
-        <available_subtitles>
-            <sub>fil</sub>
-            <sub>hi</sub>
-            <sub>ms</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Wait Till Helen Comes</title>
         <year>2016</year>
         <genre>Thriller</genre>
@@ -4798,6 +4831,23 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Dentist</title>
+        <year>1996</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Dr. Alan Feinstone has everything: a beautiful wife and a successful career in dentistry. However, when he discovers his wife's affair, he realizes that behind every clean, white surface lies the stench of decay.</description>
+        <imageUrl>https://img.youtube.com/vi/8EwcBTEP0TE/0.jpg</imageUrl>
+        <videoId>8EwcBTEP0TE</videoId>
+        <available_subtitles>
+            <sub>fil</sub>
+            <sub>hi</sub>
+            <sub>ms</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -4911,56 +4961,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Cause Of Death</title>
-        <year>1991</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Colombian Drug Lord Mannel Ramirez is lured to Los Angles to retrieve his millions in Blood Money after the chance death of his brother. Jeff Rollins, who is a DEA agent, is alerted to Ramirez' arrival by his partner Harold McBain.  Ramirez is tough and smells a double-cross. A trail of death follows Ramirez after he arrives in L.A. The last man in his way is Jeff, who he quickly stabs. But is it safe for Ramirez to get his money from a bank vault that only he can open?  Jeff Rollins, left for dead, reaches his younger brother Campbell before he dies, Campbell, a college senior, and his girlfriend Jessica, are now involved. Campbell, an unlikely hero, is now caught in a double intrigue and must avenge his brother's death. He is willing to stop Ramirez at any cost.`</description>
-        <imageUrl>https://img.youtube.com/vi/qkhwmasJjLE/0.jpg</imageUrl>
-        <videoId>qkhwmasJjLE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5144,6 +5144,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>A Family'S Last Resort</title>
+        <year>2022</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>While trying to save up for nursing school, Ana takes a remote post as a personal care worker for a wealthy woman with early onset dementia. But as she grows close to her new client, Joan, Ana becomes concerned that Joan's spoiled daughter, Carla, is trying to murder her to get her hands on her inheritance. Ana strikes up a romance with Joan's other adult child, Jason, who assures her Carla doesn't mean any harm, but Ana comes to realize he's deceiving her as well. Can Ana protect Joan, or will she get caught in the crossfire?</description>
+        <imageUrl>https://img.youtube.com/vi/HfJbA8s0A9g/0.jpg</imageUrl>
+        <videoId>HfJbA8s0A9g</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Stranger From Venus 1954</title>
         <year>1954</year>
         <genre>Thriller</genre>
@@ -5296,13 +5345,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Family'S Last Resort</title>
-        <year>2022</year>
+        <title>Demon Baby</title>
+        <year>2014</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>While trying to save up for nursing school, Ana takes a remote post as a personal care worker for a wealthy woman with early onset dementia. But as she grows close to her new client, Joan, Ana becomes concerned that Joan's spoiled daughter, Carla, is trying to murder her to get her hands on her inheritance. Ana strikes up a romance with Joan's other adult child, Jason, who assures her Carla doesn't mean any harm, but Ana comes to realize he's deceiving her as well. Can Ana protect Joan, or will she get caught in the crossfire?</description>
-        <imageUrl>https://img.youtube.com/vi/HfJbA8s0A9g/0.jpg</imageUrl>
-        <videoId>HfJbA8s0A9g</videoId>
+        <description>A young couple looking to rekindle a damaged relationship retreat to the remote Scottish Highlands. They are haunted by their past, their surroundings and each other.</description>
+        <imageUrl>https://img.youtube.com/vi/DTI4aY8uwtI/0.jpg</imageUrl>
+        <videoId>DTI4aY8uwtI</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -5418,6 +5467,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Forgotten Fighter</title>
+        <year>2004</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Telly Paretta is a grieving mother struggling to cope with the loss of her 8-year-old son. She is stunned when her psychiatrist reveals that she has created eight years of memories about a son she never had. But when she meets a man who has had a similar experience, Telly embarks on a search to prove her son's existence, and her sanity.</description>
+        <imageUrl>https://img.youtube.com/vi/susXIShMNiY/0.jpg</imageUrl>
+        <videoId>susXIShMNiY</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Million Reasons To Die</title>
         <year>2014</year>
         <genre>Thriller</genre>
@@ -5515,55 +5613,6 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Demon Baby</title>
-        <year>2014</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A young couple looking to rekindle a damaged relationship retreat to the remote Scottish Highlands. They are haunted by their past, their surroundings and each other.</description>
-        <imageUrl>https://img.youtube.com/vi/DTI4aY8uwtI/0.jpg</imageUrl>
-        <videoId>DTI4aY8uwtI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5666,52 +5715,55 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Forgotten Fighter</title>
-        <year>2004</year>
+        <title>Gaslight</title>
+        <year>1944</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Telly Paretta is a grieving mother struggling to cope with the loss of her 8-year-old son. She is stunned when her psychiatrist reveals that she has created eight years of memories about a son she never had. But when she meets a man who has had a similar experience, Telly embarks on a search to prove her son's existence, and her sanity.</description>
-        <imageUrl>https://img.youtube.com/vi/susXIShMNiY/0.jpg</imageUrl>
-        <videoId>susXIShMNiY</videoId>
+        <description>A newlywed fears she's going mad when strange things start happening at the family mansion.</description>
+        <imageUrl>https://img.youtube.com/vi/JBhhK_PPI6Y/0.jpg</imageUrl>
+        <videoId>JBhhK_PPI6Y</videoId>
         <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5758,55 +5810,6 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Falling For A Killer</title>
-        <year>2023</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>When Assistant DA Darcy Young, is invited to her estranged parents’ country home to meet her sister’s new fiance, Thomas Schure, she’s already dubious at the speed of the whirlwind romance, but as Thomas’s suspicious behavior begins to become increasingly more erratic, Darcy becomes convinced that Thomas is a danger to her entire family.</description>
-        <imageUrl>https://img.youtube.com/vi/hW4wdkxWFF8/0.jpg</imageUrl>
-        <videoId>hW4wdkxWFF8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5863,24 +5866,23 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Gaslight</title>
-        <year>1944</year>
+        <title>Falling For A Killer</title>
+        <year>2023</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>A newlywed fears she's going mad when strange things start happening at the family mansion.</description>
-        <imageUrl>https://img.youtube.com/vi/JBhhK_PPI6Y/0.jpg</imageUrl>
-        <videoId>JBhhK_PPI6Y</videoId>
+        <description>When Assistant DA Darcy Young, is invited to her estranged parents’ country home to meet her sister’s new fiance, Thomas Schure, she’s already dubious at the speed of the whirlwind romance, but as Thomas’s suspicious behavior begins to become increasingly more erratic, Darcy becomes convinced that Thomas is a danger to her entire family.</description>
+        <imageUrl>https://img.youtube.com/vi/hW4wdkxWFF8/0.jpg</imageUrl>
+        <videoId>hW4wdkxWFF8</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
-            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -5890,25 +5892,23 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
+            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>sr</sub>
+            <sub>si</sub>
             <sub>es</sub>
-            <sub>sw</sub>
+            <sub>su</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -6116,6 +6116,25 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Shock</title>
+        <year>2016</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>When a gruesome killer targets the staff of a Psychiatric facility, its up to ex-cop turned Private investigator David Evans to find the killer and put his own life back into perspective.</description>
+        <imageUrl>https://img.youtube.com/vi/m0hJ6rsUHbc/0.jpg</imageUrl>
+        <videoId>m0hJ6rsUHbc</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>de</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Detour</title>
         <year>2009</year>
         <genre>Thriller</genre>
@@ -6169,25 +6188,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Shock</title>
-        <year>2016</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>When a gruesome killer targets the staff of a Psychiatric facility, its up to ex-cop turned Private investigator David Evans to find the killer and put his own life back into perspective.</description>
-        <imageUrl>https://img.youtube.com/vi/m0hJ6rsUHbc/0.jpg</imageUrl>
-        <videoId>m0hJ6rsUHbc</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>de</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Hitch-Hiker</title>
         <year>1953</year>
         <genre>Thriller</genre>
@@ -6228,6 +6228,55 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>A Small Fortune</title>
+        <year>2021</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Kevin is an Irish Moss farmer committed to his traditional way of doing things at the expense of a more lucrative life for himself and his pregnant wife. When he finds a bag of money washed up on the shores of Prince Edward Island, his decision to keep it secret turns his quaint fishing village into a growing crime scene as the money’s owners come calling. Adapted from Adam Perry's award-winning short film A Blessing from the Sea.</description>
+        <imageUrl>https://img.youtube.com/vi/mFRDCxa-QnY/0.jpg</imageUrl>
+        <videoId>mFRDCxa-QnY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -6283,13 +6332,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Small Fortune</title>
-        <year>2021</year>
+        <title>D'Après Une Histoire Vraie</title>
+        <year>2017</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Kevin is an Irish Moss farmer committed to his traditional way of doing things at the expense of a more lucrative life for himself and his pregnant wife. When he finds a bag of money washed up on the shores of Prince Edward Island, his decision to keep it secret turns his quaint fishing village into a growing crime scene as the money’s owners come calling. Adapted from Adam Perry's award-winning short film A Blessing from the Sea.</description>
-        <imageUrl>https://img.youtube.com/vi/mFRDCxa-QnY/0.jpg</imageUrl>
-        <videoId>mFRDCxa-QnY</videoId>
+        <description>Delphine is the author of an autobiographical novel that has become a bestseller. Exhausted by the promotional tour, just when she feels out of place, paralyzed by the idea of having to start writing again, she meets Elle, a young, attractive, intelligent, intuitive woman who seems to understand her better than anyone.</description>
+        <imageUrl>https://img.youtube.com/vi/0NtURg8ZUE0/0.jpg</imageUrl>
+        <videoId>0NtURg8ZUE0</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -6328,7 +6377,28 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>fr</audio>
+            <audio>pt</audio>
+            <audio>es</audio>
             <audio>en</audio>
+            <audio>pl</audio>
+            <audio>ru</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>How Awful About Allan</title>
+        <year>1970</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>After an eight-month stay in a mental hospital, a tormented man comes home to live with his sister; but a mysterious boarder may be trying to kill him.</description>
+        <imageUrl>https://img.youtube.com/vi/To4jBX5jV68/0.jpg</imageUrl>
+        <videoId>To4jBX5jV68</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6375,19 +6445,53 @@
         </available_audio>
     </movie>
     <movie>
-        <title>How Awful About Allan</title>
-        <year>1970</year>
+        <title>Hidden Face</title>
+        <year>2011</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>After an eight-month stay in a mental hospital, a tormented man comes home to live with his sister; but a mysterious boarder may be trying to kill him.</description>
-        <imageUrl>https://img.youtube.com/vi/To4jBX5jV68/0.jpg</imageUrl>
-        <videoId>To4jBX5jV68</videoId>
+        <description>A Spanish orchestra conductor deals with the mysterious disappearance of his girlfriend.</description>
+        <imageUrl>https://img.youtube.com/vi/xs3b1Fvjzyo/0.jpg</imageUrl>
+        <videoId>xs3b1Fvjzyo</videoId>
         <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
             <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6457,13 +6561,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Hidden Face</title>
-        <year>2011</year>
+        <title>The Triumph Of Sherlock Holmes</title>
+        <year>1935</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>A Spanish orchestra conductor deals with the mysterious disappearance of his girlfriend.</description>
-        <imageUrl>https://img.youtube.com/vi/xs3b1Fvjzyo/0.jpg</imageUrl>
-        <videoId>xs3b1Fvjzyo</videoId>
+        <description>Holmes, retired to Sussex, is drawn into a last case when his arch enemy Moriarty arranges with an American gang to kill one John Douglas, a country gentleman with a mysterious past. Holmes' methods baffle Watson and Lestrade, but his results astonish them. In a long flashback, the victim's wife tells the story of the sinister Vermissa Valley.</description>
+        <imageUrl>https://img.youtube.com/vi/KasPpKBtmi8/0.jpg</imageUrl>
+        <videoId>KasPpKBtmi8</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -6657,56 +6761,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Triumph Of Sherlock Holmes</title>
-        <year>1935</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Holmes, retired to Sussex, is drawn into a last case when his arch enemy Moriarty arranges with an American gang to kill one John Douglas, a country gentleman with a mysterious past. Holmes' methods baffle Watson and Lestrade, but his results astonish them. In a long flashback, the victim's wife tells the story of the sinister Vermissa Valley.</description>
-        <imageUrl>https://img.youtube.com/vi/KasPpKBtmi8/0.jpg</imageUrl>
-        <videoId>KasPpKBtmi8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Panther'S Claw</title>
         <year>1942</year>
         <genre>Thriller</genre>
@@ -6811,6 +6865,57 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>47 Hours</title>
+        <year>2019</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Two socially awkward teenage girls, are bored one night and turn to the internet for scary stories. They find a game on a creepy website that claims you can use your phone to summon the supernatural...and if you lose the game...you lose your life.</description>
+        <imageUrl>https://img.youtube.com/vi/_xPQWsfWJ94/0.jpg</imageUrl>
+        <videoId>_xPQWsfWJ94</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -6984,6 +7089,58 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>True Justice : Street Wars</title>
+        <year>2011</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>When Officer Elijah Kane and his team of undercover cops discover a new lab drug flooding through the nightclubs of Seattle, they struggle to eliminate it from the streets immediately. As if dealing with a dozen dead ravers isn't enough, the cops begin to act as security guards for an obnoxious documentarian. They quickly become privy to the filmmaker's arrogance as he attempts to make a film regarding Seattle's underbelly.</description>
+        <imageUrl>https://img.youtube.com/vi/JiNjVMfAwr0/0.jpg</imageUrl>
+        <videoId>JiNjVMfAwr0</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>es-419</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>default</audio>
+            <audio>es-419</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7226,6 +7383,55 @@
         <videoId>4hD945aSPX8</videoId>
         <available_subtitles>
             <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Spring Break Carnage</title>
+        <year>2016</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>In a world where the zombie apocolypse is an unquestioned reality, truly righteous brothers tackle love, loss, and life lessons amid the backdrop of an epic spring break.</description>
+        <imageUrl>https://img.youtube.com/vi/fh_yeKOJSjs/0.jpg</imageUrl>
+        <videoId>fh_yeKOJSjs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -7631,6 +7837,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Impending Crash</title>
+        <year />
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Movie not found on TMDB.</description>
+        <imageUrl>https://img.youtube.com/vi/BeK1pfBmMyg/0.jpg</imageUrl>
+        <videoId>BeK1pfBmMyg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Pact</title>
         <year>1999</year>
         <genre>Thriller</genre>
@@ -7679,55 +7934,6 @@
             <audio>en</audio>
             <audio>es-419</audio>
             <audio>pt</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Impending Crash</title>
-        <year />
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/BeK1pfBmMyg/0.jpg</imageUrl>
-        <videoId>BeK1pfBmMyg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7903,21 +8109,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Cold Blooded Killer</title>
-        <year>1984</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Based on the life of Japanese serial killer and thief Kiyotaka Katsuta.</description>
-        <imageUrl>https://img.youtube.com/vi/PwMk-Omlev8/0.jpg</imageUrl>
-        <videoId>PwMk-Omlev8</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>I Bury The Living</title>
         <year>1958</year>
         <genre>Thriller</genre>
@@ -7962,6 +8153,21 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Cold Blooded Killer</title>
+        <year>1984</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Based on the life of Japanese serial killer and thief Kiyotaka Katsuta.</description>
+        <imageUrl>https://img.youtube.com/vi/PwMk-Omlev8/0.jpg</imageUrl>
+        <videoId>PwMk-Omlev8</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -8225,6 +8431,52 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Moving Targets</title>
+        <year>1999</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A pair of cops are following a lawyer who has information on a mobster. He's killed and his wife has to help the cops catch the bad guy.</description>
+        <imageUrl>https://img.youtube.com/vi/DKE48EYsqvc/0.jpg</imageUrl>
+        <videoId>DKE48EYsqvc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Among Thieves</title>
         <year>2001</year>
         <genre>Thriller</genre>
@@ -8391,19 +8643,24 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Action, Crime</title>
-        <year>2002</year>
+        <title>A Mother’S Love Can Summon The Dead</title>
+        <year>2018</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Drama about a former police officer who's framed for murder and a young boy who attempts to help him clear his name.</description>
-        <imageUrl>https://img.youtube.com/vi/R1WXK1cawrI/0.jpg</imageUrl>
-        <videoId>R1WXK1cawrI</videoId>
+        <description>When her daughter is abducted with no demand for ransom, an ex-hostage negotiator will do anything to find her.</description>
+        <imageUrl>https://img.youtube.com/vi/Eskk7GgwAIU/0.jpg</imageUrl>
+        <videoId>Eskk7GgwAIU</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bg</sub>
             <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -8423,6 +8680,7 @@
             <sub>sr</sub>
             <sub>es</sub>
             <sub>sw</sub>
+            <sub>sv</sub>
             <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
@@ -8430,10 +8688,9 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -8483,6 +8740,52 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Action, Crime</title>
+        <year>2002</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Drama about a former police officer who's framed for murder and a young boy who attempts to help him clear his name.</description>
+        <imageUrl>https://img.youtube.com/vi/R1WXK1cawrI/0.jpg</imageUrl>
+        <videoId>R1WXK1cawrI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -8611,115 +8914,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>47 Hours</title>
-        <year>2019</year>
+        <title>True Justice: Urban Warfare</title>
+        <year>2012</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Two socially awkward teenage girls, are bored one night and turn to the internet for scary stories. They find a game on a creepy website that claims you can use your phone to summon the supernatural...and if you lose the game...you lose your life.</description>
-        <imageUrl>https://img.youtube.com/vi/_xPQWsfWJ94/0.jpg</imageUrl>
-        <videoId>_xPQWsfWJ94</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Mother’S Love Can Summon The Dead</title>
-        <year>2018</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>When her daughter is abducted with no demand for ransom, an ex-hostage negotiator will do anything to find her.</description>
-        <imageUrl>https://img.youtube.com/vi/Eskk7GgwAIU/0.jpg</imageUrl>
-        <videoId>Eskk7GgwAIU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Spring Break Carnage</title>
-        <year>2016</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>In a world where the zombie apocolypse is an unquestioned reality, truly righteous brothers tackle love, loss, and life lessons amid the backdrop of an epic spring break.</description>
-        <imageUrl>https://img.youtube.com/vi/fh_yeKOJSjs/0.jpg</imageUrl>
-        <videoId>fh_yeKOJSjs</videoId>
+        <description>Elijah Kane's knowledge of espionage tactics reconnaissance equipment and counter terrorism comes from years of being deep undercover in the war against terrorism. Kane's history is now causing uncertainty in the team's future as Mason and Radner members of Kane's Special Investigation Unit are badly beaten by masked military-trained men. Working through the confusion that Kane's military past is causing, Sarah and Juliet are after yet another serial rapist in Seattle.</description>
+        <imageUrl>https://img.youtube.com/vi/6G6xzBdjaY0/0.jpg</imageUrl>
+        <videoId>6G6xzBdjaY0</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -8751,6 +8952,7 @@
             <sub>ru</sub>
             <sub>si</sub>
             <sub>es</sub>
+            <sub>es-419</sub>
             <sub>su</sub>
             <sub>sv</sub>
             <sub>th</sub>
@@ -8758,7 +8960,9 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
             <audio>default</audio>
+            <audio>es-419</audio>
         </available_audio>
     </movie>
     <movie>
@@ -9189,52 +9393,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Moving Targets</title>
-        <year>1999</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A pair of cops are following a lawyer who has information on a mobster. He's killed and his wife has to help the cops catch the bad guy.</description>
-        <imageUrl>https://img.youtube.com/vi/DKE48EYsqvc/0.jpg</imageUrl>
-        <videoId>DKE48EYsqvc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Celebrity Judge</title>
         <year>2022</year>
         <genre>Thriller</genre>
@@ -9385,38 +9543,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Above Ground</title>
-        <year>2017</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A divorcée's love for her ex-husband pulls her into a deadly crime ring when he goes missing, and the local authorities refuse to search for him.</description>
-        <imageUrl>https://img.youtube.com/vi/SnU6e3A3oKo/0.jpg</imageUrl>
-        <videoId>SnU6e3A3oKo</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Family First</title>
-        <year>2025</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Veronica, a 16-year-old girl, is spending the Christmas holidays at her grandfather's in a small village in the Sicilian hinterland when a woman disappears and the fear of the monster who had sown terror in the area ten years earlier returns. The girl suddenly begins to feed a terrible suspicion: her own grandfather could be the culprit.</description>
-        <imageUrl>https://img.youtube.com/vi/9NuHcm_0ryQ/0.jpg</imageUrl>
-        <videoId>9NuHcm_0ryQ</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>es</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Muerte Juega A Dados</title>
         <year>2016</year>
         <genre>Thriller</genre>
@@ -9464,35 +9590,35 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Assault</title>
-        <year>2014</year>
+        <title>Above Ground</title>
+        <year>2017</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>After a cheerleader is sexually assaulted by the high school football team, she must overcome her shame and use the evidence gathered from the subsequent social media firestorm to piece together the night that she can't remember in her fight for justice. Based on the true story of the Steubenville, Ohio rape case.</description>
-        <imageUrl>https://img.youtube.com/vi/EoUSujOSgrA/0.jpg</imageUrl>
-        <videoId>EoUSujOSgrA</videoId>
+        <description>A divorcée's love for her ex-husband pulls her into a deadly crime ring when he goes missing, and the local authorities refuse to search for him.</description>
+        <imageUrl>https://img.youtube.com/vi/SnU6e3A3oKo/0.jpg</imageUrl>
+        <videoId>SnU6e3A3oKo</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>zh-Hans</sub>
-            <sub>nl</sub>
             <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>no</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>vi</sub>
-            <sub>cy</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Family First</title>
+        <year>2025</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Veronica, a 16-year-old girl, is spending the Christmas holidays at her grandfather's in a small village in the Sicilian hinterland when a woman disappears and the fear of the monster who had sown terror in the area ten years earlier returns. The girl suddenly begins to feed a terrible suspicion: her own grandfather could be the culprit.</description>
+        <imageUrl>https://img.youtube.com/vi/9NuHcm_0ryQ/0.jpg</imageUrl>
+        <videoId>9NuHcm_0ryQ</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>es</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -9574,6 +9700,38 @@
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Assault</title>
+        <year>2014</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>After a cheerleader is sexually assaulted by the high school football team, she must overcome her shame and use the evidence gathered from the subsequent social media firestorm to piece together the night that she can't remember in her fight for justice. Based on the true story of the Steubenville, Ohio rape case.</description>
+        <imageUrl>https://img.youtube.com/vi/EoUSujOSgrA/0.jpg</imageUrl>
+        <videoId>EoUSujOSgrA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>zh-Hans</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>no</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>vi</sub>
+            <sub>cy</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -9945,6 +10103,57 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Rocket Attack U.S.A.</title>
+        <year>1960</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>It's the height of the Cold War between the United States and the Soviet Union with the Communists launching a spy satellite that has the Free World leaders in a panic. Fears about the nature of the satellite force the United States to send an agent undercover behind the Iron Curtain to discover what the Soviets have learned. What he finds is the Communists have used the information acquired from their spy satellite to help them perfect a new and even more deadly nuclear weapon.</description>
+        <imageUrl>https://img.youtube.com/vi/rysX2mJmveA/0.jpg</imageUrl>
+        <videoId>rysX2mJmveA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>en-desc</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Before I Go</title>
         <year>2024</year>
         <genre>Thriller</genre>
@@ -10207,39 +10416,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>You Belong To Me</title>
-        <year>2008</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>After a messy divorce, Alex Wilson isn't interested in the advances of her colleague, Michael. But when Michael's interest takes a morbid turn and someone ends up dead, Alex becomes trapped in a supernatural struggle to save her son from a scorned (and deceased) suitor.</description>
-        <imageUrl>https://img.youtube.com/vi/-B9i5GU4IS8/0.jpg</imageUrl>
-        <videoId>-B9i5GU4IS8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>iw</sub>
-            <sub>hu</sub>
-            <sub>it</sub>
-            <sub>no</sub>
-            <sub>ro</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sv</sub>
-            <sub>tr</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Below The Deadline</title>
         <year>1946</year>
         <genre>Thriller</genre>
@@ -10499,6 +10675,21 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Flying Wild</title>
+        <year>1941</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A group of young men who work at an aviation factory begin to suspect that a doctor who runs an air ambulance service is secretly a spy transporting secret information from the plant to enemy agents.</description>
+        <imageUrl>https://img.youtube.com/vi/4xqJ_gy44OY/0.jpg</imageUrl>
+        <videoId>4xqJ_gy44OY</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Masked Evil</title>
         <year>2018</year>
         <genre>Thriller</genre>
@@ -10548,21 +10739,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Flying Wild</title>
-        <year>1941</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A group of young men who work at an aviation factory begin to suspect that a doctor who runs an air ambulance service is secretly a spy transporting secret information from the plant to enemy agents.</description>
-        <imageUrl>https://img.youtube.com/vi/4xqJ_gy44OY/0.jpg</imageUrl>
-        <videoId>4xqJ_gy44OY</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Bushwhackers</title>
         <year>1951</year>
         <genre>Thriller</genre>
@@ -10575,21 +10751,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Indiscreet</title>
-        <year>1998</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A case involving adultery, money and murder threatens a private eye's sobriety.</description>
-        <imageUrl>https://img.youtube.com/vi/KFTmZxYU9Mk/0.jpg</imageUrl>
-        <videoId>KFTmZxYU9Mk</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -10636,6 +10797,21 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Indiscreet</title>
+        <year>1998</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A case involving adultery, money and murder threatens a private eye's sobriety.</description>
+        <imageUrl>https://img.youtube.com/vi/KFTmZxYU9Mk/0.jpg</imageUrl>
+        <videoId>KFTmZxYU9Mk</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -10691,23 +10867,73 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Final Pursuit</title>
-        <year>2010</year>
+        <title>Come Home</title>
+        <year>2024</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>A group of high school outcasts get revenge on the students that torment them.</description>
-        <imageUrl>https://img.youtube.com/vi/ZIruxg4uIis/0.jpg</imageUrl>
-        <videoId>ZIruxg4uIis</videoId>
+        <description>Two New York couples, seeking tranquility in the remote Adirondack Mountains, come into contact with spirits imprisoned in the woods.</description>
+        <imageUrl>https://img.youtube.com/vi/IVBXvNrRTTc/0.jpg</imageUrl>
+        <videoId>IVBXvNrRTTc</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Skinford : The Curse</title>
+        <year>2018</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Silver-tongued  Jimmy  Skinford  is  on  the  run  with  the  only  person  he  can  trust,  Zo-phia,  a  woman  hunted  by  every  underworld  crook  in  town  for  her  coveted  curse  of  immortality.  To  stop  the  relentless  onslaught  of  violence  and  get  their  lives  back  they  must  search  through  Zophia’s  past  to  fnd  a  cure.  But  what  future  can  you  have  when  your  survival  depends  on  losing  the  one  thing  keeping  you  alive?</description>
+        <imageUrl>https://img.youtube.com/vi/uFebRJbCC3Y/0.jpg</imageUrl>
+        <videoId>uFebRJbCC3Y</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -10717,26 +10943,25 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
-            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>si</sub>
+            <sub>sr</sub>
             <sub>es</sub>
-            <sub>su</sub>
+            <sub>sw</sub>
             <sub>sv</sub>
+            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -10783,6 +11008,55 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Final Pursuit</title>
+        <year>2010</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A group of high school outcasts get revenge on the students that torment them.</description>
+        <imageUrl>https://img.youtube.com/vi/ZIruxg4uIis/0.jpg</imageUrl>
+        <videoId>ZIruxg4uIis</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -10950,55 +11224,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Come Home</title>
-        <year>2024</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Two New York couples, seeking tranquility in the remote Adirondack Mountains, come into contact with spirits imprisoned in the woods.</description>
-        <imageUrl>https://img.youtube.com/vi/IVBXvNrRTTc/0.jpg</imageUrl>
-        <videoId>IVBXvNrRTTc</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Twisted Investigation</title>
         <year />
         <genre>Thriller</genre>
@@ -11085,55 +11310,6 @@
             <sub>es</sub>
             <sub>su</sub>
             <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Skinford : The Curse</title>
-        <year>2018</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Silver-tongued  Jimmy  Skinford  is  on  the  run  with  the  only  person  he  can  trust,  Zo-phia,  a  woman  hunted  by  every  underworld  crook  in  town  for  her  coveted  curse  of  immortality.  To  stop  the  relentless  onslaught  of  violence  and  get  their  lives  back  they  must  search  through  Zophia’s  past  to  fnd  a  cure.  But  what  future  can  you  have  when  your  survival  depends  on  losing  the  one  thing  keeping  you  alive?</description>
-        <imageUrl>https://img.youtube.com/vi/uFebRJbCC3Y/0.jpg</imageUrl>
-        <videoId>uFebRJbCC3Y</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
@@ -11370,6 +11546,57 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Five Minutes To Zero</title>
+        <year>1960</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>It's the height of the Cold War between the United States and the Soviet Union with the Communists launching a spy satellite that has the Free World leaders in a panic. Fears about the nature of the satellite force the United States to send an agent undercover behind the Iron Curtain to discover what the Soviets have learned. What he finds is the Communists have used the information acquired from their spy satellite to help them perfect a new and even more deadly nuclear weapon.</description>
+        <imageUrl>https://img.youtube.com/vi/AXX0TfNEbmg/0.jpg</imageUrl>
+        <videoId>AXX0TfNEbmg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>en-desc</audio>
         </available_audio>
     </movie>
     <movie>
@@ -11669,6 +11896,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Dying To Sleep</title>
+        <year>2023</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Terrifying nightmares, a broken family, and a mysterious Holistic Doctor, haunt Mary as she searches for the strength to find forgiveness amongst dark betrayals.</description>
+        <imageUrl>https://img.youtube.com/vi/vlmfYtQqV90/0.jpg</imageUrl>
+        <videoId>vlmfYtQqV90</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Cold Case: The Missing Ballerina</title>
         <year>2021</year>
         <genre>Thriller</genre>
@@ -11736,35 +12012,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Hide And Die</title>
-        <year>2015</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>On the anniversary weekend of the death of a young women's husband, five girls head out to a cabin to help their friend move past her husband's death. As the party continues a dark secret begins to unravel and a hideous past crawls out to seek revenge.</description>
-        <imageUrl>https://img.youtube.com/vi/z3njRZNSaPE/0.jpg</imageUrl>
-        <videoId>z3njRZNSaPE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>pt-BR</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>th</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Good Lie</title>
         <year>2013</year>
         <genre>Thriller</genre>
@@ -11811,6 +12058,35 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Hide And Die</title>
+        <year>2015</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>On the anniversary weekend of the death of a young women's husband, five girls head out to a cabin to help their friend move past her husband's death. As the party continues a dark secret begins to unravel and a hideous past crawls out to seek revenge.</description>
+        <imageUrl>https://img.youtube.com/vi/z3njRZNSaPE/0.jpg</imageUrl>
+        <videoId>z3njRZNSaPE</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>pt-BR</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>th</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -12025,6 +12301,70 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Flirting With Danger</title>
+        <year>2006</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>A lawyer begins a sordid fling with an attractive young woman whom he slowly begins to suspect to be a serial killer of men.</description>
+        <imageUrl>https://img.youtube.com/vi/KInrYvIVWuo/0.jpg</imageUrl>
+        <videoId>KInrYvIVWuo</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Deep Sea Python</title>
+        <year>2023</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Fisherman Chen Yue is hired to sail a group of people, including photographer Zhong Ming, to a party on an ocean island. Upon arrival, the island is attacked by a massive deep-sea python, killing anyone it finds. Chen Yue and Zhong Ming must work together to lead the survivors out of danger in a fight for survival.</description>
+        <imageUrl>https://img.youtube.com/vi/y-oc0bG1skM/0.jpg</imageUrl>
+        <videoId>y-oc0bG1skM</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-US-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Tresspassing Spirits</title>
         <year />
         <genre>Thriller</genre>
@@ -12129,21 +12469,6 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Flirting With Danger</title>
-        <year>2006</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>A lawyer begins a sordid fling with an attractive young woman whom he slowly begins to suspect to be a serial killer of men.</description>
-        <imageUrl>https://img.youtube.com/vi/KInrYvIVWuo/0.jpg</imageUrl>
-        <videoId>KInrYvIVWuo</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -12267,6 +12592,55 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>It Lives With Us</title>
+        <year>2018</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Vampires have just made themselves public! Now a group of documentarians have been granted access to spend some time with them and learn how they live and coexist with humans. But as reality sets in, the crew realize they are in for far more than they bargained for.</description>
+        <imageUrl>https://img.youtube.com/vi/YOhK9ohOJss/0.jpg</imageUrl>
+        <videoId>YOhK9ohOJss</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -12460,55 +12834,6 @@
         <description>When Terje crosses the road with Are everything goes another way he had planned. How do they deal with the resistance they face? Påfugl Blant Duer is about identity, homosexuality and bullying.</description>
         <imageUrl>https://img.youtube.com/vi/2xdhpKRxI78/0.jpg</imageUrl>
         <videoId>2xdhpKRxI78</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>It Lives With Us</title>
-        <year>2018</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Vampires have just made themselves public! Now a group of documentarians have been granted access to spend some time with them and learn how they live and coexist with humans. But as reality sets in, the crew realize they are in for far more than they bargained for.</description>
-        <imageUrl>https://img.youtube.com/vi/YOhK9ohOJss/0.jpg</imageUrl>
-        <videoId>YOhK9ohOJss</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -12746,6 +13071,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Martyr Maker</title>
+        <year>2018</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Zahid, an American born Muslim who, after struggling with his Islamic roots, explores different aspects of the religion, leading to a deadly calling.</description>
+        <imageUrl>https://img.youtube.com/vi/Sgw1X4TLaIk/0.jpg</imageUrl>
+        <videoId>Sgw1X4TLaIk</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Worried Parents</title>
         <year />
         <genre>Thriller</genre>
@@ -12907,55 +13281,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Martyr Maker</title>
-        <year>2018</year>
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Zahid, an American born Muslim who, after struggling with his Islamic roots, explores different aspects of the religion, leading to a deadly calling.</description>
-        <imageUrl>https://img.youtube.com/vi/Sgw1X4TLaIk/0.jpg</imageUrl>
-        <videoId>Sgw1X4TLaIk</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Desde Las Calhasta Copa Mundial De Fifa — Su Sueño Comienza Aquí</title>
         <year>2024</year>
         <genre>Thriller</genre>
@@ -13053,34 +13378,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>🌀 Corona Fear</title>
-        <year />
-        <genre>Thriller</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/v8UmipuDFos/0.jpg</imageUrl>
-        <videoId>v8UmipuDFos</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>zh-Hans</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>no</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Troubled Young Man</title>
         <year>2020</year>
         <genre>Thriller</genre>
@@ -13130,6 +13427,34 @@
         </available_audio>
     </movie>
     <movie>
+        <title>🌀 Corona Fear</title>
+        <year />
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Movie not found on TMDB.</description>
+        <imageUrl>https://img.youtube.com/vi/v8UmipuDFos/0.jpg</imageUrl>
+        <videoId>v8UmipuDFos</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>zh-Hans</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>no</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Mother'S Struggles</title>
         <year>2018</year>
         <genre>Thriller</genre>
@@ -13173,6 +13498,105 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Lost Refugee</title>
+        <year>1980</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>Determined to escape from the harsh regime of China to the freedom of Hong Kong, three youths are captured by Mr. Hok, a sadistic human smuggler who subjects them to an unrelenting assault of degradation. Pushed to the limits of human endurance, the prisoners must fight for their lives in an unforgettable, action-packed climax.</description>
+        <imageUrl>https://img.youtube.com/vi/PUqBeSez1EY/0.jpg</imageUrl>
+        <videoId>PUqBeSez1EY</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Daft State</title>
+        <year>2024</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>The film charts the mysterious psychological destruction of Easton, who is driven to the edge of sanity, and possible self-harm, by those that love him most—his wife and daughter. Will Easton succumb to their increasingly traumatizing pressure, or will he conquer the dark forces at play in his addled psyche?</description>
+        <imageUrl>https://img.youtube.com/vi/vlWwLWfY95w/0.jpg</imageUrl>
+        <videoId>vlWwLWfY95w</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -13228,13 +13652,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Daft State</title>
-        <year>2024</year>
+        <title>Who Killed Cooper Dunn ?</title>
+        <year>2022</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>The film charts the mysterious psychological destruction of Easton, who is driven to the edge of sanity, and possible self-harm, by those that love him most—his wife and daughter. Will Easton succumb to their increasingly traumatizing pressure, or will he conquer the dark forces at play in his addled psyche?</description>
-        <imageUrl>https://img.youtube.com/vi/vlWwLWfY95w/0.jpg</imageUrl>
-        <videoId>vlWwLWfY95w</videoId>
+        <description>Six lifelong friends embark on a camping trip. When one of them ends up dead, loyalties are tested as they try to find who's responsible.</description>
+        <imageUrl>https://img.youtube.com/vi/hoIdFYlM6Sg/0.jpg</imageUrl>
+        <videoId>hoIdFYlM6Sg</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -13277,49 +13701,49 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Deep Sea Python</title>
-        <year>2023</year>
+        <title>A Mother To Protect</title>
+        <year>2018</year>
         <genre>Thriller</genre>
         <type>film</type>
-        <description>Fisherman Chen Yue is hired to sail a group of people, including photographer Zhong Ming, to a party on an ocean island. Upon arrival, the island is attacked by a massive deep-sea python, killing anyone it finds. Chen Yue and Zhong Ming must work together to lead the survivors out of danger in a fight for survival.</description>
-        <imageUrl>https://img.youtube.com/vi/y-oc0bG1skM/0.jpg</imageUrl>
-        <videoId>y-oc0bG1skM</videoId>
+        <description>When her daughter is abducted with no demand for ransom, an ex-hostage negotiator will do anything to find her.</description>
+        <imageUrl>https://img.youtube.com/vi/CQTL4LYUe3M/0.jpg</imageUrl>
+        <videoId>CQTL4LYUe3M</videoId>
         <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-US-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -13433,6 +13857,55 @@
         <videoId>16lCMT1BRhM</videoId>
         <available_subtitles>
             <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Last Cut</title>
+        <year>2024</year>
+        <genre>Thriller</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/L-nAG_WKx7A/0.jpg</imageUrl>
+        <videoId>L-nAG_WKx7A</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
