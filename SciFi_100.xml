@@ -1,6 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="SciFi">
     <movie>
+        <title>Mazes And Monsters</title>
+        <year>1982</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Bound together by a desire to play "Mazes and Monsters," Robbie and his four college classmates decide to move the board game into the local cavern. Robbie loses his mind, and the line between reality and fantasy fuse into a harrowing nightmare.</description>
+        <imageUrl>https://img.youtube.com/vi/J7zhtgRwmJY/0.jpg</imageUrl>
+        <videoId>J7zhtgRwmJY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Escape Pod</title>
         <year>2017</year>
         <genre>SciFi</genre>
@@ -4481,57 +4529,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Cadia: The World Within</title>
-        <year>2020</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Devastated by the loss of their mother, three teenagers discover a mystical realm ruled by unseen forces. They must attempt to work together and overcome evil to return home.</description>
-        <imageUrl>https://img.youtube.com/vi/mWiUTNd4VPU/0.jpg</imageUrl>
-        <videoId>mWiUTNd4VPU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>pt</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
 </category>
