@@ -1,6 +1,468 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Documentary">
     <movie>
+        <title>Anthony Hopkins</title>
+        <year>2021</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Hopkins’ career has spanned several decades, which is why we will also use many interviews that he gave throughout his life, allowing us to put him back into the context of each period and will be helpful in understanding his role in the history of cinema, because he was far from following the trends. He never belonged to any film movement; he is a chameleon that has always preferred natural acting, ‘non-acting’ when method acting was the fashion.</description>
+        <imageUrl>https://img.youtube.com/vi/nHVQFvktRVA/0.jpg</imageUrl>
+        <videoId>nHVQFvktRVA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Steven Seagal Rend Justice... Sans Sommation</title>
+        <year>2025</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>On the Toronto shooting set of 2001's "Exit Wounds", Steven Seagal almost got to meet Toronto legend Mike Wood. Circumstances kept it from happening, but the tale lives on!</description>
+        <imageUrl>https://img.youtube.com/vi/bUvlrGYB1x4/0.jpg</imageUrl>
+        <videoId>bUvlrGYB1x4</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>ht</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>ig</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>rw</sub>
+            <sub>ko</sub>
+            <sub>mg</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>War Of The Submarine</title>
+        <year>2025</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Experts detail the disaster and discoveries of Civil War vessels USS Monitor and HL Hunley. This program draws heavily from Dept of Defense works now in public domain and has been repackaged for 2025 audiences.</description>
+        <imageUrl>https://img.youtube.com/vi/D--PwB9dwsM/0.jpg</imageUrl>
+        <videoId>D--PwB9dwsM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>L'Évasion Du Tueur</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/AXJi4WKIFiM/0.jpg</imageUrl>
+        <videoId>AXJi4WKIFiM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>es</audio>
+            <audio>pt</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Venom Island</title>
+        <year>2012</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Venom expert Dr. Bryan Fry embarks on a dangerous island journey to uncover the deadly secrets of vipers, stonefish and the formidable Komodo dragon.</description>
+        <imageUrl>https://img.youtube.com/vi/bfv5SLk_XAs/0.jpg</imageUrl>
+        <videoId>bfv5SLk_XAs</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Sharon Stone In Secret Spy</title>
+        <year>2024</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>30 years after Basic Instinct, Sharon Stone is still stigmatized for her role as a sexual psychopath. But the Oscar nominee has always fought against domination. She embodies the independent woman of the 21st century, who refuses to be invisibilized and a "passive" object, subjected only to the male gaze.</description>
+        <imageUrl>https://img.youtube.com/vi/qnIJc3UqU8U/0.jpg</imageUrl>
+        <videoId>qnIJc3UqU8U</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dark Legacy</title>
+        <year>2009</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The death of John Kennedy is viewed through another angle in this conspiracy-themed film defending the theory that George Herbert Walker Bush was a key player in all aspects of the assassination of American president John F. Kennedy.</description>
+        <imageUrl>https://img.youtube.com/vi/hzAgKzfcndI/0.jpg</imageUrl>
+        <videoId>hzAgKzfcndI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Jean-Claude Van Damme</title>
+        <year>2023</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>An American low-budget action film celebrated an unexpected worldwide success in 1988: "Bloodsport". With its, the world of film fans and martial arts cinema discovered a new idol: Jean-Claude Van Damme. In the 1970s there was Bruce Lee, but at the end of the 1980s a Belgian won the day. Van Damme was a karate master and had unparalleled strength and flexibility. For ten years he was one of Hollywood's hottest action stars. But excessive overconfidence and drugs bring him down again. At home in Europe he becomes a laughing stock on talk shows. Only with "JCVD" does he manage to get back on his feet, playing his character with perspective and self-irony, but without ever giving up the reputation that his action films brought him and which has been a cult for several generations. The highs and lows of his eventful life are told through archive footage and contributions from people close to the popular Belgian actor.</description>
+        <imageUrl>https://img.youtube.com/vi/vnOgVa7U4iU/0.jpg</imageUrl>
+        <videoId>vnOgVa7U4iU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>it</audio>
+            <audio>fr</audio>
+            <audio>es</audio>
+            <audio>cs</audio>
+            <audio>pt</audio>
+            <audio>hu</audio>
+            <audio>ru</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Waffen Ss</title>
+        <year>1990</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The Waffen SS is the elite Nazi fighting force that holds a dark place in Germany's history. Their code is a lethal combination of bravery and savagery.</description>
+        <imageUrl>https://img.youtube.com/vi/XI7fFDsPYJs/0.jpg</imageUrl>
+        <videoId>XI7fFDsPYJs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>de</audio>
+            <audio>es</audio>
+            <audio>pt</audio>
+            <audio>ru</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Fractured Heart</title>
         <year>2025</year>
         <genre>Documentary</genre>
@@ -405,54 +867,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Danny Trejo</title>
-        <year>2019</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>71 years in the making, this feature documentary experience reveals the extraordinary life journey of Hollywood's most unlikely hero, Danny Trejo.</description>
-        <imageUrl>https://img.youtube.com/vi/S6UpWPhNx9w/0.jpg</imageUrl>
-        <videoId>S6UpWPhNx9w</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Bradbury</title>
         <year>2001</year>
         <genre>Documentary</genre>
@@ -800,55 +1214,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Such An Easy Prey</title>
-        <year>2013</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>The story of Sergio, a hawk trainer, within a few scenarios that are intertwined to show his life in a contemplative manner.</description>
-        <imageUrl>https://img.youtube.com/vi/BSdwd7o2cRA/0.jpg</imageUrl>
-        <videoId>BSdwd7o2cRA</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Autism Is Part Of Their Story—Love Is The Rest</title>
         <year>1992</year>
         <genre>Documentary</genre>
@@ -941,55 +1306,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Killer Santa</title>
-        <year>2014</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/PodzDUia-ME/0.jpg</imageUrl>
-        <videoId>PodzDUia-ME</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1141,160 +1457,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A World On Fire</title>
-        <year />
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>On September 30th, 2019; people rallied together to fight the system for climate change. This is the story of that rally, and the inevitable impact global warming will have on our planet.</description>
-        <imageUrl>https://img.youtube.com/vi/Fn26wqOzeFA/0.jpg</imageUrl>
-        <videoId>Fn26wqOzeFA</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Interpol Method</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Can one of the regulatory authorities of our states be financed by private funds? This captivating investigation lifts the lid on one of the most secretive organization's funding.</description>
-        <imageUrl>https://img.youtube.com/vi/T5_helXXAFU/0.jpg</imageUrl>
-        <videoId>T5_helXXAFU</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>es-419</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es-419</audio>
-            <audio>default</audio>
-            <audio>es</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>An Elusive Menace</title>
-        <year>2023</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Video documentary on Ajita Wilson.</description>
-        <imageUrl>https://img.youtube.com/vi/HGNeEj67ed0/0.jpg</imageUrl>
-        <videoId>HGNeEj67ed0</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Hulk Hogan</title>
         <year>1991</year>
         <genre>Documentary</genre>
@@ -1402,55 +1564,6 @@
             <audio>ru</audio>
             <audio>fr</audio>
             <audio>hi</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Arm Deal</title>
-        <year>2023</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>He is a key figure in the struggle between the superpowers USA and China. He is on the FBI's wanted list with a five million dollar bounty on his head. Secret services have been trying to stop him for decades: Karl Lee. With the help of the Chinese businessman, Iran was able to build up the largest missile arsenal in the Middle East. This film reconstructs the hunt for the arms dealer.</description>
-        <imageUrl>https://img.youtube.com/vi/WVdHPtZ-qsc/0.jpg</imageUrl>
-        <videoId>WVdHPtZ-qsc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1659,56 +1772,6 @@
             <audio>fr</audio>
             <audio>hi</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Grieving Mother</title>
-        <year>2017</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>How do you survive being the survivor of a mass shooting?</description>
-        <imageUrl>https://img.youtube.com/vi/XVW-CFqmi8w/0.jpg</imageUrl>
-        <videoId>XVW-CFqmi8w</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2313,55 +2376,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Family Tragedy</title>
-        <year>2007</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>An intense documentary investigating the dark and hidden world of sexual molestation of children by trusted family members or friends.</description>
-        <imageUrl>https://img.youtube.com/vi/h6ocLsBk7jY/0.jpg</imageUrl>
-        <videoId>h6ocLsBk7jY</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Good Kill</title>
         <year>2005</year>
         <genre>Documentary</genre>
@@ -2557,55 +2571,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Fierce Suitor</title>
-        <year>2013</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>It is the largest movement the world has ever seen, it may also be the most important - in terms of what's at stake. Yet it's not east being green. Environmentalists have been reviled as much as revered, for being killjoys and Cassandras. Every battle begins as a lost cause and even the victories have to be fought for again and again. Still, environmentalism is one of the great social innovations of the twentieth century, and one of the keys to the twenty-first. It has arisen at a key juncture in history, when humans have come to rival nature as a power determining the fate of the earth.</description>
-        <imageUrl>https://img.youtube.com/vi/97SQy3AM6W0/0.jpg</imageUrl>
-        <videoId>97SQy3AM6W0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2956,105 +2921,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Tormented Housewife</title>
-        <year>2022</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Mel Gibson, Australian-raised US actor and film director, rose to stardom in the late 1980s, a privileged status he enjoyed for nearly two decades until his fall from grace due to his controversial opinions and scandals. Angel face, tormented soul: who is Mel Gibson really?</description>
-        <imageUrl>https://img.youtube.com/vi/b5038eEtRfY/0.jpg</imageUrl>
-        <videoId>b5038eEtRfY</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Final Warning</title>
-        <year>1995</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Host Grant Jeffrey discusses how technology and government activities are changing the way our information is handled. How is this shaping our lives?</description>
-        <imageUrl>https://img.youtube.com/vi/q-kTUKrsPHc/0.jpg</imageUrl>
-        <videoId>q-kTUKrsPHc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Broken Dream</title>
         <year>2022</year>
         <genre>Documentary</genre>
@@ -3121,55 +2987,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Brutal Strike</title>
-        <year>2021</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>In 1989 the ecuadorian writer Gustavo Garzón Guzmán was arrested and acussed of being part of a political movement the Movimiento Montoneras Patria Libre (MPL).  A year pass to get his freedom but in the time returning to his job and literary studies on de 10th november of 1990 he was vanished during the Rodrigo Borja Cevallos presidential time.</description>
-        <imageUrl>https://img.youtube.com/vi/qT1iNKCzQyo/0.jpg</imageUrl>
-        <videoId>qT1iNKCzQyo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>World'S End Hunter</title>
         <year>1971</year>
         <genre>Documentary</genre>
@@ -3213,86 +3030,6 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dangerous Creatures</title>
-        <year>1983</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>From the Pacific sun to the Arctic ice-fields, adventure seeker John Burrud seeks out the world's deadliest creatures in an attempt to uncover unknown secrets.</description>
-        <imageUrl>https://img.youtube.com/vi/nlbHsr_ktj4/0.jpg</imageUrl>
-        <videoId>nlbHsr_ktj4</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Machine War</title>
-        <year>2006</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>This History Channel documentary traces the Ottoman Empire from its beginnings in the 14th century to its incarnation as one of the largest empires in history, spanning three continents.</description>
-        <imageUrl>https://img.youtube.com/vi/wj7mBIlvS-0/0.jpg</imageUrl>
-        <videoId>wj7mBIlvS-0</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Price Of Truth</title>
-        <year>2023</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>The extraordinary story of a man who risks everything to preserve freedom of speech in Russia.  In December 2021 Dmitry Muratov is awarded the Nobel Peace Prize. He is the editor-in-chief of Russia’s only independent newspaper, Novaya Gazeta. Six of his journalists have been murdered, after their reports displeased the state.  In February 2022 Russia invades Ukraine. In early March, using the cover of a documentary film festival, Muratov secretly negotiates free passage for forty journalists with the Latvian government. Then he returns to Moscow to look after his paper and its remaining staff.  To this day, he refuses to leave Moscow, whatever the pressure on him and his team. "Putin stands for death. I stand for life."</description>
-        <imageUrl>https://img.youtube.com/vi/xBSXMh5TOr0/0.jpg</imageUrl>
-        <videoId>xBSXMh5TOr0</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -3506,56 +3243,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Monsters Among Us</title>
-        <year>2008</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Whenever a solid "brain trust" around creature assembly exists, then the process behind crafting these monsters must've been interesting. This 13-minute featurette captures the process of crafting the concepts for the monsters, from the models assembled for the primary ideas to the separation of computer and realistic tangible effects. KNB effects did some really strong work here, even in the small ways that purely give actors inspiration for their performances.</description>
-        <imageUrl>https://img.youtube.com/vi/yf3rRvKD4ws/0.jpg</imageUrl>
-        <videoId>yf3rRvKD4ws</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Dark Tourist</title>
         <year>2024</year>
         <genre>Documentary</genre>
@@ -3702,103 +3389,6 @@
             <audio>en</audio>
             <audio>pt</audio>
             <audio>es</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Mummified Predator</title>
-        <year>2022</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>For decades, Egyptologists have been searching for a priceless treasure that could revolutionize our knowledge of the Pharaonic dynasties: Cleopatra’s tomb. A treasure that has not yet been found. However, the recent discovery of an incredible relic could lead to it. A renowned American collector might hold the key to the mysterious tomb. He recently discovered a perfectly preserved mummified hand, brought back from Egypt in the 18th century. If the accompanying text is to be believed, it is that of Cleopatra VII, the last Queen Pharaoh of this vanished civilization. Could it be true? A thrilling investigation begins to solve a 2,000-year-old enigma. With the help of international experts, we retrace the path of a unique relic from archaeological excavation sites to laboratories, right up to the DNA investigation which - exclusively for this film - will enable us to uncover this strange mystery, and to understand the immutable myth built around Cleopatra.</description>
-        <imageUrl>https://img.youtube.com/vi/bGIDq6XnMBQ/0.jpg</imageUrl>
-        <videoId>bGIDq6XnMBQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Rescue Protocol</title>
-        <year>2021</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>The enthralling, against-all-odds story that transfixed the world in 2018: the daring rescue of twelve boys and their coach from deep inside a flooded cave in Northern Thailand.</description>
-        <imageUrl>https://img.youtube.com/vi/H3lWFG1jB6s/0.jpg</imageUrl>
-        <videoId>H3lWFG1jB6s</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3952,55 +3542,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Future On Hold</title>
-        <year>1994</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>In this video, Noam Chomsky concentrates on the contemporary institutions and powers which have set limits on human progress and offers us some concrete ways of challenging them; in effect, he presents a vision of a future society. Chomsky's work is directed at developing intellectual self-defense for "ordinary people" who are often isolated in their struggles. States are seen to be violent through such strategies as the near-genocide of aboriginal peoples. Ultimately, Chomsky feels we must move beyond the myths of modern industrial civilization and the privileged elites who dominate mass communication, and instead foster the interests of a truly global community.</description>
-        <imageUrl>https://img.youtube.com/vi/cw-bwKVdR6Y/0.jpg</imageUrl>
-        <videoId>cw-bwKVdR6Y</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Harvey Keitel</title>
         <year>2024</year>
         <genre>Documentary</genre>
@@ -4094,55 +3635,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Tokyo Destruction</title>
-        <year>2014</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/kpjhZ8Q-eb0/0.jpg</imageUrl>
-        <videoId>kpjhZ8Q-eb0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4260,21 +3752,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Survival Instinct</title>
-        <year>2024</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>30 years after Basic Instinct, Sharon Stone is still stigmatized for her role as a sexual psychopath. But the Oscar nominee has always fought against domination. She embodies the independent woman of the 21st century, who refuses to be invisibilized and a "passive" object, subjected only to the male gaze.</description>
-        <imageUrl>https://img.youtube.com/vi/Zd3Ftg47v1U/0.jpg</imageUrl>
-        <videoId>Zd3Ftg47v1U</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Kill To Live</title>
         <year>2022</year>
         <genre>Documentary</genre>
@@ -4322,21 +3799,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>My Colleague'S Sister</title>
-        <year>1984</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Finnish TV documentary featuring archival interview footage of Jarva and clips from his films</description>
-        <imageUrl>https://img.youtube.com/vi/wTh5uEtEzI8/0.jpg</imageUrl>
-        <videoId>wTh5uEtEzI8</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4437,55 +3899,6 @@
         <available_audio>
             <audio>fr</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Mayan Apocalypse</title>
-        <year>2011</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/QqbTg3AgMR4/0.jpg</imageUrl>
-        <videoId>QqbTg3AgMR4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4750,13 +4163,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Last Footage</title>
-        <year>1988</year>
+        <title>A Major Surprise</title>
+        <year>1982</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Behind the scenes of 'The Last Temptation of the Christ'</description>
-        <imageUrl>https://img.youtube.com/vi/n-vHnVSpBRU/0.jpg</imageUrl>
-        <videoId>n-vHnVSpBRU</videoId>
+        <description>An in-depth look into the making of the film Annie (1982). It covers the adaptation changes from the original Broadway musical, the hiring of director John Huston, the nationwide search to cast the title role, the production process, and the conception of several musical numbers, including a different version of the song "Easy Street" than the one that ended up in the film.</description>
+        <imageUrl>https://img.youtube.com/vi/KSq6dCXhQEM/0.jpg</imageUrl>
+        <videoId>KSq6dCXhQEM</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -4793,6 +4206,552 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Baldwin</title>
+        <year>1962</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>James Baldwin, a stranger in a Swiss village in 1962, reflects on ordinary and universal racism.</description>
+        <imageUrl>https://img.youtube.com/vi/7L1qioq4X6s/0.jpg</imageUrl>
+        <videoId>7L1qioq4X6s</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Estranged Father</title>
+        <year>1994</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>A look behind the scenes at the making of the video for the song "Estranged" from Guns N Roses Use Your Illusion album, giving fans an up close and intimate look at the band when it was near the peak of its popularity. Inludes footage of the Axl, Slash and the rest of the bandmembers hard at work in the studio, as well as in some of their more relaxed moments.</description>
+        <imageUrl>https://img.youtube.com/vi/cMR5HNun-_o/0.jpg</imageUrl>
+        <videoId>cMR5HNun-_o</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Unexpected Deal</title>
+        <year>2005</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Around the Crozet Islands, here is the incredible odyssey of a family of Sperm Whales facing rapid changes in their environment. From the stormy surface to the eternal darkness of the abyss, several generations of these deep-sea divers encounter men and their "toys": harpoons of yesterday, and fishing lines of today. Once victim of whale hunting, now accused of stealing fish, a sperm whale shares its private life with us.</description>
+        <imageUrl>https://img.youtube.com/vi/myoIItbXdjU/0.jpg</imageUrl>
+        <videoId>myoIItbXdjU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Ripped Apart Family</title>
+        <year>2019</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>What does Brazilian cinema tell us? What does Brazilian cinema tell us about black actresses and actors? ‘Pressed, Ripped Apart’ makes use of archival sources to retrieve the trajectory of black actresses and actors who, between absences and delimited presences, between the fallacy of a racial democracy – based on the harmony among Brazil’s diverse identities – and erasure of identity, strain the history of Brazilian audiovisual and above all, our own history.</description>
+        <imageUrl>https://img.youtube.com/vi/aci-pdN1QCM/0.jpg</imageUrl>
+        <videoId>aci-pdN1QCM</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Lady Frankenstein</title>
+        <year>2007</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>A lengthy interview with director Mel Welles who talks in detail about how he came to be a fan of monster and horror pictures at a young age, and the origins of his 1971 film, Lady Frankenstein. Originally released for German TV.</description>
+        <imageUrl>https://img.youtube.com/vi/_HYinw0IW-w/0.jpg</imageUrl>
+        <videoId>_HYinw0IW-w</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>lt</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>pt-BR</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>es-419</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>it</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Tide Of The Dead</title>
+        <year>1995</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>This documentary provides viewers with a behind-the-scenes look at the making of this high-tension thriller about the decisions faced by a submarine crew who think the President may have ordered a missle launch. Includes interviews with stars Washington and Hackman, as well as other members of the cast and crew, who relate their experiences in working on the film.</description>
+        <imageUrl>https://img.youtube.com/vi/0aKKgWXzjHk/0.jpg</imageUrl>
+        <videoId>0aKKgWXzjHk</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Romantic Comedy</title>
+        <year>2020</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>This documentary goes beneath the surface of our favorite films, seeking to better understand the way we view love, relationships, and romance. From clumsy meet cutes to rain-soaked declarations of love, these films reflect our experiences but are often just as problematic as they are comforting. Helped by a chorus of critics, actors, and filmmakers, and original songs by her band Summer Camp, director Elizabeth Sankey embarks on a journey of investigation and self-discovery.</description>
+        <imageUrl>https://img.youtube.com/vi/KFN3sNQy4ZQ/0.jpg</imageUrl>
+        <videoId>KFN3sNQy4ZQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Big Mix-Up</title>
+        <year>2002</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Frank Zappa: Phase Two is a 2002 documentary about Frank Zappa. It features a lot of footage from Scheffer's previous film, but new material from Malcolm McNab's private achive.</description>
+        <imageUrl>https://img.youtube.com/vi/EFidntOGNZA/0.jpg</imageUrl>
+        <videoId>EFidntOGNZA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Robert De Niro</title>
+        <year>2023</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Robert De Niro is famous for his award-winning portrayals of gangsters, criminals and socially disturbed men who show surprising traces of vulnerability. By analyzing his astonishing roles in iconic films through the years, the documentary reveal the complex actor behind these extreme characters. Because the public knows little about the man who is largely silent about his own life and emotions, this film tries to unwraps one of the most fascinating and enigmatic American actors of all time for the audience. For this the filmakers use clips from his feature films, archive footage of his sparse interviews and probe into his background to illustrate De Niro’s methods for becoming the characters he plays and the reasons he’s able to do so. All of this culminates in a rare exposé of the genesis of the hidden pain that enables the masterful actor to bring such intensity to the big screen.</description>
+        <imageUrl>https://img.youtube.com/vi/IuMDPKr7Mo0/0.jpg</imageUrl>
+        <videoId>IuMDPKr7Mo0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Most Loyal Friend</title>
+        <year>1963</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>A look at the life of Hugh Hefner, founder and editor-in-chief of Playboy magazine.</description>
+        <imageUrl>https://img.youtube.com/vi/RVbp67bfc-c/0.jpg</imageUrl>
+        <videoId>RVbp67bfc-c</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>default</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dangerous Stalker</title>
+        <year>2024</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Celebrities who are victims of stalking; whether laws do enough to protect stars like Taylor Swift, Drew Barrymore, Sandra Bullock and others; WWE star Logan Paul and TV personality Bristol Palin share their experiences with stalker situations.</description>
+        <imageUrl>https://img.youtube.com/vi/9B6lUR2gCFc/0.jpg</imageUrl>
+        <videoId>9B6lUR2gCFc</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Convict</title>
+        <year>2012</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>On February th 1970, Carlos Castañeda de la Fuente tried to assassinate the Mexican President to avenge the Tlatelolco massacre from October 2nd 1968, defying the most repressive regime in the contemporary Mexican history. Forty years later, this failed avenger survived the system´s disproportionate retaliation, only to wander Mexico City´s streets as a vagrant.</description>
+        <imageUrl>https://img.youtube.com/vi/FWLBkWN-5SM/0.jpg</imageUrl>
+        <videoId>FWLBkWN-5SM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Secret</title>
+        <year>2006</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Interviews with leading authors, philosophers and scientists, with an in-depth discussion of the Law of Attraction. The audience is shown how they can learn and use 'The Secret' in their everyday lives.</description>
+        <imageUrl>https://img.youtube.com/vi/S_0nhI0Ps8M/0.jpg</imageUrl>
+        <videoId>S_0nhI0Ps8M</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Baldwin</title>
+        <year>1962</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>James Baldwin, a stranger in a Swiss village in 1962, reflects on ordinary and universal racism.</description>
+        <imageUrl>https://img.youtube.com/vi/p1yLZFavx8o/0.jpg</imageUrl>
+        <videoId>p1yLZFavx8o</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dirty Money</title>
+        <year>2010</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The film portrays a generation that revolutionized street culture in Brazil through Skate. In the early 1990s the skate scene was bankrupt after a government economic plan that broke the industry. Motivated by the love of skateboarding and a "do it yourself" attitude, some friends, teenagers at the time, got together and released a home video that would change their lives forever. The tape was called “Dirty Money”. The video was an instant success, traveled the country, and inspired thousands who shared the same dream, becoming the cornerstone for the reconstruction of skateboarding as a sport and lifestyle in Brazil.</description>
+        <imageUrl>https://img.youtube.com/vi/pH4iv4sfmAY/0.jpg</imageUrl>
+        <videoId>pH4iv4sfmAY</videoId>
+        <available_subtitles>
+            <sub>en</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
