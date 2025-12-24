@@ -643,21 +643,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Rise Of A Gladiator</title>
-        <year>2017</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A Templar Knight is forced to fight as a gladiator where challengers from different worlds duel in a quest for a magical sword. Then the Templar learns he is scheduled to fight his master who has become a man of greed and ambition. Now the Templar teams with his adversaries against the master and his disciples.</description>
-        <imageUrl>https://img.youtube.com/vi/xeM-E7mLjmo/0.jpg</imageUrl>
-        <videoId>xeM-E7mLjmo</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Iron Invader</title>
         <year>2011</year>
         <genre>SciFi</genre>
@@ -814,55 +799,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Donovan'S Echo</title>
-        <year>2011</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A series of uncanny déjà vu events force a man to re-examine his tragic past, memory, instinct, and future.</description>
-        <imageUrl>https://img.youtube.com/vi/8e67YgfO5M0/0.jpg</imageUrl>
-        <videoId>8e67YgfO5M0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Other Side Of The Tracks</title>
         <year>2008</year>
         <genre>SciFi</genre>
@@ -974,6 +910,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Collision Earth</title>
+        <year>2020</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>A large meteor shower unexpectedly bombards planet Earth. Scientists rush to the scene of the first impact and the race is on to find a solution to save humanity.</description>
+        <imageUrl>https://img.youtube.com/vi/PIdzMorsR6s/0.jpg</imageUrl>
+        <videoId>PIdzMorsR6s</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Gang Des Fourgons Blindés</title>
         <year>1957</year>
         <genre>SciFi</genre>
@@ -1022,56 +1008,6 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Collision Earth</title>
-        <year>2020</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A large meteor shower unexpectedly bombards planet Earth. Scientists rush to the scene of the first impact and the race is on to find a solution to save humanity.</description>
-        <imageUrl>https://img.youtube.com/vi/PIdzMorsR6s/0.jpg</imageUrl>
-        <videoId>PIdzMorsR6s</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1127,55 +1063,6 @@
             <audio>en</audio>
             <audio>it</audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Mystic Temptation</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/CnHqYVU9Agg/0.jpg</imageUrl>
-        <videoId>CnHqYVU9Agg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1397,6 +1284,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The First Move</title>
+        <year>2022</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>A man leaves the natural world.</description>
+        <imageUrl>https://img.youtube.com/vi/ElpFOLlqVM0/0.jpg</imageUrl>
+        <videoId>ElpFOLlqVM0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Nova</title>
         <year>2022</year>
         <genre>SciFi</genre>
@@ -1496,55 +1432,6 @@
         <available_audio>
             <audio>fr</audio>
             <audio>ru</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The First Move</title>
-        <year>2022</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A man leaves the natural world.</description>
-        <imageUrl>https://img.youtube.com/vi/ElpFOLlqVM0/0.jpg</imageUrl>
-        <videoId>ElpFOLlqVM0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1651,57 +1538,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Creature Invasion</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/olvTUpuA4mc/0.jpg</imageUrl>
-        <videoId>olvTUpuA4mc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>es</audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Earth Attacked!! Killers From Space</title>
         <year>1971</year>
         <genre>SciFi</genre>
@@ -1747,150 +1583,6 @@
             <audio>fr</audio>
             <audio>default</audio>
             <audio>it</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>End Of The World</title>
-        <year>2018</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>As mass of solar storms causes tsunamis, volcanoes, and flooding, a city-dwelling family attempts to flee to the relative safety of a group of high-elevation caves several miles away.</description>
-        <imageUrl>https://img.youtube.com/vi/wVlm3-e-gto/0.jpg</imageUrl>
-        <videoId>wVlm3-e-gto</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Monster Of Piedras Blancas</title>
-        <year>1959</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>An old lighthouse keeper who lives with his daughter secretly keeps a prehistoric fish-man by feeding it scraps and fish. One day he misses the feeding and all hell breaks loose.</description>
-        <imageUrl>https://img.youtube.com/vi/C8Li3E-Qo84/0.jpg</imageUrl>
-        <videoId>C8Li3E-Qo84</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Monster From Green Hell 1957</title>
-        <year>1957</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A test rocket carrying wasps to outer space,  to study the effects on them of weightlessness and radiations, crashes out of control back to Earth, into the jungles of Africa.  The two astrobiologists in charge of the test mount an expedition to the Darkest Continent to retrieve their experiment, only to find the wasps have grown to giant size which are panicking all forms of life as they quest for food.</description>
-        <imageUrl>https://img.youtube.com/vi/7jio_6DlExU/0.jpg</imageUrl>
-        <videoId>7jio_6DlExU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1944,6 +1636,50 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Monster Of Piedras Blancas</title>
+        <year>1959</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>An old lighthouse keeper who lives with his daughter secretly keeps a prehistoric fish-man by feeding it scraps and fish. One day he misses the feeding and all hell breaks loose.</description>
+        <imageUrl>https://img.youtube.com/vi/C8Li3E-Qo84/0.jpg</imageUrl>
+        <videoId>C8Li3E-Qo84</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2122,6 +1858,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Battle Of The Worlds</title>
+        <year>1961</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Dr. Fred Steele (Umberto Orsini) and Eve Barnett (Maya Brent) work together at an astronomical station on a bucolic island. The station's scientists learn they must deal with a rogue planet -- "The Outsider" -- that has entered the solar system. which must be controlled by an alien intelligence… Professor Benson's(Claude Rains) expedition discovers a race of humanoid creatures dead...</description>
+        <imageUrl>https://img.youtube.com/vi/FEhUitAddYs/0.jpg</imageUrl>
+        <videoId>FEhUitAddYs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Mars Needs Women</title>
         <year>1968</year>
         <genre>SciFi</genre>
@@ -2211,56 +1997,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Battle Of The Worlds</title>
-        <year>1961</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Dr. Fred Steele (Umberto Orsini) and Eve Barnett (Maya Brent) work together at an astronomical station on a bucolic island. The station's scientists learn they must deal with a rogue planet -- "The Outsider" -- that has entered the solar system. which must be controlled by an alien intelligence… Professor Benson's(Claude Rains) expedition discovers a race of humanoid creatures dead...</description>
-        <imageUrl>https://img.youtube.com/vi/FEhUitAddYs/0.jpg</imageUrl>
-        <videoId>FEhUitAddYs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2470,6 +2206,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Ghost In The Shell: The Laughing Man</title>
+        <year>2005</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>The year is 2030 and six years have passed since a criminal known only as "The Laughing Man" swept through top medical nanotechnology firms committing acts of cyber-terrorism, kidnapping, and espionage leaving no known suspects. New information is revealed, as Section 9 enters the hunt for a suspect capable of unfathomable actions in this compilation of Stand Alone Complex content.</description>
+        <imageUrl>https://img.youtube.com/vi/gp7_Wvt6OYU/0.jpg</imageUrl>
+        <videoId>gp7_Wvt6OYU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Iq Supremacy</title>
         <year>2019</year>
         <genre>SciFi</genre>
@@ -2521,13 +2306,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Ghost In The Shell: The Laughing Man</title>
-        <year>2005</year>
+        <title>The Philadelphia Experiment 2</title>
+        <year>1993</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>The year is 2030 and six years have passed since a criminal known only as "The Laughing Man" swept through top medical nanotechnology firms committing acts of cyber-terrorism, kidnapping, and espionage leaving no known suspects. New information is revealed, as Section 9 enters the hunt for a suspect capable of unfathomable actions in this compilation of Stand Alone Complex content.</description>
-        <imageUrl>https://img.youtube.com/vi/gp7_Wvt6OYU/0.jpg</imageUrl>
-        <videoId>gp7_Wvt6OYU</videoId>
+        <description>It is several years after the events of the first movie, and David Herdeg (the survivor of the Philadelphia Experiment from the first film) and Allison (the woman from 1984 he fell in love with) have married and have a child. David awakes, in agony, to a changed world. Germany won World War II and the United States is now about to mark 50 years as a Nazi conquest.</description>
+        <imageUrl>https://img.youtube.com/vi/e9sKj1AEvac/0.jpg</imageUrl>
+        <videoId>e9sKj1AEvac</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -2603,55 +2388,6 @@
             <sub>sv</sub>
             <sub>vi</sub>
             <sub>cy</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Philadelphia Experiment 2</title>
-        <year>1993</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>It is several years after the events of the first movie, and David Herdeg (the survivor of the Philadelphia Experiment from the first film) and Allison (the woman from 1984 he fell in love with) have married and have a child. David awakes, in agony, to a changed world. Germany won World War II and the United States is now about to mark 50 years as a Nazi conquest.</description>
-        <imageUrl>https://img.youtube.com/vi/e9sKj1AEvac/0.jpg</imageUrl>
-        <videoId>e9sKj1AEvac</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -2753,54 +2489,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Warlock : The End Of Innocence</title>
-        <year>1999</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A college student unexpectedly finds that she has inherited a derelict house. Accompanied by a group of friends, she goes there to clear it of heirlooms before the structure is demolished. Almost immediately, she and her friends are targeted by a powerful warlock who is very interested in her bloodline.</description>
-        <imageUrl>https://img.youtube.com/vi/zVrqAYcg9LQ/0.jpg</imageUrl>
-        <videoId>zVrqAYcg9LQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Guyver: Dark Hero</title>
         <year>1994</year>
         <genre>SciFi</genre>
@@ -2858,13 +2546,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Axcellerator</title>
-        <year>2019</year>
+        <title>Warlock : The End Of Innocence</title>
+        <year>1999</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>When a young car thief stumbles on the invention of the century (and the various government agencies that want to kill him), he and a sassy checkout clerk named Kate have the adventure of a lifetime.</description>
-        <imageUrl>https://img.youtube.com/vi/luMezLxqtF8/0.jpg</imageUrl>
-        <videoId>luMezLxqtF8</videoId>
+        <description>A college student unexpectedly finds that she has inherited a derelict house. Accompanied by a group of friends, she goes there to clear it of heirlooms before the structure is demolished. Almost immediately, she and her friends are targeted by a powerful warlock who is very interested in her bloodline.</description>
+        <imageUrl>https://img.youtube.com/vi/zVrqAYcg9LQ/0.jpg</imageUrl>
+        <videoId>zVrqAYcg9LQ</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -2985,55 +2673,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Witch Hunter</title>
-        <year>2024</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A medieval town is terrorized by demonic beasts transformed from woodland creatures by a powerful and vile witch. Now, a brave witch hunter and his warrior band must venture into the forest to confront the monstrous creatures and put an end to the witch’s dark magic.</description>
-        <imageUrl>https://img.youtube.com/vi/e_IBUYjj-M8/0.jpg</imageUrl>
-        <videoId>e_IBUYjj-M8</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Alien Intervention</title>
         <year>2023</year>
         <genre>SciFi</genre>
@@ -3083,13 +2722,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Jurassic Commando</title>
-        <year>2008</year>
+        <title>Andromeda</title>
+        <year>2022</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>A scientist from the failed Philadelphia Experiment leads a team of Navy SEALs back in time to the Cretaceous Period to rescue the first team he sent back during the 1940s. Things go wildly awry though, when on his return he accidentally brings a giant, man-eating dinosaur back through the portal and into modern-day, downtown Los Angeles.</description>
-        <imageUrl>https://img.youtube.com/vi/QQ-O6ctc7JE/0.jpg</imageUrl>
-        <videoId>QQ-O6ctc7JE</videoId>
+        <description>A young man must travel to the furthest reaches of the universe to find his long lost father.</description>
+        <imageUrl>https://img.youtube.com/vi/-NPvrSE6wUk/0.jpg</imageUrl>
+        <videoId>-NPvrSE6wUk</videoId>
         <available_subtitles>
             <sub>ar-holatrtIUCQ</sub>
             <sub>bn-holatrtIUCQ</sub>
@@ -3338,55 +2977,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Andromeda</title>
-        <year>2022</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A young man must travel to the furthest reaches of the universe to find his long lost father.</description>
-        <imageUrl>https://img.youtube.com/vi/-NPvrSE6wUk/0.jpg</imageUrl>
-        <videoId>-NPvrSE6wUk</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Menace From Outer Space</title>
         <year>1956</year>
         <genre>SciFi</genre>
@@ -3451,58 +3041,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Aztec Mummy Against The Humanoid Robot 1958</title>
-        <year>1958</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A mad doctor builds a robot in order to steal a valuable Aztec treasure from a tomb guarded by a centuries old living mummy.</description>
-        <imageUrl>https://img.youtube.com/vi/7F1T8YOMtvE/0.jpg</imageUrl>
-        <videoId>7F1T8YOMtvE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Alien Country</title>
         <year>2024</year>
         <genre>SciFi</genre>
@@ -3552,18 +3090,55 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Apocalypse Storm</title>
-        <year>1998</year>
+        <title>The Aztec Mummy Against The Humanoid Robot 1958</title>
+        <year>1958</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>Two news broadcasters, through investigation, find that they were left behind after the biblical rapture. Bronson Pearl and Helen Hannah are two news broadcasters who are covering the impending war in Israel. Yet, suddenly millions of people disappear, then a new leader performs an incredible miracle. These are astounding media events. Helen soon comes to the realization that these times are fulfilling biblical prophesy... and she was left behind.</description>
-        <imageUrl>https://img.youtube.com/vi/zyeuqCXREfs/0.jpg</imageUrl>
-        <videoId>zyeuqCXREfs</videoId>
+        <description>A mad doctor builds a robot in order to steal a valuable Aztec treasure from a tomb guarded by a centuries old living mummy.</description>
+        <imageUrl>https://img.youtube.com/vi/7F1T8YOMtvE/0.jpg</imageUrl>
+        <videoId>7F1T8YOMtvE</videoId>
         <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
             <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>es</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3668,55 +3243,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Time Traveler</title>
-        <year>2025</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A scientist creates a time machine and kills their younger self to see what would happen. And that self-obsessed, misanthropic, mad genius of a scientist is Tim Travers. And the universe was bad enough with only one of him.</description>
-        <imageUrl>https://img.youtube.com/vi/4xOWI4fPh0g/0.jpg</imageUrl>
-        <videoId>4xOWI4fPh0g</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Brain Eaters</title>
         <year>1958</year>
         <genre>SciFi</genre>
@@ -3762,6 +3288,55 @@
             <sub>ur</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Warlock : The Armageddon</title>
+        <year>1993</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Every six hundred years, a great evil has the opportunity to escape and unleash Armageddon. A group of five stones has the power to either free the evil, or banish it for another six hundred years. An order of Druids battles with a Warlock determined to unleash his father upon the world.</description>
+        <imageUrl>https://img.youtube.com/vi/O4RQkdVQJDc/0.jpg</imageUrl>
+        <videoId>O4RQkdVQJDc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -3824,8 +3399,8 @@
         <genre>SciFi</genre>
         <type>film</type>
         <description>Every six hundred years, a great evil has the opportunity to escape and unleash Armageddon. A group of five stones has the power to either free the evil, or banish it for another six hundred years. An order of Druids battles with a Warlock determined to unleash his father upon the world.</description>
-        <imageUrl>https://img.youtube.com/vi/O4RQkdVQJDc/0.jpg</imageUrl>
-        <videoId>O4RQkdVQJDc</videoId>
+        <imageUrl>https://img.youtube.com/vi/TjxyXT_IFKk/0.jpg</imageUrl>
+        <videoId>TjxyXT_IFKk</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -3847,21 +3422,7 @@
             <sub>ja</sub>
             <sub>jv</sub>
             <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
+            <sub>nso</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -3919,6 +3480,23 @@
         </available_audio>
     </movie>
     <movie>
+        <title>One By One</title>
+        <year>2023</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.</description>
+        <imageUrl>https://img.youtube.com/vi/WXZsqYzG3dM/0.jpg</imageUrl>
+        <videoId>WXZsqYzG3dM</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pt</audio>
+            <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Earth Invasion</title>
         <year>2007</year>
         <genre>SciFi</genre>
@@ -3972,41 +3550,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Warlock : The Armageddon</title>
-        <year>1993</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Every six hundred years, a great evil has the opportunity to escape and unleash Armageddon. A group of five stones has the power to either free the evil, or banish it for another six hundred years. An order of Druids battles with a Warlock determined to unleash his father upon the world.</description>
-        <imageUrl>https://img.youtube.com/vi/TjxyXT_IFKk/0.jpg</imageUrl>
-        <videoId>TjxyXT_IFKk</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>nso</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Lady Of Heaven</title>
         <year>2014</year>
         <genre>SciFi</genre>
@@ -4056,20 +3599,52 @@
         </available_audio>
     </movie>
     <movie>
-        <title>One By One</title>
-        <year>2023</year>
+        <title>The Void</title>
+        <year>2016</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.</description>
-        <imageUrl>https://img.youtube.com/vi/WXZsqYzG3dM/0.jpg</imageUrl>
-        <videoId>WXZsqYzG3dM</videoId>
+        <description>The Void is a multi volume anthology series featuring some of the best award winning short films from the Horror, Suspense, Thriller, Sci-Fi and Fantasy genres, Including: Dystopia St., ...</description>
+        <imageUrl>https://img.youtube.com/vi/0Ik1-nLb0zo/0.jpg</imageUrl>
+        <videoId>0Ik1-nLb0zo</videoId>
         <available_subtitles>
-            <sub>live_chat</sub>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>pt</audio>
-            <audio>es</audio>
-            <audio>en</audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4260,6 +3835,54 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Missile To The Moon</title>
+        <year>1958</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Two escaped convicts are found hiding in a rocketship built by a renegade inventor, who forces them to become the crew for a trip to the Moon.  Also on board, as inadvertent stowaways, are his assistant and his secretary; and none of them are aware that the inventor is actually a Lunarian explorer sent to Earth by the dying Lunar civilization and the only remaining male member of that civilization.</description>
+        <imageUrl>https://img.youtube.com/vi/aaKv47KYN2E/0.jpg</imageUrl>
+        <videoId>aaKv47KYN2E</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Xchange</title>
         <year>2001</year>
         <genre>SciFi</genre>
@@ -4335,54 +3958,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Missile To The Moon</title>
-        <year>1958</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Two escaped convicts are found hiding in a rocketship built by a renegade inventor, who forces them to become the crew for a trip to the Moon.  Also on board, as inadvertent stowaways, are his assistant and his secretary; and none of them are aware that the inventor is actually a Lunarian explorer sent to Earth by the dying Lunar civilization and the only remaining male member of that civilization.</description>
-        <imageUrl>https://img.youtube.com/vi/aaKv47KYN2E/0.jpg</imageUrl>
-        <videoId>aaKv47KYN2E</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4641,55 +4216,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Sisters Grimm</title>
-        <year>2009</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>1815 England. Shipwrecked off Ireland and landed at Watchet Harbour, Somerset, Esmeralda Grimm and her half sister Fancy, set out on the final leg of their journey home to the House of Grimm. Stumbling upon a coven of witches in a ruined church, they flee for their lives and take refuge in a deserted tavern. Befriended by an amorous yokel, they awake to discover their horses stolen. Left to cross the wilds by foot, they are overtaken by a storm and forced to take refuge in a ditch with a tinker whose tales about the beast of the Moor make their night sleepless.</description>
-        <imageUrl>https://img.youtube.com/vi/8YIJaOmNRV8/0.jpg</imageUrl>
-        <videoId>8YIJaOmNRV8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>First Man Into Space 1959</title>
         <year>1959</year>
         <genre>SciFi</genre>
@@ -4738,6 +4264,55 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Sisters Grimm</title>
+        <year>2009</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>1815 England. Shipwrecked off Ireland and landed at Watchet Harbour, Somerset, Esmeralda Grimm and her half sister Fancy, set out on the final leg of their journey home to the House of Grimm. Stumbling upon a coven of witches in a ruined church, they flee for their lives and take refuge in a deserted tavern. Befriended by an amorous yokel, they awake to discover their horses stolen. Left to cross the wilds by foot, they are overtaken by a storm and forced to take refuge in a ditch with a tinker whose tales about the beast of the Moor make their night sleepless.</description>
+        <imageUrl>https://img.youtube.com/vi/8YIJaOmNRV8/0.jpg</imageUrl>
+        <videoId>8YIJaOmNRV8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4795,55 +4370,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Battle Star Wars</title>
-        <year>2020</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>When the leader of the evil Coalition threatens to destroy a Rebel planet for its resources, his daughter will have no choice but to join the Rebel side and fight for what is right.</description>
-        <imageUrl>https://img.youtube.com/vi/ssJo9F8dvRc/0.jpg</imageUrl>
-        <videoId>ssJo9F8dvRc</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Monster From The Moon</title>
         <year>1953</year>
         <genre>SciFi</genre>
@@ -4894,6 +4420,55 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Faun</title>
+        <year />
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Two hunters pay a strange mischievous man to travel into a world where you can hunt the creatures of fairy tales.</description>
+        <imageUrl>https://img.youtube.com/vi/ichdAKSCDaw/0.jpg</imageUrl>
+        <videoId>ichdAKSCDaw</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4948,21 +4523,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>San Andreas Seism</title>
-        <year>2019</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Scientists make a horrible discovery: The "Big One" is coming in two days, with it, California will sink to the ocean. Their only hope is to rupture a volcano that will displace the earthquake's energy and build a new crust on the surface. But as fore-shocks turn California into chaos, it's a race against time the scientists might not win.</description>
-        <imageUrl>https://img.youtube.com/vi/k6eQby-Eaok/0.jpg</imageUrl>
-        <videoId>k6eQby-Eaok</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Dernier Homme Sur Terre</title>
         <year>2012</year>
         <genre>SciFi</genre>
@@ -4975,6 +4535,38 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dream A Little Dream</title>
+        <year>1989</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Bobby Kellar has a crush on Lainie Diamond, girlfriend of school jerk Joel. Coleman is working on an experiment which will help him move into a place where Dreams are reality. When an accident occurs Coleman finds himself in Bobby's body and can only contact Bobby in his dreams.</description>
+        <imageUrl>https://img.youtube.com/vi/aHJiNmkISDI/0.jpg</imageUrl>
+        <videoId>aHJiNmkISDI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ml</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>en-US</audio>
+            <audio>fr</audio>
+            <audio>default</audio>
+            <audio>en</audio>
+            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5027,87 +4619,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Dream A Little Dream</title>
-        <year>1989</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Bobby Kellar has a crush on Lainie Diamond, girlfriend of school jerk Joel. Coleman is working on an experiment which will help him move into a place where Dreams are reality. When an accident occurs Coleman finds himself in Bobby's body and can only contact Bobby in his dreams.</description>
-        <imageUrl>https://img.youtube.com/vi/aHJiNmkISDI/0.jpg</imageUrl>
-        <videoId>aHJiNmkISDI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>en</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ml</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>en-US</audio>
-            <audio>fr</audio>
-            <audio>default</audio>
-            <audio>en</audio>
-            <audio>de</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Enchantress</title>
-        <year>1984</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A rarity among Tchaikovsky's operas, The Enchantress (also known as The Sorceress) is presented here in a live performance by the esteemed Nizhegorodsky State Academic Theatre of Opera and Ballet; Pavel Reznikov, conductor (Moscow, 1984).</description>
-        <imageUrl>https://img.youtube.com/vi/NS-4eK8i7LQ/0.jpg</imageUrl>
-        <videoId>NS-4eK8i7LQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Terror In The Midnight Sun</title>
         <year>1959</year>
         <genre>SciFi</genre>
@@ -5154,6 +4665,55 @@
             <sub>ur</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Moon</title>
+        <year>2009</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.</description>
+        <imageUrl>https://img.youtube.com/vi/aqPsFRqREFY/0.jpg</imageUrl>
+        <videoId>aqPsFRqREFY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5212,111 +4772,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Iq Supremacy</title>
-        <year>2019</year>
+        <title>Superman</title>
+        <year>2025</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>The A.I. 187 chip which can revolutionize the inner workings of the human brain has been developed for the greater good, but falling in the wrong hands can be a weapon of mass destruction.</description>
-        <imageUrl>https://img.youtube.com/vi/1xja5Ic19Ps/0.jpg</imageUrl>
-        <videoId>1xja5Ic19Ps</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Alien Origin</title>
-        <year>2012</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A movie created from "found footage" of a lost military expedition that exposes the origins of life on earth.</description>
-        <imageUrl>https://img.youtube.com/vi/eoAf1UnQC7w/0.jpg</imageUrl>
-        <videoId>eoAf1UnQC7w</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Moon</title>
-        <year>2009</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.</description>
-        <imageUrl>https://img.youtube.com/vi/aqPsFRqREFY/0.jpg</imageUrl>
-        <videoId>aqPsFRqREFY</videoId>
+        <description>Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.</description>
+        <imageUrl>https://img.youtube.com/vi/u92t2pNOoqM/0.jpg</imageUrl>
+        <videoId>u92t2pNOoqM</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -5353,6 +4815,7 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5458,19 +4921,18 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Abraxas, Guardian Of The Universe</title>
-        <year>1990</year>
+        <title>Robot Monster 1953</title>
+        <year>1953</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>An alien policeman comes to Earth to hunt down a renegade of his own race.</description>
-        <imageUrl>https://img.youtube.com/vi/8VpyuOQyUGI/0.jpg</imageUrl>
-        <videoId>8VpyuOQyUGI</videoId>
+        <description>Ro-Man, an alien robot who greatly resembles a gorilla in a diving helmet, is sent to earth to destroy all human life. Ro-Man falls in love with one of the last six remaining humans, and struggles to understand how his programming can instruct him to kill her while his heart demands that he can't.</description>
+        <imageUrl>https://img.youtube.com/vi/V6brRcU-s64/0.jpg</imageUrl>
+        <videoId>V6brRcU-s64</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
@@ -5503,21 +4965,56 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
-        <title>Supernova</title>
-        <year>2000</year>
+        <title>From The Dead Of Night</title>
+        <year>1989</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>Set in the 22nd century, when a battered salvage ship sends out a distress signal, the seasoned crew of the rescue hospital ship Nova-17 responds. What they find is a black hole--that threatens to destroy both ships--and a mysterious survivor whose body quickly mutates into a monstrous and deadly form.</description>
-        <imageUrl>https://img.youtube.com/vi/G8J5diznFno/0.jpg</imageUrl>
-        <videoId>G8J5diznFno</videoId>
+        <description>After having a near death experience Joanna finds her life in constant danger. She begins to believe that certain forces are trying to bring her back into the world of the dead. Her boyfriend Glen thinks she's crazy so Joanna turns to her ex-boyfriend, Peter. It just so happens that Peter is a strong believer in the supernatural and even teaches a course on it at a local college. Together they must confront the "walkers" so that Joanna can live to see another day.</description>
+        <imageUrl>https://img.youtube.com/vi/CDhDNFo2rSM/0.jpg</imageUrl>
+        <videoId>CDhDNFo2rSM</videoId>
         <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
             <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -5578,18 +5075,19 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Robot Monster 1953</title>
-        <year>1953</year>
+        <title>Abraxas, Guardian Of The Universe</title>
+        <year>1990</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>Ro-Man, an alien robot who greatly resembles a gorilla in a diving helmet, is sent to earth to destroy all human life. Ro-Man falls in love with one of the last six remaining humans, and struggles to understand how his programming can instruct him to kill her while his heart demands that he can't.</description>
-        <imageUrl>https://img.youtube.com/vi/V6brRcU-s64/0.jpg</imageUrl>
-        <videoId>V6brRcU-s64</videoId>
+        <description>An alien policeman comes to Earth to hunt down a renegade of his own race.</description>
+        <imageUrl>https://img.youtube.com/vi/8VpyuOQyUGI/0.jpg</imageUrl>
+        <videoId>8VpyuOQyUGI</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
@@ -5622,7 +5120,6 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5974,13 +5471,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>From The Dead Of Night</title>
-        <year>1989</year>
+        <title>Moonbase</title>
+        <year>1997</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>After having a near death experience Joanna finds her life in constant danger. She begins to believe that certain forces are trying to bring her back into the world of the dead. Her boyfriend Glen thinks she's crazy so Joanna turns to her ex-boyfriend, Peter. It just so happens that Peter is a strong believer in the supernatural and even teaches a course on it at a local college. Together they must confront the "walkers" so that Joanna can live to see another day.</description>
-        <imageUrl>https://img.youtube.com/vi/CDhDNFo2rSM/0.jpg</imageUrl>
-        <videoId>CDhDNFo2rSM</videoId>
+        <description>The most dangerous criminals in the universe escape from the Off-World Penitentiary and stow away to the quiet Moonbase Waste Disposal Plant. Hidden beneath the lunar surface lies an arsenal of nuclear warheads- the inmates' passport home to earth. Moonbase Commander John Russell launches a desperate fight to save his crew from a force capable of laying waste to an entire planet.</description>
+        <imageUrl>https://img.youtube.com/vi/HoVxQPB9G88/0.jpg</imageUrl>
+        <videoId>HoVxQPB9G88</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -6004,6 +5501,54 @@
             <sub>ko</sub>
             <sub>ms</sub>
             <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Mazes And Monsters</title>
+        <year>1982</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Bound together by a desire to play "Mazes and Monsters," Robbie and his four college classmates decide to move the board game into the local cavern. Robbie loses his mind, and the line between reality and fantasy fuse into a harrowing nightmare.</description>
+        <imageUrl>https://img.youtube.com/vi/J7zhtgRwmJY/0.jpg</imageUrl>
+        <videoId>J7zhtgRwmJY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
@@ -6073,55 +5618,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Moonbase</title>
-        <year>1997</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>The most dangerous criminals in the universe escape from the Off-World Penitentiary and stow away to the quiet Moonbase Waste Disposal Plant. Hidden beneath the lunar surface lies an arsenal of nuclear warheads- the inmates' passport home to earth. Moonbase Commander John Russell launches a desperate fight to save his crew from a force capable of laying waste to an entire planet.</description>
-        <imageUrl>https://img.youtube.com/vi/HoVxQPB9G88/0.jpg</imageUrl>
-        <videoId>HoVxQPB9G88</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Cadia, The World Within</title>
         <year>2020</year>
         <genre>SciFi</genre>
@@ -6171,85 +5667,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Road Wars</title>
-        <year>2015</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>After the earth’s water supply is depleted, the survivors form roving road gangs, armed to the teeth and desperate to find and protect water supplies. But when a new breed of blood-drinking humans emerges, the survivors must contend with a whole new threat to their existence.</description>
-        <imageUrl>https://img.youtube.com/vi/3c2pOcF5pdM/0.jpg</imageUrl>
-        <videoId>3c2pOcF5pdM</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Frozen Desert</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A Chinese monk's description of oasis cities during a 7th Century pilgrimage would prove invaluable to another explorer more than 1000 years later. Sir Aurel Stein found cities buried in sand and a 1000 year-old Buddhist library in near-perfect condition.</description>
-        <imageUrl>https://img.youtube.com/vi/W07mIqps1pE/0.jpg</imageUrl>
-        <videoId>W07mIqps1pE</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Ferryman 2023</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Tristan, a mysterious being tasked with leading departed souls through limbo and into the afterlife. When a train crashes in the Scottish Highlands, he meets Dylan, a spirited young woman struggling against her fate. While Tristan’s duty is to protect Dylan from an encroaching darkness, his task and their journey become increasingly perilous as they find themselves falling in love – and Dylan refuses to leave Tristan behind.</description>
-        <imageUrl>https://img.youtube.com/vi/TimfWpiwR9M/0.jpg</imageUrl>
-        <videoId>TimfWpiwR9M</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Unexpected Encounter</title>
         <year>1994</year>
         <genre>SciFi</genre>
@@ -6275,71 +5692,39 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Dragon Crusaders</title>
-        <year>2011</year>
+        <title>Ferryman 2023</title>
+        <year />
         <genre>SciFi</genre>
         <type>film</type>
-        <description>In this sword-and-sorcery extravaganza, a group of marauding Knights Templar suffers a curse that transforms them into monsters, driving them to square off against an evil dragon obsessed with annihilating the entire world.</description>
-        <imageUrl>https://img.youtube.com/vi/_nK9hK7K79M/0.jpg</imageUrl>
-        <videoId>_nK9hK7K79M</videoId>
+        <description>Tristan, a mysterious being tasked with leading departed souls through limbo and into the afterlife. When a train crashes in the Scottish Highlands, he meets Dylan, a spirited young woman struggling against her fate. While Tristan’s duty is to protect Dylan from an encroaching darkness, his task and their journey become increasingly perilous as they find themselves falling in love – and Dylan refuses to leave Tristan behind.</description>
+        <imageUrl>https://img.youtube.com/vi/TimfWpiwR9M/0.jpg</imageUrl>
+        <videoId>TimfWpiwR9M</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
             <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
-        <title>Ice Wave In Paris</title>
-        <year>2006</year>
+        <title>The Atomic Submarine</title>
+        <year>1959</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>Transformative dance in the in-between space, celebration of the chemistry wave, film material and human blood, a trance poetry.</description>
-        <imageUrl>https://img.youtube.com/vi/QvrgMDllAYw/0.jpg</imageUrl>
-        <videoId>QvrgMDllAYw</videoId>
+        <description>Ships disappear on route across the Arctic Sea, and a special submarine is sent to investigate.</description>
+        <imageUrl>https://img.youtube.com/vi/MDWwkvhAxSw/0.jpg</imageUrl>
+        <videoId>MDWwkvhAxSw</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -6349,23 +5734,23 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
-            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>si</sub>
+            <sub>sr</sub>
             <sub>es</sub>
-            <sub>su</sub>
+            <sub>sw</sub>
             <sub>sv</sub>
+            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -6416,55 +5801,6 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Final Promise</title>
-        <year>2019</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Fiore in love travels and talks to Daren on his distant planet and sets off in his crystal bubble across the universe in search of true love.</description>
-        <imageUrl>https://img.youtube.com/vi/1Pi8Lf-r4bM/0.jpg</imageUrl>
-        <videoId>1Pi8Lf-r4bM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -6522,28 +5858,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Time Warrior</title>
-        <year>2013</year>
+        <title>A Final Promise</title>
+        <year>2019</year>
         <genre>SciFi</genre>
         <type>film</type>
-        <description>When a pirate version of the most popular - first person shooter video game lands in the hands of Matt and Jimmy, they immediately think it's the coolest video game they have ever played. Little do they know that what seems to be their favourite video game is actually an evil recruiting device to turn selected kids into real Time Warriors, at the service of "The Lord of War": an evil character behind every war since the beginning of time.</description>
-        <imageUrl>https://img.youtube.com/vi/QyRDFR8Zxpc/0.jpg</imageUrl>
-        <videoId>QyRDFR8Zxpc</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Legacy Knight</title>
-        <year>2012</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>For thousands of years there have been secret gatherings of men claiming to hold a sacred truth. They survived religious and state persecution and still exist today. Unravel the myths, mystery and history of the Freemasons. Join us as we unlock the sacred past of the Freemasons in alchemy, the occult, stone masonry and modern society. Over three hours of startling insider knowledge on Freemasonry and the Knights Templar.</description>
-        <imageUrl>https://img.youtube.com/vi/RpXFPenaLS4/0.jpg</imageUrl>
-        <videoId>RpXFPenaLS4</videoId>
+        <description>Fiore in love travels and talks to Daren on his distant planet and sets off in his crystal bubble across the universe in search of true love.</description>
+        <imageUrl>https://img.youtube.com/vi/1Pi8Lf-r4bM/0.jpg</imageUrl>
+        <videoId>1Pi8Lf-r4bM</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bn</sub>
@@ -6586,6 +5907,21 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Time Warrior</title>
+        <year>2013</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>When a pirate version of the most popular - first person shooter video game lands in the hands of Matt and Jimmy, they immediately think it's the coolest video game they have ever played. Little do they know that what seems to be their favourite video game is actually an evil recruiting device to turn selected kids into real Time Warriors, at the service of "The Lord of War": an evil character behind every war since the beginning of time.</description>
+        <imageUrl>https://img.youtube.com/vi/QyRDFR8Zxpc/0.jpg</imageUrl>
+        <videoId>QyRDFR8Zxpc</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Naked Umbrella</title>
         <year>2023</year>
         <genre>SciFi</genre>
@@ -6609,56 +5945,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dragonquest</title>
-        <year>2009</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>When an ancient warlord summons a mythological beast, a young hero must complete a series of quests to awaken the dragon that will defeat the monster.</description>
-        <imageUrl>https://img.youtube.com/vi/vf-W02nev80/0.jpg</imageUrl>
-        <videoId>vf-W02nev80</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6778,55 +6064,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Reckless Mission</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/48ILdBtc26c/0.jpg</imageUrl>
-        <videoId>48ILdBtc26c</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Cyber Bride</title>
         <year>2019</year>
         <genre>SciFi</genre>
@@ -6873,21 +6110,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Lost City Of The Jungle 1946 Serial Marathon</title>
-        <year>1995</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.</description>
-        <imageUrl>https://img.youtube.com/vi/koIuOUda9W8/0.jpg</imageUrl>
-        <videoId>koIuOUda9W8</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6938,6 +6160,21 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Lost City Of The Jungle 1946 Serial Marathon</title>
+        <year>1995</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.</description>
+        <imageUrl>https://img.youtube.com/vi/koIuOUda9W8/0.jpg</imageUrl>
+        <videoId>koIuOUda9W8</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7020,118 +6257,6 @@
             <sub>ko</sub>
             <sub>ms</sub>
             <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Last Defense</title>
-        <year>1998</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>When the game is on the line, it all comes down to the men behind the mask. The backbone of all great teams, at times the only player who stands between victory and defeat, the NHL goalie takes the punishment while the leading scorers get the glory. But not anymore! This action-packed title pays homage to the best goalies of the game, including Patrick Roy, John Vanbiesbrouck and Dominik Hasek, and features some of the most incredible saves in hockey history! Hosted by Darren Pang</description>
-        <imageUrl>https://img.youtube.com/vi/1e6x2emJH6Y/0.jpg</imageUrl>
-        <videoId>1e6x2emJH6Y</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Rise Of The Beast</title>
-        <year>2023</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.</description>
-        <imageUrl>https://img.youtube.com/vi/eMtYjzaJbuY/0.jpg</imageUrl>
-        <videoId>eMtYjzaJbuY</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Mazes And Monsters</title>
-        <year>1982</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Bound together by a desire to play "Mazes and Monsters," Robbie and his four college classmates decide to move the board game into the local cavern. Robbie loses his mind, and the line between reality and fantasy fuse into a harrowing nightmare.</description>
-        <imageUrl>https://img.youtube.com/vi/J7zhtgRwmJY/0.jpg</imageUrl>
-        <videoId>J7zhtgRwmJY</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
@@ -7502,55 +6627,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Deadly Misfortune</title>
-        <year />
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Movie not found on TMDB.</description>
-        <imageUrl>https://img.youtube.com/vi/TvKmHE2Bbqo/0.jpg</imageUrl>
-        <videoId>TvKmHE2Bbqo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Nico The Unicorn</title>
         <year>1998</year>
         <genre>SciFi</genre>
@@ -7677,6 +6753,55 @@
         <available_subtitles>
             <sub>en</sub>
             <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>From Laughter Ot Tears</title>
+        <year>2010</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>A series of 26 net movies, comedy-themed shorts (one for every letter of the alphabet) that were released by Toei to promote the Kamen Rider W summer movie, Kamen Rider W Forever: A to Z/The Gaia Memories of Fate.</description>
+        <imageUrl>https://img.youtube.com/vi/RE5TqQsOCW8/0.jpg</imageUrl>
+        <videoId>RE5TqQsOCW8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
