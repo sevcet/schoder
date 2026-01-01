@@ -1,6 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Western">
     <movie>
+        <title>The Rodeo Thief</title>
+        <year>2021</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>An injured bull rider, that’s seen his best days in the rodeo, agrees to steal roping horses for an unforgiving loan shark</description>
+        <imageUrl>https://img.youtube.com/vi/KiNSyxdeP7k/0.jpg</imageUrl>
+        <videoId>KiNSyxdeP7k</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Tough Assignment</title>
         <year>1949</year>
         <genre>Western</genre>
@@ -4830,58 +4879,6 @@
             <audio>de</audio>
             <audio>en</audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Django The Last Killer</title>
-        <year>1967</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Ramon's parents are killed by men of landowner John Barrett. While trying to get revenge, Ramon is wounded but has saved the life of Rezza, an old disillusioned killer. While nursing his wounds, the men become reluctanfriends and Rezza teaches Ramon the art of shooting, surviving and the loneliness a killer has to bear. Ramon becomes threat for Barrett, the landowner engages Rezza to kill Ramon.</description>
-        <imageUrl>https://img.youtube.com/vi/bT_ciQ8NrDo/0.jpg</imageUrl>
-        <videoId>bT_ciQ8NrDo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>it</audio>
         </available_audio>
     </movie>
 </category>
