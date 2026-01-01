@@ -641,53 +641,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Adventure, History</title>
-        <year>2007</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>This series also covers the essential concepts of astronomy: gravity, the light spectrum, Earth's magnetic field, the solar system, the sun, Kepler's Law, the universal law of gravitation, the Doppler Effect, and much more!</description>
-        <imageUrl>https://img.youtube.com/vi/-D-ExemJKa4/0.jpg</imageUrl>
-        <videoId>-D-ExemJKa4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Jean-Claude Van Damme 1998</title>
         <year>2023</year>
         <genre>Documentary</genre>
@@ -739,6 +692,53 @@
             <audio>ru</audio>
             <audio>fr</audio>
             <audio>hi</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Adventure, History</title>
+        <year>2007</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>This series also covers the essential concepts of astronomy: gravity, the light spectrum, Earth's magnetic field, the solar system, the sun, Kepler's Law, the universal law of gravitation, the Doppler Effect, and much more!</description>
+        <imageUrl>https://img.youtube.com/vi/-D-ExemJKa4/0.jpg</imageUrl>
+        <videoId>-D-ExemJKa4</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1005,6 +1005,62 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Jean-Claude Van Damme</title>
+        <year>2023</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>An American low-budget action film celebrated an unexpected worldwide success in 1988: "Bloodsport". With its, the world of film fans and martial arts cinema discovered a new idol: Jean-Claude Van Damme. In the 1970s there was Bruce Lee, but at the end of the 1980s a Belgian won the day. Van Damme was a karate master and had unparalleled strength and flexibility. For ten years he was one of Hollywood's hottest action stars. But excessive overconfidence and drugs bring him down again. At home in Europe he becomes a laughing stock on talk shows. Only with "JCVD" does he manage to get back on his feet, playing his character with perspective and self-irony, but without ever giving up the reputation that his action films brought him and which has been a cult for several generations. The highs and lows of his eventful life are told through archive footage and contributions from people close to the popular Belgian actor.</description>
+        <imageUrl>https://img.youtube.com/vi/vnOgVa7U4iU/0.jpg</imageUrl>
+        <videoId>vnOgVa7U4iU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>it</audio>
+            <audio>fr</audio>
+            <audio>es</audio>
+            <audio>cs</audio>
+            <audio>pt</audio>
+            <audio>hu</audio>
+            <audio>ru</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Terence Hill &amp; Bud Spencer</title>
         <year>2025</year>
         <genre>Documentary</genre>
@@ -1187,56 +1243,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Fin Du Terrorisme D'Extrême-Gauche En France</title>
-        <year>2025</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Argentine trap star Duki gives an intimate look at his past and career, from early rap battles to his rise as a verified hitmaker in this documentary.</description>
-        <imageUrl>https://img.youtube.com/vi/ncMO-tn730I/0.jpg</imageUrl>
-        <videoId>ncMO-tn730I</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Une Arme Pour Cent Cercueils</title>
         <year>2022</year>
         <genre>Documentary</genre>
@@ -1284,6 +1290,56 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Fin Du Terrorisme D'Extrême-Gauche En France</title>
+        <year>2025</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Argentine trap star Duki gives an intimate look at his past and career, from early rap battles to his rise as a verified hitmaker in this documentary.</description>
+        <imageUrl>https://img.youtube.com/vi/ncMO-tn730I/0.jpg</imageUrl>
+        <videoId>ncMO-tn730I</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>fr</audio>
         </available_audio>
     </movie>
@@ -1351,62 +1407,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Jean-Claude Van Damme</title>
-        <year>2023</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>An American low-budget action film celebrated an unexpected worldwide success in 1988: "Bloodsport". With its, the world of film fans and martial arts cinema discovered a new idol: Jean-Claude Van Damme. In the 1970s there was Bruce Lee, but at the end of the 1980s a Belgian won the day. Van Damme was a karate master and had unparalleled strength and flexibility. For ten years he was one of Hollywood's hottest action stars. But excessive overconfidence and drugs bring him down again. At home in Europe he becomes a laughing stock on talk shows. Only with "JCVD" does he manage to get back on his feet, playing his character with perspective and self-irony, but without ever giving up the reputation that his action films brought him and which has been a cult for several generations. The highs and lows of his eventful life are told through archive footage and contributions from people close to the popular Belgian actor.</description>
-        <imageUrl>https://img.youtube.com/vi/vnOgVa7U4iU/0.jpg</imageUrl>
-        <videoId>vnOgVa7U4iU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>it</audio>
-            <audio>fr</audio>
-            <audio>es</audio>
-            <audio>cs</audio>
-            <audio>pt</audio>
-            <audio>hu</audio>
-            <audio>ru</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1512,18 +1512,56 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Y'A Que Vérité Qui Compte ! S4 E15</title>
-        <year>2018</year>
+        <title>The Eastern Front</title>
+        <year>1984</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
-        <imageUrl>https://img.youtube.com/vi/TUrm-utO--A/0.jpg</imageUrl>
-        <videoId>TUrm-utO--A</videoId>
+        <description>A study of the German invasion of Russia during WWII, utilising newsreel film, animated maps and interviews with both German and Russian participants, and examining how the Germans’ use of armour led to an early success against a numerically superior enemy.</description>
+        <imageUrl>https://img.youtube.com/vi/Ww35z9uojJg/0.jpg</imageUrl>
+        <videoId>Ww35z9uojJg</videoId>
         <available_subtitles>
-            <sub>live_chat</sub>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>fr</audio>
+            <audio>es</audio>
+            <audio>pt</audio>
+            <audio>de</audio>
+            <audio>en</audio>
+            <audio>ru</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1577,56 +1615,18 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Eastern Front</title>
-        <year>1984</year>
+        <title>Y'A Que Vérité Qui Compte ! S4 E15</title>
+        <year>2018</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>A study of the German invasion of Russia during WWII, utilising newsreel film, animated maps and interviews with both German and Russian participants, and examining how the Germans’ use of armour led to an early success against a numerically superior enemy.</description>
-        <imageUrl>https://img.youtube.com/vi/Ww35z9uojJg/0.jpg</imageUrl>
-        <videoId>Ww35z9uojJg</videoId>
+        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
+        <imageUrl>https://img.youtube.com/vi/TUrm-utO--A/0.jpg</imageUrl>
+        <videoId>TUrm-utO--A</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>es</audio>
-            <audio>pt</audio>
-            <audio>de</audio>
-            <audio>en</audio>
-            <audio>ru</audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2228,6 +2228,60 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Steven Seagal Rend Justice... Sans Sommation</title>
+        <year>2025</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>On the Toronto shooting set of 2001's "Exit Wounds", Steven Seagal almost got to meet Toronto legend Mike Wood. Circumstances kept it from happening, but the tale lives on!</description>
+        <imageUrl>https://img.youtube.com/vi/bUvlrGYB1x4/0.jpg</imageUrl>
+        <videoId>bUvlrGYB1x4</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>ht</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>ig</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>rw</sub>
+            <sub>ko</sub>
+            <sub>mg</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Roger Corman</title>
         <year>2021</year>
         <genre>Documentary</genre>
@@ -2570,6 +2624,58 @@
         </available_audio>
     </movie>
     <movie>
+        <title>L'Évasion Du Tueur</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/AXJi4WKIFiM/0.jpg</imageUrl>
+        <videoId>AXJi4WKIFiM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>es</audio>
+            <audio>pt</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Ida Lupino, Joan Fontaine</title>
         <year>2021</year>
         <genre>Documentary</genre>
@@ -2619,56 +2725,6 @@
         <available_audio>
             <audio>es</audio>
             <audio>it</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Danny Trejo</title>
-        <year>2019</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>71 years in the making, this feature documentary experience reveals the extraordinary life journey of Hollywood's most unlikely hero, Danny Trejo.</description>
-        <imageUrl>https://img.youtube.com/vi/Ce6TqEfEqYo/0.jpg</imageUrl>
-        <videoId>Ce6TqEfEqYo</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2729,18 +2785,19 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Roger Corman</title>
-        <year>2021</year>
+        <title>Danny Trejo</title>
+        <year>2019</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Documentary on the life of legendary filmmaker Roger Corman, often referred to as the "Pope of Pop Cinema"</description>
-        <imageUrl>https://img.youtube.com/vi/WK6HUh7FBUk/0.jpg</imageUrl>
-        <videoId>WK6HUh7FBUk</videoId>
+        <description>71 years in the making, this feature documentary experience reveals the extraordinary life journey of Hollywood's most unlikely hero, Danny Trejo.</description>
+        <imageUrl>https://img.youtube.com/vi/Ce6TqEfEqYo/0.jpg</imageUrl>
+        <videoId>Ce6TqEfEqYo</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
@@ -2757,6 +2814,7 @@
             <sub>ja</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -2766,16 +2824,13 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>fr</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2834,21 +2889,24 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Bistouri De Mafia Blanche</title>
-        <year>2018</year>
+        <title>Roger Corman</title>
+        <year>2021</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Each year in the United States, unparalleled innovations in medical diagnostics, treatment, and technology hit the market. But when the same devices designed to save patients end up harming them, who is accountable?</description>
-        <imageUrl>https://img.youtube.com/vi/d15Fhz3LtSg/0.jpg</imageUrl>
-        <videoId>d15Fhz3LtSg</videoId>
+        <description>Documentary on the life of legendary filmmaker Roger Corman, often referred to as the "Pope of Pop Cinema"</description>
+        <imageUrl>https://img.youtube.com/vi/WK6HUh7FBUk/0.jpg</imageUrl>
+        <videoId>WK6HUh7FBUk</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bg</sub>
             <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
             <sub>fr</sub>
-            <sub>fr-CA</sub>
             <sub>de</sub>
             <sub>el</sub>
             <sub>iw</sub>
@@ -2867,6 +2925,7 @@
             <sub>sr</sub>
             <sub>es</sub>
             <sub>sw</sub>
+            <sub>sv</sub>
             <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
@@ -2877,10 +2936,7 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>it</audio>
             <audio>en</audio>
-            <audio>fr</audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2929,6 +2985,56 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Bistouri De Mafia Blanche</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Each year in the United States, unparalleled innovations in medical diagnostics, treatment, and technology hit the market. But when the same devices designed to save patients end up harming them, who is accountable?</description>
+        <imageUrl>https://img.youtube.com/vi/d15Fhz3LtSg/0.jpg</imageUrl>
+        <videoId>d15Fhz3LtSg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>fr-CA</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>it</audio>
+            <audio>en</audio>
+            <audio>fr</audio>
             <audio>default</audio>
         </available_audio>
     </movie>
@@ -3019,6 +3125,56 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dark Legacy</title>
+        <year>2009</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The death of John Kennedy is viewed through another angle in this conspiracy-themed film defending the theory that George Herbert Walker Bush was a key player in all aspects of the assassination of American president John F. Kennedy.</description>
+        <imageUrl>https://img.youtube.com/vi/hzAgKzfcndI/0.jpg</imageUrl>
+        <videoId>hzAgKzfcndI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
             <audio>fr</audio>
         </available_audio>
     </movie>
@@ -3154,6 +3310,58 @@
             <audio>default</audio>
             <audio>en</audio>
             <audio>de</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Klaus Kinski</title>
+        <year>2000</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Klaus Kinski is one of the few German actors who has achieved international fame. He made headlines. And disappeared behind them. Kinski lived his parts 24/7. This film tells the story of a man who no longer could understand the difference or distinguish between fantasy and reality.</description>
+        <imageUrl>https://img.youtube.com/vi/Ge5Kppjs4-U/0.jpg</imageUrl>
+        <videoId>Ge5Kppjs4-U</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>pl</audio>
+            <audio>it</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3322,21 +3530,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Y'A Que Vérité Qui Compte ! S1 E14</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
-        <imageUrl>https://img.youtube.com/vi/-4NUGeFROY8/0.jpg</imageUrl>
-        <videoId>-4NUGeFROY8</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Good Kill</title>
         <year>2005</year>
         <genre>Documentary</genre>
@@ -3388,54 +3581,17 @@
         </available_audio>
     </movie>
     <movie>
-        <title>L'Évasion Du Tueur</title>
+        <title>Y'A Que Vérité Qui Compte ! S1 E14</title>
         <year>2018</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/AXJi4WKIFiM/0.jpg</imageUrl>
-        <videoId>AXJi4WKIFiM</videoId>
+        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
+        <imageUrl>https://img.youtube.com/vi/-4NUGeFROY8/0.jpg</imageUrl>
+        <videoId>-4NUGeFROY8</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
-            <audio>es</audio>
-            <audio>pt</audio>
             <audio>fr</audio>
         </available_audio>
     </movie>
@@ -3509,6 +3665,60 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Paul Walker</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Exploring the life and legacy of actor Paul Walker, the Southern California native who cut his teeth as child actor before breaking out in the blockbuster Fast and Furious franchise.</description>
+        <imageUrl>https://img.youtube.com/vi/xxe0l86se8g/0.jpg</imageUrl>
+        <videoId>xxe0l86se8g</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>ka</audio>
+            <audio>pt</audio>
+            <audio>es</audio>
+            <audio>en</audio>
+            <audio>hu</audio>
+            <audio>ru</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Y'A Que Vérité Qui Compte ! S4 E17</title>
         <year>2018</year>
         <genre>Documentary</genre>
@@ -3539,6 +3749,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Death Tournament</title>
+        <year>2015</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Follow DJ Hyde and the stars of Combat Zone Wrestling through the history, ultraviolence and spectacle of the Tournament of Death experience!</description>
+        <imageUrl>https://img.youtube.com/vi/m3C4pNDEr2I/0.jpg</imageUrl>
+        <videoId>m3C4pNDEr2I</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Y'A Que Vérité Qui Compte ! S1 E5</title>
         <year>2018</year>
         <genre>Documentary</genre>
@@ -3546,51 +3806,6 @@
         <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
         <imageUrl>https://img.youtube.com/vi/tkn3lcYhXds/0.jpg</imageUrl>
         <videoId>tkn3lcYhXds</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Y'A Que Vérité Qui Compte ! S1 E15</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
-        <imageUrl>https://img.youtube.com/vi/9Mlds6NEx8A/0.jpg</imageUrl>
-        <videoId>9Mlds6NEx8A</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Y'A Que Vérité Qui Compte ! S1 E6</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
-        <imageUrl>https://img.youtube.com/vi/cr1MWqKFmOg/0.jpg</imageUrl>
-        <videoId>cr1MWqKFmOg</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Y'A Que Vérité Qui Compte ! S1 E10</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
-        <imageUrl>https://img.youtube.com/vi/yQXPKjOB4To/0.jpg</imageUrl>
-        <videoId>yQXPKjOB4To</videoId>
         <available_subtitles>
             <sub>live_chat</sub>
         </available_subtitles>
@@ -3649,55 +3864,48 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Klaus Kinski</title>
-        <year>2000</year>
+        <title>Y'A Que Vérité Qui Compte ! S1 E15</title>
+        <year>2018</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Klaus Kinski is one of the few German actors who has achieved international fame. He made headlines. And disappeared behind them. Kinski lived his parts 24/7. This film tells the story of a man who no longer could understand the difference or distinguish between fantasy and reality.</description>
-        <imageUrl>https://img.youtube.com/vi/Ge5Kppjs4-U/0.jpg</imageUrl>
-        <videoId>Ge5Kppjs4-U</videoId>
+        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
+        <imageUrl>https://img.youtube.com/vi/9Mlds6NEx8A/0.jpg</imageUrl>
+        <videoId>9Mlds6NEx8A</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
-            <audio>pl</audio>
-            <audio>it</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Y'A Que Vérité Qui Compte ! S1 E6</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
+        <imageUrl>https://img.youtube.com/vi/cr1MWqKFmOg/0.jpg</imageUrl>
+        <videoId>cr1MWqKFmOg</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Y'A Que Vérité Qui Compte ! S1 E10</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Interview with Linda De Zitter, clinical psychologist, psychoanalyst. Complementary bonus film to the new DVD edition of "La Moindre des Choses" (Every Little Thing), April 2019.</description>
+        <imageUrl>https://img.youtube.com/vi/yQXPKjOB4To/0.jpg</imageUrl>
+        <videoId>yQXPKjOB4To</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3770,24 +3978,23 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Dark Legacy</title>
-        <year>2009</year>
+        <title>King Cobra</title>
+        <year>1997</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>The death of John Kennedy is viewed through another angle in this conspiracy-themed film defending the theory that George Herbert Walker Bush was a key player in all aspects of the assassination of American president John F. Kennedy.</description>
-        <imageUrl>https://img.youtube.com/vi/hzAgKzfcndI/0.jpg</imageUrl>
-        <videoId>hzAgKzfcndI</videoId>
+        <description>It delivers enough venom in one bite to kill a hundred people, yet it solely preys on other snakes. Through rare footage follow the King Cobra on its journey throughout the rainforests of India seeking food and a mate.</description>
+        <imageUrl>https://img.youtube.com/vi/KqERsMDdJio/0.jpg</imageUrl>
+        <videoId>KqERsMDdJio</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
-            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -3797,73 +4004,23 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
+            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>sr</sub>
+            <sub>si</sub>
             <sub>es</sub>
-            <sub>sw</sub>
+            <sub>su</sub>
             <sub>sv</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Death Tournament</title>
-        <year>2015</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Follow DJ Hyde and the stars of Combat Zone Wrestling through the history, ultraviolence and spectacle of the Tournament of Death experience!</description>
-        <imageUrl>https://img.youtube.com/vi/m3C4pNDEr2I/0.jpg</imageUrl>
-        <videoId>m3C4pNDEr2I</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -3966,163 +4123,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>King Cobra</title>
-        <year>1997</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>It delivers enough venom in one bite to kill a hundred people, yet it solely preys on other snakes. Through rare footage follow the King Cobra on its journey throughout the rainforests of India seeking food and a mate.</description>
-        <imageUrl>https://img.youtube.com/vi/KqERsMDdJio/0.jpg</imageUrl>
-        <videoId>KqERsMDdJio</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Paul Walker</title>
-        <year>2018</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Exploring the life and legacy of actor Paul Walker, the Southern California native who cut his teeth as child actor before breaking out in the blockbuster Fast and Furious franchise.</description>
-        <imageUrl>https://img.youtube.com/vi/xxe0l86se8g/0.jpg</imageUrl>
-        <videoId>xxe0l86se8g</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>ka</audio>
-            <audio>pt</audio>
-            <audio>es</audio>
-            <audio>en</audio>
-            <audio>hu</audio>
-            <audio>ru</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Steven Seagal Rend Justice... Sans Sommation</title>
-        <year>2025</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>On the Toronto shooting set of 2001's "Exit Wounds", Steven Seagal almost got to meet Toronto legend Mike Wood. Circumstances kept it from happening, but the tale lives on!</description>
-        <imageUrl>https://img.youtube.com/vi/bUvlrGYB1x4/0.jpg</imageUrl>
-        <videoId>bUvlrGYB1x4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>ht</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>ig</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>rw</sub>
-            <sub>ko</sub>
-            <sub>mg</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4234,18 +4234,53 @@
         </available_audio>
     </movie>
     <movie>
-        <title>En Quête De Vérité</title>
-        <year>2020</year>
+        <title>Voyeur</title>
+        <year>2017</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/oidVximzVz4/0.jpg</imageUrl>
-        <videoId>oidVximzVz4</videoId>
+        <description>Legendary journalist Gay Talese unmasks a motel owner who spied on his guests for decades. But his bombshell story soon becomes a scandal of its own.</description>
+        <imageUrl>https://img.youtube.com/vi/KLWZFNFSL4w/0.jpg</imageUrl>
+        <videoId>KLWZFNFSL4w</videoId>
         <available_subtitles>
-            <sub>live_chat</sub>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
-            <audio>fr</audio>
+            <audio>en</audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4295,6 +4330,21 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>En Quête De Vérité</title>
+        <year>2020</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/oidVximzVz4/0.jpg</imageUrl>
+        <videoId>oidVximzVz4</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4456,52 +4506,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Criminal Conspiracy</title>
-        <year>2017</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Public Broadcasting has changed over the last ten years and now it is on the wrong track.</description>
-        <imageUrl>https://img.youtube.com/vi/RuqVKvfI_JU/0.jpg</imageUrl>
-        <videoId>RuqVKvfI_JU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Soul Harvest</title>
         <year>2017</year>
         <genre>Documentary</genre>
@@ -4548,6 +4552,52 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>A Criminal Conspiracy</title>
+        <year>2017</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Public Broadcasting has changed over the last ten years and now it is on the wrong track.</description>
+        <imageUrl>https://img.youtube.com/vi/RuqVKvfI_JU/0.jpg</imageUrl>
+        <videoId>RuqVKvfI_JU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4603,52 +4653,52 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Voyeur</title>
-        <year>2017</year>
+        <title>Rage Behind Bars</title>
+        <year>2022</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Legendary journalist Gay Talese unmasks a motel owner who spied on his guests for decades. But his bombshell story soon becomes a scandal of its own.</description>
-        <imageUrl>https://img.youtube.com/vi/KLWZFNFSL4w/0.jpg</imageUrl>
-        <videoId>KLWZFNFSL4w</videoId>
+        <description>In America, most female homicide victims are killed by their current or former partner and one in 4 women experience domestic violence or abuse. In this special documentary for ITV's acclaimed Exposure strand, the Bafta and Emmy-winning filmmaker Deeyah Khan asks a simple question : is it possible to reduce these endemic levels of male violence? In search of an answer, she hears heartfelt testimonies from survivors and victims’ families, and gets vital insights from social workers and psychologists who work with violent men. And she speaks to those whose voices are rarely heard in conversations about domestic violence yet hold the key to stopping it: the perpetrators themselves.</description>
+        <imageUrl>https://img.youtube.com/vi/B3NAQYdG6W0/0.jpg</imageUrl>
+        <videoId>B3NAQYdG6W0</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
             <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
             <audio>default</audio>
         </available_audio>
     </movie>
@@ -4677,6 +4727,59 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Waffen Ss</title>
+        <year>1990</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The Waffen SS is the elite Nazi fighting force that holds a dark place in Germany's history. Their code is a lethal combination of bravery and savagery.</description>
+        <imageUrl>https://img.youtube.com/vi/XI7fFDsPYJs/0.jpg</imageUrl>
+        <videoId>XI7fFDsPYJs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>de</audio>
+            <audio>es</audio>
+            <audio>pt</audio>
+            <audio>ru</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4903,56 +5006,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Rage Behind Bars</title>
-        <year>2022</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>In America, most female homicide victims are killed by their current or former partner and one in 4 women experience domestic violence or abuse. In this special documentary for ITV's acclaimed Exposure strand, the Bafta and Emmy-winning filmmaker Deeyah Khan asks a simple question : is it possible to reduce these endemic levels of male violence? In search of an answer, she hears heartfelt testimonies from survivors and victims’ families, and gets vital insights from social workers and psychologists who work with violent men. And she speaks to those whose voices are rarely heard in conversations about domestic violence yet hold the key to stopping it: the perpetrators themselves.</description>
-        <imageUrl>https://img.youtube.com/vi/B3NAQYdG6W0/0.jpg</imageUrl>
-        <videoId>B3NAQYdG6W0</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Alfred Hitchcock</title>
         <year>2004</year>
         <genre>Documentary</genre>
@@ -5070,6 +5123,54 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Penélope Cruz In Deep Passion In A City Of Glamour</title>
+        <year>2022</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>An account of the life and work of Spanish actress Penélope Cruz: a long journey that began in the working-class neighborhoods of Madrid and ended in the hills of Hollywood.</description>
+        <imageUrl>https://img.youtube.com/vi/FNo-DfsgSFM/0.jpg</imageUrl>
+        <videoId>FNo-DfsgSFM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Tales Of The Old West</title>
         <year>2016</year>
         <genre>Documentary</genre>
@@ -5166,6 +5267,69 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Sharon Stone In Secret Spy</title>
+        <year>2024</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>30 years after Basic Instinct, Sharon Stone is still stigmatized for her role as a sexual psychopath. But the Oscar nominee has always fought against domination. She embodies the independent woman of the 21st century, who refuses to be invisibilized and a "passive" object, subjected only to the male gaze.</description>
+        <imageUrl>https://img.youtube.com/vi/qnIJc3UqU8U/0.jpg</imageUrl>
+        <videoId>qnIJc3UqU8U</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>F. Scott Fitzgerald'S 'The Last Of The Belles'</title>
+        <year>2001</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The dreams that all came true for Scott Fitzgerald - once he was in his grave.</description>
+        <imageUrl>https://img.youtube.com/vi/kpMgrSNdLdc/0.jpg</imageUrl>
+        <videoId>kpMgrSNdLdc</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Baldwin</title>
         <year>1962</year>
         <genre>Documentary</genre>
@@ -5209,21 +5373,6 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>F. Scott Fitzgerald'S 'The Last Of The Belles'</title>
-        <year>2001</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>The dreams that all came true for Scott Fitzgerald - once he was in his grave.</description>
-        <imageUrl>https://img.youtube.com/vi/kpMgrSNdLdc/0.jpg</imageUrl>
-        <videoId>kpMgrSNdLdc</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5405,54 +5554,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Penélope Cruz In Deep Passion In A City Of Glamour</title>
-        <year>2022</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>An account of the life and work of Spanish actress Penélope Cruz: a long journey that began in the working-class neighborhoods of Madrid and ended in the hills of Hollywood.</description>
-        <imageUrl>https://img.youtube.com/vi/FNo-DfsgSFM/0.jpg</imageUrl>
-        <videoId>FNo-DfsgSFM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Convict</title>
         <year>2012</year>
         <genre>Documentary</genre>
@@ -5556,55 +5657,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Betrayed By Her Father</title>
-        <year>2023</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>How does love fill your life? What is your perspective on love? (not)betrayed by love recognizes that there are several truths about love Is your love fragile, full of loneliness or full of life?</description>
-        <imageUrl>https://img.youtube.com/vi/LB09oREbrSs/0.jpg</imageUrl>
-        <videoId>LB09oREbrSs</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Roger Moore In The Great Gold Conspiracy</title>
         <year>1995</year>
         <genre>Documentary</genre>
@@ -5648,6 +5700,55 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Betrayed By Her Father</title>
+        <year>2023</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>How does love fill your life? What is your perspective on love? (not)betrayed by love recognizes that there are several truths about love Is your love fragile, full of loneliness or full of life?</description>
+        <imageUrl>https://img.youtube.com/vi/LB09oREbrSs/0.jpg</imageUrl>
+        <videoId>LB09oREbrSs</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5754,13 +5855,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Sharon Stone In Secret Spy</title>
-        <year>2024</year>
+        <title>War Of The Submarine</title>
+        <year>2025</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>30 years after Basic Instinct, Sharon Stone is still stigmatized for her role as a sexual psychopath. But the Oscar nominee has always fought against domination. She embodies the independent woman of the 21st century, who refuses to be invisibilized and a "passive" object, subjected only to the male gaze.</description>
-        <imageUrl>https://img.youtube.com/vi/qnIJc3UqU8U/0.jpg</imageUrl>
-        <videoId>qnIJc3UqU8U</videoId>
+        <description>Experts detail the disaster and discoveries of Civil War vessels USS Monitor and HL Hunley. This program draws heavily from Dept of Defense works now in public domain and has been repackaged for 2025 audiences.</description>
+        <imageUrl>https://img.youtube.com/vi/D--PwB9dwsM/0.jpg</imageUrl>
+        <videoId>D--PwB9dwsM</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -5788,6 +5889,7 @@
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
+            <sub>ru</sub>
             <sub>sr</sub>
             <sub>es</sub>
             <sub>sw</sub>
@@ -5796,6 +5898,7 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -5899,105 +6002,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Waffen Ss</title>
-        <year>1990</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>The Waffen SS is the elite Nazi fighting force that holds a dark place in Germany's history. Their code is a lethal combination of bravery and savagery.</description>
-        <imageUrl>https://img.youtube.com/vi/XI7fFDsPYJs/0.jpg</imageUrl>
-        <videoId>XI7fFDsPYJs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>de</audio>
-            <audio>es</audio>
-            <audio>pt</audio>
-            <audio>ru</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Roy Rogers &amp; Daevans</title>
-        <year>1992</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Thys Ockersen enjoyed in his childhood in the Fifties with his friends the Roy Rogers pictures in the local cinema. Many years later he starts his search for the old singing cowboy and his wife Dale Evans. A journey that starts in Amsterdam with a meeting with Roy's granddaughter Mindy who lives there. On his travels he meets co-stars of Roy and Dale and their director William Witney. And then there's the Roy Rogers Museum in Victorville where Thys talks with Roy Rogers and Dale Evans and sees the stuffed Trigger.</description>
-        <imageUrl>https://img.youtube.com/vi/vxHzuGoNUDA/0.jpg</imageUrl>
-        <videoId>vxHzuGoNUDA</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr-gqnk0mWVyHo</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Cary Grant</title>
         <year>2017</year>
         <genre>Documentary</genre>
@@ -6050,6 +6054,52 @@
             <audio>en</audio>
             <audio>es</audio>
             <audio>it</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Roy Rogers &amp; Daevans</title>
+        <year>1992</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Thys Ockersen enjoyed in his childhood in the Fifties with his friends the Roy Rogers pictures in the local cinema. Many years later he starts his search for the old singing cowboy and his wife Dale Evans. A journey that starts in Amsterdam with a meeting with Roy's granddaughter Mindy who lives there. On his travels he meets co-stars of Roy and Dale and their director William Witney. And then there's the Roy Rogers Museum in Victorville where Thys talks with Roy Rogers and Dale Evans and sees the stuffed Trigger.</description>
+        <imageUrl>https://img.youtube.com/vi/vxHzuGoNUDA/0.jpg</imageUrl>
+        <videoId>vxHzuGoNUDA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr-gqnk0mWVyHo</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6218,56 +6268,6 @@
             <sub>pt</sub>
             <sub>ru</sub>
             <sub>es</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>War Of The Submarine</title>
-        <year>2025</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Experts detail the disaster and discoveries of Civil War vessels USS Monitor and HL Hunley. This program draws heavily from Dept of Defense works now in public domain and has been repackaged for 2025 audiences.</description>
-        <imageUrl>https://img.youtube.com/vi/D--PwB9dwsM/0.jpg</imageUrl>
-        <videoId>D--PwB9dwsM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -6609,6 +6609,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Anthony Hopkins</title>
+        <year>2021</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Hopkins’ career has spanned several decades, which is why we will also use many interviews that he gave throughout his life, allowing us to put him back into the context of each period and will be helpful in understanding his role in the history of cinema, because he was far from following the trends. He never belonged to any film movement; he is a chameleon that has always preferred natural acting, ‘non-acting’ when method acting was the fashion.</description>
+        <imageUrl>https://img.youtube.com/vi/nHVQFvktRVA/0.jpg</imageUrl>
+        <videoId>nHVQFvktRVA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Exposing A Senator</title>
         <year>2022</year>
         <genre>Documentary</genre>
@@ -6742,56 +6792,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Sortir De Nature Sauvage 1998</title>
-        <year>2020</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/UOVS8Mpk_Ds/0.jpg</imageUrl>
-        <videoId>UOVS8Mpk_Ds</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>America'S #1 Lady Gangster! Ma Barker'S Killer Brood</title>
         <year>1999</year>
         <genre>Documentary</genre>
@@ -6839,6 +6839,56 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Sortir De Nature Sauvage 1998</title>
+        <year>2020</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/UOVS8Mpk_Ds/0.jpg</imageUrl>
+        <videoId>UOVS8Mpk_Ds</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7310,6 +7360,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>What Happens On The Bus ?</title>
+        <year>1987</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/YcPW8Leu_4U/0.jpg</imageUrl>
+        <videoId>YcPW8Leu_4U</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Danny Trejo</title>
         <year>2019</year>
         <genre>Documentary</genre>
@@ -7361,24 +7461,23 @@
         </available_audio>
     </movie>
     <movie>
-        <title>What Happens On The Bus ?</title>
-        <year>1987</year>
+        <title>A Shady Boyfriend</title>
+        <year>2019</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>No description.</description>
-        <imageUrl>https://img.youtube.com/vi/YcPW8Leu_4U/0.jpg</imageUrl>
-        <videoId>YcPW8Leu_4U</videoId>
+        <description>Marshal Bruce Mathers III, better know by his stage name Eminem and his alter ego Slim Shady, is an American rapper, record producer, songwriter, and actor. His somewhat humorous songs combined with dark and edgy lyrics give detailed accounts of his troubled upbringing, and feature all the personal struggles he went through on his journey to superstardom. Eminem recently released the much hyped and anticipated album The Marshall Mathers LP 2, a sequel to the recordbreaking and multi platinum album The Marshall Mathers LP. There is quite simply no other Hip Hop artist like Eminem, he has been on top of the game since his debut album The Slim Shady LP, and he shows no signs of letting up. This is the story of how a poor kid from Detroit rose to become a Hip Hop Legend. This is….A Shady Story.</description>
+        <imageUrl>https://img.youtube.com/vi/Z36APIWPSCg/0.jpg</imageUrl>
+        <videoId>Z36APIWPSCg</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
-            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -7388,26 +7487,26 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
+            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>sr</sub>
+            <sub>si</sub>
             <sub>es</sub>
-            <sub>sw</sub>
+            <sub>su</sub>
             <sub>sv</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7451,6 +7550,55 @@
             <sub>ur</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Venom Island</title>
+        <year>2012</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Venom expert Dr. Bryan Fry embarks on a dangerous island journey to uncover the deadly secrets of vipers, stonefish and the formidable Komodo dragon.</description>
+        <imageUrl>https://img.youtube.com/vi/bfv5SLk_XAs/0.jpg</imageUrl>
+        <videoId>bfv5SLk_XAs</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -7560,55 +7708,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>A Shady Boyfriend</title>
-        <year>2019</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Marshal Bruce Mathers III, better know by his stage name Eminem and his alter ego Slim Shady, is an American rapper, record producer, songwriter, and actor. His somewhat humorous songs combined with dark and edgy lyrics give detailed accounts of his troubled upbringing, and feature all the personal struggles he went through on his journey to superstardom. Eminem recently released the much hyped and anticipated album The Marshall Mathers LP 2, a sequel to the recordbreaking and multi platinum album The Marshall Mathers LP. There is quite simply no other Hip Hop artist like Eminem, he has been on top of the game since his debut album The Slim Shady LP, and he shows no signs of letting up. This is the story of how a poor kid from Detroit rose to become a Hip Hop Legend. This is….A Shady Story.</description>
-        <imageUrl>https://img.youtube.com/vi/Z36APIWPSCg/0.jpg</imageUrl>
-        <videoId>Z36APIWPSCg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Man Reflects On His Past</title>
         <year>2024</year>
         <genre>Documentary</genre>
@@ -7658,55 +7757,6 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Venom Island</title>
-        <year>2012</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Venom expert Dr. Bryan Fry embarks on a dangerous island journey to uncover the deadly secrets of vipers, stonefish and the formidable Komodo dragon.</description>
-        <imageUrl>https://img.youtube.com/vi/bfv5SLk_XAs/0.jpg</imageUrl>
-        <videoId>bfv5SLk_XAs</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7760,6 +7810,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Fractured Heart</title>
+        <year>2025</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>Filmed over four years, from Mexico City to Chicago, this documentary is a raw and intimate account of the creation of "Corazón Cicatrizado" (Scarred Heart) — an original and gut wrenching play, rooted in Mexico's deepest wounds: Ayotzinapa and Tlatelolco. With testimonies from different artists who lived the process in the flesh, this is the story behind "Corazón Cicatrizado," and the repeated attempts to bring it to life.</description>
+        <imageUrl>https://img.youtube.com/vi/ixyTivfUN4g/0.jpg</imageUrl>
+        <videoId>ixyTivfUN4g</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Romantic Comedy</title>
         <year>2020</year>
         <genre>Documentary</genre>
@@ -7809,6 +7909,56 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Hedy Lamarr</title>
+        <year>2018</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The extraordinary life of Hedy Lamarr, a successful actress and inventor of a pioneer system that is the base of technologies such as Bluetooth, GPS and wi-fi.</description>
+        <imageUrl>https://img.youtube.com/vi/vFRWiPPAlZw/0.jpg</imageUrl>
+        <videoId>vFRWiPPAlZw</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -8208,51 +8358,50 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Silenced Voices: The Hollywood 10, And The Battle Of Free Expression</title>
-        <year>2012</year>
+        <title>Women Of The Dust</title>
+        <year>2008</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>The film is told as a personal encounter with exiled Sri Lankan journalists who have been "silenced" and almost killed in their home country because they exposed war crimes, corruption and massacres of civilians.</description>
-        <imageUrl>https://img.youtube.com/vi/7jbYed_DkD4/0.jpg</imageUrl>
-        <videoId>7jbYed_DkD4</videoId>
+        <description>A mid-length film of Cho Hye-Jung</description>
+        <imageUrl>https://img.youtube.com/vi/s_vVRinGsDw/0.jpg</imageUrl>
+        <videoId>s_vVRinGsDw</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
             <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -8308,6 +8457,57 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Silenced Voices: The Hollywood 10, And The Battle Of Free Expression</title>
+        <year>2012</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>The film is told as a personal encounter with exiled Sri Lankan journalists who have been "silenced" and almost killed in their home country because they exposed war crimes, corruption and massacres of civilians.</description>
+        <imageUrl>https://img.youtube.com/vi/7jbYed_DkD4/0.jpg</imageUrl>
+        <videoId>7jbYed_DkD4</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Bound To Her Teacher</title>
         <year>2016</year>
         <genre>Documentary</genre>
@@ -8357,63 +8557,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Fractured Heart</title>
-        <year>2025</year>
+        <title>Life Hit Him Hard… Now It’S His Turn To Swing Back</title>
+        <year>1961</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Filmed over four years, from Mexico City to Chicago, this documentary is a raw and intimate account of the creation of "Corazón Cicatrizado" (Scarred Heart) — an original and gut wrenching play, rooted in Mexico's deepest wounds: Ayotzinapa and Tlatelolco. With testimonies from different artists who lived the process in the flesh, this is the story behind "Corazón Cicatrizado," and the repeated attempts to bring it to life.</description>
-        <imageUrl>https://img.youtube.com/vi/ixyTivfUN4g/0.jpg</imageUrl>
-        <videoId>ixyTivfUN4g</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Baldwin</title>
-        <year>1962</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>James Baldwin, a stranger in a Swiss village in 1962, reflects on ordinary and universal racism.</description>
-        <imageUrl>https://img.youtube.com/vi/7L1qioq4X6s/0.jpg</imageUrl>
-        <videoId>7L1qioq4X6s</videoId>
+        <description>Carefully chronicling in great detail the early years of Hitler's political life until his fall as the leader of Germany, this archive-footage documentary offers a sharply critical insight into the stealthy rise of the Nazi party and how it's racist vision of the world slowly took hold in a disillusioned Germany.</description>
+        <imageUrl>https://img.youtube.com/vi/m8sD6CkZmC8/0.jpg</imageUrl>
+        <videoId>m8sD6CkZmC8</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -8456,13 +8606,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Life Hit Him Hard… Now It’S His Turn To Swing Back</title>
-        <year>1961</year>
+        <title>Baldwin</title>
+        <year>1962</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>Carefully chronicling in great detail the early years of Hitler's political life until his fall as the leader of Germany, this archive-footage documentary offers a sharply critical insight into the stealthy rise of the Nazi party and how it's racist vision of the world slowly took hold in a disillusioned Germany.</description>
-        <imageUrl>https://img.youtube.com/vi/m8sD6CkZmC8/0.jpg</imageUrl>
-        <videoId>m8sD6CkZmC8</videoId>
+        <description>James Baldwin, a stranger in a Swiss village in 1962, reflects on ordinary and universal racism.</description>
+        <imageUrl>https://img.youtube.com/vi/7L1qioq4X6s/0.jpg</imageUrl>
+        <videoId>7L1qioq4X6s</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -8518,56 +8668,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Anthony Hopkins</title>
-        <year>2021</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Hopkins’ career has spanned several decades, which is why we will also use many interviews that he gave throughout his life, allowing us to put him back into the context of each period and will be helpful in understanding his role in the history of cinema, because he was far from following the trends. He never belonged to any film movement; he is a chameleon that has always preferred natural acting, ‘non-acting’ when method acting was the fashion.</description>
-        <imageUrl>https://img.youtube.com/vi/nHVQFvktRVA/0.jpg</imageUrl>
-        <videoId>nHVQFvktRVA</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -8954,25 +9054,23 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Beehive</title>
-        <year>2018</year>
+        <title>Elon Musk : Visionary Of Tomorrow</title>
+        <year>2021</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>An experimental documentary on the life and death of Juanita Nielsen in the form of a non-linear video installation.</description>
-        <imageUrl>https://img.youtube.com/vi/dCK06sllWQU/0.jpg</imageUrl>
-        <videoId>dCK06sllWQU</videoId>
+        <description>It seems that for Elon Musk, not even the sky is the limit. There are no limits. This is the story of an individual who is building the future.</description>
+        <imageUrl>https://img.youtube.com/vi/wU2L3g2illg/0.jpg</imageUrl>
+        <videoId>wU2L3g2illg</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
-            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
             <sub>iw</sub>
@@ -8981,26 +9079,26 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
+            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>sr</sub>
+            <sub>si</sub>
             <sub>es</sub>
-            <sub>sw</sub>
+            <sub>su</sub>
             <sub>sv</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -9053,23 +9151,25 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Elon Musk : Visionary Of Tomorrow</title>
-        <year>2021</year>
+        <title>The Beehive</title>
+        <year>2018</year>
         <genre>Documentary</genre>
         <type>film</type>
-        <description>It seems that for Elon Musk, not even the sky is the limit. There are no limits. This is the story of an individual who is building the future.</description>
-        <imageUrl>https://img.youtube.com/vi/wU2L3g2illg/0.jpg</imageUrl>
-        <videoId>wU2L3g2illg</videoId>
+        <description>An experimental documentary on the life and death of Juanita Nielsen in the form of a non-linear video installation.</description>
+        <imageUrl>https://img.youtube.com/vi/dCK06sllWQU/0.jpg</imageUrl>
+        <videoId>dCK06sllWQU</videoId>
         <available_subtitles>
             <sub>ar</sub>
-            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
+            <sub>cs</sub>
             <sub>da</sub>
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
             <sub>iw</sub>
@@ -9078,26 +9178,26 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
-            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
-            <sub>ml</sub>
             <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>si</sub>
+            <sub>sr</sub>
             <sub>es</sub>
-            <sub>su</sub>
+            <sub>sw</sub>
             <sub>sv</sub>
+            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -9866,6 +9966,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>An Unlikely Friendship</title>
+        <year>2020</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/vaIUZPOFNpw/0.jpg</imageUrl>
+        <videoId>vaIUZPOFNpw</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Convict 1951</title>
         <year>2012</year>
         <genre>Documentary</genre>
@@ -10397,36 +10546,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Back From War</title>
-        <year>2015</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>"Searching for Home, Coming Back From War' is an emotional and unflinching look at returning veterans and their search for the 'home' they left behind, physically, mentally and spiritually. From World War II, Korea and Vietnam to the modern day conflicts in Iraq and Afghanistan, 'Searching for Home' is a multi-generational chronicle of the men and women who have left home only to return to new and difficult challenges as profoundly changed people.</description>
-        <imageUrl>https://img.youtube.com/vi/6V-W4xi4OJ0/0.jpg</imageUrl>
-        <videoId>6V-W4xi4OJ0</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>An Emotional Journey</title>
-        <year>2022</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>E. T. the Extra-Terrestrial, Steven Spielberg's endearing movie released in 1982, achieved the triple feat of bringing to life one of the most iconic characters in pop culture, revolutionizing science fiction cinema and establishing itself as one of the highest-grossing family movies in the history of cinema, capable of making the whole world laugh and cry.</description>
-        <imageUrl>https://img.youtube.com/vi/0Ra_1dkYn7M/0.jpg</imageUrl>
-        <videoId>0Ra_1dkYn7M</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Deviant Child</title>
         <year />
         <genre>Documentary</genre>
@@ -10473,6 +10592,36 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Back From War</title>
+        <year>2015</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>"Searching for Home, Coming Back From War' is an emotional and unflinching look at returning veterans and their search for the 'home' they left behind, physically, mentally and spiritually. From World War II, Korea and Vietnam to the modern day conflicts in Iraq and Afghanistan, 'Searching for Home' is a multi-generational chronicle of the men and women who have left home only to return to new and difficult challenges as profoundly changed people.</description>
+        <imageUrl>https://img.youtube.com/vi/6V-W4xi4OJ0/0.jpg</imageUrl>
+        <videoId>6V-W4xi4OJ0</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>An Emotional Journey</title>
+        <year>2022</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>E. T. the Extra-Terrestrial, Steven Spielberg's endearing movie released in 1982, achieved the triple feat of bringing to life one of the most iconic characters in pop culture, revolutionizing science fiction cinema and establishing itself as one of the highest-grossing family movies in the history of cinema, capable of making the whole world laugh and cry.</description>
+        <imageUrl>https://img.youtube.com/vi/0Ra_1dkYn7M/0.jpg</imageUrl>
+        <videoId>0Ra_1dkYn7M</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -10536,21 +10685,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Estranged Father</title>
-        <year>1994</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>A look behind the scenes at the making of the video for the song "Estranged" from Guns N Roses Use Your Illusion album, giving fans an up close and intimate look at the band when it was near the peak of its popularity. Inludes footage of the Axl, Slash and the rest of the bandmembers hard at work in the studio, as well as in some of their more relaxed moments.</description>
-        <imageUrl>https://img.youtube.com/vi/cMR5HNun-_o/0.jpg</imageUrl>
-        <videoId>cMR5HNun-_o</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Bound To Obey</title>
         <year>2016</year>
         <genre>Documentary</genre>
@@ -10594,6 +10728,21 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Estranged Father</title>
+        <year>1994</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>A look behind the scenes at the making of the video for the song "Estranged" from Guns N Roses Use Your Illusion album, giving fans an up close and intimate look at the band when it was near the peak of its popularity. Inludes footage of the Axl, Slash and the rest of the bandmembers hard at work in the studio, as well as in some of their more relaxed moments.</description>
+        <imageUrl>https://img.youtube.com/vi/cMR5HNun-_o/0.jpg</imageUrl>
+        <videoId>cMR5HNun-_o</videoId>
+        <available_subtitles>
+            <sub>en</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
