@@ -1,6 +1,203 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Romance">
     <movie>
+        <title>Final Hit</title>
+        <year>2005</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>A collection of music videos from celebrated British electronic band Leftfield.</description>
+        <imageUrl>https://img.youtube.com/vi/h3BxlHzoqo4/0.jpg</imageUrl>
+        <videoId>h3BxlHzoqo4</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Just When You Thought You Were Safe Out Of The Water</title>
+        <year>2020</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>When the one you want… Is the one you can’t seem to have… Can love conquer all?</description>
+        <imageUrl>https://img.youtube.com/vi/hq3iHOV610M/0.jpg</imageUrl>
+        <videoId>hq3iHOV610M</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>A Boy In The Arena</title>
+        <year>2013</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>A video recording of Shinee's second national Japanese tour. The tour kicked off in Saitama on June 28, 2013 and ended in Nagoya on December 11, 2013, with a total of 15 concerts in nine cities.</description>
+        <imageUrl>https://img.youtube.com/vi/xa2eXwCNLiA/0.jpg</imageUrl>
+        <videoId>xa2eXwCNLiA</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The List</title>
+        <year>2023</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>After her fiance sleeps with a celebrity on his free pass list, Abby Meyers, with nothing but five names and a fantasy shared by millions, sets out for Los Angeles to sleep with someone from hers.</description>
+        <imageUrl>https://img.youtube.com/vi/Aw3OZSdqwVY/0.jpg</imageUrl>
+        <videoId>Aw3OZSdqwVY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Kissing The Wrong One</title>
         <year>2018</year>
         <genre>Romance</genre>
@@ -1962,56 +2159,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Avenger</title>
-        <year>1931</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Goss, Mason, and Kelly force Joaquin Murieta to watch as they hang his brother Juan for a crime he did not commit. To exact his revenge on the three, Joaquin becomes the notorious Black Shadow.</description>
-        <imageUrl>https://img.youtube.com/vi/N47sqSg_yf4/0.jpg</imageUrl>
-        <videoId>N47sqSg_yf4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4076,57 +4223,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Amour Et Préjugés</title>
-        <year>2016</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Fishing for direction in life, Elizabeth gets the opportunity of showing her dog in a fancy New York dog show. The judge, Donovan Darcy, comes across as aristocratic and rude, and a chain of misunderstandings unfold during the competition, complicating their attraction to one another.</description>
-        <imageUrl>https://img.youtube.com/vi/4zxCAwns7Ok/0.jpg</imageUrl>
-        <videoId>4zxCAwns7Ok</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Star Is Born</title>
         <year>2018</year>
         <genre>Romance</genre>
@@ -4417,63 +4513,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Make A Wish</title>
-        <year>1937</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>While vacationing at a boys' camp, the rambunctious Chip Winters befriends a famed composer Johnny Selden. Stuck for an inspiration for his latest operetta, Selden at last finds it when he meets Chip's gorgeous mother Irene Winters, a popular singer. Alas, her stiff-necked fiancé Walter Mays refuses to allow her to return to the stage, whereupon Rathbone spirals into a depression -- and even worse, a profound case of writers' block.</description>
-        <imageUrl>https://img.youtube.com/vi/Ix4vYSLgHMQ/0.jpg</imageUrl>
-        <videoId>Ix4vYSLgHMQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Rain</title>
-        <year>2014</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Recording of a performance by Ballet de l'Opéra national de Paris of the ballet on Music for 18 Musicians by Steve Reich, choreographed by Anne Teresa De Keersmaeker.</description>
-        <imageUrl>https://img.youtube.com/vi/AUBTXL28PGE/0.jpg</imageUrl>
-        <videoId>AUBTXL28PGE</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
 </category>
