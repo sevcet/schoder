@@ -1,6 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Documentary">
     <movie>
+        <title>The Mongrels</title>
+        <year>2019</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>South African filmmaker Jo Menell is most well-known for the cult feminist classic, Dick (1989), which featured 1000 penises accompanied by an audio commentary from women. The nature of that film, however, belies a rich career in film and journalism that spans the Vietnam War, the Allende government in Chile, the emergence of gay rights in San Francisco, a 1981 Bob Marley documentary, an Oscar nominated film about Nelson Mandela (1997), and the Street Talk television series, as well as close relationships with key figures from the 20th Century. Born into a life of privilege, Menell had progressive political inclinations and soon left apartheid South Africa for Britain where he was schooled in the ways and connections of the British ruling class. The film chronicles his amazingly rich and varied life using archival footage alongside a series of interviews conducted with Menell while his portrait was being painted by Cape Town artist Beezy Bailey.</description>
+        <imageUrl>https://img.youtube.com/vi/0RVrRUv9AgQ/0.jpg</imageUrl>
+        <videoId>0RVrRUv9AgQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Jack Nicholson – The Wild West Never Forgives…</title>
+        <year>2017</year>
+        <genre>Documentary</genre>
+        <type>film</type>
+        <description>No description.</description>
+        <imageUrl>https://img.youtube.com/vi/z3_7jqy54Z8/0.jpg</imageUrl>
+        <videoId>z3_7jqy54Z8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>de</audio>
+            <audio>en</audio>
+            <audio>fr</audio>
+            <audio>it</audio>
+            <audio>es</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>An Unlikely Friendship</title>
         <year>2020</year>
         <genre>Documentary</genre>
@@ -4723,74 +4828,6 @@
             <audio>fr</audio>
             <audio>default</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dangerous Stalker</title>
-        <year>2024</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>Celebrities who are victims of stalking; whether laws do enough to protect stars like Taylor Swift, Drew Barrymore, Sandra Bullock and others; WWE star Logan Paul and TV personality Bristol Palin share their experiences with stalker situations.</description>
-        <imageUrl>https://img.youtube.com/vi/9B6lUR2gCFc/0.jpg</imageUrl>
-        <videoId>9B6lUR2gCFc</videoId>
-        <available_subtitles>
-            <sub>en</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Convict</title>
-        <year>2012</year>
-        <genre>Documentary</genre>
-        <type>film</type>
-        <description>On February th 1970, Carlos Castañeda de la Fuente tried to assassinate the Mexican President to avenge the Tlatelolco massacre from October 2nd 1968, defying the most repressive regime in the contemporary Mexican history. Forty years later, this failed avenger survived the system´s disproportionate retaliation, only to wander Mexico City´s streets as a vagrant.</description>
-        <imageUrl>https://img.youtube.com/vi/FWLBkWN-5SM/0.jpg</imageUrl>
-        <videoId>FWLBkWN-5SM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
 </category>
