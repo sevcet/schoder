@@ -1,6 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Romance">
     <movie>
+        <title>Passion And Perdition</title>
+        <year>1944</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>A woman seeks revenge on the man she thinks killed her husband but falls in love with him in the process.</description>
+        <imageUrl>https://img.youtube.com/vi/5bgXVzjfu6Q/0.jpg</imageUrl>
+        <videoId>5bgXVzjfu6Q</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Final Hit</title>
         <year>2005</year>
         <genre>Romance</genre>
@@ -244,6 +293,105 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Roadside Reaper</title>
+        <year>2013</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>Road movie about two young people from different parts of the world, their vastly different clashing cultures and their journey of self-discovery during the drive to the largest music festival in California.</description>
+        <imageUrl>https://img.youtube.com/vi/OJt9MJRpIEk/0.jpg</imageUrl>
+        <videoId>OJt9MJRpIEk</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Stuck With Ghosts</title>
+        <year>2022</year>
+        <genre>Romance</genre>
+        <type>film</type>
+        <description>En route to a party, two strangers get stuck in an elevator on New Year's Eve — and find themselves connecting in unexpected ways.</description>
+        <imageUrl>https://img.youtube.com/vi/nPIrmtfRwWE/0.jpg</imageUrl>
+        <videoId>nPIrmtfRwWE</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4449,70 +4597,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Everything'S On Ice</title>
-        <year>1939</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Comedy about a little girl who's uncle makes her an ice skating star, only to take all of her money.</description>
-        <imageUrl>https://img.youtube.com/vi/MQDuVTCoggE/0.jpg</imageUrl>
-        <videoId>MQDuVTCoggE</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Promeneuse D'Oiseaux</title>
-        <year>2007</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Since childhood, the farmer's daughter Sarah Minarel neighbors considered a strange child and bullied her. When she grew up and became an attractive girl, nothing changed. But Sarah paid no attention to the antics of neighbours, because was busy with interesting work — at the request of staff taxidermist Pacton she catches a rare bird…</description>
-        <imageUrl>https://img.youtube.com/vi/rgr0MFc7mHM/0.jpg</imageUrl>
-        <videoId>rgr0MFc7mHM</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Love In The City</title>
-        <year>2007</year>
-        <genre>Romance</genre>
-        <type>film</type>
-        <description>Young traffic cop Yang Le (Shawn Yue) sees kindergarten teacher Xiao You (Gao Yuanyuan) leading her kids to cross the road everyday. While he starts to have special feelings for her, he suddenly learns from a friend that she is a deaf-mute. Meanwhile, Yang's half-brother has a crush on a super star (Naoko Miyake) while working as her Chinese interpreter. But she will leave China when shooting is over. Can the four find true love in the end?</description>
-        <imageUrl>https://img.youtube.com/vi/FAKy9WxFfeM/0.jpg</imageUrl>
-        <videoId>FAKy9WxFfeM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>zh-Hans</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>pt</sub>
-            <sub>pa</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>vi</sub>
-            <sub>cy</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
 </category>
