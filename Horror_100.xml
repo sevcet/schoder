@@ -1,6 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Horror">
     <movie>
+        <title>Unspeakable</title>
+        <year>2003</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Despite vocal objections from Warden Blakely, prison psychologist Diana Purlow journeys deep inside the mind of serial killer Jesse Mowat in a desperate attempt to reveal the source of his psychotic tendencies.</description>
+        <imageUrl>https://img.youtube.com/vi/CbRQRfWUGmg/0.jpg</imageUrl>
+        <videoId>CbRQRfWUGmg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Soul To Keep</title>
+        <year>2018</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Siblings invite their friends to their inherited yet abandoned farmhouse only to become victims of a demonic ritual.</description>
+        <imageUrl>https://img.youtube.com/vi/1Q__rksJfIw/0.jpg</imageUrl>
+        <videoId>1Q__rksJfIw</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Eternal : Kiss Of The Mummy</title>
         <year>1998</year>
         <genre>Horror</genre>
@@ -834,57 +932,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Arachnia</title>
-        <year>2003</year>
-        <genre>Horror</genre>
-        <type>film</type>
-        <description>When a small research plane carrying a group of science students and their professor crash-lands in the middle of nowhere, the survivors go to a nearby farmhouse to look for help but soon find themselves besieged by giant mutant spiders.</description>
-        <imageUrl>https://img.youtube.com/vi/XCjOWHT1ybM/0.jpg</imageUrl>
-        <videoId>XCjOWHT1ybM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>de</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4412,56 +4459,6 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Arachnia</title>
-        <year>2003</year>
-        <genre>Horror</genre>
-        <type>film</type>
-        <description>When a small research plane carrying a group of science students and their professor crash-lands in the middle of nowhere, the survivors go to a nearby farmhouse to look for help but soon find themselves besieged by giant mutant spiders.</description>
-        <imageUrl>https://img.youtube.com/vi/h7cNphoSf5U/0.jpg</imageUrl>
-        <videoId>h7cNphoSf5U</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>de</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
