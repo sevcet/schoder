@@ -1,6 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Western">
     <movie>
+        <title>Buffa66</title>
+        <year>1964</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Colonel William Cody, alias Buffalo Bill, intends to put an end to the dishonest relations between a gang of white swindlers and the Indian, Yellow Hand. So he goes to the chief of Yellow Hand's tribe, Wise Fox, and tries to convince him to sign a peace treaty with the Federal troops. In order to avoid this, Yellow Hand abducts Wise Fox's daughter, pretending that the soldiers have done it.</description>
+        <imageUrl>https://img.youtube.com/vi/vAWw1OZ7lZc/0.jpg</imageUrl>
+        <videoId>vAWw1OZ7lZc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Hopalong Cassidy &amp; Lucky Jenkins...South Of The Equator!</title>
+        <year>1936</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A crusading newspaper editor recruits his old friend Hoppy to take the job of Marshall in a town rife with vice and murder directed at helpless miners.</description>
+        <imageUrl>https://img.youtube.com/vi/wYccKnTSaJ0/0.jpg</imageUrl>
+        <videoId>wYccKnTSaJ0</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Rodeo Thief</title>
         <year>2021</year>
         <genre>Western</genre>
@@ -4779,106 +4843,6 @@
             <audio>es</audio>
             <audio>es-US</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Renegade Girl</title>
-        <year>1946</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A special agent hunts a female outlaw out West.</description>
-        <imageUrl>https://img.youtube.com/vi/KELIrMhO6lM/0.jpg</imageUrl>
-        <videoId>KELIrMhO6lM</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Mort Tragique De Leland Drum</title>
-        <year>1966</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Two miners agree to guide a mysterious woman, who has appeared in their camp from nowhere, to a nearby town; but soon, because of her erratic behavior, they begin to suspect that her true purpose is quite different.</description>
-        <imageUrl>https://img.youtube.com/vi/yqhyswVI0rs/0.jpg</imageUrl>
-        <videoId>yqhyswVI0rs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>it</audio>
-            <audio>de</audio>
-            <audio>en</audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
 </category>
