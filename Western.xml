@@ -524,6 +524,57 @@
         </available_audio>
     </movie>
     <movie>
+        <title>A Town Called Hell</title>
+        <year>1971</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A group of Mexican revolutionaries murders a town priest and a number of his christian followers. Ten years later, a widow arrives in town intent to take revenge from her husband's killers.</description>
+        <imageUrl>https://img.youtube.com/vi/P9i-T1aV9pI/0.jpg</imageUrl>
+        <videoId>P9i-T1aV9pI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Terreur En Arctique</title>
         <year>1951</year>
         <genre>Western</genre>
@@ -573,57 +624,6 @@
         <available_audio>
             <audio>en</audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>A Town Called Hell</title>
-        <year>1971</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A group of Mexican revolutionaries murders a town priest and a number of his christian followers. Ten years later, a widow arrives in town intent to take revenge from her husband's killers.</description>
-        <imageUrl>https://img.youtube.com/vi/P9i-T1aV9pI/0.jpg</imageUrl>
-        <videoId>P9i-T1aV9pI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -803,60 +803,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Stranger Returns 1967</title>
-        <year>1967</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>The Stranger happens across a murdered postal inspector and a gang of bandits set on a prize of stolen gold which should be transported in a stagecoach. The Stranger, a sharpshooter named En plein and a treacherous postal agent try to get their hands on the gold. Source: SWDB www.spaghetti-western.net</description>
-        <imageUrl>https://img.youtube.com/vi/y2HDi49IX50/0.jpg</imageUrl>
-        <videoId>y2HDi49IX50</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-            <audio>es</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>May God Forgive You... But I Won'T</title>
         <year>1968</year>
         <genre>Western</genre>
@@ -907,6 +853,60 @@
         <available_audio>
             <audio>default</audio>
             <audio>it</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Stranger Returns 1967</title>
+        <year>1967</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>The Stranger happens across a murdered postal inspector and a gang of bandits set on a prize of stolen gold which should be transported in a stagecoach. The Stranger, a sharpshooter named En plein and a treacherous postal agent try to get their hands on the gold. Source: SWDB www.spaghetti-western.net</description>
+        <imageUrl>https://img.youtube.com/vi/y2HDi49IX50/0.jpg</imageUrl>
+        <videoId>y2HDi49IX50</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1020,59 +1020,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Mort Tragique De Leland Drum</title>
-        <year>1966</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Two miners agree to guide a mysterious woman, who has appeared in their camp from nowhere, to a nearby town; but soon, because of her erratic behavior, they begin to suspect that her true purpose is quite different.</description>
-        <imageUrl>https://img.youtube.com/vi/yqhyswVI0rs/0.jpg</imageUrl>
-        <videoId>yqhyswVI0rs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>it</audio>
-            <audio>de</audio>
-            <audio>en</audio>
-            <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>For A Dollar In The Teeth</title>
         <year>1967</year>
         <genre>Western</genre>
@@ -1126,6 +1073,59 @@
             <audio>en</audio>
             <audio>default</audio>
             <audio>it</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Mort Tragique De Leland Drum</title>
+        <year>1966</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Two miners agree to guide a mysterious woman, who has appeared in their camp from nowhere, to a nearby town; but soon, because of her erratic behavior, they begin to suspect that her true purpose is quite different.</description>
+        <imageUrl>https://img.youtube.com/vi/yqhyswVI0rs/0.jpg</imageUrl>
+        <videoId>yqhyswVI0rs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>it</audio>
+            <audio>de</audio>
+            <audio>en</audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -1280,6 +1280,59 @@
         </available_subtitles>
         <available_audio>
             <audio>it</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Desperados</title>
+        <year>1969</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A Confederate and his sons become postwar marauders and face another son who left them, in Texas.</description>
+        <imageUrl>https://img.youtube.com/vi/OCI5u2sI4LM/0.jpg</imageUrl>
+        <videoId>OCI5u2sI4LM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -1521,57 +1574,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Deadwood '76</title>
-        <year>1965</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A young drifter is mistaken for Billy the Kid. The concequences prove deadly.</description>
-        <imageUrl>https://img.youtube.com/vi/fY6LCkHWAeA/0.jpg</imageUrl>
-        <videoId>fY6LCkHWAeA</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Man And His Mate</title>
         <year>1915</year>
         <genre>Western</genre>
@@ -1617,6 +1619,57 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Deadwood '76</title>
+        <year>1965</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A young drifter is mistaken for Billy the Kid. The concequences prove deadly.</description>
+        <imageUrl>https://img.youtube.com/vi/fY6LCkHWAeA/0.jpg</imageUrl>
+        <videoId>fY6LCkHWAeA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -1831,6 +1884,57 @@
         </available_audio>
     </movie>
     <movie>
+        <title>White Fang And The Gold Diggers</title>
+        <year>1975</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A father, his son and their faithful dog White Fang go on a dangerous journey in search of a gold mine.</description>
+        <imageUrl>https://img.youtube.com/vi/FXLj-__lWvw/0.jpg</imageUrl>
+        <videoId>FXLj-__lWvw</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Django: A Bullet For You</title>
         <year>1966</year>
         <genre>Western</genre>
@@ -1881,57 +1985,6 @@
             <audio>en</audio>
             <audio>it</audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>White Fang And The Gold Diggers</title>
-        <year>1975</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A father, his son and their faithful dog White Fang go on a dangerous journey in search of a gold mine.</description>
-        <imageUrl>https://img.youtube.com/vi/FXLj-__lWvw/0.jpg</imageUrl>
-        <videoId>FXLj-__lWvw</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2143,6 +2196,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Restless Breed</title>
+        <year>1957</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Texas-border gunrunners kill a federal agent, whose son comes looking for revenge.</description>
+        <imageUrl>https://img.youtube.com/vi/U0vJtkVDpmg/0.jpg</imageUrl>
+        <videoId>U0vJtkVDpmg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Shoot First, Ask Questions Later 1975</title>
         <year>1975</year>
         <genre>Western</genre>
@@ -2241,56 +2344,6 @@
             <audio>fr</audio>
             <audio>default</audio>
             <audio>pt</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Restless Breed</title>
-        <year>1957</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Texas-border gunrunners kill a federal agent, whose son comes looking for revenge.</description>
-        <imageUrl>https://img.youtube.com/vi/U0vJtkVDpmg/0.jpg</imageUrl>
-        <videoId>U0vJtkVDpmg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -2499,6 +2552,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Sartana Dans Vallée Des Vautours</title>
+        <year>1970</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Smooth and lethal gunfighter Lee Calloway helps three bandit brothers escape from jail under the condition that they give him fifty percent of the stolen gold they have hidden. Of course, the treacherous sibling trio don't plan on keeping their end of the deal.</description>
+        <imageUrl>https://img.youtube.com/vi/8N_ZnhI0ukg/0.jpg</imageUrl>
+        <videoId>8N_ZnhI0ukg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Sartana In The Valley Of Death</title>
         <year>1970</year>
         <genre>Western</genre>
@@ -2601,55 +2703,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Sartana Dans Vallée Des Vautours</title>
-        <year>1970</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Smooth and lethal gunfighter Lee Calloway helps three bandit brothers escape from jail under the condition that they give him fifty percent of the stolen gold they have hidden. Of course, the treacherous sibling trio don't plan on keeping their end of the deal.</description>
-        <imageUrl>https://img.youtube.com/vi/8N_ZnhI0ukg/0.jpg</imageUrl>
-        <videoId>8N_ZnhI0ukg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2797,6 +2850,55 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Grande Revanche De Bruce</title>
+        <year>1977</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Mario, weary of killing for pay, leaves his gang to return home to his wife and son who assumed him long dead. Now he is hunted by both sides of the law and shunned by his wife.</description>
+        <imageUrl>https://img.youtube.com/vi/dI_yCY-dNjg/0.jpg</imageUrl>
+        <videoId>dI_yCY-dNjg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -2951,55 +3053,6 @@
         <available_audio>
             <audio>es</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Grande Revanche De Bruce</title>
-        <year>1977</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Mario, weary of killing for pay, leaves his gang to return home to his wife and son who assumed him long dead. Now he is hunted by both sides of the law and shunned by his wife.</description>
-        <imageUrl>https://img.youtube.com/vi/dI_yCY-dNjg/0.jpg</imageUrl>
-        <videoId>dI_yCY-dNjg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -3817,6 +3870,59 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Run, Man, Run</title>
+        <year>1968</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>The legendary Tomas Milian stars as Cuchillo, a knife-throwing thief on the run from murderous bandits, sadistic American agents, his hot-blooded fiancée and a sheriff turned bounty hunter, all of whom are gunning for a hidden fortune in gold that could finance the Mexican Revolution.</description>
+        <imageUrl>https://img.youtube.com/vi/Nq5-d9Kyr54/0.jpg</imageUrl>
+        <videoId>Nq5-d9Kyr54</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
+            <audio>en</audio>
+            <audio>fr</audio>
+            <audio>it</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Angel And The Badman</title>
         <year>1947</year>
         <genre>Western</genre>
@@ -3860,6 +3966,55 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Deputy'S Wife</title>
+        <year>2021</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>When an outlaw is captured and scheduled to hang, the wife of the local deputy makes a decision that will forever change her life. Mabel is in love with the arrested man. Will she remain loyal to her husband Jonathan or follow her heart?</description>
+        <imageUrl>https://img.youtube.com/vi/UeO_5G9FytI/0.jpg</imageUrl>
+        <videoId>UeO_5G9FytI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4029,59 +4184,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Run, Man, Run</title>
-        <year>1968</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>The legendary Tomas Milian stars as Cuchillo, a knife-throwing thief on the run from murderous bandits, sadistic American agents, his hot-blooded fiancée and a sheriff turned bounty hunter, all of whom are gunning for a hidden fortune in gold that could finance the Mexican Revolution.</description>
-        <imageUrl>https://img.youtube.com/vi/Nq5-d9Kyr54/0.jpg</imageUrl>
-        <videoId>Nq5-d9Kyr54</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>es</audio>
-            <audio>en</audio>
-            <audio>fr</audio>
-            <audio>it</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>A Girl Is A Gun</title>
         <year>1971</year>
         <genre>Western</genre>
@@ -4128,6 +4230,23 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>I Protect Myself Against My Enemies</title>
+        <year>1968</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A major of the dissolved southern army gives a dollar to a young cowboy, Alan Burton, telling him that there are two other similar dollars with different figures on them; the three numbers combined show the spot where the Confederate's treasure is hidden. A number of people get involved including a gang leader and Alan's sidekick, Hondo.</description>
+        <imageUrl>https://img.youtube.com/vi/3_2DgJhfR_U/0.jpg</imageUrl>
+        <videoId>3_2DgJhfR_U</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pl</audio>
+            <audio>en</audio>
+            <audio>it</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4236,55 +4355,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Deputy'S Wife</title>
-        <year>2021</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>When an outlaw is captured and scheduled to hang, the wife of the local deputy makes a decision that will forever change her life. Mabel is in love with the arrested man. Will she remain loyal to her husband Jonathan or follow her heart?</description>
-        <imageUrl>https://img.youtube.com/vi/UeO_5G9FytI/0.jpg</imageUrl>
-        <videoId>UeO_5G9FytI</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Buckskin Lady</title>
         <year>1957</year>
         <genre>Western</genre>
@@ -4384,23 +4454,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>I Protect Myself Against My Enemies</title>
-        <year>1968</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A major of the dissolved southern army gives a dollar to a young cowboy, Alan Burton, telling him that there are two other similar dollars with different figures on them; the three numbers combined show the spot where the Confederate's treasure is hidden. A number of people get involved including a gang leader and Alan's sidekick, Hondo.</description>
-        <imageUrl>https://img.youtube.com/vi/3_2DgJhfR_U/0.jpg</imageUrl>
-        <videoId>3_2DgJhfR_U</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>pl</audio>
-            <audio>en</audio>
-            <audio>it</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Drums In The Deep South</title>
         <year>1951</year>
         <genre>Western</genre>
@@ -4444,55 +4497,6 @@
             <sub>sw</sub>
             <sub>sv</sub>
             <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dead Men</title>
-        <year>2018</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Jesse Struthers and his brother Jake find themselves on the run after a band of men begin murdering their family.</description>
-        <imageUrl>https://img.youtube.com/vi/ne4lflCSXt8/0.jpg</imageUrl>
-        <videoId>ne4lflCSXt8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa-AF</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
@@ -4547,6 +4551,109 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dead Men</title>
+        <year>2018</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Jesse Struthers and his brother Jake find themselves on the run after a band of men begin murdering their family.</description>
+        <imageUrl>https://img.youtube.com/vi/ne4lflCSXt8/0.jpg</imageUrl>
+        <videoId>ne4lflCSXt8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa-AF</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Five Savage Men</title>
+        <year>1970</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A woman tracks down the three men who raped her, helped by an Apache. Traveling through the Old West to her new home, young schoolteacher Alice McAndrew is abducted by five outlaws headed by robber Pudge Elliott. The thugs rape Alice before leaving her for dead, but she is rescued by Chatto, an Apache chief. He restores her health and aids her in her bloodthirsty quest for revenge. With her sanity wavering, will Alice be able to find the men who tortured her?</description>
+        <imageUrl>https://img.youtube.com/vi/LIiDLddBKbw/0.jpg</imageUrl>
+        <videoId>LIiDLddBKbw</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4607,6 +4714,58 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Gentleman Killer</title>
+        <year>1967</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>In a disputed border town, the US Army waits for word from Washington as to the rightful country it belongs, while dealing with a rowdy pack of Mexican soldier/bandits. Into the mix rides seemingly mysterious stranger Anthony Steffan, who looks like a dandy but has a few deadly tricks up his sleeve.</description>
+        <imageUrl>https://img.youtube.com/vi/1pBTy_YLGlg/0.jpg</imageUrl>
+        <videoId>1pBTy_YLGlg</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Kansas Pacific 1953</title>
         <year>1953</year>
         <genre>Western</genre>
@@ -4654,6 +4813,57 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>God Will Forgive My Pistol</title>
+        <year>1969</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Johnny Texas is asked to inquire about the death of Prescott, a rich landowner accused of having robbed a postal wagon. His investigation upsets Prescott's neighbor, Martin, who will use all possible means to stop him.</description>
+        <imageUrl>https://img.youtube.com/vi/4lsHNnZp_eQ/0.jpg</imageUrl>
+        <videoId>4lsHNnZp_eQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>it</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4762,109 +4972,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>God Will Forgive My Pistol</title>
-        <year>1969</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Johnny Texas is asked to inquire about the death of Prescott, a rich landowner accused of having robbed a postal wagon. His investigation upsets Prescott's neighbor, Martin, who will use all possible means to stop him.</description>
-        <imageUrl>https://img.youtube.com/vi/4lsHNnZp_eQ/0.jpg</imageUrl>
-        <videoId>4lsHNnZp_eQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>it</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Gentleman Killer</title>
-        <year>1967</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>In a disputed border town, the US Army waits for word from Washington as to the rightful country it belongs, while dealing with a rowdy pack of Mexican soldier/bandits. Into the mix rides seemingly mysterious stranger Anthony Steffan, who looks like a dandy but has a few deadly tricks up his sleeve.</description>
-        <imageUrl>https://img.youtube.com/vi/1pBTy_YLGlg/0.jpg</imageUrl>
-        <videoId>1pBTy_YLGlg</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>es</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Blood Calls To Blood</title>
         <year>1968</year>
         <genre>Western</genre>
@@ -4910,6 +5017,55 @@
         <available_audio>
             <audio>es</audio>
             <audio>pl</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Sitting Bull</title>
+        <year>1954</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Chief Sitting Bull of the Sioux tribe is forced by the Indian-hating General Custer to react with violence, resulting in the famous Last Stand at Little Bighorn. Parrish, a friend to the Sioux, tries to prevent the bloodshed, but is court- martialed for "collaborating" with the enemy. Sitting Bull, however, manages to intercede with President Grant on Parrish's behalf.</description>
+        <imageUrl>https://img.youtube.com/vi/3J9LaI9eTL8/0.jpg</imageUrl>
+        <videoId>3J9LaI9eTL8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5101,55 +5257,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Sitting Bull</title>
-        <year>1954</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Chief Sitting Bull of the Sioux tribe is forced by the Indian-hating General Custer to react with violence, resulting in the famous Last Stand at Little Bighorn. Parrish, a friend to the Sioux, tries to prevent the bloodshed, but is court- martialed for "collaborating" with the enemy. Sitting Bull, however, manages to intercede with President Grant on Parrish's behalf.</description>
-        <imageUrl>https://img.youtube.com/vi/3J9LaI9eTL8/0.jpg</imageUrl>
-        <videoId>3J9LaI9eTL8</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Final Conflict... Django Against Sartana</title>
         <year>1970</year>
         <genre>Western</genre>
@@ -5202,15 +5309,16 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Teenage Monster / Meteor Man</title>
-        <year>1958</year>
+        <title>Buffa66</title>
+        <year>1964</year>
         <genre>Western</genre>
         <type>film</type>
-        <description>In a little Western town, a boy is subjected to rays from a meteor. As a result, he grows into a teenaged, hairy, psychopathic killer. His mother hides him in her basement.</description>
-        <imageUrl>https://img.youtube.com/vi/lZdp9xdHQe4/0.jpg</imageUrl>
-        <videoId>lZdp9xdHQe4</videoId>
+        <description>Colonel William Cody, alias Buffalo Bill, intends to put an end to the dishonest relations between a gang of white swindlers and the Indian, Yellow Hand. So he goes to the chief of Yellow Hand's tribe, Wise Fox, and tries to convince him to sign a peace treaty with the Federal troops. In order to avoid this, Yellow Hand abducts Wise Fox's daughter, pretending that the soldiers have done it.</description>
+        <imageUrl>https://img.youtube.com/vi/vAWw1OZ7lZc/0.jpg</imageUrl>
+        <videoId>vAWw1OZ7lZc</videoId>
         <available_subtitles>
             <sub>ar</sub>
+            <sub>bn</sub>
             <sub>bg</sub>
             <sub>zh</sub>
             <sub>hr</sub>
@@ -5218,7 +5326,6 @@
             <sub>nl</sub>
             <sub>en</sub>
             <sub>fil</sub>
-            <sub>fi</sub>
             <sub>fr</sub>
             <sub>de</sub>
             <sub>el</sub>
@@ -5228,28 +5335,43 @@
             <sub>id</sub>
             <sub>it</sub>
             <sub>ja</sub>
+            <sub>jv</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
             <sub>ro</sub>
             <sub>ru</sub>
-            <sub>sr</sub>
+            <sub>si</sub>
             <sub>es</sub>
-            <sub>sw</sub>
+            <sub>su</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
-            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Adiós Gringo</title>
+        <year>1965</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A gunslinger on the run for a murder he didn't commit goes to New Mexico where he hopes to find a person who can exculpate him. While on his way he finds a girl who has been kidnapped and tortured, sets her free and then takes his revenge at gunpoint.</description>
+        <imageUrl>https://img.youtube.com/vi/wsTNSzEmtxw/0.jpg</imageUrl>
+        <videoId>wsTNSzEmtxw</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>it</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5302,23 +5424,6 @@
             <audio>en</audio>
             <audio>it</audio>
             <audio>de</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Adiós Gringo</title>
-        <year>1965</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A gunslinger on the run for a murder he didn't commit goes to New Mexico where he hopes to find a person who can exculpate him. While on his way he finds a girl who has been kidnapped and tortured, sets her free and then takes his revenge at gunpoint.</description>
-        <imageUrl>https://img.youtube.com/vi/wsTNSzEmtxw/0.jpg</imageUrl>
-        <videoId>wsTNSzEmtxw</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>fr</audio>
-            <audio>it</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -5659,6 +5764,58 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Deputy Marshal</title>
+        <year>1949</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A lawman takes on gangsters attempting to steal property wanted for a railroad.</description>
+        <imageUrl>https://img.youtube.com/vi/fvflcMMamig/0.jpg</imageUrl>
+        <videoId>fvflcMMamig</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>uk</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Guardsmen -They Don’T Serve The Flag Anymore... Only Justice!</title>
         <year>2024</year>
         <genre>Western</genre>
@@ -5897,6 +6054,24 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Four Came To Kill Sartana</title>
+        <year>1969</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Seven masked bandits, whose chief calls himself "Mormon", kidnap young Susy, cousin of the mayor of Clayton City, Frank Clonny. Frank accepts the $15,000 ransom requested by the bandits and thinks of a plan which will permit him, with the help of Benson, the sheriff, to free his cousin, recover the money and capture the outlaws. The plan, though, is destined to fail, because one of the mayor's men, Donovan, allows the bandits to escape the trap. Benson then decides to call in Sartana, who the Mormon immediately tries to eliminate with the help of four killers: Buffalo, who kills with a bullwhip; Martinez, an expert knife thrower; Sullivan, a giant of incredible strength and Silky, a sly and fast gunslinger.</description>
+        <imageUrl>https://img.youtube.com/vi/DtKZM3zrjjY/0.jpg</imageUrl>
+        <videoId>DtKZM3zrjjY</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>es</audio>
+            <audio>de</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Song Of Nevada</title>
         <year>1944</year>
         <genre>Western</genre>
@@ -5905,6 +6080,56 @@
         <imageUrl>https://img.youtube.com/vi/UTDpkj7ABRo/0.jpg</imageUrl>
         <videoId>UTDpkj7ABRo</videoId>
         <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Northwest Stampede</title>
+        <year>1948</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>In this romantic western, the real stars are a mustang and a police dog. The human aspect of the story centers on a rodeo rider whose late father bequeathed him a ranch in Calgary, Canada. The rider really tries to settle down to ranching, but finds himself pining for the rodeo. His forewoman, also a former rodeo performer, thinks her employer is shirking his duties and needs to forget about broncos, and bull-riding and settle down. Meanwhile, the fellow also longs to catch the white stallion running wild. The dog helps out.</description>
+        <imageUrl>https://img.youtube.com/vi/p0VX74KCnzU/0.jpg</imageUrl>
+        <videoId>p0VX74KCnzU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
@@ -5960,56 +6185,6 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Northwest Stampede</title>
-        <year>1948</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>In this romantic western, the real stars are a mustang and a police dog. The human aspect of the story centers on a rodeo rider whose late father bequeathed him a ranch in Calgary, Canada. The rider really tries to settle down to ranching, but finds himself pining for the rodeo. His forewoman, also a former rodeo performer, thinks her employer is shirking his duties and needs to forget about broncos, and bull-riding and settle down. Meanwhile, the fellow also longs to catch the white stallion running wild. The dog helps out.</description>
-        <imageUrl>https://img.youtube.com/vi/p0VX74KCnzU/0.jpg</imageUrl>
-        <videoId>p0VX74KCnzU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -6144,13 +6319,13 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Deputy Marshal</title>
+        <title>Tough Assignment</title>
         <year>1949</year>
         <genre>Western</genre>
         <type>film</type>
-        <description>A lawman takes on gangsters attempting to steal property wanted for a railroad.</description>
-        <imageUrl>https://img.youtube.com/vi/fvflcMMamig/0.jpg</imageUrl>
-        <videoId>fvflcMMamig</videoId>
+        <description>A meddlesome reporter sporting a young bride takes on a gang of modern day cattle rustlers. Donald "Red" Barry plays Dan Reilly, a newspaper reporter just returned to LA with his wife, photographer Margie (Marjorie Steele). Margie insists on taking pictures of everywhere they go, and so as she's walking into a butcher shop she poses for Dan - while at the same time three thugs make their way quickly out after beating up the proprietors.  Soon Margie and Dan are involved in investigating an illegal meat operation that rustles cattle and forces butchers to buy it - or else.  Dan gets beaten up a couple of times, but is undaunted in pursuing the great story - and hey, he's only got 64 minutes to do so, he'd best get cracking!</description>
+        <imageUrl>https://img.youtube.com/vi/Rre7g8jScXs/0.jpg</imageUrl>
+        <videoId>Rre7g8jScXs</videoId>
         <available_subtitles>
             <sub>ar</sub>
             <sub>bg</sub>
@@ -6173,6 +6348,7 @@
             <sub>ja</sub>
             <sub>ko</sub>
             <sub>ms</sub>
+            <sub>no</sub>
             <sub>fa</sub>
             <sub>pl</sub>
             <sub>pt</sub>
@@ -6182,12 +6358,9 @@
             <sub>es</sub>
             <sub>sw</sub>
             <sub>sv</sub>
-            <sub>ta</sub>
             <sub>te</sub>
             <sub>th</sub>
             <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
             <sub>vi</sub>
             <sub>live_chat</sub>
         </available_subtitles>
@@ -6248,71 +6421,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Feud Of The West</title>
-        <year>1936</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A rodeo rider works himself into two different 'gangs' in order to end a range war over.</description>
-        <imageUrl>https://img.youtube.com/vi/m88df_HgKxw/0.jpg</imageUrl>
-        <videoId>m88df_HgKxw</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Tough Assignment</title>
-        <year>1949</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A meddlesome reporter sporting a young bride takes on a gang of modern day cattle rustlers. Donald "Red" Barry plays Dan Reilly, a newspaper reporter just returned to LA with his wife, photographer Margie (Marjorie Steele). Margie insists on taking pictures of everywhere they go, and so as she's walking into a butcher shop she poses for Dan - while at the same time three thugs make their way quickly out after beating up the proprietors.  Soon Margie and Dan are involved in investigating an illegal meat operation that rustles cattle and forces butchers to buy it - or else.  Dan gets beaten up a couple of times, but is undaunted in pursuing the great story - and hey, he's only got 64 minutes to do so, he'd best get cracking!</description>
-        <imageUrl>https://img.youtube.com/vi/Rre7g8jScXs/0.jpg</imageUrl>
-        <videoId>Rre7g8jScXs</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>The Proud And Damned</title>
         <year>1972</year>
         <genre>Western</genre>
@@ -6356,6 +6464,51 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Feud Of The West</title>
+        <year>1936</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A rodeo rider works himself into two different 'gangs' in order to end a range war over.</description>
+        <imageUrl>https://img.youtube.com/vi/m88df_HgKxw/0.jpg</imageUrl>
+        <videoId>m88df_HgKxw</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Grand Canyon Trail</title>
+        <year>1948</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Sintown is just a deserted ghost town until Vanerpool starts looking for silver. Cookie and Roy's partners put $20,000 into the business only to find that the mine is worthless and Vanerpool is bankrupt. Carol comes out to look for silver to save the company, but does not know that their engineer, named Regan, is crooked and wants all the silver for himself. But only Old Ed knows where the mother lode is located.</description>
+        <imageUrl>https://img.youtube.com/vi/CPaARzwKc_Y/0.jpg</imageUrl>
+        <videoId>CPaARzwKc_Y</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Gun And The Pulpit</title>
+        <year>1974</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>In the days of the "Wild West," a gunslinger, with a price on his head, discovers the body of a traveling minister who has been killed in an ambush. Fearing those who are following him, he assumes the dead minister's identity.</description>
+        <imageUrl>https://img.youtube.com/vi/WE2ORniSAAI/0.jpg</imageUrl>
+        <videoId>WE2ORniSAAI</videoId>
+        <available_subtitles>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
@@ -6416,21 +6569,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>The Gun And The Pulpit</title>
-        <year>1974</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>In the days of the "Wild West," a gunslinger, with a price on his head, discovers the body of a traveling minister who has been killed in an ambush. Fearing those who are following him, he assumes the dead minister's identity.</description>
-        <imageUrl>https://img.youtube.com/vi/WE2ORniSAAI/0.jpg</imageUrl>
-        <videoId>WE2ORniSAAI</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Under California Stars</title>
         <year>1948</year>
         <genre>Western</genre>
@@ -6443,36 +6581,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Painted Desert</title>
-        <year>1931</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Western pardners Jeff and Cash find a baby boy in an otherwise deserted emigrants' camp, and clash over which is to be "father." They are still bitterly feuding years later when they own adjacent ranches. Bill, the foundling whom Cash has raised to young manhood, wants to end the feud and extends an olive branch toward Jeff, who now has a lovely daughter. But during a mining venture, the bitterness escalates. Is Bill to be set against his own adoptive father?</description>
-        <imageUrl>https://img.youtube.com/vi/U2vGMlY7QXU/0.jpg</imageUrl>
-        <videoId>U2vGMlY7QXU</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>zh</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>pt</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>sv</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
     <movie>
@@ -6525,36 +6633,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Trouble In Texas</title>
-        <year>1937</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Rodeo stars are being killed with poisoned needles, and Tex Ritter is next on the list.</description>
-        <imageUrl>https://img.youtube.com/vi/8l3jAiS8vzo/0.jpg</imageUrl>
-        <videoId>8l3jAiS8vzo</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Grand Canyon Trail</title>
-        <year>1948</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Sintown is just a deserted ghost town until Vanerpool starts looking for silver. Cookie and Roy's partners put $20,000 into the business only to find that the mine is worthless and Vanerpool is bankrupt. Carol comes out to look for silver to save the company, but does not know that their engineer, named Regan, is crooked and wants all the silver for himself. But only Old Ed knows where the mother lode is located.</description>
-        <imageUrl>https://img.youtube.com/vi/CPaARzwKc_Y/0.jpg</imageUrl>
-        <videoId>CPaARzwKc_Y</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Springtime In The Sierras</title>
         <year>1947</year>
         <genre>Western</genre>
@@ -6570,20 +6648,97 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Four Came To Kill Sartana</title>
-        <year>1969</year>
+        <title>The Painted Desert</title>
+        <year>1931</year>
         <genre>Western</genre>
         <type>film</type>
-        <description>Seven masked bandits, whose chief calls himself "Mormon", kidnap young Susy, cousin of the mayor of Clayton City, Frank Clonny. Frank accepts the $15,000 ransom requested by the bandits and thinks of a plan which will permit him, with the help of Benson, the sheriff, to free his cousin, recover the money and capture the outlaws. The plan, though, is destined to fail, because one of the mayor's men, Donovan, allows the bandits to escape the trap. Benson then decides to call in Sartana, who the Mormon immediately tries to eliminate with the help of four killers: Buffalo, who kills with a bullwhip; Martinez, an expert knife thrower; Sullivan, a giant of incredible strength and Silky, a sly and fast gunslinger.</description>
-        <imageUrl>https://img.youtube.com/vi/DtKZM3zrjjY/0.jpg</imageUrl>
-        <videoId>DtKZM3zrjjY</videoId>
+        <description>Western pardners Jeff and Cash find a baby boy in an otherwise deserted emigrants' camp, and clash over which is to be "father." They are still bitterly feuding years later when they own adjacent ranches. Bill, the foundling whom Cash has raised to young manhood, wants to end the feud and extends an olive branch toward Jeff, who now has a lovely daughter. But during a mining venture, the bitterness escalates. Is Bill to be set against his own adoptive father?</description>
+        <imageUrl>https://img.youtube.com/vi/U2vGMlY7QXU/0.jpg</imageUrl>
+        <videoId>U2vGMlY7QXU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>zh</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sv</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Trouble In Texas</title>
+        <year>1937</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Rodeo stars are being killed with poisoned needles, and Tex Ritter is next on the list.</description>
+        <imageUrl>https://img.youtube.com/vi/8l3jAiS8vzo/0.jpg</imageUrl>
+        <videoId>8l3jAiS8vzo</videoId>
         <available_subtitles>
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>fr</audio>
-            <audio>es</audio>
-            <audio>de</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>A Time For Dying</title>
+        <year>1969</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Passing through a town, a farm boy aspiring to be a bounty hunter rescues a woman who has been tricked into working in its brothel and the two travel towards his father's ranch.</description>
+        <imageUrl>https://img.youtube.com/vi/Q3OTlAVxTZs/0.jpg</imageUrl>
+        <videoId>Q3OTlAVxTZs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -6796,6 +6951,21 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Hopalong Cassidy &amp; Lucky Jenkins...South Of The Equator!</title>
+        <year>1936</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A crusading newspaper editor recruits his old friend Hoppy to take the job of Marshall in a town rife with vice and murder directed at helpless miners.</description>
+        <imageUrl>https://img.youtube.com/vi/wYccKnTSaJ0/0.jpg</imageUrl>
+        <videoId>wYccKnTSaJ0</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Bells Of San Fernando</title>
         <year>1947</year>
         <genre>Western</genre>
@@ -6807,6 +6977,22 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Either All Or None</title>
+        <year>1968</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>A men is hired to find a stolen cache of $1,000,000 in gold coins while all the while he seems protected by a ghost.</description>
+        <imageUrl>https://img.youtube.com/vi/1wsqDjq7zYw/0.jpg</imageUrl>
+        <videoId>1wsqDjq7zYw</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -6869,22 +7055,6 @@
             <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Either All Or None</title>
-        <year>1968</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A men is hired to find a stolen cache of $1,000,000 in gold coins while all the while he seems protected by a ghost.</description>
-        <imageUrl>https://img.youtube.com/vi/1wsqDjq7zYw/0.jpg</imageUrl>
-        <videoId>1wsqDjq7zYw</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -7096,6 +7266,23 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Fasthand</title>
+        <year>1973</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Macedo, bloodthirsty leader of a gang of  Confederates shoots the captain of the Northerners, Jeff Mallighan, known as "Fast Hand", shattering his right hand. Jeff, wounded on the ground, could not see the face of the villain, but his silver spurs have stuck in his mind as well as his unique gun. Some time after this event Macedo continues with his misdeeds, however, a mysterious horseman dressed in black will stand in his way.</description>
+        <imageUrl>https://img.youtube.com/vi/y6vg_236CHo/0.jpg</imageUrl>
+        <videoId>y6vg_236CHo</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>de</audio>
+            <audio>pl</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Buffalo Bill In Tomahawk Territory</title>
         <year>1952</year>
         <genre>Western</genre>
@@ -7176,21 +7363,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Trailing The Killer</title>
-        <year>1932</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>While the original title, "Trailing the Killer" isn't a misnomer, it was a bit misleading since the "trailer" is a dog named Caesar (Caesar the Dog) and the killer is a mountain lion. But the makers also pointed out that Caesar "is the most intelligent dog actor since Rin-Tin-Tin" which probably lured a few Rin-Tin-Tin fans with a show-me attitude. Caesar prowls around the woods of the Northwest, dispatches a rattlesnake, visits his she-wolf mate and their pups, pauses to watch the dainty habits of a raccoon personally washing every morsel of food before eating it---and that raccoon had enough food to use up several minutes of running time---and then saves sheepherder Pierre (Francis McDonald)) from getting eaten by one mean mountain lion. Rin-Tin-Tin he ain't, but then who was?</description>
-        <imageUrl>https://img.youtube.com/vi/75mhnwJHM28/0.jpg</imageUrl>
-        <videoId>75mhnwJHM28</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Fugitive Valley</title>
         <year>1941</year>
         <genre>Western</genre>
@@ -7206,52 +7378,33 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Buffa66</title>
-        <year>1964</year>
+        <title>Trailing The Killer</title>
+        <year>1932</year>
         <genre>Western</genre>
         <type>film</type>
-        <description>Colonel William Cody, alias Buffalo Bill, intends to put an end to the dishonest relations between a gang of white swindlers and the Indian, Yellow Hand. So he goes to the chief of Yellow Hand's tribe, Wise Fox, and tries to convince him to sign a peace treaty with the Federal troops. In order to avoid this, Yellow Hand abducts Wise Fox's daughter, pretending that the soldiers have done it.</description>
-        <imageUrl>https://img.youtube.com/vi/vAWw1OZ7lZc/0.jpg</imageUrl>
-        <videoId>vAWw1OZ7lZc</videoId>
+        <description>While the original title, "Trailing the Killer" isn't a misnomer, it was a bit misleading since the "trailer" is a dog named Caesar (Caesar the Dog) and the killer is a mountain lion. But the makers also pointed out that Caesar "is the most intelligent dog actor since Rin-Tin-Tin" which probably lured a few Rin-Tin-Tin fans with a show-me attitude. Caesar prowls around the woods of the Northwest, dispatches a rattlesnake, visits his she-wolf mate and their pups, pauses to watch the dainty habits of a raccoon personally washing every morsel of food before eating it---and that raccoon had enough food to use up several minutes of running time---and then saves sheepherder Pierre (Francis McDonald)) from getting eaten by one mean mountain lion. Rin-Tin-Tin he ain't, but then who was?</description>
+        <imageUrl>https://img.youtube.com/vi/75mhnwJHM28/0.jpg</imageUrl>
+        <videoId>75mhnwJHM28</videoId>
         <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
+            <sub>live_chat</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>. Two Crosses At Danger Pass</title>
+        <year>1967</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Judy and Alex are the only two survivors of a punishment mission ordered by the rich and ruthless Moran... The girl becomes his maid and the boy is adopted by a Quaker family. Alex, in spite of the pardon philosophy taught to him, is planning a revenge.</description>
+        <imageUrl>https://img.youtube.com/vi/uMBJ6G8nKmA/0.jpg</imageUrl>
+        <videoId>uMBJ6G8nKmA</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -7270,21 +7423,6 @@
         </available_audio>
     </movie>
     <movie>
-        <title>Hopalong Cassidy &amp; Lucky Jenkins...South Of The Equator!</title>
-        <year>1936</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>A crusading newspaper editor recruits his old friend Hoppy to take the job of Marshall in a town rife with vice and murder directed at helpless miners.</description>
-        <imageUrl>https://img.youtube.com/vi/wYccKnTSaJ0/0.jpg</imageUrl>
-        <videoId>wYccKnTSaJ0</videoId>
-        <available_subtitles>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
         <title>Northwest Trail</title>
         <year>1945</year>
         <genre>Western</genre>
@@ -7297,6 +7435,21 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>In Old Mexico</title>
+        <year>1938</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Escaped criminal "The Fox" hates Hoppy and a Rurales colonel for imprisoning him and lures Cassidy to Mexico in order to exact his vengeance.</description>
+        <imageUrl>https://img.youtube.com/vi/OcVMmuUMxKI/0.jpg</imageUrl>
+        <videoId>OcVMmuUMxKI</videoId>
+        <available_subtitles>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
             <audio>en</audio>
         </available_audio>
     </movie>
