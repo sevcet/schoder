@@ -1,6 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Family">
     <movie>
+        <title>Dangers On Live</title>
+        <year>1957</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>When Eva-Lotta climbs the roof of moneylender Gren's house. Through a window she overhears a turbulent conversation about an IOU. A few days later she finds Gren dead.</description>
+        <imageUrl>https://img.youtube.com/vi/-0maCs3KHZc/0.jpg</imageUrl>
+        <videoId>-0maCs3KHZc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Rudyard Kipling'S Jungbook</title>
+        <year>1987</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>Two tall tales based on Rudyard Kipling's Just So Stories; featuring a Parsee man seeking for payback on a cake-munching piggish rhinoceros, and a lazy stubborn camel without a hump pays his debt for refusing to work. Narrated by Jack Nicholson, with music by Bobby McFerrin.</description>
+        <imageUrl>https://img.youtube.com/vi/RFgsYAiPqfQ/0.jpg</imageUrl>
+        <videoId>RFgsYAiPqfQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pt</audio>
+            <audio>de</audio>
+            <audio>es</audio>
+            <audio>ru</audio>
+            <audio>fr</audio>
+            <audio>it</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Amphibian</title>
         <year>1991</year>
         <genre>Family</genre>
@@ -342,56 +447,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dragon Rider</title>
-        <year>2020</year>
-        <genre>Family</genre>
-        <type>film</type>
-        <description>An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.</description>
-        <imageUrl>https://img.youtube.com/vi/BaKM3YqXDZ4/0.jpg</imageUrl>
-        <videoId>BaKM3YqXDZ4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -4467,58 +4522,6 @@
         <available_audio>
             <audio>en</audio>
             <audio>es</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Boathouse Detectives</title>
-        <year>2010</year>
-        <genre>Family</genre>
-        <type>film</type>
-        <description>Little Annie's father dies leaving the child in the custody of her grandmother, but without any proof, her evil stepmother confined the child to her room. Tying a note to one of her birthday balloons and sending it out the window caught the eyes of four kids and playing detectives, they were able to free Annie and solve the custody battle.</description>
-        <imageUrl>https://img.youtube.com/vi/SBC-Yyc1YC4/0.jpg</imageUrl>
-        <videoId>SBC-Yyc1YC4</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>es</audio>
-            <audio>fr</audio>
         </available_audio>
     </movie>
 </category>
