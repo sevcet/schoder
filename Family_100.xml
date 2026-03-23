@@ -1,6 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Family">
     <movie>
+        <title>. Misfortune</title>
+        <year>1989</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>A creature bearing the ominous name "Mishap" is hot in pursuit of an unfortunate lumberjack and eventually decides to live with him. It soon gets bored, however, and asks the lumberjack to hand it over to the rich merchant Habermoos. Habermoos manages to sell Mishap to the king, although he is being attacked by robbers. The king is bankrupt and threatened with war by other countries. Young Michael has to go to war for the king. The creature tries to secretly join him. When Michael gets hold of the situation, he manages to get rid of Mishap once and for all. After all, he has more important things to do. At the last moment, he prevents his girlfriend Kathrin from getting married to the pompous merchant Habermoos.</description>
+        <imageUrl>https://img.youtube.com/vi/w4l3yCQqQGk/0.jpg</imageUrl>
+        <videoId>w4l3yCQqQGk</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>A Beast Among Us</title>
+        <year>2022</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>Set in a surreal backdrop, we see victims' and predators' roles reversed. It shows the world we live in from the perspective of those who are most vulnerable.</description>
+        <imageUrl>https://img.youtube.com/vi/Zoisgi9jjDo/0.jpg</imageUrl>
+        <videoId>Zoisgi9jjDo</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Dangers On Live</title>
         <year>1957</year>
         <genre>Family</genre>
@@ -4421,107 +4510,6 @@
         <available_audio>
             <audio>es</audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Adventures On Grizzly Mountain</title>
-        <year>2010</year>
-        <genre>Family</genre>
-        <type>film</type>
-        <description>From the makers of "Racing Ace" comes another exciting adventure for the entire family. Grizzly Mountain Ranch is under siege! The bank is trying to take over the land and the Stanger family is bound and determined they are going to hang on to the property that has been in the family for years. In the meantime, notorious horse thieves Luke and Carl Dawson have their sights set on stealing a valuable newborn colt...but for these two bandits a simple crime quickly turns into a comedy of errors when they come up against eight year-old twins BJ and Belle, their teenage babysitter Sam, and a giant grizzly bear named Thor.</description>
-        <imageUrl>https://img.youtube.com/vi/9uR0xUJQAy0/0.jpg</imageUrl>
-        <videoId>9uR0xUJQAy0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Arizona Summer 2004</title>
-        <year>2004</year>
-        <genre>Family</genre>
-        <type>film</type>
-        <description>Two brothers learn about life and grow up during a summer camp vacation.</description>
-        <imageUrl>https://img.youtube.com/vi/-cBdnGshJeQ/0.jpg</imageUrl>
-        <videoId>-cBdnGshJeQ</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-            <audio>es</audio>
         </available_audio>
     </movie>
 </category>
