@@ -1,6 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Western">
     <movie>
+        <title>Bandidos</title>
+        <year>1967</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Renowned gunman Richard Martin is traveling on a train, held up by Billy Kane, a former student of Martin's. Kane spares Martin, but only after shooting his hands. Years later, Martin meets an escaped convict, wrongly convicted for the train robbery. Martin trains his new student and both men seek out Billy Kane.</description>
+        <imageUrl>https://img.youtube.com/vi/mg1O8LpJdSc/0.jpg</imageUrl>
+        <videoId>mg1O8LpJdSc</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Brute And The Beast</title>
+        <year>1966</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>In 1866, prospector Tom Corbett returns to his hometown of Laramie, Texas, now under the brutal control of gangster Jason Scott and his violent son, Junior. With his brother Jeff, a struggling drunk cared for by their maid Mercedes, Tom seeks to overthrow the Scotts' tyrannical rule and restore peace to the town.</description>
+        <imageUrl>https://img.youtube.com/vi/E6tvs9u1pkI/0.jpg</imageUrl>
+        <videoId>E6tvs9u1pkI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+            <audio>it</audio>
+            <audio>es</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Time For Dying</title>
         <year>1969</year>
         <genre>Western</genre>
@@ -831,58 +932,6 @@
             <audio>fr</audio>
             <audio>es</audio>
             <audio>de</audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Massacre Time</title>
-        <year>1966</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>In 1866, prospector Tom Corbett returns to his hometown of Laramie, Texas, now under the brutal control of gangster Jason Scott and his violent son, Junior. With his brother Jeff, a struggling drunk cared for by their maid Mercedes, Tom seeks to overthrow the Scotts' tyrannical rule and restore peace to the town.</description>
-        <imageUrl>https://img.youtube.com/vi/KhkFrfuuFL0/0.jpg</imageUrl>
-        <videoId>KhkFrfuuFL0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>it</audio>
-            <audio>es</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -4679,60 +4728,6 @@
         <available_audio>
             <audio>en</audio>
             <audio>fr</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Cry Blood, Apache</title>
-        <year>1970</year>
-        <genre>Western</genre>
-        <type>film</type>
-        <description>Telling the story of his early life in flashback, a former prospector (Joel McCrea, with flashback sequences featuring son Jody) explains his brutal massacre of a tribe of Indians. The only survivor (Marie Gahua) agrees to lead him to a secret gold mine.</description>
-        <imageUrl>https://img.youtube.com/vi/0p7b8A1i0I0/0.jpg</imageUrl>
-        <videoId>0p7b8A1i0I0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>it</audio>
-            <audio>es</audio>
-            <audio>en</audio>
         </available_audio>
     </movie>
 </category>
