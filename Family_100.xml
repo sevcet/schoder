@@ -1040,6 +1040,39 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Thriller ! Girl Screamed After Finding A Hanged Corpse, Then The Entire Graveyard Woke Up!</title>
+        <year>2024</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>Buster Moon dreams up a star-studded spectacle set to Michael Jackson's "Thriller" in this animated short featuring characters from the hit "Sing" films.</description>
+        <imageUrl>https://img.youtube.com/vi/KdjxUoMlocQ/0.jpg</imageUrl>
+        <videoId>KdjxUoMlocQ</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>my</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>km</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Christmas Miracle</title>
         <year>2013</year>
         <genre>Family</genre>
@@ -4330,6 +4363,33 @@
         </available_audio>
     </movie>
     <movie>
+        <title>【】She Opened The Door But Saw Her Husband'S Mistress Nestled In His Arms!</title>
+        <year>2019</year>
+        <genre>Family</genre>
+        <type>film</type>
+        <description>In 2018, at the age of 63, Dee Westenhauser came out as a transgender woman. But growing up in El Paso, Texas in the 1950s she remembers having a hard time fitting in. One weekend, her parents decided to take her to her aunt Yaya’s house. Aunt Yaya saw a kindred spirit in Dee, and gave her an opportunity that no one else would: a safe, loving space to be herself.</description>
+        <imageUrl>https://img.youtube.com/vi/PYrW8MsmPJ8/0.jpg</imageUrl>
+        <videoId>PYrW8MsmPJ8</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>es</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Spiritism</title>
         <year>2001</year>
         <genre>Family</genre>
@@ -4457,88 +4517,6 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>The Champion</title>
-        <year>1924</year>
-        <genre>Animation</genre>
-        <type>film</type>
-        <description>An Aesop’s Film Fables short.</description>
-        <imageUrl>https://img.youtube.com/vi/_XQcQ7ArrDw/0.jpg</imageUrl>
-        <videoId>_XQcQ7ArrDw</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>hi</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>pt-BR</sub>
-            <sub>ru</sub>
-            <sub>es</sub>
-            <sub>th</sub>
-            <sub>vi</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Jack The Ripper Thriller</title>
-        <year>1999</year>
-        <genre>Family</genre>
-        <type>film</type>
-        <description>In this spell-binding story brave Jack climbs the Beanstalk to the magical world of Beanland. He and his new friends Dilly (the small but fearless Bean girl) and Ambrose (the nervous donkey) are drawn into all sorts of exciting adventures as they attempt to rid the Beanland of the wicked Giant.  This exciting and beautifully animated re-telling of the classic tale is filled with fun, humour and wonderful music to delight children of all ages time and time again.</description>
-        <imageUrl>https://img.youtube.com/vi/Go4pTx6w1sA/0.jpg</imageUrl>
-        <videoId>Go4pTx6w1sA</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>fr-gqnk0mWVyHo</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>ta</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>uk</sub>
-            <sub>ur</sub>
-            <sub>vi</sub>
-            <sub>live_chat</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
         </available_audio>
     </movie>
 </category>
