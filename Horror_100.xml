@@ -273,6 +273,37 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Sci-Fi : Alien Titans Invade Earth, Humanity Launches The Ultimate Counterattack!</title>
+        <year>2005</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Calling all Aliens from Angel City to the desert, razor sharp claws, killer parasites, deadly websites, and world destruction prevail. But have no fear. Bradbury, Jack Deth, Zack Stone and Paul Dean, will save the day. They are out of this world!</description>
+        <imageUrl>https://img.youtube.com/vi/EvoDw2IBWxs/0.jpg</imageUrl>
+        <videoId>EvoDw2IBWxs</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>km</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Haunting At The Beacon</title>
         <year>2009</year>
         <genre>Horror</genre>
@@ -4841,55 +4872,6 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Dinosaur Hotel</title>
-        <year>2021</year>
-        <genre>Horror</genre>
-        <type>film</type>
-        <description>Sienna is desperate to win a large cash prize in a secret underground game show. However, Dinosaur's begin to hunt her down for the entertainment of the rich and wealthy. Can she be the last to survive the horrific night to win the prize?</description>
-        <imageUrl>https://img.youtube.com/vi/mWdlq-BfUD0/0.jpg</imageUrl>
-        <videoId>mWdlq-BfUD0</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bn</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en-US</sub>
-            <sub>fil</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ja</sub>
-            <sub>jv</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>ml</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>si</sub>
-            <sub>es</sub>
-            <sub>su</sub>
-            <sub>sv</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
