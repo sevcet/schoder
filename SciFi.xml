@@ -3586,6 +3586,24 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Ataque À Terra</title>
+        <year>1971</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Few people know of the chilling reality behind the mysterious phenomenon of unidentified flying objects. Beings from a dying planet have arrived on Earth to kidnap humans and take over their vital organs. Against this threat, SHADO has been created, a secret organisation equipped with the most advanced technology and the best men.</description>
+        <imageUrl>https://img.youtube.com/vi/n2qctccPfmU/0.jpg</imageUrl>
+        <videoId>n2qctccPfmU</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>pt</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pt</audio>
+            <audio>default</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Warlock : The Armageddon</title>
         <year>1993</year>
         <genre>SciFi</genre>
@@ -7390,6 +7408,23 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Ginger Snaps</title>
+        <year>2000</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.</description>
+        <imageUrl>https://img.youtube.com/vi/kujUkoJjlpM/0.jpg</imageUrl>
+        <videoId>kujUkoJjlpM</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -12005,6 +12040,22 @@
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Space Adventure</title>
+        <year>2005</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.</description>
+        <imageUrl>https://img.youtube.com/vi/lPMtE9u6SlQ/0.jpg</imageUrl>
+        <videoId>lPMtE9u6SlQ</videoId>
+        <available_subtitles>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>ru</audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
