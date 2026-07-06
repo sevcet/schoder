@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="SciFi">
     <movie>
+        <title>Space Adventure</title>
+        <year>2005</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.</description>
+        <imageUrl>https://img.youtube.com/vi/lPMtE9u6SlQ/0.jpg</imageUrl>
+        <videoId>lPMtE9u6SlQ</videoId>
+        <available_subtitles>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>ru</audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Ataque À Terra</title>
+        <year>1971</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>Few people know of the chilling reality behind the mysterious phenomenon of unidentified flying objects. Beings from a dying planet have arrived on Earth to kidnap humans and take over their vital organs. Against this threat, SHADO has been created, a secret organisation equipped with the most advanced technology and the best men.</description>
+        <imageUrl>https://img.youtube.com/vi/n2qctccPfmU/0.jpg</imageUrl>
+        <videoId>n2qctccPfmU</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>pt</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>pt</audio>
+            <audio>default</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Ginger Snaps</title>
+        <year>2000</year>
+        <genre>SciFi</genre>
+        <type>film</type>
+        <description>The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.</description>
+        <imageUrl>https://img.youtube.com/vi/kujUkoJjlpM/0.jpg</imageUrl>
+        <videoId>kujUkoJjlpM</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Earth Attack</title>
         <year>1971</year>
         <genre>SciFi</genre>
@@ -4229,153 +4280,6 @@
         <available_subtitles>
             <sub>en</sub>
             <sub>fr</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Deep Space Survivors</title>
-        <year>2018</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Cut off from home and facing an impossible mission against mounting odds, "Deep Six" is a hyper-realistic live-action portrayal of a deep space forward operating base at a pivotal moment for humankind 250 years in our future.</description>
-        <imageUrl>https://img.youtube.com/vi/F53cfFdarmQ/0.jpg</imageUrl>
-        <videoId>F53cfFdarmQ</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en-US-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>en</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Witches Of Water</title>
-        <year>2018</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>Alina and Ruslan live in Moscow, but their mother Alsu, a successful businesswoman, came from Tatarstan. When her father dies in the faraway village Achasary, the three of them go to visit their relatives.  In the Tatar village, everything is new to the children accustomed to the life in a megalopolis: the village everyday life, chickens and cows, Muslim customs, a language they don’t know. Gradually, they become aware of a great conflict in their mother’s family: Alsu’s father chased her away from home, and she has been in quarrel with her own brother Timur for ten years. The conflict becomes worse, the ambience in the village home starts getting tense. Luckily, the kids form a wonderful relation with the beautiful Leysan, the new wife of Uncle Timur.</description>
-        <imageUrl>https://img.youtube.com/vi/-jkMeBm33G0/0.jpg</imageUrl>
-        <videoId>-jkMeBm33G0</videoId>
-        <available_subtitles>
-            <sub>ar-holatrtIUCQ</sub>
-            <sub>bn-holatrtIUCQ</sub>
-            <sub>bg-holatrtIUCQ</sub>
-            <sub>zh-holatrtIUCQ</sub>
-            <sub>hr-holatrtIUCQ</sub>
-            <sub>da-holatrtIUCQ</sub>
-            <sub>nl-holatrtIUCQ</sub>
-            <sub>en</sub>
-            <sub>en-holatrtIUCQ</sub>
-            <sub>fil-holatrtIUCQ</sub>
-            <sub>fr-holatrtIUCQ</sub>
-            <sub>de-holatrtIUCQ</sub>
-            <sub>el-holatrtIUCQ</sub>
-            <sub>iw-holatrtIUCQ</sub>
-            <sub>hi-holatrtIUCQ</sub>
-            <sub>hu-holatrtIUCQ</sub>
-            <sub>id-holatrtIUCQ</sub>
-            <sub>it-holatrtIUCQ</sub>
-            <sub>ja-holatrtIUCQ</sub>
-            <sub>jv-holatrtIUCQ</sub>
-            <sub>ko-holatrtIUCQ</sub>
-            <sub>ms-holatrtIUCQ</sub>
-            <sub>ml-holatrtIUCQ</sub>
-            <sub>no-holatrtIUCQ</sub>
-            <sub>fa-holatrtIUCQ</sub>
-            <sub>pl-holatrtIUCQ</sub>
-            <sub>pt-holatrtIUCQ</sub>
-            <sub>ro-holatrtIUCQ</sub>
-            <sub>ru-holatrtIUCQ</sub>
-            <sub>si-holatrtIUCQ</sub>
-            <sub>es-holatrtIUCQ</sub>
-            <sub>su-holatrtIUCQ</sub>
-            <sub>sv-holatrtIUCQ</sub>
-            <sub>th-holatrtIUCQ</sub>
-            <sub>tr-holatrtIUCQ</sub>
-            <sub>vi-holatrtIUCQ</sub>
-        </available_subtitles>
-        <available_audio>
-            <audio>default</audio>
-        </available_audio>
-    </movie>
-    <movie>
-        <title>Guantanamero</title>
-        <year>2007</year>
-        <genre>SciFi</genre>
-        <type>film</type>
-        <description>After a violent storm, Ali awakens on a deserted beach, sick and disoriented. They'll be looking for him and he must keep moving. Ivan, a local Cuban, takes Ali to the apartment of his sister Manuela, a dancer in Havana. At first, she is apprehensive to take in this tormented stranger, but she relents as she feels drawn to this mysterious person who has shown up on her door step. Ali is haunted by nightmares, which bring him to the horror of the interrogation room at Guantanamo, and by startling visions linking his past and his present life. But are these nightmares flash backs to his experiences in the prison or just dreams of a tortured soul?</description>
-        <imageUrl>https://img.youtube.com/vi/-AHvyhru0_c/0.jpg</imageUrl>
-        <videoId>-AHvyhru0_c</videoId>
-        <available_subtitles>
-            <sub>ar</sub>
-            <sub>bg</sub>
-            <sub>zh</sub>
-            <sub>hr</sub>
-            <sub>cs</sub>
-            <sub>da</sub>
-            <sub>nl</sub>
-            <sub>en</sub>
-            <sub>fil</sub>
-            <sub>fi</sub>
-            <sub>fr</sub>
-            <sub>de</sub>
-            <sub>el</sub>
-            <sub>iw</sub>
-            <sub>hi</sub>
-            <sub>hu</sub>
-            <sub>id</sub>
-            <sub>it</sub>
-            <sub>ko</sub>
-            <sub>ms</sub>
-            <sub>no</sub>
-            <sub>fa</sub>
-            <sub>pl</sub>
-            <sub>pt</sub>
-            <sub>ro</sub>
-            <sub>ru</sub>
-            <sub>sr</sub>
-            <sub>es</sub>
-            <sub>sw</sub>
-            <sub>sv</sub>
-            <sub>te</sub>
-            <sub>th</sub>
-            <sub>tr</sub>
-            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
