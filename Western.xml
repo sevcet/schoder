@@ -6031,6 +6031,59 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Gold Fever... Go Steal Some More! [Italian Audio]</title>
+        <year>1952</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Magician-turned-actor John Calvert, previously the suave leading man of Film Classics' "Falcon" series, is a curious choice to star in the rough-and-tumble western Gold Fever. John Bonar (Calvert) and grizzled old prospector Nugget Jack (Ralph Morgan) strike it rich, whereupon they are besieged by Bill Johnson's (Gene Roth) outlaw gang. Heavily outnumbered, our heroes are forced to rely on brain rather than brawn.</description>
+        <imageUrl>https://img.youtube.com/vi/tClmdme8EU0/0.jpg</imageUrl>
+        <videoId>tClmdme8EU0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>ht</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pa</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>it</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Django Taciturno</title>
         <year>1967</year>
         <genre>Western</genre>
@@ -7426,6 +7479,22 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Mexico Killer</title>
+        <year>1967</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>The ruthless and cruel Captain Ramirez hunts down and kills revolutionaries in his search for The Saint, the righteous leader of the Mexican insurrection against the Federales.</description>
+        <imageUrl>https://img.youtube.com/vi/bInhwUYufvE/0.jpg</imageUrl>
+        <videoId>bInhwUYufvE</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Gunman From Bodie</title>
         <year>1941</year>
         <genre>Western</genre>
@@ -8155,6 +8224,56 @@
         <videoId>75mhnwJHM28</videoId>
         <available_subtitles>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Hurt In Harlem</title>
+        <year>2019</year>
+        <genre>Western</genre>
+        <type>film</type>
+        <description>Scarlet is relieved of her duties as a sheriff by the mayor of the dying city of Sallow. The dreaded Aldritch gang has been putting pressure on the town and people have been leaving by the dozens. In a last effort to save face with the citizens, Mayor Thomas tries firing the female sheriff to replace her with someone he believes has a stronger presence. As Scarlet begins to adjust to her new life as a rancher, the Aldritch gang has nothing stopping them from collecting a family debt.</description>
+        <imageUrl>https://img.youtube.com/vi/4wD1sJlUj7k/0.jpg</imageUrl>
+        <videoId>4wD1sJlUj7k</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
