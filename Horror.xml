@@ -3813,6 +3813,25 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Pay The Ghost</title>
+        <year>2015</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>One year after his young son disappeared during a Halloween carnival, Mike Cole is haunted by eerie images and terrifying messages he can’t explain. Together with his estranged wife, he will stop at nothing to unravel the mystery and find their son—and, in doing so, he unearths a legend that refuses to remain buried in the past.</description>
+        <imageUrl>https://img.youtube.com/vi/5KQydNqh4O4/0.jpg</imageUrl>
+        <videoId>5KQydNqh4O4</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>default</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Room 6</title>
         <year>2006</year>
         <genre>Horror</genre>
@@ -6915,6 +6934,21 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Escape Room</title>
+        <year>2019</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.</description>
+        <imageUrl>https://img.youtube.com/vi/gY75uUZhQIo/0.jpg</imageUrl>
+        <videoId>gY75uUZhQIo</videoId>
+        <available_subtitles>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>One Call Can Change Your Life... Or End It</title>
         <year>2003</year>
         <genre>Horror</genre>
@@ -7801,6 +7835,23 @@
         </available_audio>
     </movie>
     <movie>
+        <title>A Dream House</title>
+        <year>2023</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A young couple wins the house of their dreams in a housing auction, only to come face-to-face with their nightmares.</description>
+        <imageUrl>https://img.youtube.com/vi/mPV0dZRiFxE/0.jpg</imageUrl>
+        <videoId>mPV0dZRiFxE</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>The Cursed</title>
         <year>2021</year>
         <genre>Horror</genre>
@@ -8165,6 +8216,22 @@
         <description>Vanessa, a television reporter covering a story of a farmer attacked by his chickens, discovers that this is not an isolated incident. Travelling to Spain with her cameraman Peter, the two discover the survivors of a town wiped out by the birds thirty years ago. Meanwhile, attacks continue as a child's birthday party ends in tragedy and doves devour a poultry farmer and his wife. Vanessa soon comes to the conclusion that the birds are organizing themselves against the ecological ravages of man, but time is running out as thousands of birds launch an attack against a train Vanessa is traveling on.</description>
         <imageUrl>https://img.youtube.com/vi/I7vodVplKwo/0.jpg</imageUrl>
         <videoId>I7vodVplKwo</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Terrified</title>
+        <year>2018</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Police commissioner Funes and three researchers of supernatural phenomena investigate inexplicable events that are occurring in the suburbs of Buenos Aires.</description>
+        <imageUrl>https://img.youtube.com/vi/BNlxDAeuOfk/0.jpg</imageUrl>
+        <videoId>BNlxDAeuOfk</videoId>
         <available_subtitles>
             <sub>en</sub>
             <sub>fr</sub>
@@ -10250,6 +10317,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Candyman : Day Of The Dead</title>
+        <year>1999</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>As the Day of the Dead celebration approaches the barrio of East Los Angeles, Caroline is challenged to control the horrifying legend of her ancestor, the "Candyman".</description>
+        <imageUrl>https://img.youtube.com/vi/WldNLWO50jI/0.jpg</imageUrl>
+        <videoId>WldNLWO50jI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Morsure</title>
         <year>2007</year>
         <genre>Horror</genre>
@@ -11034,6 +11150,22 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Deliver Us</title>
+        <year>2023</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>When a nun in a remote convent claims immaculate conception, the Vatican sends a team of priests to investigate, concerned about an ancient prophecy that a woman will give birth to twin boys: one the Messiah, the other the Antichrist.</description>
+        <imageUrl>https://img.youtube.com/vi/jd5tVB1a2wI/0.jpg</imageUrl>
+        <videoId>jd5tVB1a2wI</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
         </available_audio>
     </movie>
     <movie>
@@ -12410,6 +12542,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Drifter</title>
+        <year>1988</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A suspensefilled thriller about a successful single woman who, on a deserted road, picks up a mysterious hitchhiker. Once back in the city, "The Drifter" follows her every move. Every attempt to free herself of his harassment fails until the shocking conclusion is revealed!</description>
+        <imageUrl>https://img.youtube.com/vi/7jtBqLxnAac/0.jpg</imageUrl>
+        <videoId>7jtBqLxnAac</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Unseen Presence</title>
         <year>2014</year>
         <genre>Horror</genre>
@@ -12505,6 +12686,56 @@
         </available_subtitles>
         <available_audio>
             <audio>es</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Robocroc</title>
+        <year>2013</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A rocket carrying nano robots crash lands shortly after takeoff into a zoo. The bots are released and find their way into a massive crocodile. The croc, now programmed to kill, will target anything and anyone for its next meal.</description>
+        <imageUrl>https://img.youtube.com/vi/S-5zwZ3vjoQ/0.jpg</imageUrl>
+        <videoId>S-5zwZ3vjoQ</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -15103,6 +15334,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>No Help</title>
+        <year>2025</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Joana, fearing the dark and the sensation of being watched, faces a night of terror. As she battles her fears, she is consumed by the paranoia that something is lurking in the shadows. With every sound and every shadow becoming a threat, Joana struggles to keep her sanity as she confronts her deepest fears.</description>
+        <imageUrl>https://img.youtube.com/vi/tSL0PTV04U0/0.jpg</imageUrl>
+        <videoId>tSL0PTV04U0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Nuit Des Damnés</title>
         <year>1971</year>
         <genre>Horror</genre>
@@ -15247,6 +15527,23 @@
             <sub>vi</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Malédiction Des Mayas</title>
+        <year>2004</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Renee Summers has just been released from a mental institution when her fiancee and psychiatrist, Jeffrey Morgan buys her a secluded cabin to rest before she faces her friends and family. Renee soon befriends her only neighbour Michael Richards who is not all that he seems to be. She also uncovers a deadly secret! The former tenants of the cabin, a mayan family, were butchered to death and dumped</description>
+        <imageUrl>https://img.youtube.com/vi/Goz2CG9beRQ/0.jpg</imageUrl>
+        <videoId>Goz2CG9beRQ</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -15462,6 +15759,55 @@
             <sub>uk</sub>
             <sub>ur</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Black Sea Corsair</title>
+        <year>2022</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.</description>
+        <imageUrl>https://img.youtube.com/vi/CS4TnBEgjvs/0.jpg</imageUrl>
+        <videoId>CS4TnBEgjvs</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -15851,6 +16197,59 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Terror-Creatures From The Grave</title>
+        <year>1965</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>An attorney arrives at a castle to settle the estate of its recently deceased owner. The owner's wife and daughter reveal that he was someone who was able to summon the souls of ancient plague victims and, in fact, his spirit was roaming the castle at that very moment. Soon occupants of the castle begin to die off in gruesome, violent ways.</description>
+        <imageUrl>https://img.youtube.com/vi/MLzaGQ79k0o/0.jpg</imageUrl>
+        <videoId>MLzaGQ79k0o</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>ht</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pa</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -18407,6 +18806,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Terror Experiment</title>
+        <year>2010</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>When terrorist action releases a secret government virus in the Houston Federal building, the employees become aggressive and homicidal. Federal officials quarantine the building to wipe out the infected and control the story, but a small group of uninfected are fighting to get out.</description>
+        <imageUrl>https://img.youtube.com/vi/JK118lrptlU/0.jpg</imageUrl>
+        <videoId>JK118lrptlU</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Morsure</title>
         <year>2007</year>
         <genre>Horror</genre>
@@ -18547,6 +18995,56 @@
         <videoId>07_mHDSzdZU</videoId>
         <available_subtitles>
             <sub>live_chat</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Demonic Attack</title>
+        <year>2023</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>After bouncing from foster home to foster home, a shy and non-verbal teen girl once suspected of murder is placed in a new home by a caring social worker. Little by little the case worker realizes the murders that happen around the girl are the work of a demonically possessed Jack in the Box.</description>
+        <imageUrl>https://img.youtube.com/vi/vOKVcLEaSTc/0.jpg</imageUrl>
+        <videoId>vOKVcLEaSTc</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>en</audio>
@@ -18698,6 +19196,33 @@
             <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>When A Sweet Suburban Teacher Turns Into A Ruthless Gunfighter</title>
+        <year>2006</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Far away from the site of a gruesome murder, a teenager named Jill Johnson arrives at a luxurious home for a baby-sitting job. With the children fast asleep, she settles in for what she expects to be an ordinary evening. Soon, the ringing of a phone and the frightening words of a sadistic caller turn Jill's routine experience into a night of terror.</description>
+        <imageUrl>https://img.youtube.com/vi/0TcrGIv4zZ0/0.jpg</imageUrl>
+        <videoId>0TcrGIv4zZ0</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>en</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>ht</sub>
+            <sub>ig</sub>
+            <sub>it</sub>
+            <sub>rw</sub>
+            <sub>mg</sub>
+            <sub>pt</sub>
+            <sub>es</sub>
+            <sub>yo</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -19035,6 +19560,22 @@
         </available_subtitles>
         <available_audio>
             <audio>fr</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Killerbienen</title>
+        <year>1968</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A group of military personnel transporting a hydrogen bomb are left to figure out how and why swarms of killer bugs took down their plane; the answer is more deliriously nihilistic, and convoluted, than they could imagine.</description>
+        <imageUrl>https://img.youtube.com/vi/4zo01XbKt3g/0.jpg</imageUrl>
+        <videoId>4zo01XbKt3g</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>de</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>de</audio>
         </available_audio>
     </movie>
     <movie>
@@ -19653,6 +20194,22 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Night Killer</title>
+        <year />
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Three friends discussing over a murder of a girl.</description>
+        <imageUrl>https://img.youtube.com/vi/JBMbGvLZ4lk/0.jpg</imageUrl>
+        <videoId>JBMbGvLZ4lk</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Closed For The Season</title>
         <year>2010</year>
         <genre>Horror</genre>
@@ -19731,6 +20288,55 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Blind Witch</title>
+        <year>2024</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Over six tumultuous decades, three unwitting guests of a cursed New England home stumble upon a sinister secret dwelling beneath its floors - an eternal witch with an insatiable thirst for the flesh of the living.</description>
+        <imageUrl>https://img.youtube.com/vi/gWWjTYxiLgo/0.jpg</imageUrl>
+        <videoId>gWWjTYxiLgo</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -20112,6 +20718,55 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Serial Killer Hunts Celebrities: Only One Cop Can Stop Him!</title>
+        <year>2002</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Michael is your typical horror book writer. Each page of his new book becomes more and more realistic with each chapter. As fiction becomes reality, Michael finds himself searching for the truth in a serial killer's mind. Could Michael actually be living the life of a serial killer or is there someone in the shadows playing with Michael, making him the main character in this ghastly story?</description>
+        <imageUrl>https://img.youtube.com/vi/3V56aS2mupY/0.jpg</imageUrl>
+        <videoId>3V56aS2mupY</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -20507,6 +21162,99 @@
             <sub>th-holatrtIUCQ</sub>
             <sub>tr-holatrtIUCQ</sub>
             <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Human Storm</title>
+        <year>2009</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>During a stopover in Germany in the middle of a carefree road trip through Europe, two American girls find themselves alone at night when their car breaks down in the woods. Searching for help at a nearby villa, they are wooed into the clutches of a deranged retired surgeon, who has a very disturbed vision.</description>
+        <imageUrl>https://img.youtube.com/vi/nr1UA8al4BI/0.jpg</imageUrl>
+        <videoId>nr1UA8al4BI</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Zombie : Hunters Steal The Blood Stone, But Aidentally Awaken The Ultimate Zombie Lord!</title>
+        <year>2023</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Citizens from upscale Gangnam in Seoul start experiencing unusual and terrifying symptoms, devolving into inhuman creatures, leaving only a few survivors with the possibility to make it out alive.</description>
+        <imageUrl>https://img.youtube.com/vi/_irMnS3juuA/0.jpg</imageUrl>
+        <videoId>_irMnS3juuA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>my</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>km</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -21108,6 +21856,59 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Werewolf In A Girls' Dormitory</title>
+        <year>1961</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>The new science teacher Dr. Julian Olcott with a mysterious past arrives in an institutional boarding school for troublemaker girls. Along the night, the intern Mary Smith, who is blackmailing another teacher - Sir Alfred Whiteman - with some love letters, is slaughtered by a werewolf. The detective in charge of the investigation attributes the crime to a wolf, while her mate Priscilla believes she was killed by Sir Alfred. On the next days, other deaths happen in the school, reducing the list of suspects.</description>
+        <imageUrl>https://img.youtube.com/vi/Vluuu0bAVFM/0.jpg</imageUrl>
+        <videoId>Vluuu0bAVFM</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>ht</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pa</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>ta</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>ur</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -22348,6 +23149,22 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Traveler</title>
+        <year>2010</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>On a dark Christmas Eve in a small town, the lone Sheriffs on the night shift encounter a mysterious man who goes by the name of Mr. Nobody. As the night progresses, the Sheriffs discover that this isn't just a nobody, but a vengeful killer whose past threatens to haunt them all.</description>
+        <imageUrl>https://img.youtube.com/vi/3Cp91fGdNtY/0.jpg</imageUrl>
+        <videoId>3Cp91fGdNtY</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>They Come Back</title>
         <year>1991</year>
         <genre>Horror</genre>
@@ -22782,6 +23599,55 @@
         <videoId>ICv_0wqWdJM</videoId>
         <available_subtitles>
             <sub>en</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Midnight'S Child</title>
+        <year>1992</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Spooky tale of a lawyer who sees Satan in the Swiss au pair she and her artist husband have hired for their young daughter.</description>
+        <imageUrl>https://img.youtube.com/vi/BoJHyPwGXQw/0.jpg</imageUrl>
+        <videoId>BoJHyPwGXQw</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -24206,6 +25072,23 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Peter Pan'S Nightmare</title>
+        <year>2025</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.</description>
+        <imageUrl>https://img.youtube.com/vi/ukpYNFAtdXQ/0.jpg</imageUrl>
+        <videoId>ukpYNFAtdXQ</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>fr</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>fr</audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Cerberus, The Night'S Teeth</title>
         <year>2021</year>
         <genre>Horror</genre>
@@ -24467,6 +25350,56 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Ancient Evil</title>
+        <year />
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A rookie police officer is forced to fight for survival against a cannibalistic cult in order to rescue a kidnapped journalist.</description>
+        <imageUrl>https://img.youtube.com/vi/-iap035-PRc/0.jpg</imageUrl>
+        <videoId>-iap035-PRc</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Snake Hotel</title>
         <year>2023</year>
         <genre>Horror</genre>
@@ -24564,6 +25497,55 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Dead Rising</title>
+        <year>2015</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A group of people fight to survive in a zombie infested town.</description>
+        <imageUrl>https://img.youtube.com/vi/0un0cGlqBOM/0.jpg</imageUrl>
+        <videoId>0un0cGlqBOM</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -24711,6 +25693,23 @@
             <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Komodo Vs Cobra</title>
+        <year>2005</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A team of environmentalists, including a reporter, her camera man, and an environmentalist's famous girlfriend charter a boat and with the captain, sail to a military island. They suspect the island is hosting to illegal activities. Upon arrival, however, they find no one. They finally reach a deserted house, where they find Dr. Susan Richardson, who tells them that everyone on the island is dead, including her father. Richardson's team were working on a compound that could make edible plants grow to super size, however the military intervened with plans of their own. They wanted to test the compound's effects on animals, and proceeded to feed it to several komodo dragons and cobras.</description>
+        <imageUrl>https://img.youtube.com/vi/UpAI-pUu5-g/0.jpg</imageUrl>
+        <videoId>UpAI-pUu5-g</videoId>
+        <available_subtitles>
+            <sub>en</sub>
+            <sub>pt</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
             <audio>en</audio>
         </available_audio>
     </movie>
@@ -24888,6 +25887,54 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Scream Boat</title>
+        <year>2025</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A group of online vloggers rent a small boat for an overnight adventure, hoping to film viral content. Their fun turns to terror when a masked figure dressed as a mouse sabotages their equipment and begins hunting them one by one, forcing them to fight for survival at sea.</description>
+        <imageUrl>https://img.youtube.com/vi/UeG0Ec2hfjU/0.jpg</imageUrl>
+        <videoId>UeG0Ec2hfjU</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>! Bar Girl Forced To Marry Crime Lord But She Risked All For One More Night With Her First Love</title>
         <year>2017</year>
         <genre>Horror</genre>
@@ -25032,6 +26079,56 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Something Is Moving In The Darkness Of That Factory</title>
+        <year>2021</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A young girl explores her relationship with fear through poetry.</description>
+        <imageUrl>https://img.youtube.com/vi/esLhuPQ9O2U/0.jpg</imageUrl>
+        <videoId>esLhuPQ9O2U</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>sr</sub>
+            <sub>es</sub>
+            <sub>sw</sub>
+            <sub>sv</sub>
+            <sub>te</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -25598,6 +26695,55 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Forbidden Experiment</title>
+        <year>1995</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Eager to boost sales, cosmetic maker Janice Starlin orders her scientists to develop a new youth formula derived from queen wasp enzymes. But when Janice accidentally overdoses on the formula, she’s shockingly transformed into a giant, vicious wasp.</description>
+        <imageUrl>https://img.youtube.com/vi/wDAJD9GsQrs/0.jpg</imageUrl>
+        <videoId>wDAJD9GsQrs</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
@@ -26431,6 +27577,55 @@
         </available_audio>
     </movie>
     <movie>
+        <title>A New Ripper</title>
+        <year>1982</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A burned-out New York police detective teams up with a college psychoanalyst to track down a vicious serial killer randomly stalking and killing various young women around the city.</description>
+        <imageUrl>https://img.youtube.com/vi/Vpat31fP4SA/0.jpg</imageUrl>
+        <videoId>Vpat31fP4SA</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bn</sub>
+            <sub>bg</sub>
+            <sub>zh</sub>
+            <sub>hr</sub>
+            <sub>da</sub>
+            <sub>nl</sub>
+            <sub>en</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>jv</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>ml</sub>
+            <sub>no</sub>
+            <sub>fa</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>si</sub>
+            <sub>es</sub>
+            <sub>su</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Deranged Man Opens Fire On Cops In The Middle Of The Street</title>
         <year>1978</year>
         <genre>Horror</genre>
@@ -26895,6 +28090,104 @@
         </available_audio>
     </movie>
     <movie>
+        <title>The Deranged Girl</title>
+        <year>2021</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>When a young woman named Cassie plans to get together with her sister and friends for a movie night, they find themselves the target of a masked madman who has been stalking her.</description>
+        <imageUrl>https://img.youtube.com/vi/cWAbQm2UbGw/0.jpg</imageUrl>
+        <videoId>cWAbQm2UbGw</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Skate To Hell</title>
+        <year>2026</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A group of teenagers steal a supernatural skateboard owned by Satan's son. Now the devil wants it back.</description>
+        <imageUrl>https://img.youtube.com/vi/ypIOV6ezdIc/0.jpg</imageUrl>
+        <videoId>ypIOV6ezdIc</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>A Teen On Her Own</title>
         <year>2025</year>
         <genre>Horror</genre>
@@ -27151,6 +28444,86 @@
         </available_audio>
     </movie>
     <movie>
+        <title>Horror</title>
+        <year>1963</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>The beautiful young daughter of a crazed count fears that she will fall victim to the family curse - to be sacrificed to fulfill an ancient family legend.</description>
+        <imageUrl>https://img.youtube.com/vi/GqH75Fl4x5Q/0.jpg</imageUrl>
+        <videoId>GqH75Fl4x5Q</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>fil</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>hi</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>km</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>pt</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Mad Anatomist</title>
+        <year>1942</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>A mad scientist changes his simple-minded handyman into a werewolf in order to prove his supposedly crazy scientific theories - and exact revenge.</description>
+        <imageUrl>https://img.youtube.com/vi/8tzIpHMfBZc/0.jpg</imageUrl>
+        <videoId>8tzIpHMfBZc</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
+        </available_audio>
+    </movie>
+    <movie>
         <title>Locked Inside A Motel During A Virus Breakout, He Must Escape</title>
         <year>2020</year>
         <genre>Horror</genre>
@@ -27197,6 +28570,55 @@
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Creature Of The Night</title>
+        <year>2006</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Rock star has a cheating wife, unhappy ex-manager and he's a werewolf.</description>
+        <imageUrl>https://img.youtube.com/vi/VBGa45c0We8/0.jpg</imageUrl>
+        <videoId>VBGa45c0We8</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>en</audio>
         </available_audio>
     </movie>
     <movie>
@@ -27534,6 +28956,99 @@
             <sub>th</sub>
             <sub>tr</sub>
             <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>Zombie : One Tourist Turns Into A Zombie, The Entire Cruise Ship Becomes A Floating Hell!</title>
+        <year>2023</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>Citizens from upscale Gangnam in Seoul start experiencing unusual and terrifying symptoms, devolving into inhuman creatures, leaving only a few survivors with the possibility to make it out alive.</description>
+        <imageUrl>https://img.youtube.com/vi/NkrL_782vyo/0.jpg</imageUrl>
+        <videoId>NkrL_782vyo</videoId>
+        <available_subtitles>
+            <sub>ar</sub>
+            <sub>bg</sub>
+            <sub>my</sub>
+            <sub>hr</sub>
+            <sub>cs</sub>
+            <sub>da</sub>
+            <sub>fil</sub>
+            <sub>fi</sub>
+            <sub>fr</sub>
+            <sub>de</sub>
+            <sub>el</sub>
+            <sub>iw</sub>
+            <sub>hi</sub>
+            <sub>hu</sub>
+            <sub>id</sub>
+            <sub>it</sub>
+            <sub>ja</sub>
+            <sub>km</sub>
+            <sub>ko</sub>
+            <sub>ms</sub>
+            <sub>no</sub>
+            <sub>pl</sub>
+            <sub>pt</sub>
+            <sub>ro</sub>
+            <sub>ru</sub>
+            <sub>es</sub>
+            <sub>sv</sub>
+            <sub>th</sub>
+            <sub>tr</sub>
+            <sub>vi</sub>
+        </available_subtitles>
+        <available_audio>
+            <audio>default</audio>
+        </available_audio>
+    </movie>
+    <movie>
+        <title>The Runaway Child</title>
+        <year>2018</year>
+        <genre>Horror</genre>
+        <type>film</type>
+        <description>The plot of Children of the Corn: Runaway follows a young pregnant Ruth who escapes a murderous child cult in a small Midwestern town. She spends the next decade living anonymously in an attempt to spare her son the horrors that she experienced as a child. She lands in the small Oklahoma town, but something is following her. Now, she must confront this evil or lose her child.</description>
+        <imageUrl>https://img.youtube.com/vi/ockJav0foE8/0.jpg</imageUrl>
+        <videoId>ockJav0foE8</videoId>
+        <available_subtitles>
+            <sub>ar-holatrtIUCQ</sub>
+            <sub>bn-holatrtIUCQ</sub>
+            <sub>bg-holatrtIUCQ</sub>
+            <sub>zh-holatrtIUCQ</sub>
+            <sub>hr-holatrtIUCQ</sub>
+            <sub>da-holatrtIUCQ</sub>
+            <sub>nl-holatrtIUCQ</sub>
+            <sub>en-holatrtIUCQ</sub>
+            <sub>fil-holatrtIUCQ</sub>
+            <sub>fr-holatrtIUCQ</sub>
+            <sub>de-holatrtIUCQ</sub>
+            <sub>el-holatrtIUCQ</sub>
+            <sub>iw-holatrtIUCQ</sub>
+            <sub>hi-holatrtIUCQ</sub>
+            <sub>hu-holatrtIUCQ</sub>
+            <sub>id-holatrtIUCQ</sub>
+            <sub>it-holatrtIUCQ</sub>
+            <sub>ja-holatrtIUCQ</sub>
+            <sub>jv-holatrtIUCQ</sub>
+            <sub>ko-holatrtIUCQ</sub>
+            <sub>ms-holatrtIUCQ</sub>
+            <sub>ml-holatrtIUCQ</sub>
+            <sub>no-holatrtIUCQ</sub>
+            <sub>fa-holatrtIUCQ</sub>
+            <sub>pl-holatrtIUCQ</sub>
+            <sub>pt-holatrtIUCQ</sub>
+            <sub>ro-holatrtIUCQ</sub>
+            <sub>ru-holatrtIUCQ</sub>
+            <sub>si-holatrtIUCQ</sub>
+            <sub>es-holatrtIUCQ</sub>
+            <sub>su-holatrtIUCQ</sub>
+            <sub>sv-holatrtIUCQ</sub>
+            <sub>th-holatrtIUCQ</sub>
+            <sub>tr-holatrtIUCQ</sub>
+            <sub>vi-holatrtIUCQ</sub>
         </available_subtitles>
         <available_audio>
             <audio>default</audio>
