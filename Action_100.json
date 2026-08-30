@@ -1,0 +1,906 @@
+{
+  "name": "Action",
+  "description": "Action filmovi",
+  "items": [
+    {
+      "id": "1",
+      "title": "One Tough Cop",
+      "year": 1998,
+      "genre": "Action",
+      "description": "A detective tries to remain loyal to his partner, and his best friend - a mobster.",
+      "imageUrl": "https://img.youtube.com/vi/n0cNrOuGJ1Q/0.jpg",
+      "videoId": "n0cNrOuGJ1Q"
+    },
+    {
+      "id": "2",
+      "title": "Meteor: First Impact",
+      "year": 2022,
+      "genre": "Action",
+      "description": "A scientist races the clock in an attempt to save Earth from a series of deadly meteor attacks.",
+      "imageUrl": "https://img.youtube.com/vi/mnEqx850ngM/0.jpg",
+      "videoId": "mnEqx850ngM"
+    },
+    {
+      "id": "3",
+      "title": "The Mystery Of The Indian Temple",
+      "year": 1963,
+      "genre": "Action",
+      "description": "Doctor Palmer, wrongly accused of the murder of a British officer, is a prisoner of the Maharajah of Hasnabad. Doctor Palmer and Gopal, his devoted assistant, escape with the complicity of Amrita",
+      "imageUrl": "https://img.youtube.com/vi/B18m9yBlVoA/0.jpg",
+      "videoId": "B18m9yBlVoA"
+    },
+    {
+      "id": "4",
+      "title": "Shout At The Devil",
+      "year": 1976,
+      "genre": "Action",
+      "description": "During World War One an English adventurer, an American elephant poacher and the latter's attractive young daughter, set out to destroy a German battle-cruiser which is awaiting repairs in an inlet just off Zanzibar.  The story is based on a novel by Wilbur Smith, which in turn is very loosely based on events involving the light cruiser SMS Königsberg, which was sunk after taking refuge in Rufigi delta in 1915.",
+      "imageUrl": "https://img.youtube.com/vi/fvm7fpQ07UU/0.jpg",
+      "videoId": "fvm7fpQ07UU"
+    },
+    {
+      "id": "5",
+      "title": "True Justice : Brotherhood",
+      "year": 2011,
+      "genre": "Action",
+      "description": "Elijah Kane and his team try to break up an organized crime syndicate known as the Yakuza and diffuse a hostage situation. Kane and his team set out to take down the Yakuza once & for all.",
+      "imageUrl": "https://img.youtube.com/vi/fGxuoVqafUg/0.jpg",
+      "videoId": "fGxuoVqafUg"
+    },
+    {
+      "id": "6",
+      "title": "True Justice : Lethal Justice",
+      "year": 2011,
+      "genre": "Action",
+      "description": "Kane's (Steven Seagal's) team is up against the \"New Hope\" Arian Nation as they work to sway the public's vote in the city elections. Kane, having dealt with his own post war stress, is called to help his war comrade (Ryan Robbins) as he suffers from P.T.S.",
+      "imageUrl": "https://img.youtube.com/vi/LFBgNiaji7I/0.jpg",
+      "videoId": "LFBgNiaji7I"
+    },
+    {
+      "id": "7",
+      "title": "Spitfire",
+      "year": 1995,
+      "genre": "Action",
+      "description": "A sultry assassin is the target of two separate operatives in this globe-trotting action flick shot on location in the Bahamas, Athens, Rome and Hong Kong.",
+      "imageUrl": "https://img.youtube.com/vi/dBL71iUBxrM/0.jpg",
+      "videoId": "dBL71iUBxrM"
+    },
+    {
+      "id": "8",
+      "title": "The Fallen Ones",
+      "year": 2005,
+      "genre": "Action",
+      "description": "An archaeologist finds the mummified remains of a giant--the offspring of a Fallen Angel and a human woman. Now he has to stop the terror he has unleashed.",
+      "imageUrl": "https://img.youtube.com/vi/_nWhfsLIMJg/0.jpg",
+      "videoId": "_nWhfsLIMJg"
+    },
+    {
+      "id": "9",
+      "title": "Enter The Game Of Death",
+      "year": 1978,
+      "genre": "Action",
+      "description": "It's approaching World War 2 and China is expecting to be invaded by Germany and Japan. Mr Ang is hired by a Chinese group who are after a \"secret document.\" Many other groups want to get their hands on it as well. It's on the top floor of a tower and Ang must fight his way to the top.",
+      "imageUrl": "https://img.youtube.com/vi/JudkE8wolBA/0.jpg",
+      "videoId": "JudkE8wolBA"
+    },
+    {
+      "id": "10",
+      "title": "Mega Twister",
+      "year": 2024,
+      "genre": "Action",
+      "description": "Marcus Boyd's A.I. tornados are released into the UK, causing chaos and death at every turn. Tornado chasers Brendan and his wife Maria are desperate to stop them, dragging along his younger brother Cody, who very much disagrees with the attempt to stop them. Meanwhile, a group of mercenaries paid to steal this AI technology gets more than they bargained for!",
+      "imageUrl": "https://img.youtube.com/vi/om7rnBAh3lA/0.jpg",
+      "videoId": "om7rnBAh3lA"
+    },
+    {
+      "id": "11",
+      "title": "One Last Heist",
+      "year": 2019,
+      "genre": "Action",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/CKwxbnV47S4/0.jpg",
+      "videoId": "CKwxbnV47S4"
+    },
+    {
+      "id": "12",
+      "title": "Street Soldiers",
+      "year": 1991,
+      "genre": "Action",
+      "description": "Warring teenage street gangs provide the fodder for this martial arts actioner. Things really heat up when each gang finds a martial arts experts to train them out to fight.",
+      "imageUrl": "https://img.youtube.com/vi/oNPgevLkK_M/0.jpg",
+      "videoId": "oNPgevLkK_M"
+    },
+    {
+      "id": "13",
+      "title": "A Designer'S Ambition",
+      "year": 2019,
+      "genre": "Action",
+      "description": "The film centers around a juror on a high-profile case who is blackmailed into fixing the verdict after his daughter is kidnapped.",
+      "imageUrl": "https://img.youtube.com/vi/R1usWQkko3o/0.jpg",
+      "videoId": "R1usWQkko3o"
+    },
+    {
+      "id": "14",
+      "title": "Man Of Violence",
+      "year": 1970,
+      "genre": "Action",
+      "description": "Moon (Michael Latimer) is a mercenary who joins forces with two crooked cops in an attempt to steal 90 million dollars in gold from an Arab country decimated by political chaos. Sex, violence and mayhem accompany the group of double-crossing heavies who covet the purloined loot. A bevy of females willingly submit to seduction, and a sadistic homosexual murderer trails Moon and his malevolent gang for the gold in this compelling crime drama.",
+      "imageUrl": "https://img.youtube.com/vi/EzP-F1Hc8Bs/0.jpg",
+      "videoId": "EzP-F1Hc8Bs"
+    },
+    {
+      "id": "15",
+      "title": "True Justice : Dark Vengeance",
+      "year": 2011,
+      "genre": "Action",
+      "description": "A serial killer sows panic in the city of Seattle leaving several victims behind, all chosen under the same pattern: young women related to the world of nightclubs and a mysterious ritual of black magic.",
+      "imageUrl": "https://img.youtube.com/vi/TFEBxUcquF0/0.jpg",
+      "videoId": "TFEBxUcquF0"
+    },
+    {
+      "id": "16",
+      "title": "China Salesman",
+      "year": 2017,
+      "genre": "Action",
+      "description": "Yan Jian, a young Chinese IT engineer who volunteers to go to North Africa and help the company he works for to win a competition. The winner can own the right to control the communication between south and north. French spy Michael works for the West. His boss ordered him to go to the North Africa and win the competition, and they can control the great mineral resources of Africa. He hired the best mercenary in Africa whose name is Lauder and a former general Kabbah to help him. Yan has discovered their conspiracy, he is the only one who can stop them.",
+      "imageUrl": "https://img.youtube.com/vi/xdZpWFXkGHA/0.jpg",
+      "videoId": "xdZpWFXkGHA"
+    },
+    {
+      "id": "17",
+      "title": "Gunner",
+      "year": 2024,
+      "genre": "Action",
+      "description": "While on a camping trip in order to reconnect, war veteran Colonel Lee Gunner must save his two sons from a gang of violent bikers when they're kidnapped after accidentally stumbling upon to a massive drug operation.",
+      "imageUrl": "https://img.youtube.com/vi/DnPjhjHgvlI/0.jpg",
+      "videoId": "DnPjhjHgvlI"
+    },
+    {
+      "id": "18",
+      "title": "Area Of Conflict",
+      "year": 2017,
+      "genre": "Action",
+      "description": "Human traffickers wipe out a young girl's family and village. She then seeks revenge on those responsible, eventually becoming first the hunted then turning into the hunters with the mercenary hired to eliminate her.",
+      "imageUrl": "https://img.youtube.com/vi/9LewctZVNRk/0.jpg",
+      "videoId": "9LewctZVNRk"
+    },
+    {
+      "id": "19",
+      "title": "Texas Twister",
+      "year": 2024,
+      "genre": "Action",
+      "description": "A small town worker believes he's seeing visions from God in the form of a violent tornado.",
+      "imageUrl": "https://img.youtube.com/vi/iD_pC0W8Y64/0.jpg",
+      "videoId": "iD_pC0W8Y64"
+    },
+    {
+      "id": "20",
+      "title": "The Wolf",
+      "year": 2024,
+      "genre": "Action",
+      "description": "A hunter becomes the prey when asked to track a vicious wolf on an Indian Reservation.",
+      "imageUrl": "https://img.youtube.com/vi/dDUS9A6I3ns/0.jpg",
+      "videoId": "dDUS9A6I3ns"
+    },
+    {
+      "id": "21",
+      "title": "Vengeance Road",
+      "year": 2025,
+      "genre": "Action",
+      "description": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
+      "imageUrl": "https://img.youtube.com/vi/SJ1zpm3jByA/0.jpg",
+      "videoId": "SJ1zpm3jByA"
+    },
+    {
+      "id": "22",
+      "title": "Redneck Miller",
+      "year": 1977,
+      "genre": "Action",
+      "description": "Miller is an early morning disc jockey in the Southern United States. After his motorcycle is stolen and used in a drug deal, Miller finds himself mixed up with a variety of thugs and criminals.",
+      "imageUrl": "https://img.youtube.com/vi/MWg6ApkUD3c/0.jpg",
+      "videoId": "MWg6ApkUD3c"
+    },
+    {
+      "id": "23",
+      "title": "The Ravaged One",
+      "year": 2018,
+      "genre": "Action",
+      "description": "The residents of the last survivor camp face severe attacks from the undead and groups of ex-military soldiers.",
+      "imageUrl": "https://img.youtube.com/vi/y-NDJuUpnOQ/0.jpg",
+      "videoId": "y-NDJuUpnOQ"
+    },
+    {
+      "id": "24",
+      "title": "Treasure Island",
+      "year": 1972,
+      "genre": "Action",
+      "description": "Young Jim Hawkins finds himself serving with pirate captain Long John Silver in search of a buccaneer's treasure, in this short adaptation of Robert Louis Stevenson's classic tale.",
+      "imageUrl": "https://img.youtube.com/vi/qicDq07fg3o/0.jpg",
+      "videoId": "qicDq07fg3o"
+    },
+    {
+      "id": "25",
+      "title": "The Substitute 3",
+      "year": 1999,
+      "genre": "Action",
+      "description": "At a college visit to a war buddy's professor daughter, mercenary Treat Williams finds her brutally beaten. He then poses as a teacher to teach a lesson to the football jocks responsible.",
+      "imageUrl": "https://img.youtube.com/vi/jfJ11Hduweo/0.jpg",
+      "videoId": "jfJ11Hduweo"
+    },
+    {
+      "id": "26",
+      "title": "Deadly Bullet",
+      "year": 2022,
+      "genre": "Action",
+      "description": "The Thief  pulls off the robbery of a lifetime when he robs the psychotic drug lord, Temple. The plan goes off without a hitch until the Thief discovers a stowaway in his getaway car - Temple's pregnant wife, Mia.",
+      "imageUrl": "https://img.youtube.com/vi/ct98pnwSisw/0.jpg",
+      "videoId": "ct98pnwSisw"
+    },
+    {
+      "id": "27",
+      "title": "Pterodactyl : The Return",
+      "year": 2022,
+      "genre": "Action",
+      "description": "After Lynn goes missing, her younger sister travels to the mountains with her friends to find answers, only to confront the horrors awaiting.",
+      "imageUrl": "https://img.youtube.com/vi/iG7Zx_e3Sio/0.jpg",
+      "videoId": "iG7Zx_e3Sio"
+    },
+    {
+      "id": "28",
+      "title": "The Base 2: Guilty As Charged",
+      "year": 2000,
+      "genre": "Action",
+      "description": "US Army Investigator John Murphy (now a Lieutenant, although he was a Major in the previous Base movie) has been sent to look into a series of suspicious deaths that have been going on under the watch of Colonel Strauss. After going undercover and infiltrating Strauss's unit, Murphy discovers that Strauss and his men are leading a vigilante gang to dispense 'justice' to those they feel have been wrongly acquitted of various crimes.",
+      "imageUrl": "https://img.youtube.com/vi/BDeuiYxv7mY/0.jpg",
+      "videoId": "BDeuiYxv7mY"
+    },
+    {
+      "id": "29",
+      "title": "Operation : Retribution",
+      "year": 2011,
+      "genre": "Action",
+      "description": "Mistaken for a dangerous Islamist, Saadi - a regular guy who happens to be an illegal Arab immigrant - sets out on the most dangerous day of his life. A satirical and thrilling comedy where a wrongly accused suspect gets mixed up in a worldwide terrorist plot.",
+      "imageUrl": "https://img.youtube.com/vi/2V4aIrFmYb0/0.jpg",
+      "videoId": "2V4aIrFmYb0"
+    },
+    {
+      "id": "30",
+      "title": "Queen Of The Jungle",
+      "year": 1968,
+      "genre": "Action",
+      "description": "Adventurer Clint travels across Borneo with a bunch of rogues and geologists on the search for a diamond mine. In the middle of the jungle, they meet a beautiful woman called Samoa. Hardly a surprise that Clint falls in love with Samoa, but trouble with the natives begins when the diamonds are found because diamonds are holy stones to them.",
+      "imageUrl": "https://img.youtube.com/vi/AlFpfxN7EC8/0.jpg",
+      "videoId": "AlFpfxN7EC8"
+    },
+    {
+      "id": "31",
+      "title": "Assault Island",
+      "year": 1997,
+      "genre": "Action",
+      "description": "When one of Mike McBride's men goes rogue and takes a group of gymnasts hostage to Devil's Island in exchange for the return of drug lord Carlos Gallindo, the SEALS face their most perilous assignment yet.",
+      "imageUrl": "https://img.youtube.com/vi/u3nhRbVuJOU/0.jpg",
+      "videoId": "u3nhRbVuJOU"
+    },
+    {
+      "id": "32",
+      "title": "The Ghost Of A Marriage",
+      "year": 2022,
+      "genre": "Action",
+      "description": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "imageUrl": "https://img.youtube.com/vi/b59shi6NZ4Y/0.jpg",
+      "videoId": "b59shi6NZ4Y"
+    },
+    {
+      "id": "33",
+      "title": "Journey To The Forbidden Valley",
+      "year": 2017,
+      "genre": "Action",
+      "description": "After a small airplane crash lands in a remote area of Central China, several passengers survive, including a Chinese boy and his American guardian. As they wait to be rescued, they soon encounter the mysterious Yeren-- an elusive ape-man creature rumored to have inhabited the Shennongjia mountains for many centuries. When ruthless poachers arrive to capture the Yeren, our heroes must decide if the unique creature is their friend or foe.",
+      "imageUrl": "https://img.youtube.com/vi/31F1CKB6AcM/0.jpg",
+      "videoId": "31F1CKB6AcM"
+    },
+    {
+      "id": "34",
+      "title": "Kali Yug: Goddess Of Vengeance",
+      "year": 1963,
+      "genre": "Action",
+      "description": "At the end of the 19th century, during the British rule of India, the goddess Kali commits a number of murders, among which the man who was conducting a cargo of serum to a village infected with disease. Worried with the vast number of fatalities that will result from stopping this shipment, Dr. Palmer asks for help from Major Talbot. The Major suspects about the murderer turn onto the doctor, and he must take refuge in the jungle, after faking his own death by a tiger. Help does come in the shapely form of Amrita, a native dancer, who will give him shelter, and will even free him from a gang of robbers. Dr. Palmer still has a number of real and fantastic adventures until he sees an end to his tribulations...",
+      "imageUrl": "https://img.youtube.com/vi/thWbv8iAY60/0.jpg",
+      "videoId": "thWbv8iAY60"
+    },
+    {
+      "id": "35",
+      "title": "Pterodactyl",
+      "year": 2022,
+      "genre": "Action",
+      "description": "After Lynn goes missing, her younger sister travels to the mountains with her friends to find answers, only to confront the horrors awaiting.",
+      "imageUrl": "https://img.youtube.com/vi/GFOdOK77WJo/0.jpg",
+      "videoId": "GFOdOK77WJo"
+    },
+    {
+      "id": "36",
+      "title": "Texas Twister",
+      "year": 2024,
+      "genre": "Action",
+      "description": "A small town worker believes he's seeing visions from God in the form of a violent tornado.",
+      "imageUrl": "https://img.youtube.com/vi/1qmHZ6mgy_U/0.jpg",
+      "videoId": "1qmHZ6mgy_U"
+    },
+    {
+      "id": "37",
+      "title": "Lost At Sea",
+      "year": 1995,
+      "genre": "Action",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/Z6OfC4dXkvI/0.jpg",
+      "videoId": "Z6OfC4dXkvI"
+    },
+    {
+      "id": "38",
+      "title": "The Wolf",
+      "year": 2024,
+      "genre": "Action",
+      "description": "A hunter becomes the prey when asked to track a vicious wolf on an Indian Reservation.",
+      "imageUrl": "https://img.youtube.com/vi/licG0BCMoAE/0.jpg",
+      "videoId": "licG0BCMoAE"
+    },
+    {
+      "id": "39",
+      "title": "Virtual Killer",
+      "year": 1995,
+      "genre": "Action",
+      "description": "Federal Service Agent Justin Vanier has been assigned to infiltrate the mysterious Virtual Arts Academy in search of Eric, a fellow agent. In this high-tech facility, the maniacal leader Warbeck is training assassins to become even more efficient killing machines using virtual reality. Penetrating the organization as a new recruit, Justin finds Eric, and together with the idealistic Vicki must bring down Warbeck before he succeeds with his deadly plans",
+      "imageUrl": "https://img.youtube.com/vi/v8orKA7Xgms/0.jpg",
+      "videoId": "v8orKA7Xgms"
+    },
+    {
+      "id": "40",
+      "title": "Mafia Boxer",
+      "year": null,
+      "genre": "Action",
+      "description": "Movie not found on TMDB.",
+      "imageUrl": "https://img.youtube.com/vi/Tnp773GnH20/0.jpg",
+      "videoId": "Tnp773GnH20"
+    },
+    {
+      "id": "41",
+      "title": "The Vault",
+      "year": 2001,
+      "genre": "Action",
+      "description": "Housed inside a vault in the basement of an abandoned school lurks an evil that has been locked away for over a hundred years. When a teacher and 5 students visit the school to archive any memorabilia before it's torn down, they mistakenly free the horrific spirit, turning the school into a deadly prison. Now they must face the evil and banish it to the vault once again before it kills them and escapes to destroy the world...",
+      "imageUrl": "https://img.youtube.com/vi/edizWJF8U9I/0.jpg",
+      "videoId": "edizWJF8U9I"
+    },
+    {
+      "id": "42",
+      "title": "Instinct Fatal",
+      "year": 2014,
+      "genre": "Action",
+      "description": "A police detective follows a trail of evidence that eventually seems to lead to his trusted partner's ex-con brother who he helped put in prison years ago.",
+      "imageUrl": "https://img.youtube.com/vi/WRDdLbPsg-0/0.jpg",
+      "videoId": "WRDdLbPsg-0"
+    },
+    {
+      "id": "43",
+      "title": "The Wounds Of Afghanistan",
+      "year": 1998,
+      "genre": "Action",
+      "description": "This film follows two Belgrade youths on their rise to gangster legends in a decaying society.",
+      "imageUrl": "https://img.youtube.com/vi/k9pamjcqSBw/0.jpg",
+      "videoId": "k9pamjcqSBw"
+    },
+    {
+      "id": "44",
+      "title": "War Raiders",
+      "year": 2018,
+      "genre": "Action",
+      "description": "Eastern Europe, 1944. The Allies successfully bomb a dam in France, wiping out a German installation, concealing secret codes valuable for Allied decoding. A rogue band of soldiers is sent to retrieve the codes from a hidden vault in the flooded towns ruins and bring them back to the Allied headquarters. Along the way they must fight off pockets of Nazi resistance and stay alive.",
+      "imageUrl": "https://img.youtube.com/vi/mEKEBkouXXs/0.jpg",
+      "videoId": "mEKEBkouXXs"
+    },
+    {
+      "id": "45",
+      "title": "Hidden Treasure Of The Mississippi",
+      "year": 2008,
+      "genre": "Action",
+      "description": "Will and Clayton witness a murder, but out of fear decide not to tell anyone. They and their friend Betsy, whose father has been wrongfully accused of the crime, go on a journey to find the real killer, and at the same time redeem themselves.",
+      "imageUrl": "https://img.youtube.com/vi/yTmB01_4nQk/0.jpg",
+      "videoId": "yTmB01_4nQk"
+    },
+    {
+      "id": "46",
+      "title": "The Edge Of Loss",
+      "year": 2025,
+      "genre": "Action",
+      "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+      "imageUrl": "https://img.youtube.com/vi/K_qLxCQUeag/0.jpg",
+      "videoId": "K_qLxCQUeag"
+    },
+    {
+      "id": "47",
+      "title": "The Wild Women Of Wongo",
+      "year": 1959,
+      "genre": "Action",
+      "description": "On the tropical island of Wongo, a tribe of beautiful women discover that the other side of the island is inhabited by a tribe of handsome men. They also discover that a tribe of evil ape men live on the island, too, and the ape men are planning a raid on the tribe in order to capture mates.",
+      "imageUrl": "https://img.youtube.com/vi/Jl1MNCafJeM/0.jpg",
+      "videoId": "Jl1MNCafJeM"
+    },
+    {
+      "id": "48",
+      "title": "Fall: The Price Of Silence",
+      "year": 2001,
+      "genre": "Action",
+      "description": "A professional thief turns state's evidence on his Mafia boss and enters into the witness protection program.",
+      "imageUrl": "https://img.youtube.com/vi/_wazxfQXhck/0.jpg",
+      "videoId": "_wazxfQXhck"
+    },
+    {
+      "id": "49",
+      "title": "Fierce Cop",
+      "year": 2022,
+      "genre": "Action",
+      "description": "Zhang Da, a Chinese police detective in a Southeast Asian country is looking for his trafficked son. He meets a Chinese woman, who was trafficked as a child.",
+      "imageUrl": "https://img.youtube.com/vi/4CyAuhPAoX4/0.jpg",
+      "videoId": "4CyAuhPAoX4"
+    },
+    {
+      "id": "50",
+      "title": "Sniper. Weapon Of Vengeance",
+      "year": 2009,
+      "genre": "Action",
+      "description": "This world war two story depicts the personal war between a Soviet sniper and a German sniper. Their feud continues after the war in Soviet occupied Germany. At the same time a Nazi rocket scientist continues his research while a Soviet secret police team arrives from Moscow to find hidden Nazi rocket research documents and rocket propulsion systems.",
+      "imageUrl": "https://img.youtube.com/vi/OINDgtZrdpg/0.jpg",
+      "videoId": "OINDgtZrdpg"
+    },
+    {
+      "id": "51",
+      "title": "The Death Avenger",
+      "year": 1976,
+      "genre": "Action",
+      "description": "A young man joins a kung-fu academy but fails to fit in. He soon runs off with the master's daughter and becomes a salt smuggler. He ends up joining with the school's top fighter - his former rival - against a local mob leader.",
+      "imageUrl": "https://img.youtube.com/vi/40cF93dOxgs/0.jpg",
+      "videoId": "40cF93dOxgs"
+    },
+    {
+      "id": "52",
+      "title": "Dinosaur War",
+      "year": 2014,
+      "genre": "Action",
+      "description": "Both TyrannoRanger and AbaRed are attacking the Kyoryugers because of mind control by Space War God Boldos.  Boldos uses the feelings of revenge from enemies defeated by heroes who uses the power of dinosaurs, creating Neo-Grifforzer and Neo-Geildon, clones of past enemies as well as Enter and Escape,enemies of the Go-Busters. Villains spanning generations are united into a single evil force.  The Kyoryugers, who are fighting an unseen evil, meet with the Go-Busters, and the \"Greatest Trap ever seen on Earth\" is sprung. What rises up against the true dinosaurs, and the death of your best friends? Now, the Kyoryugers must try and use the \"True Brave\".",
+      "imageUrl": "https://img.youtube.com/vi/WwIN-xaz4Yc/0.jpg",
+      "videoId": "WwIN-xaz4Yc"
+    },
+    {
+      "id": "53",
+      "title": "Someone To Save",
+      "year": 2022,
+      "genre": "Action",
+      "description": "While his girlfriend is away on a trip, retired assassin Bang Ui-kang is tasked with looking after her friend's 17-year-old daughter. After a street attack, Bang Ui-kang becomes embroiled in a murder investigation and dangerous trafficking gang.",
+      "imageUrl": "https://img.youtube.com/vi/ko2uqB-U_-8/0.jpg",
+      "videoId": "ko2uqB-U_-8"
+    },
+    {
+      "id": "54",
+      "title": "The Base",
+      "year": 1999,
+      "genre": "Action",
+      "description": "Major Murphy, a US Army Investigator, has received a new assignment. Sgt. Gammon is suspected of dealing cocaine from his base, and Murphy must gather enough evidence to shut down Gammon and his entire operation. Along with his partner, Lt. Andrews, the Major goes undercover to infiltrate the gang and find out just how far up the chain of command these activities are going.",
+      "imageUrl": "https://img.youtube.com/vi/kGRCD8Fo69Y/0.jpg",
+      "videoId": "kGRCD8Fo69Y"
+    },
+    {
+      "id": "55",
+      "title": "The Eliminator",
+      "year": 2004,
+      "genre": "Action",
+      "description": "Former LAPD cop, Dakota Varley, enters a power boat race seeking the prize of $250,000, but immediately discovers, first hand, that this race's risk matches the prize: one racer is killed, 3 others seriously injured in multiple action-packed crashes and explosions. Varley tries to leave the lake and collect his prize money but is drugged and kidnapped by Dawson and thrown into a different world: a world where survival means everything and no-one follows the rules. Surrounded by heavily-armed men, he soon learns that he and six other victims have been assembled to be contestants in the ultimate survival game: they will be hunted nightly by hunters with rifles until there is one remaining survivor, who will win a $10,000,000 cash prize!",
+      "imageUrl": "https://img.youtube.com/vi/pwyYFpB8_Dc/0.jpg",
+      "videoId": "pwyYFpB8_Dc"
+    },
+    {
+      "id": "56",
+      "title": "Who Is Cletis Tout",
+      "year": 2001,
+      "genre": "Action",
+      "description": "A comedy about a hitman who sees everything in terms of the movies and how mistaken identity is getting in the way of recovering a stash of diamonds that was stolen and subsequently hidden more than 20 years earlier.",
+      "imageUrl": "https://img.youtube.com/vi/gfqzARPHCNM/0.jpg",
+      "videoId": "gfqzARPHCNM"
+    },
+    {
+      "id": "57",
+      "title": "Fatal Secret",
+      "year": 1988,
+      "genre": "Action",
+      "description": "Everybody is after a floppy disc.  CIA.  KGB.  And even David Carradine (as Michael LeWinter).  Non-stop action, or so the soundtrack would have one believe.",
+      "imageUrl": "https://img.youtube.com/vi/qj0tq17oKi4/0.jpg",
+      "videoId": "qj0tq17oKi4"
+    },
+    {
+      "id": "58",
+      "title": "The Mercenary'S Redemption",
+      "year": 1982,
+      "genre": "Action",
+      "description": "Ti Lung plays a Vietnam vet who's now an 'honourable' mercenary-for-hire taking on an assignment tracking down an assassin who's fled to Cambodia after murdering an industrialist from Hong Kong. He recruits a team for the task which consists of who's who of the Shaw Brother's action stars (Lo Lieh, Johnny Wang Lung Wei, Wong Yue, Chan Wei Man and comedy relief Nat Chan). However once they arrived for the mission nothing is what it seems with the standard plot-twists and turns as we find out who's the traitor among the group.",
+      "imageUrl": "https://img.youtube.com/vi/YR2mRiF9is0/0.jpg",
+      "videoId": "YR2mRiF9is0"
+    },
+    {
+      "id": "59",
+      "title": "Turbulence 3 : Heavy Metal",
+      "year": 2001,
+      "genre": "Action",
+      "description": "Rock superstar Slade Craven has decided to hang up his rock & roll shoes and has planned something very special for his final show -- instead of a typical concert in some sports arena, he'll play a set aboard a 747 jumbo jet, flying from Los Angeles to Toronto, with the gig broadcast live to millions of fans over the Internet. But what Craven didn't count on is the presence of a deranged fan with a gun who attempts to hijack the plane, throwing the show into chaos and putting the lives of everyone aboard the jet at risk.",
+      "imageUrl": "https://img.youtube.com/vi/170ppHK4uhw/0.jpg",
+      "videoId": "170ppHK4uhw"
+    },
+    {
+      "id": "60",
+      "title": "Revenge Gone Wrong",
+      "year": 1983,
+      "genre": "Action",
+      "description": "After his parents are brutally killed by robbers, a martial artist sets out to avenge them and becomes blinded in the process. Can he still get his revenge?",
+      "imageUrl": "https://img.youtube.com/vi/PHoyWpm9t1I/0.jpg",
+      "videoId": "PHoyWpm9t1I"
+    },
+    {
+      "id": "61",
+      "title": "Kickboxer 4: The Aggressor",
+      "year": 1994,
+      "genre": "Action",
+      "description": "David Sloan must travel to Mexico to save his wife from a savage international terrorist.",
+      "imageUrl": "https://img.youtube.com/vi/4aWej9h3tS8/0.jpg",
+      "videoId": "4aWej9h3tS8"
+    },
+    {
+      "id": "62",
+      "title": "Martial Arts",
+      "year": 1974,
+      "genre": "Action",
+      "description": "Chen is forced by his father to leave their home as evil plotters plan his death. On his journey he kills a man in hand-to-hand combat and then decides to find and help the man's family.  When Chen arrives, he meets the dead man's two pretty daughters, now under the control of an evil war lord and his cruel gang. One by one, Chen takes them down until the big tournament, when he is forced to fight several skilled killers in a variety of martial arts styles. After winning the tournament, Chen takes on the big war lord himself in a fight to the death!",
+      "imageUrl": "https://img.youtube.com/vi/gdrpSg7eSJw/0.jpg",
+      "videoId": "gdrpSg7eSJw"
+    },
+    {
+      "id": "63",
+      "title": "The Amazing Adventure",
+      "year": 1995,
+      "genre": "Action",
+      "description": "Far from home in the lush bamboo forests of China, ten-year-old Ryan Tyler, with the help of a young girl, goes on a wonderful journey to rescue a baby panda taken by poachers.",
+      "imageUrl": "https://img.youtube.com/vi/Yi0dZQXP7dM/0.jpg",
+      "videoId": "Yi0dZQXP7dM"
+    },
+    {
+      "id": "64",
+      "title": "Saints & Sinners",
+      "year": 2010,
+      "genre": "Action",
+      "description": "In lawless storm ravaged New Orleans, eleaguered Detective Sean Riley is trying to cope with the death of his young son and the abandonment of his wife. Facing a probable suspension from the department, Riley is teamed with a young homicide Detective, Will Ganz, to help solve a series of brutal murders that have plunged the city into a major gang war. The two quickly realize there is something far more sinister going on than either could have ever imagined.",
+      "imageUrl": "https://img.youtube.com/vi/bZOt_al2cO8/0.jpg",
+      "videoId": "bZOt_al2cO8"
+    },
+    {
+      "id": "65",
+      "title": "The Contractor",
+      "year": 2022,
+      "genre": "Action",
+      "description": "After being involuntarily discharged from the U.S. Special Forces, James Harper decides to support his family by joining a private contracting organization alongside his best friend and under the command of a fellow veteran. Overseas on a covert mission, Harper must evade those trying to kill him while making his way back home.",
+      "imageUrl": "https://img.youtube.com/vi/0QrDFgIiWzA/0.jpg",
+      "videoId": "0QrDFgIiWzA"
+    },
+    {
+      "id": "66",
+      "title": "War Requiem",
+      "year": 1989,
+      "genre": "Action",
+      "description": "During World War I, British soldier Owen is mortified by the examples of cruelty that surround him in the trenches. He combats these terrifying images by maintaining hope in his love for an army nurse. But he also begins to accept his fate as another battlefield sacrifice.",
+      "imageUrl": "https://img.youtube.com/vi/pHTC9hQMTxI/0.jpg",
+      "videoId": "pHTC9hQMTxI"
+    },
+    {
+      "id": "67",
+      "title": "Bloodfight",
+      "year": 1989,
+      "genre": "Action",
+      "description": "Master martial artist Masahiro Kai is a shadow of the champion fighter and trainer he once was. After his protégé was slain in a no-holds-barred, underground fight by the incomparable Chang Lee, Kai slips into a numbing alcohol-induced stupor to try to forget the past.",
+      "imageUrl": "https://img.youtube.com/vi/E147YcYhI7s/0.jpg",
+      "videoId": "E147YcYhI7s"
+    },
+    {
+      "id": "68",
+      "title": "The Last Deal",
+      "year": 2023,
+      "genre": "Action",
+      "description": "A blackmarket cannabis dealer gets squeezed out of the business when marijuana becomes legal, and is forced to make one last deal with the people he should trust the least.",
+      "imageUrl": "https://img.youtube.com/vi/OISh8jZ06Xg/0.jpg",
+      "videoId": "OISh8jZ06Xg"
+    },
+    {
+      "id": "69",
+      "title": "Darkweb",
+      "year": 2016,
+      "genre": "Action",
+      "description": "A mysterious group has created a sadistic venture. Kidnapping young women, they auction the rights to hunt them to millionaires with a thirst for blood - and broadcast the hunt on the dark web for the world to see.",
+      "imageUrl": "https://img.youtube.com/vi/8MM5PJUbd0I/0.jpg",
+      "videoId": "8MM5PJUbd0I"
+    },
+    {
+      "id": "70",
+      "title": "The Ghost Story Is Just The Beginning Of Their Nightmare",
+      "year": 2022,
+      "genre": "Action",
+      "description": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "imageUrl": "https://img.youtube.com/vi/6OKFP4NLLOc/0.jpg",
+      "videoId": "6OKFP4NLLOc"
+    },
+    {
+      "id": "71",
+      "title": "Black Angels",
+      "year": 2009,
+      "genre": "Action",
+      "description": "Four women run a private child support clinic by day but are collectors at night seeking out deadbeat parents and using seduction and force to make them pay up.",
+      "imageUrl": "https://img.youtube.com/vi/57uSnAVOQZk/0.jpg",
+      "videoId": "57uSnAVOQZk"
+    },
+    {
+      "id": "72",
+      "title": "Radar Men From The Moon",
+      "year": 1952,
+      "genre": "Action",
+      "description": "Commando Cody, 'Sky Marshal of the Universe', works with American scientists Joan Gilbert and Ted Richards in the development of a flying suit and a rocket to the Moon. When the nation's defences are being sabotaged and destroyed, Cody learns that an atomic-gun is being used and that the men on the moon are the culprits.",
+      "imageUrl": "https://img.youtube.com/vi/FAqaDc31OTI/0.jpg",
+      "videoId": "FAqaDc31OTI"
+    },
+    {
+      "id": "73",
+      "title": "Super Capers",
+      "year": 2009,
+      "genre": "Action",
+      "description": "Would-be superhero, Ed Gruberman, who possesses no super powers must join a team of misfit heroes-in-training known as The Super Capers. Having only faith, Gruberman must travel through time to uncover an evil plot involving some gold bullion, a fiery femme fatale, and a criminal mastermind with a dark secret about Ed's past.",
+      "imageUrl": "https://img.youtube.com/vi/WQNUOMC0jdE/0.jpg",
+      "videoId": "WQNUOMC0jdE"
+    },
+    {
+      "id": "74",
+      "title": "Impact Earth",
+      "year": 2015,
+      "genre": "Action",
+      "description": "An astronomy professor discovers an asteroid is on a collision course with Earth, and rushes to get his family to safety while alerting the world to the danger.",
+      "imageUrl": "https://img.youtube.com/vi/TugGWLN-z2s/0.jpg",
+      "videoId": "TugGWLN-z2s"
+    },
+    {
+      "id": "75",
+      "title": "Bruce Lee In Snake Island",
+      "year": 1978,
+      "genre": "Action",
+      "description": "The tribe of a remote island worships the legendary Snake Pearl. Two masters of kung fu visit the isle and discover they must defend the daughter of the murdered chief against a evil wizard.",
+      "imageUrl": "https://img.youtube.com/vi/j_ZIV0KeASw/0.jpg",
+      "videoId": "j_ZIV0KeASw"
+    },
+    {
+      "id": "76",
+      "title": "Monsters Of War",
+      "year": 2021,
+      "genre": "Action",
+      "description": "Something has awoken, and a group of strangers must work together before prehistoric monsters and other deadly creatures take back the planet.",
+      "imageUrl": "https://img.youtube.com/vi/wiE-TeFQv58/0.jpg",
+      "videoId": "wiE-TeFQv58"
+    },
+    {
+      "id": "77",
+      "title": "Operation Leviathan",
+      "year": null,
+      "genre": "Action",
+      "description": "It's a new world with new threats but still old enemies remain. Tasked with bringing a mysterious and illusive group known only as \"Leviathan\" down, a secretive paramilitary agency is formed and get entangled in a worldwide conspiracy.",
+      "imageUrl": "https://img.youtube.com/vi/jt9hSPA3d4A/0.jpg",
+      "videoId": "jt9hSPA3d4A"
+    },
+    {
+      "id": "78",
+      "title": "Tawa -The King Of The Jungle",
+      "year": 2010,
+      "genre": "Action",
+      "description": "Assigned on a mission to capture Mukade, a missing-nin, Naruto Uzumaki sets out for the once glorious historic ruins of \"Ouran\", where he pursues and corners the rouge ninja. Mukade's goal is revealed to be a dormant leyline within the ruins; he unleashes the power of the leyline, causing a light to envelop Naruto, sending him into the past, 20 years before the series began. When Naruto awakens, he comes into contact with the Fourth Hokage, Minato Namikaze.",
+      "imageUrl": "https://img.youtube.com/vi/_DuFNTrhOVA/0.jpg",
+      "videoId": "_DuFNTrhOVA"
+    },
+    {
+      "id": "79",
+      "title": "The Day He Fell",
+      "year": 2011,
+      "genre": "Action",
+      "description": "Open war against humanity rages. For five survivors – lost and on the run – the pursuit is relentless, the bullets are dwindling and the battle is everywhere. This is a 24-hour look into their lives.",
+      "imageUrl": "https://img.youtube.com/vi/LtlbemzLmo4/0.jpg",
+      "videoId": "LtlbemzLmo4"
+    },
+    {
+      "id": "80",
+      "title": "The Substitute 2: School'S Out",
+      "year": 1998,
+      "genre": "Action",
+      "description": "When teacher Randall Thomasson is killed during a carjacking, an unexpected visitor shows up at his funeral - his estranged brother, Karl Thomasson. An ex-Green Beret turned mercenary, Karl signs on as a new substitute teacher in order to investigate Randall's murder.",
+      "imageUrl": "https://img.youtube.com/vi/qd38F9Wir6c/0.jpg",
+      "videoId": "qd38F9Wir6c"
+    },
+    {
+      "id": "81",
+      "title": "Forbidden Jungle",
+      "year": 1950,
+      "genre": "Action",
+      "description": "A hunter is hired to take an expedition deep into the African jungle to search for a white boy lost in a plane crash years before, and who has been rumored to be living among the wild animals.",
+      "imageUrl": "https://img.youtube.com/vi/-VHKVkzMDpo/0.jpg",
+      "videoId": "-VHKVkzMDpo"
+    },
+    {
+      "id": "82",
+      "title": "Limit Risk",
+      "year": 1996,
+      "genre": "Action",
+      "description": "Alain Moreau's investigation into the death of his identical twin brother leads him from the beauty of the south of France to the mean streets of New York City and into the arms of his brother's beautiful girlfriend. Pursued by ruthless Russian mobsters and renegade FBI agents, the duo race against time to solve his brother's murder and expose an international conspiracy.",
+      "imageUrl": "https://img.youtube.com/vi/gxn8_QRtj-c/0.jpg",
+      "videoId": "gxn8_QRtj-c"
+    },
+    {
+      "id": "83",
+      "title": "Mega Lightning 2",
+      "year": 2023,
+      "genre": "Action",
+      "description": "The mega lightning storm brings out the worst in people, and the latest storm finds a whole new set of victims during a home invasion gone wrong.",
+      "imageUrl": "https://img.youtube.com/vi/TsDQsmPIwjU/0.jpg",
+      "videoId": "TsDQsmPIwjU"
+    },
+    {
+      "id": "84",
+      "title": "Treasure Of The Ninja 2: Rise Of The Ultra Ninja",
+      "year": 2022,
+      "genre": "Action",
+      "description": "The long-awaited sequel to the 1987 cult classic! Magneta Faze is fresh out of jail, and now travels to Ukraine to take on the ultimate enemy: The Ultra Ninja!",
+      "imageUrl": "https://img.youtube.com/vi/85TQnBiger4/0.jpg",
+      "videoId": "85TQnBiger4"
+    },
+    {
+      "id": "85",
+      "title": "Guy Manley : Super Spy",
+      "year": 2024,
+      "genre": "Action",
+      "description": "Guy Manley, formerly the world’s most preeminent secret agent, who, while drowning in his alcohol-filled retirement, is brought back for one last mission by his former boss Buck Cash. His mission? Kill Buck's brother, Rich Cash, keeping him from being elected the city's new mayor, thereby stopping him from becoming the most powerful person in the world!",
+      "imageUrl": "https://img.youtube.com/vi/OdgWv_xJe-8/0.jpg",
+      "videoId": "OdgWv_xJe-8"
+    },
+    {
+      "id": "86",
+      "title": "Mount Adams",
+      "year": 2021,
+      "genre": "Action",
+      "description": "UFO investigators find themselves fighting for survival as alien monsters hunt them on the slopes of Mount Adams.",
+      "imageUrl": "https://img.youtube.com/vi/r9SBdNCwoQI/0.jpg",
+      "videoId": "r9SBdNCwoQI"
+    },
+    {
+      "id": "87",
+      "title": "The Godfather From Hong Kong",
+      "year": 1974,
+      "genre": "Action",
+      "description": "Bruce Liang plays a Chinese Kung Fu movie star, who during his free time carries on a one-man crusade against drug dealers. The villains trick Liang into signing up to appear in a new martial arts movie. The plan is to kill Our Hero while the cameras are running, and make it look like an accident.",
+      "imageUrl": "https://img.youtube.com/vi/VNPspdT026o/0.jpg",
+      "videoId": "VNPspdT026o"
+    },
+    {
+      "id": "88",
+      "title": "The Substitute",
+      "year": 1996,
+      "genre": "Action",
+      "description": "When an inner-city Miami schoolteacher gets her knee broken after standing up to the school's gang leader, her mercenary combat specialist boyfriend goes undercover as a substitute teacher to take down the punk. Soon he discovers a conspiracy of criminals at work, and must reassemble his team from his last jungle raid to stop them.",
+      "imageUrl": "https://img.youtube.com/vi/XxBtsDFhHw0/0.jpg",
+      "videoId": "XxBtsDFhHw0"
+    },
+    {
+      "id": "89",
+      "title": "Torn Apart Family",
+      "year": 1993,
+      "genre": "Action",
+      "description": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on.",
+      "imageUrl": "https://img.youtube.com/vi/01bUTS9kpEY/0.jpg",
+      "videoId": "01bUTS9kpEY"
+    },
+    {
+      "id": "90",
+      "title": "Rage For Justice",
+      "year": 1987,
+      "genre": "Action",
+      "description": "A story of a cop who put the law in his hand to avenge the death of his own family and parents.",
+      "imageUrl": "https://img.youtube.com/vi/6bbkdi8k64k/0.jpg",
+      "videoId": "6bbkdi8k64k"
+    },
+    {
+      "id": "91",
+      "title": "The Horde",
+      "year": 2016,
+      "genre": "Action",
+      "description": "The film follows John Crenshaw as he accompanies his girlfriend and her students on a weekend nature-photography expedition deep into the woods. What should be an educational and fun-filled weekend turns into horror as the group is besieged by an unspeakable evil - a horde of hideously disfigured, mutated humans with an insatiable taste for blood. As things go from bad to worse, Crenshaw becomes their only hope if they are going to get out alive.",
+      "imageUrl": "https://img.youtube.com/vi/g3WgWfEx18M/0.jpg",
+      "videoId": "g3WgWfEx18M"
+    },
+    {
+      "id": "92",
+      "title": "The Pirate'S Pact",
+      "year": 2020,
+      "genre": "Action",
+      "description": "While searching for lost treasure, time traveling pirates end up in the modern day and do battle with unlikely foes: a group of kids with the latest in techy gadgetry.",
+      "imageUrl": "https://img.youtube.com/vi/l8s9ZpnaxFY/0.jpg",
+      "videoId": "l8s9ZpnaxFY"
+    },
+    {
+      "id": "93",
+      "title": "Hong Kong 97",
+      "year": 1994,
+      "genre": "Action",
+      "description": "Hong Kong 97 takes place in Hong Kong right before the transfer of power from Britain to China. Reginald Cameron, an assassin affiliated with a large corporation with interests in the colony, guns down key members of the Chinese envoy which will take charge of Hong Kong the next day. Suddenly, he becomes a target for every two-bit mercenary in the city. With the help of his company mentor, a clueless friend, and his ex-girlfriend, Cameron must unravel the motives behind his sudden target status and escape Hong Kong alive.",
+      "imageUrl": "https://img.youtube.com/vi/9Spk4eshcC4/0.jpg",
+      "videoId": "9Spk4eshcC4"
+    },
+    {
+      "id": "94",
+      "title": "The Flood",
+      "year": 2023,
+      "genre": "Action",
+      "description": "A horde of giant hungry alligators is unleashed on a group of in-transit prisoners and their guards after a massive hurricane floods Louisiana.",
+      "imageUrl": "https://img.youtube.com/vi/jCTb1yTEtO8/0.jpg",
+      "videoId": "jCTb1yTEtO8"
+    },
+    {
+      "id": "95",
+      "title": "Sunfall",
+      "year": 2024,
+      "genre": "Action",
+      "description": "Trevor and his scientist colleague Nick discover that the sun has been pushed towards Earth, causing all sorts of fire-related disasters as the planet begins heating up rapidly!",
+      "imageUrl": "https://img.youtube.com/vi/Q5H3yN-Aodc/0.jpg",
+      "videoId": "Q5H3yN-Aodc"
+    },
+    {
+      "id": "96",
+      "title": "The Invincible -1966 French",
+      "year": 1964,
+      "genre": "Action",
+      "description": "Hercules battles to save the population from a giant dragon.",
+      "imageUrl": "https://img.youtube.com/vi/5tRB7HUpmLA/0.jpg",
+      "videoId": "5tRB7HUpmLA"
+    },
+    {
+      "id": "97",
+      "title": "Antidote",
+      "year": 2018,
+      "genre": "Action",
+      "description": "A selfless doctor and a cocky treasure hunter must join forces to uncover the Mayan legend of the White Witch.",
+      "imageUrl": "https://img.youtube.com/vi/rC_vJI9rLVs/0.jpg",
+      "videoId": "rC_vJI9rLVs"
+    },
+    {
+      "id": "98",
+      "title": "Road Rivals",
+      "year": null,
+      "genre": "Action",
+      "description": "Movie not found on TMDB.",
+      "imageUrl": "https://img.youtube.com/vi/CLnZU-QM2Ms/0.jpg",
+      "videoId": "CLnZU-QM2Ms"
+    },
+    {
+      "id": "99",
+      "title": "A Man, A Horse, A Rifle",
+      "year": 2025,
+      "genre": "Action",
+      "description": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+      "imageUrl": "https://img.youtube.com/vi/CaJCFFofHho/0.jpg",
+      "videoId": "CaJCFFofHho"
+    },
+    {
+      "id": "100",
+      "title": "Django",
+      "year": 1966,
+      "genre": "Action",
+      "description": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+      "imageUrl": "https://img.youtube.com/vi/0u5bGEsii-4/0.jpg",
+      "videoId": "0u5bGEsii-4"
+    }
+  ]
+}
