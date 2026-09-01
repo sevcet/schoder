@@ -1,0 +1,906 @@
+{
+  "name": "Comedy",
+  "description": "Comedy filmovi",
+  "items": [
+    {
+      "id": "1",
+      "title": "Under The Influencer",
+      "year": 2023,
+      "genre": "Comedy",
+      "description": "A successful Youtuber is aging out of the platform in her mid-20s, and struggling to redefine herself in the world outside her social media bubble",
+      "imageUrl": "https://img.youtube.com/vi/jQoOiKSSspk/0.jpg",
+      "videoId": "jQoOiKSSspk"
+    },
+    {
+      "id": "2",
+      "title": "Phat Beach",
+      "year": 1996,
+      "genre": "Comedy",
+      "description": "A hefty homeboy borrows his dad's Mercedes and goes to the beach with his friends for wild sun &amp; fun.",
+      "imageUrl": "https://img.youtube.com/vi/ktfJ3Cd21Ow/0.jpg",
+      "videoId": "ktfJ3Cd21Ow"
+    },
+    {
+      "id": "3",
+      "title": "Oddballs",
+      "year": 1984,
+      "genre": "Comedy",
+      "description": "A Canadian sex comedy about saving a summer camp from becoming a shopping mall.",
+      "imageUrl": "https://img.youtube.com/vi/TzwC_SFISFA/0.jpg",
+      "videoId": "TzwC_SFISFA"
+    },
+    {
+      "id": "4",
+      "title": "To Know Their Secret Is To Court Death!",
+      "year": 2020,
+      "genre": "Comedy",
+      "description": "When his drunken ex-girlfriend won't leave him alone, a man asks a married woman staying at the same hotel to pretend to be his wife. What could go wrong? It's not like two strangers spending a weekend in a small town could possibly fall in love - Getting To Know You is a delightful love story for grownups starring Natasha Little, Rupert Penry-Jones and Rachel Blanchard.",
+      "imageUrl": "https://img.youtube.com/vi/mIqfkZeze4I/0.jpg",
+      "videoId": "mIqfkZeze4I"
+    },
+    {
+      "id": "5",
+      "title": "Vow Of Violence",
+      "year": 1976,
+      "genre": "Comedy",
+      "description": "Before Joe D'amato made 1979's Buio Omega he touched upon death several times in his earlier works. This one is the first example of the director's start working with George Eastman, who wrote the screenplay for this title. The story is about innocent boy, who is afraid of sex, so all his family starts to push on him and sent women to persuade him. The things come here to the idea of well-acted sudden death and mature perverse. Quite special film to show, but still it is a black grotesque comedy with classic Massachessi's eclectic sexual view on Italian humor. Rare to find obscure title, but we recommend it for those who like to solve the most crazy situations and fantasies in their mind.",
+      "imageUrl": "https://img.youtube.com/vi/y94aYTNmF_g/0.jpg",
+      "videoId": "y94aYTNmF_g"
+    },
+    {
+      "id": "6",
+      "title": "After The Game",
+      "year": 1975,
+      "genre": "Comedy",
+      "description": "Vice-Chancellor Bartley Humbolt has problems. His young university is almost bankrupt, his wife is threatening to leave him, his protege professor from industry is threatening to overshadow him, and his prestigious professor of history is threatening to resign. But Bartley is a born manipulator. And when he gives a dinner party, he has something very special in mind - for afters.",
+      "imageUrl": "https://img.youtube.com/vi/J2hOZI8KpWA/0.jpg",
+      "videoId": "J2hOZI8KpWA"
+    },
+    {
+      "id": "7",
+      "title": "Rent A Kid",
+      "year": 1995,
+      "genre": "Comedy",
+      "description": "Harry Habert, owner of a rental company, has an original idea—to rent baby's from a nearby orphanage to local families. He rents the Ward siblings, 2 boys and a girl, to his first customers.",
+      "imageUrl": "https://img.youtube.com/vi/mCjAgQg1fPo/0.jpg",
+      "videoId": "mCjAgQg1fPo"
+    },
+    {
+      "id": "8",
+      "title": "The Year Of New Friends",
+      "year": 2005,
+      "genre": "Comedy",
+      "description": "Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoices at an electronics store. But at age 40, there's one thing Andy hasn't done, and it's really bothering his sex-obsessed male co-workers: Andy is still a virgin. Determined to help Andy get laid, the guys make it their mission to de-virginize him. But it all seems hopeless until Andy meets small business owner Trish, a single mom.",
+      "imageUrl": "https://img.youtube.com/vi/CNzIcF3WdY0/0.jpg",
+      "videoId": "CNzIcF3WdY0"
+    },
+    {
+      "id": "9",
+      "title": "Hack The Future",
+      "year": 2018,
+      "genre": "Comedy",
+      "description": "John Hacker must break into the fabled A.N.D.E.R.S.O.N account of First Niagara Bank in order to save his company and the world.",
+      "imageUrl": "https://img.youtube.com/vi/RDmNrq6X-nY/0.jpg",
+      "videoId": "RDmNrq6X-nY"
+    },
+    {
+      "id": "10",
+      "title": "Bad Neighbors",
+      "year": 2014,
+      "genre": "Comedy",
+      "description": "A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.",
+      "imageUrl": "https://img.youtube.com/vi/EISxxUxNvAQ/0.jpg",
+      "videoId": "EISxxUxNvAQ"
+    },
+    {
+      "id": "11",
+      "title": "Tueur À L'Arbalète",
+      "year": 2006,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/Elop-aPJGZM/0.jpg",
+      "videoId": "Elop-aPJGZM"
+    },
+    {
+      "id": "12",
+      "title": "A Tough Adolescence",
+      "year": 1923,
+      "genre": "Comedy",
+      "description": "An ice-cold Snub adopts a gamin and her brother; A mean landlord seeking rent complicates matters and the trio take a train to Florida. But by mistake the train goes to Iceland.",
+      "imageUrl": "https://img.youtube.com/vi/F_HghSFDLN0/0.jpg",
+      "videoId": "F_HghSFDLN0"
+    },
+    {
+      "id": "13",
+      "title": "Club Anti Monstres",
+      "year": 1987,
+      "genre": "Comedy",
+      "description": "Count Dracula returns to the world of humans accompanied by Frankenstein's Monster, the Wolfman, the Mummy, and the Gillman. The uglies are in search of a powerful amulet that will grant them the ability to rule the world. A group of horror-loving heroes are the only ones daring to stand in their way.",
+      "imageUrl": "https://img.youtube.com/vi/_RkcCFMKKA4/0.jpg",
+      "videoId": "_RkcCFMKKA4"
+    },
+    {
+      "id": "14",
+      "title": "Manoir Des Morts Vivants",
+      "year": 2022,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/UQbVUFCOh-8/0.jpg",
+      "videoId": "UQbVUFCOh-8"
+    },
+    {
+      "id": "15",
+      "title": "The Untold Truth Of St. Helens Eruption",
+      "year": 1993,
+      "genre": "Comedy",
+      "description": "Macau cops begin to suspect a man running a pork buns restaurant of murder, after tracing the origin of a case full of chopped up human remains that washed ashore, which leads them to him.",
+      "imageUrl": "https://img.youtube.com/vi/ZN74XvOmCZY/0.jpg",
+      "videoId": "ZN74XvOmCZY"
+    },
+    {
+      "id": "16",
+      "title": "Vampire Girlfriend Traps Him In A Toxic Love Story",
+      "year": 2011,
+      "genre": "Comedy",
+      "description": "Naive yet kind Bob moves to a new apartment and falls in love with a peculiar woman named Maya. Maya who lives with her sister, harbours a secret and other around her are beginning to suspect that she just might just be a vampire.",
+      "imageUrl": "https://img.youtube.com/vi/hl_5C2gD3s4/0.jpg",
+      "videoId": "hl_5C2gD3s4"
+    },
+    {
+      "id": "17",
+      "title": "Action : Five Girls Expedition Team Brave Forbidden Zone, Uncover Mysterious Isolated Tribe",
+      "year": 2026,
+      "genre": "Comedy",
+      "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+      "imageUrl": "https://img.youtube.com/vi/LaQwwA7Bhrc/0.jpg",
+      "videoId": "LaQwwA7Bhrc"
+    },
+    {
+      "id": "18",
+      "title": "Gourou Et Condamnée",
+      "year": 2002,
+      "genre": "Comedy",
+      "description": "Bored with Bollywood movies but fascinated with their Hollywood counterparts from his youth, Ram dreams to become a singer and actor in America, the country where dreams are made. He is encouraged when his American-based close friend, Vijay Rao, comes for visit, and brags about driving a Mercedes and living in a penthouse.",
+      "imageUrl": "https://img.youtube.com/vi/ZKL-KL4XNSM/0.jpg",
+      "videoId": "ZKL-KL4XNSM"
+    },
+    {
+      "id": "19",
+      "title": "The Heir Who Never Lived: A Charlie Chan Murder Mystery",
+      "year": 1930,
+      "genre": "Comedy",
+      "description": "A butler impersonates his tippler boss and falls for a beautiful young maid. However, a notorious gold-digger, who thinks the butler is the wealthy young man he's impersonating, sets her sights on him.",
+      "imageUrl": "https://img.youtube.com/vi/gcMEUIc3XcI/0.jpg",
+      "videoId": "gcMEUIc3XcI"
+    },
+    {
+      "id": "20",
+      "title": "Trapped In 1917: The Ultimate Time Travel War Adventure!",
+      "year": 1994,
+      "genre": "Comedy",
+      "description": "Residents of a friendly Pennsylvania town foil three brothers' plan to rob a bank on Christmas Eve.",
+      "imageUrl": "https://img.youtube.com/vi/aSt2X5kJ2a8/0.jpg",
+      "videoId": "aSt2X5kJ2a8"
+    },
+    {
+      "id": "21",
+      "title": "He Was The School'S Biggest Target Until Chuck Norris Shocked Everyone",
+      "year": 1989,
+      "genre": "Comedy",
+      "description": "This bizarre parody of the animated religious children’s show Davey and Goliath uses actors but looks like Claymation because of the stop motion, distorted voices, giant prosthetic ears and hair and sets that make Pee-Wee’s Playhouse look realistic. Davey’s father whips him with a belt for saying that he saw a bear, though he really did see a bear, while his sister looks on in glee. His dog Goliath, actually a leopard-skin footrest with a grotesque tail, tries to help but gets whipped too. Oedipal dream sequences and Davey’s revenge are also highlights in this unforgettable and darkly hilarious suburban nightmare.",
+      "imageUrl": "https://img.youtube.com/vi/9567CTx7xOk/0.jpg",
+      "videoId": "9567CTx7xOk"
+    },
+    {
+      "id": "22",
+      "title": "Delta Farce",
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Three bumbling Army reservists are hustled onto a plane headed for combat in Iraq -- but the fact that the plane drops them in Mexico doesn't stop them from \"liberating\" what they believe to be the Middle East.",
+      "imageUrl": "https://img.youtube.com/vi/T8uSCDbG_Ww/0.jpg",
+      "videoId": "T8uSCDbG_Ww"
+    },
+    {
+      "id": "23",
+      "title": "Error 404: Human",
+      "year": 2023,
+      "genre": "Comedy",
+      "description": "Qwerty has been studying to pass his Turing test for months, but will all his hard work pay off?",
+      "imageUrl": "https://img.youtube.com/vi/kEphdEW51sA/0.jpg",
+      "videoId": "kEphdEW51sA"
+    },
+    {
+      "id": "24",
+      "title": "Criminal Mastermind",
+      "year": 2013,
+      "genre": "Comedy",
+      "description": "After his life falls apart, FREDDIE decides he must turn to crime to survive. With no criminal knowledge he decides to hire Bainbridge, a professional crime coach.",
+      "imageUrl": "https://img.youtube.com/vi/lwDvUsI9qC8/0.jpg",
+      "videoId": "lwDvUsI9qC8"
+    },
+    {
+      "id": "25",
+      "title": "\"Garbo Talks!\" 🌟 Anna Christie",
+      "year": 1984,
+      "genre": "Comedy",
+      "description": "When New York accountant Gilbert Rolfe finds out his mother has a brain tumor, he is devastated. His incorrigible mother, Estelle, has one last wish: to meet the great Greta Garbo. Gilbert, wanting to do this last thing for her, sets out on a wild goose chase through the streets of New York City to track down the iconic star, at the expense of his personal life and much to the chagrin of his wife, Lisa. Can he find Garbo before it's too late?",
+      "imageUrl": "https://img.youtube.com/vi/JvVWnAp6Mho/0.jpg",
+      "videoId": "JvVWnAp6Mho"
+    },
+    {
+      "id": "26",
+      "title": "Règne Des Titans",
+      "year": 2014,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/LnCuWZJ9E0w/0.jpg",
+      "videoId": "LnCuWZJ9E0w"
+    },
+    {
+      "id": "27",
+      "title": "The Bachelorette Intervention",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "Five women celebrate one of the girl's bachelorette party but one of them doesn't show up.",
+      "imageUrl": "https://img.youtube.com/vi/S2kDKYNQlhE/0.jpg",
+      "videoId": "S2kDKYNQlhE"
+    },
+    {
+      "id": "28",
+      "title": "Who'S Your Caddy?",
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Superstar rap mogul C-Note wants to join the Carolina Pines Golf & Country Club, but faces stiff opposition from the establishment's snooty members. C-Note forces the issue by purchasing the land adjacent to the golf course's 17th hole. As the club leaders search for a way to revoke his membership, C-Note realizes his family's honor and golf history are at stake, and digs in for the fight of his life.",
+      "imageUrl": "https://img.youtube.com/vi/f3Mjcvg4QKg/0.jpg",
+      "videoId": "f3Mjcvg4QKg"
+    },
+    {
+      "id": "29",
+      "title": "The Outcasts",
+      "year": 2017,
+      "genre": "Comedy",
+      "description": "After falling victim to a humiliating prank by the high school Queen Bee, best friends and world-class geeks, Mindy and Jodi, decide to get their revenge by uniting the outcasts of the school against her and her circle of friends.",
+      "imageUrl": "https://img.youtube.com/vi/V-WWAZUZOks/0.jpg",
+      "videoId": "V-WWAZUZOks"
+    },
+    {
+      "id": "30",
+      "title": "The Punching Machine",
+      "year": 1902,
+      "genre": "Comedy",
+      "description": "Fourth film in the “Foxy Grandpa” series. The boys try to play a trick on Foxy Grandpa with the punching machine, but he manipulates it so well that the joke is turned on the boys, who are bowled over by the punching arm.",
+      "imageUrl": "https://img.youtube.com/vi/hzBs2gh5eoI/0.jpg",
+      "videoId": "hzBs2gh5eoI"
+    },
+    {
+      "id": "31",
+      "title": "Together Forever",
+      "year": 2026,
+      "genre": "Comedy",
+      "description": "A Mormon couple ties the knot.",
+      "imageUrl": "https://img.youtube.com/vi/QvvZlPDPKKU/0.jpg",
+      "videoId": "QvvZlPDPKKU"
+    },
+    {
+      "id": "32",
+      "title": "Midnight Curse",
+      "year": 2020,
+      "genre": "Comedy",
+      "description": "In the last horror story, realities become confused, leading to a devastating and absurd ending.",
+      "imageUrl": "https://img.youtube.com/vi/-GwlCqBCgz8/0.jpg",
+      "videoId": "-GwlCqBCgz8"
+    },
+    {
+      "id": "33",
+      "title": "Another Happy Day",
+      "year": 2011,
+      "genre": "Comedy",
+      "description": "A wedding at her parents' Annapolis estate hurls high-strung Lynn into the center of touchy family dynamics.",
+      "imageUrl": "https://img.youtube.com/vi/JVzQZaFK6Uc/0.jpg",
+      "videoId": "JVzQZaFK6Uc"
+    },
+    {
+      "id": "34",
+      "title": "She Married A Cop… But He Was A Serial Killer!",
+      "year": 1935,
+      "genre": "Comedy",
+      "description": "A super-efficient secretary at a department store falls for and marries her boss, but finds out that taking care of him at home (and especially his spoiled-brat daughter) is a lot different than taking care of him at work.",
+      "imageUrl": "https://img.youtube.com/vi/-eqK9PUR1b4/0.jpg",
+      "videoId": "-eqK9PUR1b4"
+    },
+    {
+      "id": "35",
+      "title": "Very Bad Girl",
+      "year": 2014,
+      "genre": "Comedy",
+      "description": "A story about 11 girls living in Paris. Each of them has its own problems: career, love life, children. Every girl has their complexes and virtues. They always look elegant, hiding their inner feelings. Will they reach all the goals and overcome all their difficulties?",
+      "imageUrl": "https://img.youtube.com/vi/9x4GR2IBPqY/0.jpg",
+      "videoId": "9x4GR2IBPqY"
+    },
+    {
+      "id": "36",
+      "title": "It Came From Another World To Terrorize",
+      "year": 1993,
+      "genre": "Comedy",
+      "description": "Electrical overload at the Throbbing Video Company office alows an alien force into the phone lines. The force becomes a sound wave and enters the body of an electrician who then goes on a rampage. When the electrician is killed, the force transfers to another body and so on.",
+      "imageUrl": "https://img.youtube.com/vi/7Vo6teQzHQU/0.jpg",
+      "videoId": "7Vo6teQzHQU"
+    },
+    {
+      "id": "37",
+      "title": "Iron Fist",
+      "year": 2001,
+      "genre": "Comedy",
+      "description": "The Wu-Tang Clan's Cappadonna redubs a 1970s martial arts thriller to hilarious effect, casting himself in the lead role as a pot-smoking rapper who wakes up in an Asian kung fu dreamscape. There, he's framed for the murder of a rival gang leader and is quickly banished. Liberally changing characters into drunks and prostitutes, Cappadonna crafts a unique comedy experience that also features the voices of Hideo Seaver and Shawn Wigs.",
+      "imageUrl": "https://img.youtube.com/vi/Pky4X7Q1ZXc/0.jpg",
+      "videoId": "Pky4X7Q1ZXc"
+    },
+    {
+      "id": "38",
+      "title": "Visions Of Terror",
+      "year": 2008,
+      "genre": "Comedy",
+      "description": "A young woman meets the ultimate terror, a supernatural reality-bending maniac with a very large collection of out of print VHS tapes.",
+      "imageUrl": "https://img.youtube.com/vi/gozjtwwe_84/0.jpg",
+      "videoId": "gozjtwwe_84"
+    },
+    {
+      "id": "39",
+      "title": "Ma Meilleure Amie",
+      "year": 2017,
+      "genre": "Comedy",
+      "description": "Potential Northwestern fellow Tess Harper lasers through her best friend's wedding planning like the star doctor she hopes to soon become. In fact, Tess puzzles through any problem - provided it's not her own. When she meets divorce lawyer and groom's best friend, Michael, Tess maneuvers around him like a gurney in the emergency room until she discovers this best man has a few moves of his own.",
+      "imageUrl": "https://img.youtube.com/vi/t9nuGkEmL7Y/0.jpg",
+      "videoId": "t9nuGkEmL7Y"
+    },
+    {
+      "id": "40",
+      "title": "One Boy. Six Soldiers. Zero Idea Who To Trust",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "After the billion-dollar smash 'Elephant Boy', the boy himself goes on a 30s noir-styled mystery for the lost film rights to his new franchise.",
+      "imageUrl": "https://img.youtube.com/vi/dMMCyLPylnE/0.jpg",
+      "videoId": "dMMCyLPylnE"
+    },
+    {
+      "id": "41",
+      "title": "Playboy",
+      "year": 1989,
+      "genre": "Comedy",
+      "description": "Nagashima is a playboy who refuses to be tied down by marriage. Suffering from insomnia recently, he is eager to find a glamorous girl who can make him fall asleep. He leaves his tiresome girlfriend Mari, and soon finds himself trapped in dangerous triple liaisons involving two nightclub hostesses and a dewy-eyed girl. When all three of them start pestering him about marriage, Nagashima makes up his mind to flee…",
+      "imageUrl": "https://img.youtube.com/vi/UsTGX8QW7gI/0.jpg",
+      "videoId": "UsTGX8QW7gI"
+    },
+    {
+      "id": "42",
+      "title": "Tooth Fairy Legend Becomes Real And Starts Killing Children",
+      "year": 2010,
+      "genre": "Comedy",
+      "description": "When minor-league hockey player Derek Thompson -- who has a penchant for knocking out his opponents' teeth every time he plays -- disillusions a fan, he is sentenced to a stint for one week as a bona fide, tutu-clad, real-life tooth fairy. Soon, Derek is inspired to rekindle his youthful dreams.",
+      "imageUrl": "https://img.youtube.com/vi/xZaCDjA0OBM/0.jpg",
+      "videoId": "xZaCDjA0OBM"
+    },
+    {
+      "id": "43",
+      "title": "Boss Lady",
+      "year": 2005,
+      "genre": "Comedy",
+      "description": "Sheila is the spoilt daughter of Dato Ismail. Ever since she was young she always got what she wanted and now, tired by her attitude, her father offers her a challenge; run his company for two months. Accepting the challenge, Sheila becomes the 'lady boss' of the company, but things are not all smooth-sailing for the obnoxious Sheila.",
+      "imageUrl": "https://img.youtube.com/vi/R_ZRMrGAN-Y/0.jpg",
+      "videoId": "R_ZRMrGAN-Y"
+    },
+    {
+      "id": "44",
+      "title": "The Other Woman'S Child",
+      "year": 2010,
+      "genre": "Comedy",
+      "description": "Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.",
+      "imageUrl": "https://img.youtube.com/vi/Mr5PF8u9zxQ/0.jpg",
+      "videoId": "Mr5PF8u9zxQ"
+    },
+    {
+      "id": "45",
+      "title": "Witness Protection Program",
+      "year": 2016,
+      "genre": "Comedy",
+      "description": "Story of a secret government agency that places people in the Witness Protection Program. Some of them are turning on their former friends and others are being hunted by the mob, but all need the help of Diane Carter and her agency.",
+      "imageUrl": "https://img.youtube.com/vi/ioWySayzGd8/0.jpg",
+      "videoId": "ioWySayzGd8"
+    },
+    {
+      "id": "46",
+      "title": "He Did 10 Years For Someone Else'S Crime — Now He'S Dying And Done Playing Nice",
+      "year": 1915,
+      "genre": "Comedy",
+      "description": "Under an assumed name, Phineas courts a widow and makes love to his own wife. He lands in court with a Breach of Promise suit looming big. He confesses, whispers in his wife's ear, and all is forgiven.",
+      "imageUrl": "https://img.youtube.com/vi/Pts1JOT9WwQ/0.jpg",
+      "videoId": "Pts1JOT9WwQ"
+    },
+    {
+      "id": "47",
+      "title": "Hunter Becomes Prey",
+      "year": 2026,
+      "genre": "Comedy",
+      "description": "Hunter Gieger is a guy stuck in a rut that mooches off of his friend instead of taking responsibility. After being kicked out of an apartment that he was sharing with his buddy, he now has to decide whether he wants to grow up or be a bum on the streets.",
+      "imageUrl": "https://img.youtube.com/vi/M6yQbqx_BZ0/0.jpg",
+      "videoId": "M6yQbqx_BZ0"
+    },
+    {
+      "id": "48",
+      "title": "Fake Wedding",
+      "year": null,
+      "genre": "Comedy",
+      "description": "Two broke singles throw a fake wedding to cash in on the registry, but the make-believe couple encounters some very real problems.",
+      "imageUrl": "https://img.youtube.com/vi/4F6-EEmxy9w/0.jpg",
+      "videoId": "4F6-EEmxy9w"
+    },
+    {
+      "id": "49",
+      "title": "One Boy'S Last Wish",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "After the billion-dollar smash 'Elephant Boy', the boy himself goes on a 30s noir-styled mystery for the lost film rights to his new franchise.",
+      "imageUrl": "https://img.youtube.com/vi/_qy_ZFHenuU/0.jpg",
+      "videoId": "_qy_ZFHenuU"
+    },
+    {
+      "id": "50",
+      "title": "Vegas Bad Boy",
+      "year": 2009,
+      "genre": "Comedy",
+      "description": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+      "imageUrl": "https://img.youtube.com/vi/3e0o-69zwTA/0.jpg",
+      "videoId": "3e0o-69zwTA"
+    },
+    {
+      "id": "51",
+      "title": "Dating Life",
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Linda Dackman has been diagnosed with breast cancer, but this does not prevent her from seeing the positive side of life and continuing her quest for Prince Charming.",
+      "imageUrl": "https://img.youtube.com/vi/YCcFTHV9EFY/0.jpg",
+      "videoId": "YCcFTHV9EFY"
+    },
+    {
+      "id": "52",
+      "title": "She Married An Older Farmer... But Fell For The Farmhand!",
+      "year": 1935,
+      "genre": "Comedy",
+      "description": "A super-efficient secretary at a department store falls for and marries her boss, but finds out that taking care of him at home (and especially his spoiled-brat daughter) is a lot different than taking care of him at work.",
+      "imageUrl": "https://img.youtube.com/vi/-1UHuvUhVpE/0.jpg",
+      "videoId": "-1UHuvUhVpE"
+    },
+    {
+      "id": "53",
+      "title": "46 And Single",
+      "year": 1964,
+      "genre": "Comedy",
+      "description": "A womanizing reporter for a sleazy tabloid magazine impersonates his hen-pecked neighbor in order to get an expose on renowned psychologist Helen Gurley Brown.",
+      "imageUrl": "https://img.youtube.com/vi/AqAOqRy78NM/0.jpg",
+      "videoId": "AqAOqRy78NM"
+    },
+    {
+      "id": "54",
+      "title": "A Taste Of Life",
+      "year": 1919,
+      "genre": "Comedy",
+      "description": "When her husband, struggling lawyer Horace Dillingham, is unable to provide adequate money for her insatiable desire for expensive cherries, Kitty Dillingham goes to work as a stenographer for him. One day while Horace is out of the office, Kitty mistakes Jonas Collamore, a defendant in a divorce suit for whom Horace is acting, for an important client.  Kitty agrees to lunch, and, swallowing many maraschino cherries along with their cocktails, becomes drunk. Jonas takes her to a nearby inn where they are followed by Mrs. Collamore's detectives, who then summon Mrs. Collamore and her lawyer Horace.",
+      "imageUrl": "https://img.youtube.com/vi/jGg5v9oP1y4/0.jpg",
+      "videoId": "jGg5v9oP1y4"
+    },
+    {
+      "id": "55",
+      "title": "A Young Boy Falls In Love With A Mysterious Water Nymph",
+      "year": 1986,
+      "genre": "Comedy",
+      "description": "In 1914, sixteen year old Roger returned home from boarding school during vacation to find his puberty hit hard in a house filled with beautiful women. These women have previous engagements with other men who are away, and during this time, Roger impregnates them all, including his aunt and sister, then devises plans to cuckold the men.",
+      "imageUrl": "https://img.youtube.com/vi/WeRcdnRlHeU/0.jpg",
+      "videoId": "WeRcdnRlHeU"
+    },
+    {
+      "id": "56",
+      "title": "A Young Soldier Returned From War Completely Broken",
+      "year": 1986,
+      "genre": "Comedy",
+      "description": "In 1914, sixteen year old Roger returned home from boarding school during vacation to find his puberty hit hard in a house filled with beautiful women. These women have previous engagements with other men who are away, and during this time, Roger impregnates them all, including his aunt and sister, then devises plans to cuckold the men.",
+      "imageUrl": "https://img.youtube.com/vi/LUcgERohSMc/0.jpg",
+      "videoId": "LUcgERohSMc"
+    },
+    {
+      "id": "57",
+      "title": "Beverly Hills Vamps",
+      "year": 1984,
+      "genre": "Comedy",
+      "description": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+      "imageUrl": "https://img.youtube.com/vi/5oLGgdzrw4o/0.jpg",
+      "videoId": "5oLGgdzrw4o"
+    },
+    {
+      "id": "58",
+      "title": "Os Opostos Atraemse",
+      "year": 2012,
+      "genre": "Comedy",
+      "description": "Two mismatched cops team up to investigate the murder of a business mogul's wife.",
+      "imageUrl": "https://img.youtube.com/vi/MXp0iVC9rPU/0.jpg",
+      "videoId": "MXp0iVC9rPU"
+    },
+    {
+      "id": "59",
+      "title": "Vacances De Mini Cochon",
+      "year": 1953,
+      "genre": "Comedy",
+      "description": "Monsieur Hulot, Jacques Tati’s endearing clown, takes a holiday at a seaside resort, where his presence provokes one catastrophe after another. Tati’s masterpiece of gentle slapstick is a series of effortlessly well-choreographed sight gags involving dogs, boats, and firecrackers; it was the first entry in the Hulot series and the film that launched its maker to international stardom.",
+      "imageUrl": "https://img.youtube.com/vi/53icPE3MU7o/0.jpg",
+      "videoId": "53icPE3MU7o"
+    },
+    {
+      "id": "60",
+      "title": "Kg 200: The Secret Nazi Unit Capturing Allied Bombers",
+      "year": 2024,
+      "genre": "Comedy",
+      "description": "The residents of Kampung Terbalik become victims of attacks by Pontianak Melati and Pontianak Mewangi, who are constantly hungry. The situation becomes even more chaotic when the villagers mistakenly believe that they are blood-sucking pontianaks, causing many villagers to fall into comas!",
+      "imageUrl": "https://img.youtube.com/vi/k2wQqgo1bo8/0.jpg",
+      "videoId": "k2wQqgo1bo8"
+    },
+    {
+      "id": "61",
+      "title": "The Taste Of Murder",
+      "year": 2004,
+      "genre": "Comedy",
+      "description": "A spell of time in the life of the five-piece Haruno family in rural Tochigi Prefecture. Yoshiko is not an ordinary housewife, instead working on an animated film project. Uncle Ayano, a successful music producer, is looking to get his head together after living in Tokyo. Meanwhile, Sachiko is concerned with why she seems to be followed by a giant version of herself. As the lazy days pass by, each member of the family is followed in a series of episodic vignettes.",
+      "imageUrl": "https://img.youtube.com/vi/I5xlso6MSeA/0.jpg",
+      "videoId": "I5xlso6MSeA"
+    },
+    {
+      "id": "62",
+      "title": "Burning Heat",
+      "year": 1983,
+      "genre": "Comedy",
+      "description": "A fledgling reporter for a swinging magazine investigates various couples who are looking for pleasure with other people and becomes involved with his subjects.",
+      "imageUrl": "https://img.youtube.com/vi/SMo9RyJHCOk/0.jpg",
+      "videoId": "SMo9RyJHCOk"
+    },
+    {
+      "id": "63",
+      "title": "No Signal",
+      "year": 2025,
+      "genre": "Comedy",
+      "description": "It is about two young step-siblings spending the weekend with their parents in a lodge in a remote forest who accidentally film two bumbling criminals in the middle of a robbery.",
+      "imageUrl": "https://img.youtube.com/vi/U3hOZQJDGHc/0.jpg",
+      "videoId": "U3hOZQJDGHc"
+    },
+    {
+      "id": "64",
+      "title": "Rencontre À Hong Kong",
+      "year": 1956,
+      "genre": "Comedy",
+      "description": "A wealthy young American woman is suddenly cut off by her father while living in Paris. A philosopher, she tries to make a living as a guide in the capital. The Marquis de Cernay, who has his eye on Nancy's portfolio, engages Maurice, a hardworking writer, to follow the young woman. She learns from both of them that they are only interested in her fortune. However, when she learns of the deception, she returns to her usual social life. She will return to him when the Marquis de Cernay has betrayed himself once and for all.",
+      "imageUrl": "https://img.youtube.com/vi/I2ZkjnIZ7MM/0.jpg",
+      "videoId": "I2ZkjnIZ7MM"
+    },
+    {
+      "id": "65",
+      "title": "Stagiaire",
+      "year": 2025,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/e2psuMgDve4/0.jpg",
+      "videoId": "e2psuMgDve4"
+    },
+    {
+      "id": "66",
+      "title": "Desire And Hell At Sunset Motel",
+      "year": 1992,
+      "genre": "Comedy",
+      "description": "Right after Disneyland opens in Anaheim, California, in 1955, a toy salesman in town for a convention brings his wife with him so they can both go to Disneyland. They stay at a rundown place called the Sunset Motel nearby. Soon the wife is having an affair with a man staying at the motel. The husband hires a psychotic criminal to spy on them, the wife and her lover plan to murder the husband, and the voyeuristic motel manager is spying on everybody.",
+      "imageUrl": "https://img.youtube.com/vi/YghrLzZlqPs/0.jpg",
+      "videoId": "YghrLzZlqPs"
+    },
+    {
+      "id": "67",
+      "title": "Péché Originel",
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Marie feels lonely in Paris and longing to meet the right one. But how do you know who is \"he\" when you always have a swarm of guys around you?",
+      "imageUrl": "https://img.youtube.com/vi/9D19sDmeJDs/0.jpg",
+      "videoId": "9D19sDmeJDs"
+    },
+    {
+      "id": "68",
+      "title": "Rogue Daughter",
+      "year": 1960,
+      "genre": "Comedy",
+      "description": "A sincere young woman straightens out a wild and irresponsible ladies man",
+      "imageUrl": "https://img.youtube.com/vi/8NjyELAbZ5Q/0.jpg",
+      "videoId": "8NjyELAbZ5Q"
+    },
+    {
+      "id": "69",
+      "title": "The Party Went Wrong",
+      "year": 1968,
+      "genre": "Comedy",
+      "description": "Hrundi V. Bakshi, an accident-prone actor from India, is accidentally put on the guest list for an upcoming party at the home of a Hollywood film producer. Unfortunately, from the moment he arrives, one thing after another goes wrong with compounding effect.",
+      "imageUrl": "https://img.youtube.com/vi/WNq8WYrFPEc/0.jpg",
+      "videoId": "WNq8WYrFPEc"
+    },
+    {
+      "id": "70",
+      "title": "A Couple Turns Frat Night Into Bloody Revenge Rampage",
+      "year": 1979,
+      "genre": "Comedy",
+      "description": "An uptight bachelor tries his luck with a computer dating service and gets matched up with his polar opposite.",
+      "imageUrl": "https://img.youtube.com/vi/45suDtmiQ0A/0.jpg",
+      "videoId": "45suDtmiQ0A"
+    },
+    {
+      "id": "71",
+      "title": "Party Killer",
+      "year": 1986,
+      "genre": "Comedy",
+      "description": "It's April Fool's Day and the sisters of Sigma Alpha Pi believe they've found the perfect place to throw a party: the abandoned fraternity house where the guillotined pledge once lost his head in a hazing gone awry.",
+      "imageUrl": "https://img.youtube.com/vi/IAVEk4J6sF8/0.jpg",
+      "videoId": "IAVEk4J6sF8"
+    },
+    {
+      "id": "72",
+      "title": "15 Ans Après",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/RLrT2kMr7K8/0.jpg",
+      "videoId": "RLrT2kMr7K8"
+    },
+    {
+      "id": "73",
+      "title": "A Boy For Me",
+      "year": 2002,
+      "genre": "Comedy",
+      "description": "To inherit a million dollars, an egotistical womanizer must find the women he's betrayed and convince them to forgive him.",
+      "imageUrl": "https://img.youtube.com/vi/J4oI6OCy5-8/0.jpg",
+      "videoId": "J4oI6OCy5-8"
+    },
+    {
+      "id": "74",
+      "title": "Date Night, A Killer Cult Traps Them In A Bowling Alley",
+      "year": 2010,
+      "genre": "Comedy",
+      "description": "Phil and Claire Foster fear that their mild-mannered relationship may be falling into a stale rut. During their weekly date night, their dinner reservation leads to their being mistaken for a couple of thieves—and now a number of unsavoury characters want Phil and Claire killed.",
+      "imageUrl": "https://img.youtube.com/vi/SIcSZMScH8M/0.jpg",
+      "videoId": "SIcSZMScH8M"
+    },
+    {
+      "id": "75",
+      "title": "Feux De L'Amour",
+      "year": 2017,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/gVkhX1TkX0c/0.jpg",
+      "videoId": "gVkhX1TkX0c"
+    },
+    {
+      "id": "76",
+      "title": "Ror Die",
+      "year": 1974,
+      "genre": "Comedy",
+      "description": "A highly stylized surreal farce about the events leading up to Custer's Last Stand anachronistically reenacted in an urban renewal area in modern Paris.",
+      "imageUrl": "https://img.youtube.com/vi/MLxEcgXpBVw/0.jpg",
+      "videoId": "MLxEcgXpBVw"
+    },
+    {
+      "id": "77",
+      "title": "A Girl Disappeared Near This House. Of Course Everbody Suspects Him",
+      "year": 2013,
+      "genre": "Comedy",
+      "description": "Paolo, an Italian tour bus driver living in Paris, has just summoned up the courage to propose marriage to his German girlfriend Greta. However, a chance encounter with a French woman on a bicycle the very next day turns Paolo's life upside down.",
+      "imageUrl": "https://img.youtube.com/vi/YPwAK2ZjYDg/0.jpg",
+      "videoId": "YPwAK2ZjYDg"
+    },
+    {
+      "id": "78",
+      "title": "Kicking & Screaming",
+      "year": 1995,
+      "genre": "Comedy",
+      "description": "After college graduation, Grover's girlfriend Jane tells him she's moving to Prague to study writing. Grover declines to accompany her, deciding instead to move in with several friends, all of whom can't quite work up the inertia to escape their university's pull. Nobody wants to make any big decisions that would radically alter his life, yet none of them wants to end up like Chet, the professional student who tends bar and is in his tenth year of university studies.",
+      "imageUrl": "https://img.youtube.com/vi/Gbhcy3mMe2g/0.jpg",
+      "videoId": "Gbhcy3mMe2g"
+    },
+    {
+      "id": "79",
+      "title": "Troubles With The Sheriff",
+      "year": 1962,
+      "genre": "Comedy",
+      "description": "Visiting the company cafeteria is like going through the nine circles of Dante’s Inferno. At least that’s how Valoušek, editor of Kulturní noviny, sees it when he unwittingly becomes the protagonist of a social experiment at the local company cafeteria, where everything happens the opposite of how it should. This humorous satire about the conflict between reality and ideals highlights the pitfalls of the journalism profession, and the fact that culture is created not by institutions, but by people.",
+      "imageUrl": "https://img.youtube.com/vi/9reKrfdCHzo/0.jpg",
+      "videoId": "9reKrfdCHzo"
+    },
+    {
+      "id": "80",
+      "title": "Randy'S Canvas",
+      "year": 2018,
+      "genre": "Comedy",
+      "description": "A talented young artist with autism falls in love for the first time, but when his feelings aren’t reciprocated, he must find solace in his work.",
+      "imageUrl": "https://img.youtube.com/vi/7yhP_GFb4lg/0.jpg",
+      "videoId": "7yhP_GFb4lg"
+    },
+    {
+      "id": "81",
+      "title": "She Hired A Contractor For Her House But He Just Won'T Stop Watching Her",
+      "year": 1918,
+      "genre": "Comedy",
+      "description": "Daphne Trowbridge, an impulsive and obstinate but nonetheless kindhearted young woman, lives with her aunt and uncle on their country estate. Daphne falls in love with Tom Dunstan, but when she learns that Mrs. Trowbridge favors the young man, she deserts him, whereupon he departs for the woods brokenhearted. Because her aunt dislikes Gerald, Daphne accepts his proposal, but on the day of the wedding, she discovers that Mrs. Trowbridge has liked him from the beginning. Furious at her aunt's scheming, Daphne hires the first man she meets, who happens to be a heavily bearded lumberman, to marry her and then leave. Later, however, her hired husband abducts her to his cabin in the woods, where he eventually succeeds in taming her. After he rescues her from two lecherous lumberjacks, Daphne discovers that her husband is Tom, whom she had loved all along.",
+      "imageUrl": "https://img.youtube.com/vi/tS2m1ccmAGY/0.jpg",
+      "videoId": "tS2m1ccmAGY"
+    },
+    {
+      "id": "82",
+      "title": "Victime Du Mal",
+      "year": 1911,
+      "genre": "Comedy",
+      "description": "Max visits a doctor who prescribes a tonic (Bordeaux of Cinchona) for him to drink every morning. Upon returning home, Max sees a large glass which was left by his wife and labeled \"Souvenir de Bordeaux\". He consumes it its entirety after assuming that it was his medicine. Immediately Max feels much better. Hilarity ensues as Max goes about the day in a completely drunken state.",
+      "imageUrl": "https://img.youtube.com/vi/ahrImECjAFA/0.jpg",
+      "videoId": "ahrImECjAFA"
+    },
+    {
+      "id": "83",
+      "title": "Epiphany",
+      "year": null,
+      "genre": "Comedy",
+      "description": "Favorite Ives, an heiress and fashionista whose fortune evaporates overnight, embarks on a two-week search for a rich husband in a bid to fight creditors and keep a roof over her head. She meets eccentric math savant billionaire Oz Bell, who needs Ives’ spirit and spontaneity as much as she needs his money.",
+      "imageUrl": "https://img.youtube.com/vi/GIG-BrT2uFE/0.jpg",
+      "videoId": "GIG-BrT2uFE"
+    },
+    {
+      "id": "84",
+      "title": "Lower Learning",
+      "year": 2008,
+      "genre": "Comedy",
+      "description": "Barry Goldwater Elementary is on the brink of collapse: the lowest test scores in the state, teachers who are either drunk or having sex on school grounds, and a principal who extorts money from parents. It's up to Tom, the down-on-his-luck vice-principal, to rally the lazy teachers, expose the principal's corruption, and turn the school around before an end of the day board decision.",
+      "imageUrl": "https://img.youtube.com/vi/6F2dLE9J7x4/0.jpg",
+      "videoId": "6F2dLE9J7x4"
+    },
+    {
+      "id": "85",
+      "title": "Cible",
+      "year": 1997,
+      "genre": "Comedy",
+      "description": "A young French sailor falls in love with a Russian tourist during a passion-filled three-day furlough, but is whisked away for a months worth of submarine duty before he can learn her last name and Moscow address. When he is finally freed again, he embarks upon a search for his lost love. Unfortunately, while his aim is true, his timing is off. His first stop is the broadcast headquarters of a major television network. He arrives shortly before the place blasted apart by a bomb. Later, he goes to the apartment of a noted talk-show host in hopes of receiving air-time during which he will plead for information concerning his lost love. But things don't come out as planned for somehow, the sailor ends up considered the prime suspect in the bombing while the real-life terrorist and his cohort, who happen to be in the same apartment building in hopes of knocking off a crooked judge.",
+      "imageUrl": "https://img.youtube.com/vi/3rCquzVFAGU/0.jpg",
+      "videoId": "3rCquzVFAGU"
+    },
+    {
+      "id": "86",
+      "title": "Jerry & Tom",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+      "imageUrl": "https://img.youtube.com/vi/pSLVU9uyR0U/0.jpg",
+      "videoId": "pSLVU9uyR0U"
+    },
+    {
+      "id": "87",
+      "title": "The Monster Is Her",
+      "year": 1987,
+      "genre": "Comedy",
+      "description": "Count Dracula returns to the world of humans accompanied by Frankenstein's Monster, the Wolfman, the Mummy, and the Gillman. The uglies are in search of a powerful amulet that will grant them the ability to rule the world. A group of horror-loving heroes are the only ones daring to stand in their way.",
+      "imageUrl": "https://img.youtube.com/vi/ocKVykzranQ/0.jpg",
+      "videoId": "ocKVykzranQ"
+    },
+    {
+      "id": "88",
+      "title": "Goût De L'Obsession",
+      "year": 2008,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/hQ4OPrq96dI/0.jpg",
+      "videoId": "hQ4OPrq96dI"
+    },
+    {
+      "id": "89",
+      "title": "One Pilot Vs The Luftwaffe",
+      "year": 2021,
+      "genre": "Comedy",
+      "description": "Short film by Daniel Gautto, originally planned to be a pilot for a series that never came to be.  It was latter dubbed in english and french by Davi Gautto",
+      "imageUrl": "https://img.youtube.com/vi/y0e9vr96Nmc/0.jpg",
+      "videoId": "y0e9vr96Nmc"
+    },
+    {
+      "id": "90",
+      "title": "Duchesse",
+      "year": 1932,
+      "genre": "Comedy",
+      "description": "\"Tu seras duchesse!\" (\"You'll Be a Duchess!\") With these words, self-made industrialist Poisson orders his daughter Lucie to marry a wealthy Duke. The duke's father objects to the union, whereupon Poisson arranges another marriage for his daughter, this time to an impoverished and sickly young marquis. Poisson's strategy runs something like this: the Marquis is expected to die soon, whereupon the widowed Lucie will become a marquess, and thus a worthy bride for the Duke. But the Marquis foils these plans by staging a miraculous recovery. The explanation? The Marquis and Lucie have been in love all along, and this was the only way that they could wed with Poisson's blessing. Darned clever, these Frenchmen!.",
+      "imageUrl": "https://img.youtube.com/vi/kpCJpPl2am0/0.jpg",
+      "videoId": "kpCJpPl2am0"
+    },
+    {
+      "id": "91",
+      "title": "She Heard Her Older Professor Was Getting A Divorce",
+      "year": 2023,
+      "genre": "Comedy",
+      "description": "After the terrifying events of HEARD SHE GOT MARRIED, extremely talented musician Mitch Owens is ready to move on with his life, but before he can achieve the success he deserves, fate intervenes! Now, Mitch must face horrifying secrets from his past, death around every corner, and an officer of the law who will not rest until bloody justice is served.",
+      "imageUrl": "https://img.youtube.com/vi/FfdNoqFAPvU/0.jpg",
+      "videoId": "FfdNoqFAPvU"
+    },
+    {
+      "id": "92",
+      "title": "Slammer Girls",
+      "year": 1987,
+      "genre": "Comedy",
+      "description": "A young girl is framed for a crime she didn't commit and sent to the state penitentiary, which is run by a crooked warden and a corrupt staff. A reporter manages to get herself sent to the prison so she can expose the brutal conditions and prove the girl's innocence.",
+      "imageUrl": "https://img.youtube.com/vi/3MXKTfqM5A0/0.jpg",
+      "videoId": "3MXKTfqM5A0"
+    },
+    {
+      "id": "93",
+      "title": "Bonnes Sœurs",
+      "year": 2017,
+      "genre": "Comedy",
+      "description": "Garfagnana, Italy, 1347. The handsome servant Masseto, fleeing from his vindictive master, takes shelter in a nunnery where three young nuns, Sister Alessandra, Sister Ginevra and Sister Fernanda, try unsuccessfully to find out what their purpose in life is, a conundrum that each of them faces in different ways.",
+      "imageUrl": "https://img.youtube.com/vi/ZCdqOqDOISk/0.jpg",
+      "videoId": "ZCdqOqDOISk"
+    },
+    {
+      "id": "94",
+      "title": "Coincé En Taule",
+      "year": 2018,
+      "genre": "Comedy",
+      "description": "Ajatashatru Lavash Patel has lived all his life in a small Mumbai neighborhood tricking people with street magic and fakir stunts. He sets out on a journey to find his estranged father but instead gets dragged on a never-ending adventure.",
+      "imageUrl": "https://img.youtube.com/vi/V7e4IoAKsjI/0.jpg",
+      "videoId": "V7e4IoAKsjI"
+    },
+    {
+      "id": "95",
+      "title": "School For Scoundrels",
+      "year": 2006,
+      "genre": "Comedy",
+      "description": "In the hope of winning the woman of his dreams, Amanda, lovelorn meter-reader Roger Wadell enrolls in a secret confidence-building class. The course's title takes on much more meaning when he discovers that his egomaniacal professor Dr. P also wants the same woman. They begin a fierce rivalry that quickly spirals out of control, their pranks and insults get uglier as they try to prove who is the ultimate guy's guy.",
+      "imageUrl": "https://img.youtube.com/vi/oBClkITtHpg/0.jpg",
+      "videoId": "oBClkITtHpg"
+    },
+    {
+      "id": "96",
+      "title": "Aluno E Professor",
+      "year": 2017,
+      "genre": "Comedy",
+      "description": "Bernadinho and Pedro are students and face the classic tasks of fulfilling school obligations, taking good grades, being well behaved and complying with school rules, increasingly elaborated thanks to director Ademar. Frustrated, Pedro ends up finding a diary of how to cause chaos in school without being caught, which leads the two friends to follow the tips of the notebook.",
+      "imageUrl": "https://img.youtube.com/vi/Upx2cx3KASg/0.jpg",
+      "videoId": "Upx2cx3KASg"
+    },
+    {
+      "id": "97",
+      "title": "Auf Flucht",
+      "year": 1999,
+      "genre": "Comedy",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/BxuObZCc5X4/0.jpg",
+      "videoId": "BxuObZCc5X4"
+    },
+    {
+      "id": "98",
+      "title": "Crazy For Her",
+      "year": 2005,
+      "genre": "Comedy",
+      "description": "A suicidal comedy about two young lovers who get married and escape from a mental institution in search of new ways to die...and the white light.",
+      "imageUrl": "https://img.youtube.com/vi/i9UJYZAvlDk/0.jpg",
+      "videoId": "i9UJYZAvlDk"
+    },
+    {
+      "id": "99",
+      "title": "Machine À Tuer",
+      "year": 1952,
+      "genre": "Comedy",
+      "description": "In Amalfi, a village on the Italian coast, an old man who seems to have strange powers gives Celestino Esposito, the local photographer, a dangerous ability.",
+      "imageUrl": "https://img.youtube.com/vi/e0OZa0nFJW0/0.jpg",
+      "videoId": "e0OZa0nFJW0"
+    },
+    {
+      "id": "100",
+      "title": "Witless Protection",
+      "year": 2008,
+      "genre": "Comedy",
+      "description": "When a small-town sheriff witnesses what he believes to be an attempted kidnapping, his effort to save the beautiful damsel in distress sets him down a wild path of comic mishap.",
+      "imageUrl": "https://img.youtube.com/vi/s5EvIkIKwR0/0.jpg",
+      "videoId": "s5EvIkIKwR0"
+    }
+  ]
+}

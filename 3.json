@@ -1,0 +1,906 @@
+{
+  "name": "Crime",
+  "description": "Crime filmovi",
+  "items": [
+    {
+      "id": "1",
+      "title": "Asking For Forgiveness",
+      "year": 2020,
+      "genre": "Crime",
+      "description": "A journalist takes justice into her own hands when her internet stalker walks free from the law.",
+      "imageUrl": "https://img.youtube.com/vi/vq2Y-n7k7s0/0.jpg",
+      "videoId": "vq2Y-n7k7s0"
+    },
+    {
+      "id": "2",
+      "title": "Imbatível",
+      "year": 2012,
+      "genre": "Crime",
+      "description": "Based primarily on the first game in the series, Phoenix Wright: Ace Attorney, the film focuses on rookie defense attorney Phoenix Wright, as he strives to protect his clients in various murder trials, including the death of his mentor, Mia Fey, and the accusation of rival prosecutor, Miles Edgeworth. Phoenix's greatest ally is Mia's younger sister Maya, a spirit medium whose body is possessed by Mia to communicate with him.",
+      "imageUrl": "https://img.youtube.com/vi/6IHfDQDJLBw/0.jpg",
+      "videoId": "6IHfDQDJLBw"
+    },
+    {
+      "id": "3",
+      "title": "Shadows In The Storm",
+      "year": 1988,
+      "genre": "Crime",
+      "description": "A daydreaming businessman named Thelonius Pitt takes a vacation in the Redwood Forests of California. The morning after he arrives, he meets a beautiful, mysterious woman named Melanie. She happens to look just like the woman he keeps seeing in his dreams. Thelonius and Melanie meet each other on the shore of a nearby river late at night. Melanie's husband finds them, and attacks Thelonius. Melanie pulls out a pistol and fires 3 shots, knocking her husband's body into the icy river below. The nightmare has begun...",
+      "imageUrl": "https://img.youtube.com/vi/UOkDyVNxSxA/0.jpg",
+      "videoId": "UOkDyVNxSxA"
+    },
+    {
+      "id": "4",
+      "title": "The Time Voyager",
+      "year": 2020,
+      "genre": "Crime",
+      "description": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+      "imageUrl": "https://img.youtube.com/vi/uHGnbriwHAA/0.jpg",
+      "videoId": "uHGnbriwHAA"
+    },
+    {
+      "id": "5",
+      "title": "The Frontier Knight",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "A desperate young woman, on the run from the law, takes a job at a remote desert motel. She quickly discovers the motel's patrons are rendezvousing after a large robbery. With nothing to lose, and all to gain, she hatches a plan to steal their loot.",
+      "imageUrl": "https://img.youtube.com/vi/H3kQhG7Lio0/0.jpg",
+      "videoId": "H3kQhG7Lio0"
+    },
+    {
+      "id": "6",
+      "title": "Charlie Chan'S Secret",
+      "year": 1936,
+      "genre": "Crime",
+      "description": "Allen Colby, heir to a huge fortune, is presumed drowned after an ocean liner sinks off the coast of Honolulu. Mysteriously, Colby reappears at his mansion only to be murdered soon after. When his body is discovered during a seance, everyone in attendance becomes a suspect, and it's up to Chan to find the murderer before he or she strikes again.",
+      "imageUrl": "https://img.youtube.com/vi/GISCWdqOFwI/0.jpg",
+      "videoId": "GISCWdqOFwI"
+    },
+    {
+      "id": "7",
+      "title": "Charlie Chan And The Secret Of The Gold Mine",
+      "year": 1935,
+      "genre": "Crime",
+      "description": "Charlie's visit to Paris, ostensibly a vacation, is really a mission to investigate a bond-forgery racket. But his agent, apache dancer Nardi is killed before she can tell him much. The case, complicated by a false murder accusation for banker's daughter Yvette, climaxes with a strange journey through the Paris sewers.",
+      "imageUrl": "https://img.youtube.com/vi/-vWGYlKd5zU/0.jpg",
+      "videoId": "-vWGYlKd5zU"
+    },
+    {
+      "id": "8",
+      "title": "The Golden Eye",
+      "year": 1948,
+      "genre": "Crime",
+      "description": "A gold mine in Arizona, that was formerly losing a lot of money, suddenly turns into a veritable money-making machine. However, the owner, instead of being happy about his now profitable business, insists to Charlie that something is fishy and that someone is out to murder him. Charlie and his \"crew\" travel to the mine, pretending to be tourists staying at a nearby dude ranch so as not to arouse suspicion, and discover that the owner may well be right--it looks like the mine is being used as a cover for criminal activities, and that someone is indeed out to murder him.",
+      "imageUrl": "https://img.youtube.com/vi/RWkLUmnC1cs/0.jpg",
+      "videoId": "RWkLUmnC1cs"
+    },
+    {
+      "id": "9",
+      "title": "Crime : Elite Girl Assassin Goes Rogue, One-Woman Revenge Massacre Wipes Out Entire Mafia!",
+      "year": 2026,
+      "genre": "Crime",
+      "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "imageUrl": "https://img.youtube.com/vi/lRM65shHpt0/0.jpg",
+      "videoId": "lRM65shHpt0"
+    },
+    {
+      "id": "10",
+      "title": "Vengeance Countdown",
+      "year": 1970,
+      "genre": "Crime",
+      "description": "10 years ago, François Nolan and his brother have been betrayed by one of their accomplices after a break-in. During the fight with the police, Francois's brother was killed, and a cop disfigured by François. Now, François is back for revenge. As nobody knows who the traitor was, the former accomplices lose their head. The disfigured cop is also waiting for the right moment to take his revenge on François.",
+      "imageUrl": "https://img.youtube.com/vi/vZLZrwPSLBM/0.jpg",
+      "videoId": "vZLZrwPSLBM"
+    },
+    {
+      "id": "11",
+      "title": "Innocent Coupable",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "It seemed like a done deal when Adnan Syed was convicted of killing his ex-girlfriend Hae Min Lee in 1999 and thrown into jail for the rest of his life. Maintaining his innocence, Syed languished in prison until journalist Sarah Koenig raised questions that brought his case back to life. Her podcast \"SERIAL\" smashed download records and Syed's case became a national obsession.",
+      "imageUrl": "https://img.youtube.com/vi/60--uV5T83I/0.jpg",
+      "videoId": "60--uV5T83I"
+    },
+    {
+      "id": "12",
+      "title": "[True Crime 1998] Out Of Control : She Stole The Mob'S Millions",
+      "year": 1999,
+      "genre": "Crime",
+      "description": "Boozer, skirt chaser, careless father. You could create your own list of reporter Steve Everett's faults but there's no time. A San Quentin Death Row prisoner is slated to die at midnight – a man Everett has suddenly realized is innocent.",
+      "imageUrl": "https://img.youtube.com/vi/4h0lCQHjkc8/0.jpg",
+      "videoId": "4h0lCQHjkc8"
+    },
+    {
+      "id": "13",
+      "title": "Dame De Pouvoir",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/nRPqEN6zhl4/0.jpg",
+      "videoId": "nRPqEN6zhl4"
+    },
+    {
+      "id": "14",
+      "title": "Never Trust A Stranger In The Middle Of The Ocean",
+      "year": 1951,
+      "genre": "Crime",
+      "description": "A small-time gambler on the run from the law hides in his ex-wife's house.",
+      "imageUrl": "https://img.youtube.com/vi/RStEyY7pm5k/0.jpg",
+      "videoId": "RStEyY7pm5k"
+    },
+    {
+      "id": "15",
+      "title": "Nightmare Visions",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "When 15-year-old Lizzie is kidnapped, her friendly but divorced parents Judith and Martin are devastated. The police can't find the girl but Tracy Spencer comes forward claiming she's a psychic and knows where Lizzie is. Judith is elated, but it soon becomes clear that Tracy has an agenda of her own.",
+      "imageUrl": "https://img.youtube.com/vi/nnlcc25KC98/0.jpg",
+      "videoId": "nnlcc25KC98"
+    },
+    {
+      "id": "16",
+      "title": "Blood For Blood",
+      "year": 1971,
+      "genre": "Crime",
+      "description": "The Akiba and Shimura crime families run the streets of “K City”. With the construction of new buildings and new factories underway, the city has sprouted into a boomtown and business is good. Two of the most infamous mobs of Tokyo want a piece of the pie. As out-of-town yakuza flood the city overnight, the crime boss of the Akiba family, Tezuka (Joe Shishido), is released from prison after a five year sentence. He does not like the \"change\" he sees.",
+      "imageUrl": "https://img.youtube.com/vi/la4I1IryJ3k/0.jpg",
+      "videoId": "la4I1IryJ3k"
+    },
+    {
+      "id": "17",
+      "title": "Phantom Raid",
+      "year": 1940,
+      "genre": "Crime",
+      "description": "In this second Carter mystery, a mysterious rash of cargo ships sinking in Panama leads insurers Llewellyns of London to hire vacationer Nick Carter and his eccentric associate Bartholomew to investigate. Nick recognizes influential nightclub owner Al Taurez as a shady operator, but getting the goods on him depends on slick diversions involving the heavyweight champ of the Pacific Tuna Fleet, a Panamanian bombshell armed with American slang, a young couple in love and a whole raft of crooks and cutthroats.",
+      "imageUrl": "https://img.youtube.com/vi/6d1ObsTCDmQ/0.jpg",
+      "videoId": "6d1ObsTCDmQ"
+    },
+    {
+      "id": "18",
+      "title": "Crime Boss",
+      "year": 1969,
+      "genre": "Crime",
+      "description": "Coming out of jail and hoping for a quiet life, Yokohama yakuza has to take the lead of his gang after the death of his boss. His small group is is taken in a crossfire between a big yakuza group from Osaka at war with the Tokyo alliance for the control of the city. He tries to keep to the old yakuza code but he is no match for the new thugs who live and fight without honor.",
+      "imageUrl": "https://img.youtube.com/vi/jLc3hffkQSs/0.jpg",
+      "videoId": "jLc3hffkQSs"
+    },
+    {
+      "id": "19",
+      "title": "Ma Barker'S Killer Brood",
+      "year": 1960,
+      "genre": "Crime",
+      "description": "Ma Barker and her four sons terrorize the 1930s South and Midwest with a string of kidnappings, robberies and murders, and even get to work with such famous criminals as John Dillinger and Baby Face Nelson.",
+      "imageUrl": "https://img.youtube.com/vi/jNAuxkCCdqo/0.jpg",
+      "videoId": "jNAuxkCCdqo"
+    },
+    {
+      "id": "20",
+      "title": "Brigade Criminelle",
+      "year": 1947,
+      "genre": "Crime",
+      "description": "After the discovery of two murders, Commissioner Chabrier, of the French secret services, is investigating the disappearance of plans affecting the national defense of the country robbed by a gang of international spies.",
+      "imageUrl": "https://img.youtube.com/vi/-IUcITLWjQo/0.jpg",
+      "videoId": "-IUcITLWjQo"
+    },
+    {
+      "id": "21",
+      "title": "Dirty Cop",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "The dirty cop begins with Inspector Relander's cold-blooded murder, which is investigated by the police duo Raittinen (Raunio) and Jokinen (Kulmala). Jack (Tuiskinen), a hard-core member of the Teisko mafia, is also involved in the murder. Behind the assignment is the mysterious Mr. Rönkvist. Is Rönkvist ultimately a man or a myth?",
+      "imageUrl": "https://img.youtube.com/vi/36bvrmgramI/0.jpg",
+      "videoId": "36bvrmgramI"
+    },
+    {
+      "id": "22",
+      "title": "Dark Secret",
+      "year": 1949,
+      "genre": "Crime",
+      "description": "A young couple move into a charming rural cottage. They become fixated upon the mysterious death of the earlier female occupant.",
+      "imageUrl": "https://img.youtube.com/vi/bPqS0nE72eE/0.jpg",
+      "videoId": "bPqS0nE72eE"
+    },
+    {
+      "id": "23",
+      "title": "Mensonge & Suspicion",
+      "year": 2008,
+      "genre": "Crime",
+      "description": "A manipulative mother increases her plotting to stay in control.",
+      "imageUrl": "https://img.youtube.com/vi/YlDINaC62CU/0.jpg",
+      "videoId": "YlDINaC62CU"
+    },
+    {
+      "id": "24",
+      "title": "Joe The King",
+      "year": 1999,
+      "genre": "Crime",
+      "description": "A destitute 14-year-old struggles to keep his life together despite harsh abuse at his mother's hands, harsher abuse at his father's, and a growing separation from his slightly older brother.",
+      "imageUrl": "https://img.youtube.com/vi/WxS-RrntHhg/0.jpg",
+      "videoId": "WxS-RrntHhg"
+    },
+    {
+      "id": "25",
+      "title": "Do Or Die",
+      "year": 2026,
+      "genre": "Crime",
+      "description": "A realtor becomes the target of a dangerous game that threatens his career, his family and his sanity.",
+      "imageUrl": "https://img.youtube.com/vi/4DrcwjpRmuw/0.jpg",
+      "videoId": "4DrcwjpRmuw"
+    },
+    {
+      "id": "26",
+      "title": "The Secret In Room 508",
+      "year": 2015,
+      "genre": "Crime",
+      "description": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+      "imageUrl": "https://img.youtube.com/vi/k7zmDR9Gf0Y/0.jpg",
+      "videoId": "k7zmDR9Gf0Y"
+    },
+    {
+      "id": "27",
+      "title": "Wall Street Prodigy",
+      "year": 2013,
+      "genre": "Crime",
+      "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "imageUrl": "https://img.youtube.com/vi/Y-W_jejLv8U/0.jpg",
+      "videoId": "Y-W_jejLv8U"
+    },
+    {
+      "id": "28",
+      "title": "Full Contact",
+      "year": 1992,
+      "genre": "Crime",
+      "description": "In an effort to get his buddy out of a gambling debt, Jeff agrees to join forces with Judge in a weapons heist. The job goes bad and Judge betrays Jeff. Jeff plots the ultimate revenge on Judge and his followers and it is a question of whether he can follow through with his plan.",
+      "imageUrl": "https://img.youtube.com/vi/jUKJyYda2SA/0.jpg",
+      "videoId": "jUKJyYda2SA"
+    },
+    {
+      "id": "29",
+      "title": "Dahmer : Naissance D’Tueur",
+      "year": 2002,
+      "genre": "Crime",
+      "description": "On February 15, 1992 in Milwaukee, Wisconsin, Jeffrey Dahmer, one of the world's most infamous serial killers, was convicted of 15 counts of murder and sentenced to 937 years in federal prison. This movie is based on events from his life.",
+      "imageUrl": "https://img.youtube.com/vi/FJa1FWWg7z0/0.jpg",
+      "videoId": "FJa1FWWg7z0"
+    },
+    {
+      "id": "30",
+      "title": "Her Daughter Died Of Cancer, She Doesn'T Know How To Cope",
+      "year": 2025,
+      "genre": "Crime",
+      "description": "When a worn-down detective, ready to reconcile with his daughter, takes on one final case, he discovers that the truth hits harder than he ever could've imagined.",
+      "imageUrl": "https://img.youtube.com/vi/mJnIvWi8kc4/0.jpg",
+      "videoId": "mJnIvWi8kc4"
+    },
+    {
+      "id": "31",
+      "title": "The Underground Mankind",
+      "year": 1994,
+      "genre": "Crime",
+      "description": "A man's family is torn apart when his wife takes a loan from a loan shark who will stop at nothing to get his money back.",
+      "imageUrl": "https://img.youtube.com/vi/J0C_vMvODFs/0.jpg",
+      "videoId": "J0C_vMvODFs"
+    },
+    {
+      "id": "32",
+      "title": "7 Strangers Are Trapped In A Deadly Cubic Labyrinth. Only One Way Out",
+      "year": 1972,
+      "genre": "Crime",
+      "description": "A building superintendent and his wife are held hostage in their apartment by a sadistic would-be bank robber and his spaced-out accomplices.",
+      "imageUrl": "https://img.youtube.com/vi/X5erIGzt9ak/0.jpg",
+      "videoId": "X5erIGzt9ak"
+    },
+    {
+      "id": "33",
+      "title": "Whisper Kill",
+      "year": 1988,
+      "genre": "Crime",
+      "description": "Ambitious reporter, Liz Bartlett, secretly wishes that Jerry Caper, her business associate were dead. Yet her hidden desire soon becomes a reality when he is brutally murdered. Investigative reporter, Dan Walker is assigned to the murder case and becomes intrigued by the pretty reporter. they begin a passionate affair but Dan can't dispel his suspicion of Liz's guilt. When a second murder is commited, Dan probes deeper, looking for clues in Liz's past. But just as the pieces of the puzzle begin to fall into place, Dan follows a lead, bringing him face to face with the killer in a shocking ending, filled with suspense.",
+      "imageUrl": "https://img.youtube.com/vi/k6VSkVFvXRw/0.jpg",
+      "videoId": "k6VSkVFvXRw"
+    },
+    {
+      "id": "34",
+      "title": "Written In Blood",
+      "year": 2003,
+      "genre": "Crime",
+      "description": "Detective John Traveller (Peter Coyote) is convicted of the murder of his wife and her lover. His partner and friend, Detective Matthew Ransom, becomes very upset, affecting his marriage that was not working well. The lover of John's wife was the son of Luke Williams, a detective of the same department, and he does not accept the death of his son. After the trial and conviction of John, Matthew separates from his wife Mary Ramson, being sexually arrested by John's daughter Jude. Meanwhile, a serial killer kills the enemies of John, leaving clues in the crime scenes relatives to Sherlock Holmes tales and Matthew suspects of Jude.",
+      "imageUrl": "https://img.youtube.com/vi/zQ_LxsnqFyk/0.jpg",
+      "videoId": "zQ_LxsnqFyk"
+    },
+    {
+      "id": "35",
+      "title": "Crime Pays",
+      "year": 1936,
+      "genre": "Crime",
+      "description": "In this MGM Crime Does Not Pay series short, a protection racket preying on milk distribution is broken through the persistence of law enforcement and the courage of a local businessman.",
+      "imageUrl": "https://img.youtube.com/vi/MWBwcc2RLAU/0.jpg",
+      "videoId": "MWBwcc2RLAU"
+    },
+    {
+      "id": "36",
+      "title": "School Of Death",
+      "year": 1975,
+      "genre": "Crime",
+      "description": "Girls of a corrupt orphanage are being sold by the sadistic matrons to a badly disfigured doctor. His sinister motive is to use the girls as guinea pigs in his experimental brain surgeries.",
+      "imageUrl": "https://img.youtube.com/vi/lJK1ldLPS2o/0.jpg",
+      "videoId": "lJK1ldLPS2o"
+    },
+    {
+      "id": "37",
+      "title": "Police Station Terror",
+      "year": 2023,
+      "genre": "Crime",
+      "description": "A group of four youngsters band together to eliminate a police officer and a notorious gangster who are responsible for the death of their friend. But they are left baffled when someone else does the job for them.",
+      "imageUrl": "https://img.youtube.com/vi/YTLc_VL_S3g/0.jpg",
+      "videoId": "YTLc_VL_S3g"
+    },
+    {
+      "id": "38",
+      "title": "Prix De Trahison",
+      "year": 2022,
+      "genre": "Crime",
+      "description": "Captain Marie Jourdan invites her friend Commandant Paul Danceny to celebrate her 30th anniversary at the restaurant her husband Pierre just opened. The party is brutally interrupted when agents come to arrest their son Marc for murder.",
+      "imageUrl": "https://img.youtube.com/vi/dqSrRwuH0ug/0.jpg",
+      "videoId": "dqSrRwuH0ug"
+    },
+    {
+      "id": "39",
+      "title": "Chambre Des Morts",
+      "year": 2007,
+      "genre": "Crime",
+      "description": "While on a joyride with the headlights turned off, two men hit and kill another man carrying a satchel full of money. The two men decide to take the money and throw the body into a pond and bury the money in a coal hill. The next morning the police discover the body of a kidnapped 12-year blind girl, Melody, in a warehouse near the site of the hit-and-run. They determine that the kidnapper saw the girl's father bringing the ransom to him and also witnessed the hit-and-run and the men stealing the ransom.",
+      "imageUrl": "https://img.youtube.com/vi/nmcxSIzFZR8/0.jpg",
+      "videoId": "nmcxSIzFZR8"
+    },
+    {
+      "id": "40",
+      "title": "True Crime Victims",
+      "year": 1999,
+      "genre": "Crime",
+      "description": "Boozer, skirt chaser, careless father. You could create your own list of reporter Steve Everett's faults but there's no time. A San Quentin Death Row prisoner is slated to die at midnight – a man Everett has suddenly realized is innocent.",
+      "imageUrl": "https://img.youtube.com/vi/WjR1irXegTU/0.jpg",
+      "videoId": "WjR1irXegTU"
+    },
+    {
+      "id": "41",
+      "title": "Crime À Medellin",
+      "year": 2006,
+      "genre": "Crime",
+      "description": "Vincent's life is on hold until he finds his wife's killer. Alice, his neighbor, is convinced she can make him happy. She decides to invent a culprit, so that Vincent can find revenge and leave the past behind. But there is no ideal culprit and no perfect crime.",
+      "imageUrl": "https://img.youtube.com/vi/6LlE5MgSDrQ/0.jpg",
+      "videoId": "6LlE5MgSDrQ"
+    },
+    {
+      "id": "42",
+      "title": "5 Hours To Survive: The Great Solar Flare 🌍🔥",
+      "year": 1997,
+      "genre": "Crime",
+      "description": "Joseph Grange (Giancarlo Esposito), an unstable fugitive from the law, bursts into the home of suburban housewife Claire Ballard (Sharon Lawrence), and an intense hostage drama begins. Desperate to save her life, Claire initiates a dialogue with Grange as a trigger-happy SWAT team waits outside poised to storm the house. Claire, herself the product of a troubled past, begins to identify with the tormented Grange and, over five tension-filled hours, victim and captor forge an unlikely bond.",
+      "imageUrl": "https://img.youtube.com/vi/-Bdx_bcgWAY/0.jpg",
+      "videoId": "-Bdx_bcgWAY"
+    },
+    {
+      "id": "43",
+      "title": "Human Target",
+      "year": 1971,
+      "genre": "Crime",
+      "description": "At midnight, Yamabe, a killer, escapes from prison. Two years before, bribed by a narcotic smuggler, Yamabe killed a real estate broker. As he was being arrested by detective Negoro, the detective's bullet struck Sakuko, Yamabe's girl friend who attempted to protect him, and crippled her. When Yamabe was sent to prison, Negoro cared for her and they fell in love. Sakuko asked him to marry her, but Negoro was reluctant to take the killer's sweetheart from him. Learning of the relationship of his girl friend and the detective, Yamabe had pledged revenge.",
+      "imageUrl": "https://img.youtube.com/vi/pSqnV7R3q9k/0.jpg",
+      "videoId": "pSqnV7R3q9k"
+    },
+    {
+      "id": "44",
+      "title": "Killing Salazar: The Silent Mission",
+      "year": 2017,
+      "genre": "Crime",
+      "description": "An elite team of DEA agents are assigned to protect a dangerous drug lord and take refuge in a luxury hotel while they await extraction. They soon find themselves at the center of an ambush as the drug lord's former associates launch an explosive assault on the hotel.",
+      "imageUrl": "https://img.youtube.com/vi/c96RjfRh4sI/0.jpg",
+      "videoId": "c96RjfRh4sI"
+    },
+    {
+      "id": "45",
+      "title": "Mauvaise Graine",
+      "year": 1934,
+      "genre": "Crime",
+      "description": "A young man-about-Paris, cut off from his father's money, falls in with a picaresque gang of car thieves.",
+      "imageUrl": "https://img.youtube.com/vi/i7eXIqtycic/0.jpg",
+      "videoId": "i7eXIqtycic"
+    },
+    {
+      "id": "46",
+      "title": "The Homeless Veteran",
+      "year": 1974,
+      "genre": "Crime",
+      "description": "Two inmates are simultaneously released from jail, but go their separate ways, only to cross paths again in the nearest brothel. There they make the acquaintance of a would-be prostitute. They help her escape and decide to guide her on her quest for sunken contraband somewhere off the coast.",
+      "imageUrl": "https://img.youtube.com/vi/_7ZLkRRzf-Q/0.jpg",
+      "videoId": "_7ZLkRRzf-Q"
+    },
+    {
+      "id": "47",
+      "title": "The Sin Of Nora Moran",
+      "year": 1933,
+      "genre": "Crime",
+      "description": "Nora Moran, a young woman with a difficult and tragic past, is sentenced to die for a murder that she did not commit. She could easily reveal the truth and save her own life, if only it would not damage the lives, careers and reputations of those whom she loves.",
+      "imageUrl": "https://img.youtube.com/vi/NuY-0uaGfjE/0.jpg",
+      "videoId": "NuY-0uaGfjE"
+    },
+    {
+      "id": "48",
+      "title": "Dead Sea",
+      "year": 2024,
+      "genre": "Crime",
+      "description": "Stranded in the open sea after a fatal accident, a young woman and her two friends are rescued by a fishing vessel's captain, unaware that the ship harbors a chilling secret.",
+      "imageUrl": "https://img.youtube.com/vi/R8ec8hG83Bo/0.jpg",
+      "videoId": "R8ec8hG83Bo"
+    },
+    {
+      "id": "49",
+      "title": "The Last Shot",
+      "year": 2025,
+      "genre": "Crime",
+      "description": "Petch wants out of the assassin's life, but escaping the past isn't easy. Torn between love, loyalty, and revenge, he's forced into one last job. With every shot, the stakes rise—his future and freedom rest on the final bullet.",
+      "imageUrl": "https://img.youtube.com/vi/NF-lyHFhqpc/0.jpg",
+      "videoId": "NF-lyHFhqpc"
+    },
+    {
+      "id": "50",
+      "title": "Un Crime Sans Trace",
+      "year": 1993,
+      "genre": "Crime",
+      "description": "\"Un Crime\" takes place over a single night, between 10pm and 6am. It takes place in a single setting - a millionaire's apartment in Lyon. The film is about the conflict between two men, alone, face to face in the closed world of the apartment. The first man is a famous lawyer named Dunand. The second is Frédéric Chapelin-Tourvel, Dunand's rich client, twenty years his junior. Throughout the night, Dunand tries to track down the truth. Did Frédéric kill his father and mother, in particularly barbarous circumstances ?",
+      "imageUrl": "https://img.youtube.com/vi/aAmf_P_mljk/0.jpg",
+      "videoId": "aAmf_P_mljk"
+    },
+    {
+      "id": "51",
+      "title": "Cure Of The Dead",
+      "year": 1997,
+      "genre": "Crime",
+      "description": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo.",
+      "imageUrl": "https://img.youtube.com/vi/rFfxSXbVp5Q/0.jpg",
+      "videoId": "rFfxSXbVp5Q"
+    },
+    {
+      "id": "52",
+      "title": "Passion'S Web",
+      "year": 2007,
+      "genre": "Crime",
+      "description": "Janet, a prison psychologist for potential parolees, finds herself drawn to Robert Moss, an inmate convicted of a bank robbery. After his release she and Moss begin a heated affair, but as he struggles to adjust to life \"on the outside,\" someone is murdered. Will Janet turn in her dangerous lover before she becomes his next victim?",
+      "imageUrl": "https://img.youtube.com/vi/xHbtUD8-wSY/0.jpg",
+      "videoId": "xHbtUD8-wSY"
+    },
+    {
+      "id": "53",
+      "title": "Hollywood Confidential",
+      "year": 2008,
+      "genre": "Crime",
+      "description": "Two Hollywood detectives get involved with tracking down white slavery, narcotics and corruption.",
+      "imageUrl": "https://img.youtube.com/vi/H0n_afpuPqk/0.jpg",
+      "videoId": "H0n_afpuPqk"
+    },
+    {
+      "id": "54",
+      "title": "Ed Mc Bain'S 87Th Precinct : Ice",
+      "year": 1996,
+      "genre": "Crime",
+      "description": "Once she'd been a dancer. Now she lies on a sidewalk, her blood seeping into the snow. The detectives of the 87th precinct are learning about ice: in a mulitimillion dollar showbiz scam, in the glittering diamonds that spill out of a dead man's vest, in the veins of a small time pusher. As the detectives scramble for evidence, as the city shivers, a killer is one step ahead, and the heat is still on.",
+      "imageUrl": "https://img.youtube.com/vi/Yurd01O3f1c/0.jpg",
+      "videoId": "Yurd01O3f1c"
+    },
+    {
+      "id": "55",
+      "title": "Règlement De Comptes",
+      "year": 2000,
+      "genre": "Crime",
+      "description": "Based on a true story, a veteran narcotics officer takes on a case that could cost him his life.",
+      "imageUrl": "https://img.youtube.com/vi/cma0WM5IjLY/0.jpg",
+      "videoId": "cma0WM5IjLY"
+    },
+    {
+      "id": "56",
+      "title": "The Raven Protocol",
+      "year": 2012,
+      "genre": "Crime",
+      "description": "A fictionalized account of the last days of Edgar Allan Poe's life, in which the poet is in pursuit of a serial killer whose murders mirror those in the writer's stories.",
+      "imageUrl": "https://img.youtube.com/vi/STB0BquJy8k/0.jpg",
+      "videoId": "STB0BquJy8k"
+    },
+    {
+      "id": "57",
+      "title": ". Deadline",
+      "year": 1952,
+      "genre": "Crime",
+      "description": "With three days before his paper folds, a crusading editor tries to expose a vicious gangster.",
+      "imageUrl": "https://img.youtube.com/vi/ImC1SeVi1ws/0.jpg",
+      "videoId": "ImC1SeVi1ws"
+    },
+    {
+      "id": "58",
+      "title": "Mort En Orbite",
+      "year": 1957,
+      "genre": "Crime",
+      "description": "In 1950 Saigon Paul Horcier, a young Frenchman is on the run for currency trafficking. A Eurasian woman he meets takes him to shelter in a village in No man's land between the French forces and the Viet Minh. He grows to have enormous empathy with the locals and their poor living conditions. He ultimately lays down his life on their behalf.",
+      "imageUrl": "https://img.youtube.com/vi/yPVK39qckmY/0.jpg",
+      "videoId": "yPVK39qckmY"
+    },
+    {
+      "id": "59",
+      "title": "No Mercy In The Western",
+      "year": 2010,
+      "genre": "Crime",
+      "description": "A forensic pathologist is about to retire in order to spend some time with his daughter. However, he is forced to continue working when his daughter is kidnapped.",
+      "imageUrl": "https://img.youtube.com/vi/o8_UxQS9r_Y/0.jpg",
+      "videoId": "o8_UxQS9r_Y"
+    },
+    {
+      "id": "60",
+      "title": "Born To Eliminate",
+      "year": 2025,
+      "genre": "Crime",
+      "description": "In 1980s Bangkok, a wily thief stages a series of daring heists, baffling the authorities and the public — until one cop sets out to take him down.",
+      "imageUrl": "https://img.youtube.com/vi/J5eV1fROZUI/0.jpg",
+      "videoId": "J5eV1fROZUI"
+    },
+    {
+      "id": "61",
+      "title": "Assassin'S Fall",
+      "year": 2014,
+      "genre": "Crime",
+      "description": "At the beginning of 2000, the young commissioner Yvonne Weber moved from Frankfurt am Main to Eisenach. Together with the local colleague Frank Wolf, she is to review an unresolved murder case from the GDR era. The investigation team encounters inconsistencies in the file and it becomes clear that there is no interest in truth-clarifying the Eisenach department and the prosecutor's office in Gotha.",
+      "imageUrl": "https://img.youtube.com/vi/tEUteRXb9YA/0.jpg",
+      "videoId": "tEUteRXb9YA"
+    },
+    {
+      "id": "62",
+      "title": "Une Flic Traquée",
+      "year": 1972,
+      "genre": "Crime",
+      "description": "Campana, a commissar at the drugs bureau of Paris police gets an undercover job in Nice to catch an Italian-French mafia boss. As he slips into the identity of a gangster's brother, who was already killed, he has to play the role of a loving husband with child - something that is not so easy for a confirmed single like Campana. Unfortunately American killers chase behind the Nice mafia clan too, in order to get control of French drug trades to USA.",
+      "imageUrl": "https://img.youtube.com/vi/DBJ7wLgDg7s/0.jpg",
+      "videoId": "DBJ7wLgDg7s"
+    },
+    {
+      "id": "63",
+      "title": "Sentenced To Die",
+      "year": 1989,
+      "genre": "Crime",
+      "description": "After being fired by his penny-pinching boss, Wai and his two life-long friends decide to kidnap and ransom his son. The situation spirals out of control after the boy is accidentally killed as a result. Based on a true story.",
+      "imageUrl": "https://img.youtube.com/vi/N9DH215bw6g/0.jpg",
+      "videoId": "N9DH215bw6g"
+    },
+    {
+      "id": "64",
+      "title": "L'Ombre Du Bienfaiteur",
+      "year": 2005,
+      "genre": "Crime",
+      "description": "The Inspector (Youssef) and his colleague Morad begin to investigate the attempt to unravel the mystery of the five crimes. Ibelieving that this is a complex series of crimes. However, as the investigation progresses, doubts begin to arise regarding the possible involvement of his colleague Murad in this series of crimes. Is he really the real criminal? Was he able to mislead justice?  Or is the offender free outside ?",
+      "imageUrl": "https://img.youtube.com/vi/IUBNcGLkL7A/0.jpg",
+      "videoId": "IUBNcGLkL7A"
+    },
+    {
+      "id": "65",
+      "title": "The Thief'S Sentence",
+      "year": 2016,
+      "genre": "Crime",
+      "description": "Valencia, Spain. On a rainy morning, six armed men in disguise assault a bank. But what seemed like an easy heist, quickly goes wrong with nothing unfolding as planned, and mistrust quickly builds between the two leaders of the gang.",
+      "imageUrl": "https://img.youtube.com/vi/BB3iRhgIFzU/0.jpg",
+      "videoId": "BB3iRhgIFzU"
+    },
+    {
+      "id": "66",
+      "title": "Tokyo Murders",
+      "year": 1958,
+      "genre": "Crime",
+      "description": "Four taxi drivers are found dead in four days. Suddenly, a taxi, trying to avoid hitting a patrol car, veers off and hits a tree. Three men run out and escape. From inside the truck comes the body of the taxi driver.",
+      "imageUrl": "https://img.youtube.com/vi/clzLZMAwJRE/0.jpg",
+      "videoId": "clzLZMAwJRE"
+    },
+    {
+      "id": "67",
+      "title": "Coupable",
+      "year": 2008,
+      "genre": "Crime",
+      "description": "When the dead body of Mr Kaplan is found, a kitchen knife in the back, all eyes turn to the maid. When the widow reveals that her departed husband was incapable of giving her children, all eyes turn to the widow. Beneath this passionate crime, a modern day detective will discover that temptation, devotion, remorse and desire are the best fuels for killing love.",
+      "imageUrl": "https://img.youtube.com/vi/u5L2h9N3xlE/0.jpg",
+      "videoId": "u5L2h9N3xlE"
+    },
+    {
+      "id": "68",
+      "title": "A Prize Of Arms",
+      "year": 1962,
+      "genre": "Crime",
+      "description": "A criminal gang sets out to pull off the heist of a large army payroll.",
+      "imageUrl": "https://img.youtube.com/vi/sAh5le4xeAE/0.jpg",
+      "videoId": "sAh5le4xeAE"
+    },
+    {
+      "id": "69",
+      "title": "Eyes Of Fear",
+      "year": 1971,
+      "genre": "Crime",
+      "description": "Against a backdrop of Swingin' 60s London a young playboy type \"steals\" a beautiful Italian girl from her elderly date and suggests she comes back to his place for some good times. \"His place\" being owned by his father, a rich and respected solicitor. Unfortunately a couple of criminals have plans of their own, one for money, the other for revenge, and the lovers end up prisoners in a tense siege situation",
+      "imageUrl": "https://img.youtube.com/vi/Zurrn0Ofvdo/0.jpg",
+      "videoId": "Zurrn0Ofvdo"
+    },
+    {
+      "id": "70",
+      "title": "Gang War",
+      "year": 1940,
+      "genre": "Crime",
+      "description": "Two mobs fight for control of the jukebox racket.",
+      "imageUrl": "https://img.youtube.com/vi/oi_WbvUR9NY/0.jpg",
+      "videoId": "oi_WbvUR9NY"
+    },
+    {
+      "id": "71",
+      "title": "Eye Witness",
+      "year": 2021,
+      "genre": "Crime",
+      "description": "Surf the channels of Eye Witness. An anthology short presented by Saturn Diamond. Each channel shows off a different short by the Auteur displaying his style and taste in filmmaking.",
+      "imageUrl": "https://img.youtube.com/vi/mKtmv1ho5SE/0.jpg",
+      "videoId": "mKtmv1ho5SE"
+    },
+    {
+      "id": "72",
+      "title": "Neue Rekrut",
+      "year": 2017,
+      "genre": "Crime",
+      "description": "In this family-friendly action reboot of the 1993 film, Karina Foley, an ambitious and spunky 12-year-old, inserts herself in a police investigation of the Badge Bandit, led by the grizzled, veteran detective Mark Simmons. Much to Simmons' disapproval, Karina partners up with him to stop the Badge Bandit from further wreaking havoc on the city. Through wit, skill, and green smoothies, Karina and Detective Simmons save the day and build a strong relationship in the process.",
+      "imageUrl": "https://img.youtube.com/vi/cF1fXmXl5EU/0.jpg",
+      "videoId": "cF1fXmXl5EU"
+    },
+    {
+      "id": "73",
+      "title": "Piégée",
+      "year": 2001,
+      "genre": "Crime",
+      "description": "After a one-night fling, Florence Lacaze, a married woman, finds her lover's dead body in a hotel bathroom. Drawn into a hunt by police, Florence is forced to defend herself and uncover the awful truth.",
+      "imageUrl": "https://img.youtube.com/vi/6RRX39FtluQ/0.jpg",
+      "videoId": "6RRX39FtluQ"
+    },
+    {
+      "id": "74",
+      "title": "Housewife On Trial",
+      "year": 1991,
+      "genre": "Crime",
+      "description": "In a gritty coastal town, scandal and perverse desire ignite a relentless spiral of illicit encounters. The tale centers on Tamayo Mochizuki, a married woman whose secret trysts with her lover Yoshiyuki unfold in a secluded, rocky cove—while a group of lecherous onlookers spy with voyeuristic glee, tossing crude, provocative remarks. As passion intensifies, the rendezvous devolves into a chaotic melee of lust, sex and betrayal; what begins as daring escapades quickly darkens into brutal power plays where forbidden desire and violence blur. Amid raucous seaside parties and seething rivalries, erotic debauchery unravels in a night marked by twisted seduction, intense sexual acts, shocking coercion, and the irrevocable shattering of lives by uncontrolled, corrupt passion.",
+      "imageUrl": "https://img.youtube.com/vi/fBWeAnXGyD0/0.jpg",
+      "videoId": "fBWeAnXGyD0"
+    },
+    {
+      "id": "75",
+      "title": "Killer Instinct",
+      "year": 1992,
+      "genre": "Crime",
+      "description": "An up and coming lawyer gets turned over for a case he'd been working on for a long while. The D.A.'s niece then decides to help the young lawyer by first blackmailing, then eventually plotting the murder of the D.A., all the while seducing the young attorney. It then becomes the attorney job to cover up the murder he believes he committed, while finding out the truth about the D.A.'s \"niece\".",
+      "imageUrl": "https://img.youtube.com/vi/4m-r3lmUg40/0.jpg",
+      "videoId": "4m-r3lmUg40"
+    },
+    {
+      "id": "76",
+      "title": "A Dangerous Kindness",
+      "year": 1980,
+      "genre": "Crime",
+      "description": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts.",
+      "imageUrl": "https://img.youtube.com/vi/n0en1OkWqms/0.jpg",
+      "videoId": "n0en1OkWqms"
+    },
+    {
+      "id": "77",
+      "title": "The Streets Of La Are About To Get A Lot Colder",
+      "year": 1984,
+      "genre": "Crime",
+      "description": "Undercover cops Wreade & Grozzo (Beck & Orbach) are searching for the identity of a gang leader who is selling handguns to people for their self protection. Unfortunately the guns are lethal to those who use them",
+      "imageUrl": "https://img.youtube.com/vi/XRCeQlTD3mY/0.jpg",
+      "videoId": "XRCeQlTD3mY"
+    },
+    {
+      "id": "78",
+      "title": "Bulldozer",
+      "year": 2022,
+      "genre": "Crime",
+      "description": "A former 'tough guy' is pulled back into the world he wanted to leave behind after his girlfriend is kidnapped. His choice; do the job or she dies. He's about to show why they call him 'Bulldozer'.",
+      "imageUrl": "https://img.youtube.com/vi/SQTQkV0UrWM/0.jpg",
+      "videoId": "SQTQkV0UrWM"
+    },
+    {
+      "id": "79",
+      "title": "Légitime Défense",
+      "year": 1980,
+      "genre": "Crime",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/Ttj0rS77P3w/0.jpg",
+      "videoId": "Ttj0rS77P3w"
+    },
+    {
+      "id": "80",
+      "title": "Longue Peine Avec Romane Bohringer",
+      "year": 2011,
+      "genre": "Crime",
+      "description": "No description.",
+      "imageUrl": "https://img.youtube.com/vi/hZ6oGxVs3LI/0.jpg",
+      "videoId": "hZ6oGxVs3LI"
+    },
+    {
+      "id": "81",
+      "title": "A Dream Job Turns Deadly When The Mansion Doors Lock",
+      "year": 2000,
+      "genre": "Crime",
+      "description": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+      "imageUrl": "https://img.youtube.com/vi/Ts0gQodmI0g/0.jpg",
+      "videoId": "Ts0gQodmI0g"
+    },
+    {
+      "id": "82",
+      "title": "Ned Blessing",
+      "year": 1992,
+      "genre": "Crime",
+      "description": "A haggard cowboy reflects upon his life while awaiting his death.",
+      "imageUrl": "https://img.youtube.com/vi/OURol4n8ubU/0.jpg",
+      "videoId": "OURol4n8ubU"
+    },
+    {
+      "id": "83",
+      "title": "Hollywood Confidential",
+      "year": 2008,
+      "genre": "Crime",
+      "description": "Two Hollywood detectives get involved with tracking down white slavery, narcotics and corruption.",
+      "imageUrl": "https://img.youtube.com/vi/bikPKObR6Qo/0.jpg",
+      "videoId": "bikPKObR6Qo"
+    },
+    {
+      "id": "84",
+      "title": "Jeu De Vengeance",
+      "year": 2001,
+      "genre": "Crime",
+      "description": "Mikael, Skip and P'tit Louis are planning a big job. In his car, Michael pulls out his hair by making P'tit Louis repeat the insults that he will have to utter to Perron's secretary. Perron (Miki Manojlovic) is the producer they have come to bully for ignoring their script seven times in a row. The three guys have a grudge against the entire film industry. What they are looking for is a minimum of interest in their plot, a deign to read their script. So they take the producer and his daughter hostage, then demand a TV crew to make their demands known.",
+      "imageUrl": "https://img.youtube.com/vi/KPUHd0ICaNw/0.jpg",
+      "videoId": "KPUHd0ICaNw"
+    },
+    {
+      "id": "85",
+      "title": "Piège Du Mal",
+      "year": 2006,
+      "genre": "Crime",
+      "description": "A discreet nature photographer interrupts a motley crew of mafiosi, in a remote mountain area. The clash of these two worlds brings back an unsolicited dark past. The prey will become the hunter.",
+      "imageUrl": "https://img.youtube.com/vi/yC7t_i6K0DI/0.jpg",
+      "videoId": "yC7t_i6K0DI"
+    },
+    {
+      "id": "86",
+      "title": "The Past Strikes Back",
+      "year": 1948,
+      "genre": "Crime",
+      "description": "A gang hold a family hostage in their own home. The leader of the escaped cons is bothered by a recurring dream that the doctor of the house may be able to analyze.",
+      "imageUrl": "https://img.youtube.com/vi/ps_lqWviNSw/0.jpg",
+      "videoId": "ps_lqWviNSw"
+    },
+    {
+      "id": "87",
+      "title": "In Cold Blood",
+      "year": 1967,
+      "genre": "Crime",
+      "description": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+      "imageUrl": "https://img.youtube.com/vi/Hnb3Vpe2cqA/0.jpg",
+      "videoId": "Hnb3Vpe2cqA"
+    },
+    {
+      "id": "88",
+      "title": "Condenado Por Amor",
+      "year": 1987,
+      "genre": "Crime",
+      "description": "Martin, an I.R.A. hitman, is seen by a Catholic priest while carrying out a hit. He grows a bond with the priest and his niece. But his past and his former employers put all their lives in danger.",
+      "imageUrl": "https://img.youtube.com/vi/8NHI6bPOYIY/0.jpg",
+      "videoId": "8NHI6bPOYIY"
+    },
+    {
+      "id": "89",
+      "title": "Dishonored Lady",
+      "year": 1947,
+      "genre": "Crime",
+      "description": "Art editor Madeleine Damian carries on numerous loveless affairs. After a failed relationship with advertiser Felix Courtland, the increasingly depressed Madeleine attempts suicide. When Jack Garet, her secretary and former lover, tries to blackmail her, Madeleine resigns and seeks a reclusive life. Neighbor David Cousins befriends Madeleine, but soon Courtland and Garet discover her whereabouts and disrupt her new life.",
+      "imageUrl": "https://img.youtube.com/vi/d2-DisB8lTU/0.jpg",
+      "videoId": "d2-DisB8lTU"
+    },
+    {
+      "id": "90",
+      "title": "Suspected Of The Worst",
+      "year": 2024,
+      "genre": "Crime",
+      "description": "A former police officer gets dragged into a game of cat and mouse initiated by an intelligent killer to punish criminals outside the law.",
+      "imageUrl": "https://img.youtube.com/vi/7UOK8BohYxU/0.jpg",
+      "videoId": "7UOK8BohYxU"
+    },
+    {
+      "id": "91",
+      "title": "Cazador De Cocodrilos",
+      "year": 1983,
+      "genre": "Crime",
+      "description": "A retired police officer looks for revenge after his family is attacked by a gang of criminals.",
+      "imageUrl": "https://img.youtube.com/vi/Y5zLWzN7fEE/0.jpg",
+      "videoId": "Y5zLWzN7fEE"
+    },
+    {
+      "id": "92",
+      "title": "The Limey",
+      "year": 1999,
+      "genre": "Crime",
+      "description": "The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to avenge his daughter's death. Upon arrival, Wilson goes to task battling Valentine and an army of L.A.'s toughest criminals, hoping to find clues and piece together what happened. After surviving a near-death beating, getting thrown from a building and being chased down a dangerous mountain road, the Englishman decides to dole out some bodily harm of his own.",
+      "imageUrl": "https://img.youtube.com/vi/HpzDKrTAyME/0.jpg",
+      "videoId": "HpzDKrTAyME"
+    },
+    {
+      "id": "93",
+      "title": "The Army Experiment",
+      "year": 2021,
+      "genre": "Crime",
+      "description": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+      "imageUrl": "https://img.youtube.com/vi/FZLUqivpVeU/0.jpg",
+      "videoId": "FZLUqivpVeU"
+    },
+    {
+      "id": "94",
+      "title": "Ricochet",
+      "year": 1991,
+      "genre": "Crime",
+      "description": "An attorney is terrorized by the criminal he put away years ago when he was a cop.",
+      "imageUrl": "https://img.youtube.com/vi/hnT66Z-lBIY/0.jpg",
+      "videoId": "hnT66Z-lBIY"
+    },
+    {
+      "id": "95",
+      "title": "A Talented Fraud",
+      "year": 1983,
+      "genre": "Crime",
+      "description": "Captain Exner solves another detective mystery - this time while he's on vacation. The most elegant of Czech crime novelists has chosen a quiet town called Opolná as his place of well-deserved rest. But just as he arrives, the local shoemaker Rambousek, a famous (and wealthy) naive painter, is murdered.",
+      "imageUrl": "https://img.youtube.com/vi/WFPbS1S3EbA/0.jpg",
+      "videoId": "WFPbS1S3EbA"
+    },
+    {
+      "id": "96",
+      "title": "Disparus De Mer Du Nord",
+      "year": 2018,
+      "genre": "Crime",
+      "description": "A man is found hanged after being brutally attacked. Two brothers, one a local cop, the other a military policeman, have to work together. Fifteen years earlier, their father was killed in a tragic accident that killed fourteen workers.",
+      "imageUrl": "https://img.youtube.com/vi/pHAWIvzPzhE/0.jpg",
+      "videoId": "pHAWIvzPzhE"
+    },
+    {
+      "id": "97",
+      "title": "The Man Who Cheated Himself",
+      "year": 1950,
+      "genre": "Crime",
+      "description": "A veteran homicide detective who has witnessed his socialite girlfriend kill her husband sees his inexperienced brother assigned to the case.",
+      "imageUrl": "https://img.youtube.com/vi/dPfaIzYXna0/0.jpg",
+      "videoId": "dPfaIzYXna0"
+    },
+    {
+      "id": "98",
+      "title": "Stranger In The House",
+      "year": 1967,
+      "genre": "Crime",
+      "description": "John Sawyer, once an eminent barrister, has slid into a life of cynicism and drunkenness since his wife left him. When his daughter's boyfriend is accused of murder, Sawyer decides to try to pull himself together and defend him in court.",
+      "imageUrl": "https://img.youtube.com/vi/j8FfFBhEYHI/0.jpg",
+      "videoId": "j8FfFBhEYHI"
+    },
+    {
+      "id": "99",
+      "title": "Paper Tiger",
+      "year": null,
+      "genre": "Crime",
+      "description": "Two brothers pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family, testing their bond as betrayal becomes possible.",
+      "imageUrl": "https://img.youtube.com/vi/l43v52Fcta8/0.jpg",
+      "videoId": "l43v52Fcta8"
+    },
+    {
+      "id": "100",
+      "title": "Mafioso",
+      "year": 1962,
+      "genre": "Crime",
+      "description": "When a good-natured factory supervisor living in Milan with his Northern wife returns to his native Sicily, a decades' old oath forces him to fulfill a nightmarish obligation.",
+      "imageUrl": "https://img.youtube.com/vi/0Db28PcN3as/0.jpg",
+      "videoId": "0Db28PcN3as"
+    }
+  ]
+}
