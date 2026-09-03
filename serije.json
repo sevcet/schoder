@@ -1,13 +1,13 @@
 {
   "name": "Domaće serije",
   "description": "Najbolje domaće serije",
-  "type": "series",
   "items": [
     {
       "id": "1",
       "title": "U klinču",
       "year": 2022,
       "genre": "Drama",
+      "type": "series",
       "description": "Na prekretnici svog života, 20-godišnji Aljoša Kovač pokušava da uspostavi ravnotežu između očekivanja svog oca Velje, ambicija majke Mire, sopstvene teško dostižne strasti prema muzici i ljubavi koja se bliži svom neizbežnom kraju.",
       "imageUrl": "https://img.youtube.com/vi/Li3ASqbqf4o/0.jpg",
       "seasons": [
