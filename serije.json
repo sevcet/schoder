@@ -1,0 +1,836 @@
+{
+  "name": "Domaće serije",
+  "description": "Najbolje domaće serije",
+  "type": "series",
+  "items": [
+    {
+      "id": "1",
+      "title": "U klinču",
+      "year": 2022,
+      "genre": "Drama",
+      "description": "Na prekretnici svog života, 20-godišnji Aljoša Kovač pokušava da uspostavi ravnotežu između očekivanja svog oca Velje, ambicija majke Mire, sopstvene teško dostižne strasti prema muzici i ljubavi koja se bliži svom neizbežnom kraju.",
+      "imageUrl": "https://img.youtube.com/vi/Li3ASqbqf4o/0.jpg",
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Sezona 1",
+          "episodes": [
+            {
+              "id": "1_1_1",
+              "title": "Epizoda 1",
+              "seasonNumber": 1,
+              "episodeNumber": 1,
+              "description": "Prva epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Li3ASqbqf4o/0.jpg",
+              "videoId": "Li3ASqbqf4o"
+            },
+            {
+              "id": "1_1_2",
+              "title": "Epizoda 2",
+              "seasonNumber": 1,
+              "episodeNumber": 2,
+              "description": "Druga epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/ylLb_bQ9vmw/0.jpg",
+              "videoId": "ylLb_bQ9vmw"
+            },
+            {
+              "id": "1_1_3",
+              "title": "Epizoda 3",
+              "seasonNumber": 1,
+              "episodeNumber": 3,
+              "description": "Treća epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/MPj8B_JvWkY/0.jpg",
+              "videoId": "MPj8B_JvWkY"
+            },
+            {
+              "id": "1_1_4",
+              "title": "Epizoda 4",
+              "seasonNumber": 1,
+              "episodeNumber": 4,
+              "description": "Četvrta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/o7DPpuWL45g/0.jpg",
+              "videoId": "o7DPpuWL45g"
+            },
+            {
+              "id": "1_1_5",
+              "title": "Epizoda 5",
+              "seasonNumber": 1,
+              "episodeNumber": 5,
+              "description": "Peta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/82Vctkvq0Yo/0.jpg",
+              "videoId": "82Vctkvq0Yo"
+            },
+            {
+              "id": "1_1_6",
+              "title": "Epizoda 6",
+              "seasonNumber": 1,
+              "episodeNumber": 6,
+              "description": "Šesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/vVNYIkT5lRc/0.jpg",
+              "videoId": "vVNYIkT5lRc"
+            },
+            {
+              "id": "1_1_7",
+              "title": "Epizoda 7",
+              "seasonNumber": 1,
+              "episodeNumber": 7,
+              "description": "Sedma epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/qDuUWFbtbIc/0.jpg",
+              "videoId": "qDuUWFbtbIc"
+            },
+            {
+              "id": "1_1_8",
+              "title": "Epizoda 8",
+              "seasonNumber": 1,
+              "episodeNumber": 8,
+              "description": "Osma epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/CdxlR71vzj8/0.jpg",
+              "videoId": "CdxlR71vzj8"
+            },
+            {
+              "id": "1_1_9",
+              "title": "Epizoda 9",
+              "seasonNumber": 1,
+              "episodeNumber": 9,
+              "description": "Deveta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Mr5gq7UkFnM/0.jpg",
+              "videoId": "Mr5gq7UkFnM"
+            },
+            {
+              "id": "1_1_10",
+              "title": "Epizoda 10",
+              "seasonNumber": 1,
+              "episodeNumber": 10,
+              "description": "Deseta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/yelmrx8vbjY/0.jpg",
+              "videoId": "yelmrx8vbjY"
+            },
+            {
+              "id": "1_1_11",
+              "title": "Epizoda 11",
+              "seasonNumber": 1,
+              "episodeNumber": 11,
+              "description": "Jedanaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/2xCQU3geVtw/0.jpg",
+              "videoId": "2xCQU3geVtw"
+            },
+            {
+              "id": "1_1_12",
+              "title": "Epizoda 12",
+              "seasonNumber": 1,
+              "episodeNumber": 12,
+              "description": "Dvanaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/qmUdEXsnv8s/0.jpg",
+              "videoId": "qmUdEXsnv8s"
+            },
+            {
+              "id": "1_1_13",
+              "title": "Epizoda 13",
+              "seasonNumber": 1,
+              "episodeNumber": 13,
+              "description": "Trinaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Usrhtr6ECC4/0.jpg",
+              "videoId": "Usrhtr6ECC4"
+            },
+            {
+              "id": "1_1_14",
+              "title": "Epizoda 14",
+              "seasonNumber": 1,
+              "episodeNumber": 14,
+              "description": "Četrnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/hDOf2puCqxg/0.jpg",
+              "videoId": "hDOf2puCqxg"
+            },
+            {
+              "id": "1_1_15",
+              "title": "Epizoda 15",
+              "seasonNumber": 1,
+              "episodeNumber": 15,
+              "description": "Petnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/M61cVmU8GOE/0.jpg",
+              "videoId": "M61cVmU8GOE"
+            },
+            {
+              "id": "1_1_16",
+              "title": "Epizoda 16",
+              "seasonNumber": 1,
+              "episodeNumber": 16,
+              "description": "Šesnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/lU1nsZOS9RQ/0.jpg",
+              "videoId": "lU1nsZOS9RQ"
+            },
+            {
+              "id": "1_1_17",
+              "title": "Epizoda 17",
+              "seasonNumber": 1,
+              "episodeNumber": 17,
+              "description": "Sedamnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/yWz2XMt5848/0.jpg",
+              "videoId": "yWz2XMt5848"
+            },
+            {
+              "id": "1_1_18",
+              "title": "Epizoda 18",
+              "seasonNumber": 1,
+              "episodeNumber": 18,
+              "description": "Osamnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/LLH4H8qvygY/0.jpg",
+              "videoId": "LLH4H8qvygY"
+            },
+            {
+              "id": "1_1_19",
+              "title": "Epizoda 19",
+              "seasonNumber": 1,
+              "episodeNumber": 19,
+              "description": "Devetnaesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/KrfQrC52_qA/0.jpg",
+              "videoId": "KrfQrC52_qA"
+            },
+            {
+              "id": "1_1_20",
+              "title": "Epizoda 20",
+              "seasonNumber": 1,
+              "episodeNumber": 20,
+              "description": "Dvadeseta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/p_Kt-HBwB1A/0.jpg",
+              "videoId": "p_Kt-HBwB1A"
+            },
+            {
+              "id": "1_1_21",
+              "title": "Epizoda 21",
+              "seasonNumber": 1,
+              "episodeNumber": 21,
+              "description": "Dvadeset prva epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/PNLQFglErVU/0.jpg",
+              "videoId": "PNLQFglErVU"
+            },
+            {
+              "id": "1_1_22",
+              "title": "Epizoda 22",
+              "seasonNumber": 1,
+              "episodeNumber": 22,
+              "description": "Dvadeset druga epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/GvDuGrACBmY/0.jpg",
+              "videoId": "GvDuGrACBmY"
+            },
+            {
+              "id": "1_1_23",
+              "title": "Epizoda 23",
+              "seasonNumber": 1,
+              "episodeNumber": 23,
+              "description": "Dvadeset treća epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/qRQfRWXsyDw/0.jpg",
+              "videoId": "qRQfRWXsyDw"
+            },
+            {
+              "id": "1_1_24",
+              "title": "Epizoda 24",
+              "seasonNumber": 1,
+              "episodeNumber": 24,
+              "description": "Dvadeset četvrta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/dUm6lefQDkc/0.jpg",
+              "videoId": "dUm6lefQDkc"
+            },
+            {
+              "id": "1_1_25",
+              "title": "Epizoda 25",
+              "seasonNumber": 1,
+              "episodeNumber": 25,
+              "description": "Dvadeset peta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/-E3AspwoRyo/0.jpg",
+              "videoId": "-E3AspwoRyo"
+            },
+            {
+              "id": "1_1_26",
+              "title": "Epizoda 26",
+              "seasonNumber": 1,
+              "episodeNumber": 26,
+              "description": "Dvadeset šesta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/MS4XflyADpo/0.jpg",
+              "videoId": "MS4XflyADpo"
+            },
+            {
+              "id": "1_1_27",
+              "title": "Epizoda 27",
+              "seasonNumber": 1,
+              "episodeNumber": 27,
+              "description": "Dvadeset sedma epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Jhk-nlcyW6s/0.jpg",
+              "videoId": "Jhk-nlcyW6s"
+            },
+            {
+              "id": "1_1_28",
+              "title": "Epizoda 28",
+              "seasonNumber": 1,
+              "episodeNumber": 28,
+              "description": "Dvadeset osma epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/d12U1enmm9M/0.jpg",
+              "videoId": "d12U1enmm9M"
+            },
+            {
+              "id": "1_1_29",
+              "title": "Epizoda 29",
+              "seasonNumber": 1,
+              "episodeNumber": 29,
+              "description": "Dvadeset deveta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/nK5l1Ih5fTw/0.jpg",
+              "videoId": "nK5l1Ih5fTw"
+            },
+            {
+              "id": "1_1_30",
+              "title": "Epizoda 30",
+              "seasonNumber": 1,
+              "episodeNumber": 30,
+              "description": "Trideseta epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/1uyXh_TLBCs/0.jpg",
+              "videoId": "1uyXh_TLBCs"
+            },
+            {
+              "id": "1_1_31",
+              "title": "Epizoda 31",
+              "seasonNumber": 1,
+              "episodeNumber": 31,
+              "description": "Trideset prva epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/CTjhgpxo-1E/0.jpg",
+              "videoId": "CTjhgpxo-1E"
+            },
+            {
+              "id": "1_1_32",
+              "title": "Epizoda 32",
+              "seasonNumber": 1,
+              "episodeNumber": 32,
+              "description": "Trideset druga epizoda serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/go642ej15Ag/0.jpg",
+              "videoId": "go642ej15Ag"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Sezona 2",
+          "episodes": [
+            {
+              "id": "1_2_1",
+              "title": "Epizoda 1",
+              "seasonNumber": 2,
+              "episodeNumber": 1,
+              "description": "Prva epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/RKxHqV0Uk8I/0.jpg",
+              "videoId": "RKxHqV0Uk8I"
+            },
+            {
+              "id": "1_2_2",
+              "title": "Epizoda 2",
+              "seasonNumber": 2,
+              "episodeNumber": 2,
+              "description": "Druga epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/5uacjH9By-M/0.jpg",
+              "videoId": "5uacjH9By-M"
+            },
+            {
+              "id": "1_2_3",
+              "title": "Epizoda 3",
+              "seasonNumber": 2,
+              "episodeNumber": 3,
+              "description": "Treća epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/OQaGdAagyy4/0.jpg",
+              "videoId": "OQaGdAagyy4"
+            },
+            {
+              "id": "1_2_4",
+              "title": "Epizoda 4",
+              "seasonNumber": 2,
+              "episodeNumber": 4,
+              "description": "Četvrta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/etSWWkIyZ5Y/0.jpg",
+              "videoId": "etSWWkIyZ5Y"
+            },
+            {
+              "id": "1_2_5",
+              "title": "Epizoda 5",
+              "seasonNumber": 2,
+              "episodeNumber": 5,
+              "description": "Peta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/ezoarKo-08g/0.jpg",
+              "videoId": "ezoarKo-08g"
+            },
+            {
+              "id": "1_2_6",
+              "title": "Epizoda 6",
+              "seasonNumber": 2,
+              "episodeNumber": 6,
+              "description": "Šesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Saz3DVNkgzU/0.jpg",
+              "videoId": "Saz3DVNkgzU"
+            },
+            {
+              "id": "1_2_7",
+              "title": "Epizoda 7",
+              "seasonNumber": 2,
+              "episodeNumber": 7,
+              "description": "Sedma epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/T-ye3llQ6aM/0.jpg",
+              "videoId": "T-ye3llQ6aM"
+            },
+            {
+              "id": "1_2_8",
+              "title": "Epizoda 8",
+              "seasonNumber": 2,
+              "episodeNumber": 8,
+              "description": "Osma epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/w4JUBR4IlRE/0.jpg",
+              "videoId": "w4JUBR4IlRE"
+            },
+            {
+              "id": "1_2_9",
+              "title": "Epizoda 9",
+              "seasonNumber": 2,
+              "episodeNumber": 9,
+              "description": "Deveta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/8OkCy-Y8px0/0.jpg",
+              "videoId": "8OkCy-Y8px0"
+            },
+            {
+              "id": "1_2_10",
+              "title": "Epizoda 10",
+              "seasonNumber": 2,
+              "episodeNumber": 10,
+              "description": "Deseta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/2Jz_O8Z5Bvg/0.jpg",
+              "videoId": "2Jz_O8Z5Bvg"
+            },
+            {
+              "id": "1_2_11",
+              "title": "Epizoda 11",
+              "seasonNumber": 2,
+              "episodeNumber": 11,
+              "description": "Jedanaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/sn5FeeSqNGE/0.jpg",
+              "videoId": "sn5FeeSqNGE"
+            },
+            {
+              "id": "1_2_12",
+              "title": "Epizoda 12",
+              "seasonNumber": 2,
+              "episodeNumber": 12,
+              "description": "Dvanaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/7KY9QzB76YI/0.jpg",
+              "videoId": "7KY9QzB76YI"
+            },
+            {
+              "id": "1_2_13",
+              "title": "Epizoda 13",
+              "seasonNumber": 2,
+              "episodeNumber": 13,
+              "description": "Trinaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/qsJcxsInUuo/0.jpg",
+              "videoId": "qsJcxsInUuo"
+            },
+            {
+              "id": "1_2_14",
+              "title": "Epizoda 14",
+              "seasonNumber": 2,
+              "episodeNumber": 14,
+              "description": "Četrnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/WGQXzbweJ0I/0.jpg",
+              "videoId": "WGQXzbweJ0I"
+            },
+            {
+              "id": "1_2_15",
+              "title": "Epizoda 15",
+              "seasonNumber": 2,
+              "episodeNumber": 15,
+              "description": "Petnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/tJeXfT3ANPE/0.jpg",
+              "videoId": "tJeXfT3ANPE"
+            },
+            {
+              "id": "1_2_16",
+              "title": "Epizoda 16",
+              "seasonNumber": 2,
+              "episodeNumber": 16,
+              "description": "Šesnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/DxwH5zcp4XI/0.jpg",
+              "videoId": "DxwH5zcp4XI"
+            },
+            {
+              "id": "1_2_17",
+              "title": "Epizoda 17",
+              "seasonNumber": 2,
+              "episodeNumber": 17,
+              "description": "Sedamnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/z6KfpFH1mwY/0.jpg",
+              "videoId": "z6KfpFH1mwY"
+            },
+            {
+              "id": "1_2_18",
+              "title": "Epizoda 18",
+              "seasonNumber": 2,
+              "episodeNumber": 18,
+              "description": "Osamnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/0zNW7s2xpn0/0.jpg",
+              "videoId": "0zNW7s2xpn0"
+            },
+            {
+              "id": "1_2_19",
+              "title": "Epizoda 19",
+              "seasonNumber": 2,
+              "episodeNumber": 19,
+              "description": "Devetnaesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/poxvV3P-D8w/0.jpg",
+              "videoId": "poxvV3P-D8w"
+            },
+            {
+              "id": "1_2_20",
+              "title": "Epizoda 20",
+              "seasonNumber": 2,
+              "episodeNumber": 20,
+              "description": "Dvadeseta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Q35vZIL33mc/0.jpg",
+              "videoId": "Q35vZIL33mc"
+            },
+            {
+              "id": "1_2_21",
+              "title": "Epizoda 21",
+              "seasonNumber": 2,
+              "episodeNumber": 21,
+              "description": "Dvadeset prva epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/ECvpAJIEYX4/0.jpg",
+              "videoId": "ECvpAJIEYX4"
+            },
+            {
+              "id": "1_2_22",
+              "title": "Epizoda 22",
+              "seasonNumber": 2,
+              "episodeNumber": 22,
+              "description": "Dvadeset druga epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/7WNdp-6VnaI/0.jpg",
+              "videoId": "7WNdp-6VnaI"
+            },
+            {
+              "id": "1_2_23",
+              "title": "Epizoda 23",
+              "seasonNumber": 2,
+              "episodeNumber": 23,
+              "description": "Dvadeset treća epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/qZMfdT3MmPo/0.jpg",
+              "videoId": "qZMfdT3MmPo"
+            },
+            {
+              "id": "1_2_24",
+              "title": "Epizoda 24",
+              "seasonNumber": 2,
+              "episodeNumber": 24,
+              "description": "Dvadeset četvrta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/WbFIUgDUvdg/0.jpg",
+              "videoId": "WbFIUgDUvdg"
+            },
+            {
+              "id": "1_2_25",
+              "title": "Epizoda 25",
+              "seasonNumber": 2,
+              "episodeNumber": 25,
+              "description": "Dvadeset peta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/6QFgEGnSmZ4/0.jpg",
+              "videoId": "6QFgEGnSmZ4"
+            },
+            {
+              "id": "1_2_26",
+              "title": "Epizoda 26",
+              "seasonNumber": 2,
+              "episodeNumber": 26,
+              "description": "Dvadeset šesta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/DOUnec08npQ/0.jpg",
+              "videoId": "DOUnec08npQ"
+            },
+            {
+              "id": "1_2_27",
+              "title": "Epizoda 27",
+              "seasonNumber": 2,
+              "episodeNumber": 27,
+              "description": "Dvadeset sedma epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/jh6HFM6cGgM/0.jpg",
+              "videoId": "jh6HFM6cGgM"
+            },
+            {
+              "id": "1_2_28",
+              "title": "Epizoda 28",
+              "seasonNumber": 2,
+              "episodeNumber": 28,
+              "description": "Dvadeset osma epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/0RhPnOz63o0/0.jpg",
+              "videoId": "0RhPnOz63o0"
+            },
+            {
+              "id": "1_2_29",
+              "title": "Epizoda 29",
+              "seasonNumber": 2,
+              "episodeNumber": 29,
+              "description": "Dvadeset deveta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/I42BwojXVmk/0.jpg",
+              "videoId": "I42BwojXVmk"
+            },
+            {
+              "id": "1_2_30",
+              "title": "Epizoda 30",
+              "seasonNumber": 2,
+              "episodeNumber": 30,
+              "description": "Trideseta epizoda druge sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/RVRD4zrN6Ag/0.jpg",
+              "videoId": "RVRD4zrN6Ag"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sezona 3",
+          "episodes": [
+            {
+              "id": "1_3_1",
+              "title": "Epizoda 1",
+              "seasonNumber": 3,
+              "episodeNumber": 1,
+              "description": "Prva epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Sgb0mtjWkTQ/0.jpg",
+              "videoId": "Sgb0mtjWkTQ"
+            },
+            {
+              "id": "1_3_2",
+              "title": "Epizoda 2",
+              "seasonNumber": 3,
+              "episodeNumber": 2,
+              "description": "Druga epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/skkxGbSkRMA/0.jpg",
+              "videoId": "skkxGbSkRMA"
+            },
+            {
+              "id": "1_3_3",
+              "title": "Epizoda 3",
+              "seasonNumber": 3,
+              "episodeNumber": 3,
+              "description": "Treća epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/m83AKcPjawU/0.jpg",
+              "videoId": "m83AKcPjawU"
+            },
+            {
+              "id": "1_3_4",
+              "title": "Epizoda 4",
+              "seasonNumber": 3,
+              "episodeNumber": 4,
+              "description": "Četvrta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/gFu2JeW3B1A/0.jpg",
+              "videoId": "gFu2JeW3B1A"
+            },
+            {
+              "id": "1_3_5",
+              "title": "Epizoda 5",
+              "seasonNumber": 3,
+              "episodeNumber": 5,
+              "description": "Peta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/-N0ZFkkv_nU/0.jpg",
+              "videoId": "-N0ZFkkv_nU"
+            },
+            {
+              "id": "1_3_6",
+              "title": "Epizoda 6",
+              "seasonNumber": 3,
+              "episodeNumber": 6,
+              "description": "Šesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/dhrbTunaFD8/0.jpg",
+              "videoId": "dhrbTunaFD8"
+            },
+            {
+              "id": "1_3_7",
+              "title": "Epizoda 7",
+              "seasonNumber": 3,
+              "episodeNumber": 7,
+              "description": "Sedma epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/Z9OZUQqMoBI/0.jpg",
+              "videoId": "Z9OZUQqMoBI"
+            },
+            {
+              "id": "1_3_8",
+              "title": "Epizoda 8",
+              "seasonNumber": 3,
+              "episodeNumber": 8,
+              "description": "Osma epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/2kBr12Omd-g/0.jpg",
+              "videoId": "2kBr12Omd-g"
+            },
+            {
+              "id": "1_3_9",
+              "title": "Epizoda 9",
+              "seasonNumber": 3,
+              "episodeNumber": 9,
+              "description": "Deveta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/jzFh4W0dql4/0.jpg",
+              "videoId": "jzFh4W0dql4"
+            },
+            {
+              "id": "1_3_10",
+              "title": "Epizoda 10",
+              "seasonNumber": 3,
+              "episodeNumber": 10,
+              "description": "Deseta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/0fmFZ5vNfRQ/0.jpg",
+              "videoId": "0fmFZ5vNfRQ"
+            },
+            {
+              "id": "1_3_11",
+              "title": "Epizoda 11",
+              "seasonNumber": 3,
+              "episodeNumber": 11,
+              "description": "Jedanaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/LUP1QnRC3jg/0.jpg",
+              "videoId": "LUP1QnRC3jg"
+            },
+            {
+              "id": "1_3_12",
+              "title": "Epizoda 12",
+              "seasonNumber": 3,
+              "episodeNumber": 12,
+              "description": "Dvanaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/vOT_pqVHDMI/0.jpg",
+              "videoId": "vOT_pqVHDMI"
+            },
+            {
+              "id": "1_3_13",
+              "title": "Epizoda 13",
+              "seasonNumber": 3,
+              "episodeNumber": 13,
+              "description": "Trinaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/eEBOPmPswXM/0.jpg",
+              "videoId": "eEBOPmPswXM"
+            },
+            {
+              "id": "1_3_14",
+              "title": "Epizoda 14",
+              "seasonNumber": 3,
+              "episodeNumber": 14,
+              "description": "Četrnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/_6amutj-JmI/0.jpg",
+              "videoId": "_6amutj-JmI"
+            },
+            {
+              "id": "1_3_15",
+              "title": "Epizoda 15",
+              "seasonNumber": 3,
+              "episodeNumber": 15,
+              "description": "Petnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/uSAi7st5HY4/0.jpg",
+              "videoId": "uSAi7st5HY4"
+            },
+            {
+              "id": "1_3_16",
+              "title": "Epizoda 16",
+              "seasonNumber": 3,
+              "episodeNumber": 16,
+              "description": "Šesnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/dEyio2VanoE/0.jpg",
+              "videoId": "dEyio2VanoE"
+            },
+            {
+              "id": "1_3_17",
+              "title": "Epizoda 17",
+              "seasonNumber": 3,
+              "episodeNumber": 17,
+              "description": "Sedamnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/_2K9kXKADeU/0.jpg",
+              "videoId": "_2K9kXKADeU"
+            },
+            {
+              "id": "1_3_18",
+              "title": "Epizoda 18",
+              "seasonNumber": 3,
+              "episodeNumber": 18,
+              "description": "Osamnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/LdPeE8CVkko/0.jpg",
+              "videoId": "LdPeE8CVkko"
+            },
+            {
+              "id": "1_3_19",
+              "title": "Epizoda 19",
+              "seasonNumber": 3,
+              "episodeNumber": 19,
+              "description": "Devetnaesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/caD8QcVSLxU/0.jpg",
+              "videoId": "caD8QcVSLxU"
+            },
+            {
+              "id": "1_3_20",
+              "title": "Epizoda 20",
+              "seasonNumber": 3,
+              "episodeNumber": 20,
+              "description": "Dvadeseta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/ZF-l1v3TXAk/0.jpg",
+              "videoId": "ZF-l1v3TXAk"
+            },
+            {
+              "id": "1_3_21",
+              "title": "Epizoda 21",
+              "seasonNumber": 3,
+              "episodeNumber": 21,
+              "description": "Dvadeset prva epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/VFr3lqLxpmI/0.jpg",
+              "videoId": "VFr3lqLxpmI"
+            },
+            {
+              "id": "1_3_22",
+              "title": "Epizoda 22",
+              "seasonNumber": 3,
+              "episodeNumber": 22,
+              "description": "Dvadeset druga epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/fqwsgu6ul4Q/0.jpg",
+              "videoId": "fqwsgu6ul4Q"
+            },
+            {
+              "id": "1_3_23",
+              "title": "Epizoda 23",
+              "seasonNumber": 3,
+              "episodeNumber": 23,
+              "description": "Dvadeset treća epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/ei6YstbB96A/0.jpg",
+              "videoId": "ei6YstbB96A"
+            },
+            {
+              "id": "1_3_24",
+              "title": "Epizoda 24",
+              "seasonNumber": 3,
+              "episodeNumber": 24,
+              "description": "Dvadeset četvrta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/wO9sHcTJLYI/0.jpg",
+              "videoId": "wO9sHcTJLYI"
+            },
+            {
+              "id": "1_3_25",
+              "title": "Epizoda 25",
+              "seasonNumber": 3,
+              "episodeNumber": 25,
+              "description": "Dvadeset peta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/bGLQSSJePyA/0.jpg",
+              "videoId": "bGLQSSJePyA"
+            },
+            {
+              "id": "1_3_26",
+              "title": "Epizoda 26",
+              "seasonNumber": 3,
+              "episodeNumber": 26,
+              "description": "Dvadeset šesta epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/1RpFOgWigEE/0.jpg",
+              "videoId": "1RpFOgWigEE"
+            },
+            {
+              "id": "1_3_27",
+              "title": "Epizoda 27",
+              "seasonNumber": 3,
+              "episodeNumber": 27,
+              "description": "Dvadeset sedma epizoda treće sezone serije U klinču",
+              "imageUrl": "https://img.youtube.com/vi/SqUT1AEZrSA/0.jpg",
+              "videoId": "SqUT1AEZrSA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
