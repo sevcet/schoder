@@ -4,41 +4,29 @@
   "items": [
     {
       "id": "1",
-      "title": "The Odyssey ",
+      "title": "The Odyssey",
       "year": 2026,
-      "genre": "Adventure, Action, and Fantasy",
-      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "imageUrl": "https://img.youtube.com/vi/Ke1Y3P9D0Bc/0.jpg",
-      "embedUrl": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "genre": "Adventure, Action, Fantasy",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "embedUrl": "https://vidsrcme.ru/embed/movie/tt1300854",
       "type": "embed"
-    }
-  ]
-}
-{
-  "name": "Test Embed",
-  "description": "Test HLS presretanja",
-  "items": [
+    },
     {
-      "id": "1",
+      "id": "2",
       "title": "Moana",
       "year": 2026,
-      "genre": "Family, Fantasy, Comedy, and Adventure",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "genre": "Family, Fantasy, Comedy, Adventure",
+      "description": "Teenage Moana answers the Ocean's call and voyages beyond the reef of her island of Motunui with demigod Maui.",
       "imageUrl": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "embedUrl": "https://vidsrcme.ru/embed/movie/1108427",
       "type": "embed"
-    }
-  ]
-}
-{
-  "name": "Test Embed",
-  "description": "Test HLS presretanja",
-  "items": [
+    },
     {
-      "id": "1",
+      "id": "3",
       "title": "Iron Man 3",
       "year": 2013,
-      "genre": "Action, Adventure, and Science Fiction",
+      "genre": "Action, Adventure, Science Fiction",
       "description": "Tony Stark se suočava sa novim neprijateljem.",
       "imageUrl": "https://image.tmdb.org/t/p/original/dF2pP29JIKZEGE6I69zHpqvMni.jpg",
       "embedUrl": "https://vidsrcme.ru/embed/movie/68721",
