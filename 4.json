@@ -20,10 +20,11 @@
       "description": "Teenage Moana answers the Ocean's call and voyages beyond the reef of her island of Motunui with demigod Maui.",
       "imageUrl": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "embedUrls": [
-    "https://vidsrc.to/embed/movie/1108427",
-    "https://vidsrcme.ru/embed/movie/1108427",
-    "https://vidsrc.in/embed/movie/1108427",
-    "https://vidsrc.pm/embed/movie/1108427",]
+        "https://vidsrc.to/embed/movie/1108427",
+        "https://vidsrcme.ru/embed/movie/1108427",
+        "https://vidsrc.in/embed/movie/1108427",
+        "https://vidsrc.pm/embed/movie/1108427"
+      ],
       "type": "embed"
     },
     {
@@ -35,22 +36,22 @@
       "imageUrl": "https://image.tmdb.org/t/p/original/dF2pP29JIKZEGE6I69zHpqvMni.jpg",
       "embedUrl": "https://vidsrcme.ru/embed/movie/68721",
       "type": "embed"
+    },
+    {
+      "id": "4",
+      "title": "Ja sam Zlatan",
+      "year": 2021,
+      "genre": "Dokumentarni, Sport, Biografija",
+      "description": "Biografska drama o životnom putu Zlatana Ibrahimovića...",
+      "imageUrl": "https://domaceserije.net/slika-film/ja-sam-zlatan-2021.jpg",
+      "embedUrls": [
+        "https://player.abyssplayer.com/8gM6Zrfr7",
+        "https://exyutube.com/embed/srofilm?search=glo-ja-sam-zlatan-2021",
+        "https://dsplayer.site/embed/video.php?slug=glo-ja-sam-zlatan-2021",
+        "https://bysebuho.com/e/993juhovoe9a",
+        "https://streamtape.com/e/Y7QokvGr97Fevq/"
+      ],
+      "type": "embed"
     }
-{
-  "id": "4",
-  "title": "Ja sam Zlatan",
-  "year": 2021,
-  "genre": "Dokumentarni, Sport, Biografija",
-  "description": "Biografska drama o životnom putu Zlatana Ibrahimovića...",
-  "imageUrl": "https://domaceserije.net/slika-film/ja-sam-zlatan-2021.jpg",
-  "embedUrls": [
-    "https://player.abyssplayer.com/8gM6Zrfr7",
-    "https://exyutube.com/embed/srofilm?search=glo-ja-sam-zlatan-2021",
-    "https://dsplayer.site/embed/video.php?slug=glo-ja-sam-zlatan-2021",
-    "https://bysebuho.com/e/993juhovoe9a",
-    "https://streamtape.com/e/Y7QokvGr97Fevq/"
-  ],
-  "type": "embed"
-}
   ]
 }
