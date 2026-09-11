@@ -44,11 +44,7 @@
       "genre": "Dokumentarni, Sport, Biografija",
       "description": "Biografska drama o životnom putu Zlatana Ibrahimovića...",
       "imageUrl": "https://domaceserije.net/slika-film/ja-sam-zlatan-2021.jpg",
-      "embedUrls": [
-        "https://dsplayer.site/embed/video.php?slug=glo-ja-sam-zlatan-2021",
-        "https://bysebuho.com/e/993juhovoe9a",
-        "https://streamtape.com/e/Y7QokvGr97Fevq/"
-      ],
+      "embedUrl": "https://streamtape.com/e/Y7QokvGr97Fevq/",
       "preferPlayer": "exoplayer",
       "type": "embed"
     }
