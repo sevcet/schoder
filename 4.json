@@ -43,16 +43,6 @@
       "preferPlayer": "exoplayer",
       "type": "embed"
     }
-    {
-      "id": "5",
-      "title": "Under The Influencer",
-      "year": 2023,
-      "genre": "Comedy",
-      "description": "A successful Youtuber is aging out of the platform in her mid-20s, and struggling to redefine herself in the world outside her social media bubble",
-      "imageUrl": "https://img.youtube.com/vi/jQoOiKSSspk/0.jpg",
-      "embedUrl": "https://www.youtube.com/watch?v=0nOVQenJTHo",
-      "preferPlayer": "exoplayer",
-      "type": "embed"
-    }
+
   ]
 }
