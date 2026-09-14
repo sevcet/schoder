@@ -10,6 +10,7 @@
       "description": "A successful Youtuber is aging out of the platform in her mid-20s, and struggling to redefine herself in the world outside her social media bubble",
       "imageUrl": "https://img.youtube.com/vi/jQoOiKSSspk/0.jpg",
       "videoId": "jQoOiKSSspk"
+      "preferPlayer": "exoplayer",
     },
     {
       "id": "2",
