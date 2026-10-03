@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "name": "Test Embed",
   "description": "Test HLS presretanja",
   "items": [
@@ -29,7 +30,7 @@
       "genre": "Action, Adventure, Science Fiction",
       "description": "Tony Stark se suočava sa novim neprijateljem.",
       "imageUrl": "https://image.tmdb.org/t/p/original/dF2pP29JIKZEGE6I69zHpqvMni.jpg",
-      "embedUrl": "https://vidsrcme.ru/embed/movie/68721",
+      "embedUrl": "https://vidsrcme.ru/embed/movie/1084244",
       "type": "embed"
     },
     {
