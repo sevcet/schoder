@@ -11,6 +11,7 @@
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War.",
       "imageUrl": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "embedUrl": "https://vidsrcme.ru/embed/movie/tt1300854",
+      "preferPlayer": "exoplayer",
       "type": "embed"
     },
     {
