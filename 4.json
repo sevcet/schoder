@@ -14,17 +14,31 @@
       "preferPlayer": "exoplayer",
       "type": "embed"
     },
-    {
-      "id": "2",
-      "title": "Moana",
-      "year": 2026,
-      "genre": "Family, Fantasy, Comedy, Adventure",
-      "description": "Teenage Moana answers the Ocean's call and voyages beyond the reef of her island of Motunui with demigod Maui.",
-      "imageUrl": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "embedUrl": "https://vidsrcme.ru/embed/movie/1108427",
-      "embedUrl": "https://vidsrc.to//embed/movie/1108427",
-      "type": "embed"
-    },
+{
+  "id": "2",
+  "title": "Moana",
+  "year": 2026,
+  "genre": "Family, Fantasy, Comedy, Adventure",
+  "description": "Teenage Moana answers the Ocean's call and voyages beyond the reef of her island of Motunui with demigod Maui.",
+  "imageUrl": "https://image.tmdb.org/t/p/original/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+  "embedUrls": [
+    "https://vidsrc.to/embed/movie/1108427",
+    "https://vsembed.ru/embed/movie/1108427",
+    "https://vidfast.io/embed/movie/1108427",
+    "https://vidlink.pro/embed/movie/1108427",
+    "https://vidsrc.pm/embed/movie/1108427",
+    "https://vidsrc.cc/v2/embed/movie/1108427",
+    "https://2embed.cc/embed/1108427",
+    "https://2embed.skin/embed/movie/1108427",
+    "https://autoembed.co/movie/tmdb/1108427",
+    "https://moviesapi.to/embed/movie/1108427",
+    "https://nontongo.win/embed/movie/1108427",
+    "https://smashystream.xyz/embed/movie/1108427",
+    "https://frembed.cc/embed/movie/1108427",
+    "https://vidsrc.me/embed/movie?tmdb=1108427"
+  ],
+  "type": "embed"
+}
     {
       "id": "3",
       "title": "Iron Man 3",
